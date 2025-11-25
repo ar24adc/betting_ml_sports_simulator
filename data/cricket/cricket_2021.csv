@@ -1,0 +1,1504 @@
+match_date,teams,venue,winner,runs_total,runs_batsman,runs_extras,team1_runs,team2_runs
+2021-01-01,Melbourne Renegades|Sydney Thunder,Carrara Oval,Sydney Thunder,283,272,11,141,142
+2021-01-01,Northern Districts|Wellington,Bay Oval,Wellington,300,280,20,150,150
+2021-01-01,Wellington|Northern Districts,Bay Oval,Northern Districts,279,264,15,139,140
+2021-01-02,Hobart Hurricanes|Melbourne Stars,Bellerive Oval,Hobart Hurricanes,307,292,15,153,154
+2021-01-02,Northern Districts|Otago,Bay Oval,Otago,509,454,55,254,255
+2021-01-02,Sydney Sixers|Brisbane Heat,Brisbane Cricket Ground,Brisbane Heat,336,310,26,168,168
+2021-01-03,Adelaide Strikers|Sydney Sixers,Carrara Oval,Sydney Sixers,301,288,13,150,151
+2021-01-03,Auckland|Canterbury,Eden Park Outer Oval,Canterbury,107,102,5,53,54
+2021-01-03,Pakistan|New Zealand,Hagley Oval,New Zealand,1142,1054,88,571,571
+2021-01-03,Perth Scorchers|Melbourne Renegades,Perth Stadium,Perth Scorchers,274,260,14,137,137
+2021-01-03,Sri Lanka|South Africa,The Wanderers Stadium,South Africa,737,693,44,368,369
+2021-01-04,Central Districts|Northern Districts,Seddon Park,Northern Districts,379,356,23,189,190
+2021-01-04,Melbourne Stars|Hobart Hurricanes,Bellerive Oval,Melbourne Stars,356,347,9,178,178
+2021-01-04,Sydney Thunder|Brisbane Heat,Brisbane Cricket Ground,Brisbane Heat,349,337,12,174,175
+2021-01-05,Adelaide Strikers|Melbourne Renegades,Adelaide Oval,Adelaide Strikers,282,267,15,141,141
+2021-01-06,Perth Scorchers|Sydney Sixers,Perth Stadium,Perth Scorchers,280,274,6,140,140
+2021-01-07,Brisbane Heat|Melbourne Stars,Carrara Oval,Brisbane Heat,226,219,7,113,113
+2021-01-07,Sydney Thunder|Hobart Hurricanes,Perth Stadium,Sydney Thunder,295,283,12,147,148
+2021-01-08,Adelaide Strikers|Melbourne Renegades,Adelaide Oval,Melbourne Renegades,355,329,26,177,178
+2021-01-08,Central Districts|Otago,University Oval,Central Districts,393,376,17,196,197
+2021-01-08,Central Districts|Otago,University Oval,Otago,207,196,11,103,104
+2021-01-08,Ireland|United Arab Emirates,Sheikh Zayed Stadium,United Arab Emirates,539,521,18,269,270
+2021-01-09,Northern Districts|Wellington,Basin Reserve,Wellington,202,185,17,101,101
+2021-01-09,Perth Scorchers|Sydney Thunder,Perth Stadium,Perth Scorchers,353,334,19,176,177
+2021-01-09,Wellington|Northern Districts,Basin Reserve,Wellington,290,271,19,145,145
+2021-01-10,Assam|Hyderabad (India),Eden Gardens,Assam,316,302,14,158,158
+2021-01-10,Baroda|Uttarakhand,Reliance Cricket Stadium,Baroda,331,309,22,165,166
+2021-01-10,Brisbane Heat|Sydney Sixers,Carrara Oval,Sydney Sixers,300,288,12,150,150
+2021-01-10,Central Districts|Canterbury,Hagley Oval,Canterbury,201,193,8,100,101
+2021-01-10,Central Districts|Canterbury,Hagley Oval,Central Districts,354,338,16,177,177
+2021-01-10,Gujarat|Maharashtra,Motibaug Cricket Ground,Gujarat,285,281,4,142,143
+2021-01-10,Himachal|Chhattisgarh,F B Colony Ground,Himachal,314,295,19,157,157
+2021-01-10,Karnataka|Jammu & Kashmir,Alur Cricket Stadium,Karnataka,257,249,8,128,129
+2021-01-10,Odisha|Bengal,Jadavpur University Campus,Bengal,227,219,8,113,114
+2021-01-10,Punjab|Uttar Pradesh,Alur Cricket Stadium II,Punjab,257,246,11,128,129
+2021-01-10,Tamil Nadu|Jharkhand,Eden Gardens,Tamil Nadu,312,300,12,156,156
+2021-01-10,Tripura|Railways,Alur Cricket Stadium III,Railways,343,324,19,171,172
+2021-01-11,Andhra|Haryana,Sharad Pawar Cricket Academy BKC,Haryana,215,201,14,107,108
+2021-01-11,Auckland|Canterbury,Hagley Oval,Auckland,256,234,22,128,128
+2021-01-11,Bihar|Arunachal Pradesh,T I Murugappa Ground,Bihar,226,215,11,113,113
+2021-01-11,Canterbury|Auckland,Hagley Oval,Canterbury,302,294,8,151,151
+2021-01-11,Delhi|Mumbai,Wankhede Stadium,Delhi,336,322,14,168,168
+2021-01-11,Madhya Pradesh|Goa,Holkar Stadium,Madhya Pradesh,422,402,20,211,211
+2021-01-11,Meghalaya|Manipur,SSN College Ground,Manipur,128,120,8,64,64
+2021-01-11,Melbourne Stars|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,299,286,13,149,150
+2021-01-11,Mizoram|Sikkim,Sri Ramachandra Medical College,Sikkim,97,95,2,48,49
+2021-01-11,Puducherry|Kerala,Wankhede Stadium,Kerala,277,260,17,138,139
+2021-01-11,Services|Saurashtra,Holkar Stadium,Saurashtra,329,313,16,164,165
+2021-01-11,Vidarbha|Rajasthan, Emerald Heights International School Ground,Rajasthan,210,192,18,105,105
+2021-01-12,Assam|Tamil Nadu,Eden Gardens,Tamil Nadu,254,238,16,127,127
+2021-01-12,Chhattisgarh|Maharashtra,F B Colony Ground,Maharashtra,388,374,14,194,194
+2021-01-12,Gujarat|Uttarakhand,Motibaug Cricket Ground,Gujarat,271,264,7,135,136
+2021-01-12,Himachal|Baroda,Reliance Cricket Stadium,Baroda,221,199,22,110,111
+2021-01-12,Hobart Hurricanes|Perth Scorchers,Perth Stadium,Perth Scorchers,279,264,15,139,140
+2021-01-12,Karnataka|Punjab,Alur Cricket Stadium,Punjab,252,247,5,126,126
+2021-01-12,Tripura|Jammu & Kashmir,Alur Cricket Stadium II,Jammu & Kashmir,187,166,21,93,94
+2021-01-12,Uttar Pradesh|Railways,Alur Cricket Stadium III,Railways,270,260,10,135,135
+2021-01-13,Andhra|Delhi,Wankhede Stadium,Delhi,252,240,12,126,126
+2021-01-13,Arunachal Pradesh|Nagaland,Sri Ramachandra Medical College,Nagaland,294,278,16,147,147
+2021-01-13,Chandigarh|Manipur,T I Murugappa Ground,Chandigarh,244,239,5,122,122
+2021-01-13,Meghalaya|Mizoram,IC-Gurunanak College Ground,Meghalaya,330,308,22,165,165
+2021-01-13,Puducherry|Haryana,Sharad Pawar Cricket Academy BKC,Haryana,297,286,11,148,149
+2021-01-13,Rajasthan|Madhya Pradesh,Holkar Stadium,Rajasthan,286,280,6,143,143
+2021-01-13,Saurashtra|Vidarbha,Holkar Stadium,Saurashtra,387,365,22,193,194
+2021-01-13,Services|Goa, Emerald Heights International School Ground,Goa,323,310,13,161,162
+2021-01-13,Sikkim|Bihar,SSN College Ground,Bihar,221,209,12,110,111
+2021-01-13,Sydney Thunder|Sydney Sixers,Manuka Oval,Sydney Sixers,298,279,19,149,149
+2021-01-14,Chhattisgarh|Baroda,F B Colony Ground,Baroda,181,174,7,90,91
+2021-01-14,Himachal|Gujarat,Motibaug Cricket Ground,Himachal,256,245,11,128,128
+2021-01-14,Hyderabad (India)|Bengal,Eden Gardens,Bengal,318,309,9,159,159
+2021-01-14,Jharkhand|Assam,Jadavpur University Campus,Jharkhand,415,393,22,207,208
+2021-01-14,Karnataka|Tripura,Alur Cricket Stadium III,Karnataka,324,315,9,162,162
+2021-01-14,Maharashtra|Uttarakhand,Reliance Cricket Stadium,Uttarakhand,286,269,17,143,143
+2021-01-14,Melbourne Renegades|Brisbane Heat,Manuka Oval,Brisbane Heat,299,282,17,149,150
+2021-01-14,Odisha|Tamil Nadu,Eden Gardens,Tamil Nadu,268,261,7,134,134
+2021-01-14,Otago|Wellington,University Oval,Wellington,594,565,29,297,297
+2021-01-14,Punjab|Railways,Alur Cricket Stadium II,Punjab,283,275,8,141,142
+2021-01-14,Sri Lanka|England,Galle International Stadium,England,991,956,35,495,496
+2021-01-15,Andhra|Puducherry,Wankhede Stadium,Puducherry,454,436,18,227,227
+2021-01-15,Australia|India,Brisbane Cricket Ground,India,1328,1252,76,664,664
+2021-01-15,Canterbury|Northern Districts,Hagley Oval,Canterbury,255,246,9,127,128
+2021-01-15,Chandigarh|Mizoram,Sri Ramachandra Medical College,Chandigarh,311,301,10,155,156
+2021-01-15,Delhi|Kerala,Wankhede Stadium,Kerala,430,419,11,215,215
+2021-01-15,Madhya Pradesh|Vidarbha,Holkar Stadium,Madhya Pradesh,251,233,18,125,126
+2021-01-15,Manipur|Arunachal Pradesh,T I Murugappa Ground,Manipur,253,245,8,126,127
+2021-01-15,Meghalaya|Bihar,SSN College Ground,Bihar,181,178,3,90,91
+2021-01-15,Melbourne Stars|Adelaide Strikers,Melbourne Cricket Ground,Melbourne Stars,247,234,13,123,124
+2021-01-15,Mumbai|Haryana,Sharad Pawar Cricket Academy BKC,Haryana,287,272,15,143,144
+2021-01-15,Nagaland|Sikkim,IC-Gurunanak College Ground,Nagaland,252,246,6,126,126
+2021-01-15,Northern Districts|Canterbury,Hagley Oval,Canterbury,302,283,19,151,151
+2021-01-15,Saurashtra|Goa,Holkar Stadium,Saurashtra,340,332,8,170,170
+2021-01-16,Assam|Bengal,Eden Gardens,Assam,301,291,10,150,151
+2021-01-16,Baroda|Maharashtra,Motibaug Cricket Ground,Baroda,256,241,15,128,128
+2021-01-16,Canterbury|Wellington,Hagley Oval,Wellington,235,221,14,117,118
+2021-01-16,Chhattisgarh|Gujarat,F B Colony Ground,Gujarat,127,117,10,63,64
+2021-01-16,Hyderabad (India)|Tamil Nadu,Jadavpur University Campus,Tamil Nadu,307,295,12,153,154
+2021-01-16,Jammu & Kashmir|Punjab,Alur Cricket Stadium III,Punjab,279,266,13,139,140
+2021-01-16,Jharkhand|Odisha,Eden Gardens,Jharkhand,310,303,7,155,155
+2021-01-16,Perth Scorchers|Sydney Sixers,Manuka Oval,Sydney Sixers,327,314,13,163,164
+2021-01-16,Railways|Karnataka,Alur Cricket Stadium II,Karnataka,310,296,14,155,155
+2021-01-16,Tripura|Uttar Pradesh,Alur Cricket Stadium,Uttar Pradesh,245,229,16,122,123
+2021-01-16,Uttarakhand|Himachal,Reliance Cricket Stadium,Himachal,258,247,11,129,129
+2021-01-16,Wellington|Canterbury,Hagley Oval,Canterbury,309,299,10,154,155
+2021-01-17,Arunachal Pradesh|Meghalaya,T I Murugappa Ground,Meghalaya,172,158,14,86,86
+2021-01-17,Auckland|Northern Districts,Eden Park Outer Oval,Northern Districts,249,236,13,124,125
+2021-01-17,Chandigarh|Sikkim,IC-Gurunanak College Ground,Chandigarh,277,266,11,138,139
+2021-01-17,Delhi|Haryana,Wankhede Stadium,Haryana,365,354,11,182,183
+2021-01-17,Goa|Rajasthan,Holkar Stadium,Goa,271,254,17,135,136
+2021-01-17,Kerala|Andhra,Sharad Pawar Cricket Academy BKC,Andhra,225,219,6,112,113
+2021-01-17,Manipur|Bihar,Sri Ramachandra Medical College,Bihar,212,205,7,106,106
+2021-01-17,Melbourne Renegades|Melbourne Stars,Melbourne Cricket Ground,Melbourne Stars,303,285,18,151,152
+2021-01-17,Mumbai|Puducherry,Wankhede Stadium,Puducherry,189,170,19,94,95
+2021-01-17,Nagaland|Mizoram,SSN College Ground,Nagaland,279,271,8,139,140
+2021-01-17,Northern Districts|Auckland,Eden Park Outer Oval,Auckland,197,173,24,98,99
+2021-01-17,Saurashtra|Madhya Pradesh, Emerald Heights International School Ground,Madhya Pradesh,361,340,21,180,181
+2021-01-17,Vidarbha|Services,Holkar Stadium,Services,303,292,11,151,152
+2021-01-18,Assam|Odisha,Jadavpur University Campus,Odisha,302,293,9,151,151
+2021-01-18,Baroda|Gujarat,F B Colony Ground,Baroda,340,327,13,170,170
+2021-01-18,Bengal|Tamil Nadu,Eden Gardens,Tamil Nadu,330,316,14,165,165
+2021-01-18,Central Districts|Otago,Pukekura Park,Central Districts,185,171,14,92,93
+2021-01-18,Ireland|United Arab Emirates,Sheikh Zayed Stadium,Ireland,344,320,24,172,172
+2021-01-18,Maharashtra|Himachal,Motibaug Cricket Ground,Himachal,238,233,5,119,119
+2021-01-18,Otago|Central Districts,"Pukekura Park, New Plymouth",Central Districts,303,287,16,151,152
+2021-01-18,Punjab|Tripura,Alur Cricket Stadium III,Punjab,344,338,6,172,172
+2021-01-18,Railways|Jammu & Kashmir,Alur Cricket Stadium,Jammu & Kashmir,268,255,13,134,134
+2021-01-18,Sydney Thunder|Hobart Hurricanes,Manuka Oval,Hobart Hurricanes,358,332,26,179,179
+2021-01-19,Andhra|Mumbai,Wankhede Stadium,Mumbai,310,303,7,155,155
+2021-01-19,Delhi|Puducherry,Sharad Pawar Cricket Academy BKC,Delhi,274,261,13,137,137
+2021-01-19,Haryana|Kerala,Wankhede Stadium,Haryana,392,368,24,196,196
+2021-01-19,Madhya Pradesh|Services,Holkar Stadium,Madhya Pradesh,336,314,22,168,168
+2021-01-19,Manipur|Nagaland,T I Murugappa Ground,Nagaland,260,251,9,130,130
+2021-01-19,Mizoram|Bihar,SSN College Ground,Bihar,167,164,3,83,84
+2021-01-19,Perth Scorchers|Brisbane Heat,Docklands Stadium,Perth Scorchers,289,263,26,144,145
+2021-01-19,Rajasthan|Saurashtra,Holkar Stadium,Rajasthan,315,304,11,157,158
+2021-01-19,Sikkim|Meghalaya,Sri Ramachandra Medical College,Meghalaya,223,209,14,111,112
+2021-01-20,Melbourne Stars|Melbourne Renegades,Docklands Stadium,Melbourne Renegades,318,294,24,159,159
+2021-01-20,South Africa|Pakistan,Kingsmead,South Africa,397,373,24,198,199
+2021-01-20,West Indies|Bangladesh,Shere Bangla National Stadium,Bangladesh,247,224,23,123,124
+2021-01-21,Adelaide Strikers|Brisbane Heat,Adelaide Oval,Adelaide Strikers,312,301,11,156,156
+2021-01-21,Canterbury|Northern Districts,Seddon Park,Northern Districts,211,203,8,105,106
+2021-01-21,Northern Districts|Canterbury,Seddon Park,Canterbury,253,238,15,126,127
+2021-01-22,Perth Scorchers|Hobart Hurricanes,Docklands Stadium,Perth Scorchers,336,322,14,168,168
+2021-01-22,Sri Lanka|England,Galle International Stadium,England,1015,984,31,507,508
+2021-01-22,Sydney Thunder|Sydney Sixers,Adelaide Oval,Sydney Thunder,418,407,11,209,209
+2021-01-22,West Indies|Bangladesh,Shere Bangla National Stadium,Bangladesh,297,282,15,148,149
+2021-01-23,Auckland|Central Districts,Eden Park Outer Oval,Auckland,381,351,30,190,191
+2021-01-23,Auckland|Central Districts,Eden Park Outer Oval,Central Districts,242,231,11,121,121
+2021-01-23,Brisbane Heat|Melbourne Renegades,Docklands Stadium,Brisbane Heat,320,314,6,160,160
+2021-01-23,Perth Scorchers|Melbourne Stars,Melbourne Cricket Ground,Perth Scorchers,353,336,17,176,177
+2021-01-23,South Africa|Pakistan,Kingsmead,South Africa,491,468,23,245,246
+2021-01-24,Adelaide Strikers|Sydney Thunder,Adelaide Oval,Adelaide Strikers,312,289,23,156,156
+2021-01-24,Hobart Hurricanes|Sydney Sixers,Melbourne Cricket Ground,Hobart Hurricanes,369,353,16,184,185
+2021-01-24,Otago|Wellington,Basin Reserve,Wellington,277,263,14,138,139
+2021-01-24,Wellington|Otago,Basin Reserve,Wellington,270,257,13,135,135
+2021-01-25,Adelaide Strikers|Sydney Thunder,Adelaide Oval,Sydney Thunder,231,218,13,115,116
+2021-01-25,Bangladesh|West Indies,Zahur Ahmed Chowdhury Stadium,Bangladesh,474,439,35,237,237
+2021-01-25,Canterbury|Wellington,Basin Reserve,Wellington,307,290,17,153,154
+2021-01-25,Wellington|Canterbury,Basin Reserve,Canterbury,266,247,19,133,133
+2021-01-26,Brisbane Heat|Perth Scorchers,Adelaide Oval,Brisbane Heat,356,341,15,178,178
+2021-01-26,Himachal|Tamil Nadu,"Narendra Modi Stadium Ground 'A', Motera",Tamil Nadu,276,261,15,138,138
+2021-01-26,Karnataka|Punjab,"Narendra Modi Stadium Ground 'A', Motera",Punjab,176,173,3,88,88
+2021-01-26,Melbourne Renegades|Hobart Hurricanes,Melbourne Cricket Ground,Melbourne Renegades,289,279,10,144,145
+2021-01-26,Melbourne Stars|Sydney Sixers,Melbourne Cricket Ground,Sydney Sixers,357,345,12,178,179
+2021-01-26,South Africa|Pakistan,Kingsmead,South Africa,370,353,17,185,185
+2021-01-26,South Africa|Pakistan,National Stadium,Pakistan,933,890,43,466,467
+2021-01-27,Haryana|Baroda,"Narendra Modi Stadium Ground 'A', Motera",Baroda,298,291,7,149,149
+2021-01-29,Adelaide Strikers|Brisbane Heat,Brisbane Cricket Ground,Brisbane Heat,261,240,21,130,131
+2021-01-29,Auckland|Northern Districts,Seddon Park,Northern Districts,328,316,12,164,164
+2021-01-29,Baroda|Punjab,"Narendra Modi Stadium Ground 'A', Motera",Baroda,295,285,10,147,148
+2021-01-29,Northern Districts|Auckland,Seddon Park,Auckland,219,199,20,109,110
+2021-01-29,Pakistan|South Africa,Kingsmead,South Africa,249,237,12,124,125
+2021-01-29,Rajasthan|Tamil Nadu,"Narendra Modi Stadium Ground 'A', Motera",Tamil Nadu,312,293,19,156,156
+2021-01-30,Canterbury|Otago,Hagley Oval,Canterbury,261,234,27,130,131
+2021-01-30,Otago|Canterbury,Hagley Oval,Canterbury,325,314,11,162,163
+2021-01-30,Perth Scorchers|Sydney Sixers,Manuka Oval,Sydney Sixers,335,324,11,167,168
+2021-01-31,Baroda|Tamil Nadu,"Narendra Modi Stadium Ground 'A', Motera",Tamil Nadu,243,232,11,121,122
+2021-01-31,Central Districts|Wellington,Basin Reserve,Wellington,334,323,11,167,167
+2021-01-31,South Africa|Pakistan,Kingsmead,South Africa,248,234,14,124,124
+2021-01-31,Sydney Thunder|Brisbane Heat,Manuka Oval,Brisbane Heat,320,310,10,160,160
+2021-01-31,Wellington|Central Districts,Basin Reserve,Wellington,287,280,7,143,144
+2021-02-01,Auckland|Otago,Eden Park Outer Oval,Auckland,482,458,24,241,241
+2021-02-03,Bangladesh|West Indies,Zahur Ahmed Chowdhury Stadium,West Indies,1307,1263,44,653,654
+2021-02-03,Pakistan|South Africa,Kingsmead,Pakistan,195,184,11,97,98
+2021-02-04,Pakistan|South Africa,Rawalpindi Cricket Stadium,Pakistan,1045,1007,38,522,523
+2021-02-04,Perth Scorchers|Brisbane Heat,Manuka Oval,Perth Scorchers,339,327,12,169,170
+2021-02-05,Canterbury|Central Districts,McLean Park,Canterbury,244,236,8,122,122
+2021-02-05,Central Districts|Canterbury,McLean Park,Central Districts,336,320,16,168,168
+2021-02-05,England|India,MA Chidambaram Stadium,England,1285,1213,72,642,643
+2021-02-06,Northern Districts|Otago,University Oval,Northern Districts,346,334,12,173,173
+2021-02-06,Otago|Northern Districts,University Oval,Otago,264,250,14,132,132
+2021-02-06,Sydney Sixers|Perth Scorchers,Sydney Cricket Ground,Sydney Sixers,349,336,13,174,175
+2021-02-07,Auckland|Wellington,Eden Park Outer Oval,Auckland,227,197,30,113,114
+2021-02-07,Wellington|Auckland,Eden Park Outer Oval,Wellington,421,398,23,210,211
+2021-02-09,Pakistan|Zimbabwe,Harare Sports Club,Pakistan,332,298,34,166,166
+2021-02-11,Central Districts|Canterbury,Eden Park Outer Oval,Canterbury,361,346,15,180,181
+2021-02-11,Pakistan|South Africa,Gaddafi Stadium,Pakistan,335,327,8,167,168
+2021-02-11,Wellington|Auckland,Eden Park Outer Oval,Wellington,265,249,16,132,133
+2021-02-11,West Indies|Bangladesh,Shere Bangla National Stadium,West Indies,1035,997,38,517,518
+2021-02-13,Canterbury|Wellington,Basin Reserve,Wellington,353,340,13,176,177
+2021-02-13,India|England,MA Chidambaram Stadium,India,913,877,36,456,457
+2021-02-13,Pakistan|South Africa,Gaddafi Stadium,South Africa,289,275,14,144,145
+2021-02-13,Wellington|Canterbury,Basin Reserve,Canterbury,251,227,24,125,126
+2021-02-14,South Africa|Pakistan,Gaddafi Stadium,Pakistan,333,319,14,166,167
+2021-02-15,New South Wales|Victoria,"North Sydney Oval, Sydney",New South Wales,577,562,15,288,289
+2021-02-17,New South Wales|Victoria,Sydney Cricket Ground,Victoria,683,648,35,341,342
+2021-02-17,Tasmania|Queensland,"Bellerive Oval, Hobart",Queensland,1169,1106,63,584,585
+2021-02-19,Dolphins|Cape Cobras,"Kingsmead, Durban",Dolphins,296,264,32,148,148
+2021-02-19,Knights|Titans,"Kingsmead, Durban",Titans,236,224,12,118,118
+2021-02-20,Knights|Dolphins,"Kingsmead, Durban",Dolphins,289,274,15,144,145
+2021-02-20,Quetta Gladiators|Karachi Kings,National Stadium,Karachi Kings,247,232,15,123,124
+2021-02-21,Multan Sultans|Islamabad United,National Stadium,Islamabad United,301,289,12,150,151
+2021-02-21,Peshawar Zalmi|Lahore Qalandars,National Stadium,Lahore Qalandars,283,271,12,141,142
+2021-02-21,Titans|Cape Cobras,"Kingsmead, Durban",Titans,280,265,15,140,140
+2021-02-21,Warriors|Dolphins,"Kingsmead, Durban",Dolphins,271,255,16,135,136
+2021-02-22,Cape Cobras|Knights,"Kingsmead, Durban",Knights,336,307,29,168,168
+2021-02-22,Lions|Titans,"Kingsmead, Durban",Lions,236,215,21,118,118
+2021-02-22,New Zealand|Australia,Hagley Oval,New Zealand,315,297,18,157,158
+2021-02-22,Quetta Gladiators|Lahore Qalandars,National Stadium,Lahore Qalandars,357,343,14,178,179
+2021-02-22,Tasmania|Queensland,"Bellerive Oval, Hobart",Queensland,475,453,22,237,238
+2021-02-23,Cape Cobras|Warriors,"Kingsmead, Durban",Cape Cobras,338,313,25,169,169
+2021-02-23,Knights|Lions,"Kingsmead, Durban",Lions,216,209,7,108,108
+2021-02-23,Multan Sultans|Peshawar Zalmi,National Stadium,Peshawar Zalmi,390,370,20,195,195
+2021-02-23,New Zealand|England,Hagley Oval,England,359,347,12,179,180
+2021-02-24,Dolphins|Lions,"Kingsmead, Durban",Dolphins,261,250,11,130,131
+2021-02-24,England|India,Narendra Modi Stadium,India,387,367,20,193,194
+2021-02-24,Karachi Kings|Islamabad United,National Stadium,Islamabad United,393,369,24,196,197
+2021-02-24,Warriors|Titans,"Kingsmead, Durban",Warriors,271,255,16,135,136
+2021-02-25,New Zealand|Australia,University Oval,New Zealand,434,421,13,217,217
+2021-02-25,Warriors|Knights,"Kingsmead, Durban",Warriors,300,281,19,150,150
+2021-02-26,Cape Cobras|Lions,"Kingsmead, Durban",Lions,291,286,5,145,146
+2021-02-26,Dolphins|Titans,"Kingsmead, Durban",Dolphins,295,276,19,147,148
+2021-02-26,Lahore Qalandars|Multan Sultans,National Stadium,Multan Sultans,316,293,23,158,158
+2021-02-26,New Zealand|England,University Oval,England,386,360,26,193,193
+2021-02-26,Quetta Gladiators|Peshawar Zalmi,National Stadium,Peshawar Zalmi,400,378,22,200,200
+2021-02-27,Islamabad United|Peshawar Zalmi,National Stadium,Peshawar Zalmi,240,235,5,120,120
+2021-02-27,Multan Sultans|Karachi Kings,National Stadium,Karachi Kings,393,363,30,196,197
+2021-02-27,Warriors|Lions,"Kingsmead, Durban",Lions,283,270,13,141,142
+2021-02-28,Dolphins|Lions,"Kingsmead, Durban",Lions,215,206,9,107,108
+2021-02-28,England|New Zealand,University Oval,New Zealand,443,426,17,221,222
+2021-02-28,Karachi Kings|Lahore Qalandars,National Stadium,Lahore Qalandars,375,359,16,187,188
+2021-03-02,Quetta Gladiators|Islamabad United,National Stadium,Islamabad United,313,291,22,156,157
+2021-03-02,Western Australia|South Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,725,697,28,362,363
+2021-03-03,Australia|New Zealand,Westpac Stadium,Australia,352,344,8,176,176
+2021-03-03,New Zealand|England,Westpac Stadium,England,195,184,11,97,98
+2021-03-03,Peshawar Zalmi|Karachi Kings,National Stadium,Karachi Kings,379,352,27,189,190
+2021-03-03,Quetta Gladiators|Multan Sultans,National Stadium,Quetta Gladiators,330,314,16,165,165
+2021-03-03,Sri Lanka|West Indies,"Coolidge Cricket Ground, Antigua",West Indies,265,251,14,132,133
+2021-03-04,England|India,Narendra Modi Stadium,India,705,664,41,352,353
+2021-03-04,South Australia|New South Wales,Adelaide Oval,New South Wales,413,392,21,206,207
+2021-03-05,Australia|New Zealand,Westpac Stadium,Australia,262,253,9,131,131
+2021-03-05,New Zealand|England,Westpac Stadium,England,247,237,10,123,124
+2021-03-05,Sri Lanka|West Indies,"Coolidge Cricket Ground, Antigua",Sri Lanka,277,265,12,138,139
+2021-03-06,South Australia|New South Wales,Adelaide Oval,New South Wales,1324,1292,32,662,662
+2021-03-07,Australia|New Zealand,Sky Stadium,New Zealand,285,273,12,142,143
+2021-03-07,England|New Zealand,Sky Stadium,England,224,208,16,112,112
+2021-03-07,India|South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,South Africa,355,324,31,177,178
+2021-03-07,Sri Lanka|West Indies,"Coolidge Cricket Ground, Antigua",West Indies,265,252,13,132,133
+2021-03-09,South Africa|India,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,India,317,295,22,158,159
+2021-03-10,Victoria|Tasmania,"Junction Oval, Melbourne",Tasmania,447,430,17,223,224
+2021-03-10,West Indies|Sri Lanka,Sir Vivian Richards Stadium,West Indies,468,444,24,234,234
+2021-03-11,Canterbury|Otago Volts,"Mainpower Oval, Rangiora",Canterbury,1264,1233,31,632,632
+2021-03-11,Central Stags|Wellington Firebirds,"McLean Park, Napier",Central Stags,780,741,39,390,390
+2021-03-11,Queensland|Western Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Queensland,407,376,31,203,204
+2021-03-12,India|England,Narendra Modi Stadium,England,254,249,5,127,127
+2021-03-12,India|South Africa,Bharat Ratna Shri Atal Bihari Vajpai Ekana Cricket Stadium,South Africa,471,437,34,235,236
+2021-03-12,South Australia|Tasmania,"Junction Oval, Melbourne",Tasmania,212,202,10,106,106
+2021-03-12,West Indies|Sri Lanka,Sir Vivian Richards Stadium,West Indies,547,531,16,273,274
+2021-03-14,England|India,Narendra Modi Stadium,India,330,311,19,165,165
+2021-03-14,India|South Africa,Bharat Ratna Shri Atal Bihari Vajpai Ekana Cricket Stadium,South Africa,535,517,18,267,268
+2021-03-14,West Indies|Sri Lanka,Sir Vivian Richards Stadium,West Indies,550,536,14,275,275
+2021-03-16,India|England,Narendra Modi Stadium,England,314,297,17,157,157
+2021-03-17,India|South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,South Africa,377,354,23,188,189
+2021-03-18,India|England,Narendra Modi Stadium,India,362,347,15,181,181
+2021-03-18,Tasmania|New South Wales,"Bellerive Oval, Hobart",New South Wales,517,502,15,258,259
+2021-03-19,Central Stags|Canterbury,"Hagley Oval, Christchurch",Canterbury,639,606,33,319,320
+2021-03-20,Bangladesh|New Zealand,University Oval,New Zealand,263,243,20,131,132
+2021-03-20,India|England,Narendra Modi Stadium,India,412,383,29,206,206
+2021-03-20,India|South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,South Africa,263,250,13,131,132
+2021-03-20,Tasmania|New South Wales,"Bellerive Oval, Hobart",Tasmania,750,735,15,375,375
+2021-03-21,India|South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,South Africa,317,310,7,158,159
+2021-03-23,Bangladesh|New Zealand,Hagley Oval,New Zealand,546,505,41,273,273
+2021-03-23,India|England,Maharashtra Cricket Association Stadium,India,568,547,21,284,284
+2021-03-23,South Africa|India,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,India,226,222,4,113,113
+2021-03-23,Western Australia|Victoria,"Western Australia Cricket Association Ground, Perth",Western Australia,464,452,12,232,232
+2021-03-26,India|England,Maharashtra Cricket Association Stadium,England,673,648,25,336,337
+2021-03-26,New Zealand|Bangladesh,Basin Reserve,New Zealand,472,444,28,236,236
+2021-03-26,Otago Volts|Central Stags,"University Oval, Dunedin",Otago Volts,1326,1286,40,663,663
+2021-03-28,India|England,Maharashtra Cricket Association Stadium,India,651,627,24,325,326
+2021-03-28,New Zealand|Australia,Seddon Park,Australia,263,250,13,131,132
+2021-03-28,New Zealand|Bangladesh,Seddon Park,New Zealand,354,339,15,177,177
+2021-03-28,Queensland|South Australia,"Allan Border Field, Brisbane",Queensland,482,463,19,241,241
+2021-03-30,Australia|New Zealand,McLean Park,New Zealand,260,253,7,130,130
+2021-03-30,New Zealand|Bangladesh,McLean Park,New Zealand,315,300,15,157,158
+2021-03-31,Queensland|New South Wales,"North Sydney Oval, Sydney",New South Wales,407,388,19,203,204
+2021-04-01,New Zealand|Bangladesh,Eden Park,New Zealand,217,215,2,108,109
+2021-04-02,South Africa|Pakistan,"SuperSport Park, Centurion",Pakistan,547,520,27,273,274
+2021-04-03,Otago Volts|Northern Districts,"University Oval, Dunedin",Northern Districts,1077,1026,51,538,539
+2021-04-03,Tasmania|Western Australia,"Western Australia Cricket Association Ground, Perth",Tasmania,1221,1166,55,610,611
+2021-04-03,Uganda|Namibia,Wanderers,Namibia,269,235,34,134,135
+2021-04-04,New Zealand|Australia,Bay Oval,Australia,427,404,23,213,214
+2021-04-04,South Africa|Pakistan,The Wanderers Stadium,South Africa,665,635,30,332,333
+2021-04-05,Namibia|Uganda,"Wanderers Cricket Ground, Windhoek",Namibia,512,491,21,256,256
+2021-04-07,Australia|New Zealand,"Bay Oval, Mount Maunganui",Australia,471,441,30,235,236
+2021-04-07,Namibia|Uganda,"Wanderers Cricket Ground, Windhoek",Namibia,504,462,42,252,252
+2021-04-07,Pakistan|South Africa,"SuperSport Park, Centurion",Pakistan,612,590,22,306,306
+2021-04-08,Hampshire|Leicestershire,"Grace Road, Leicester",Hampshire,1119,1076,43,559,560
+2021-04-08,Middlesex|Somerset,"Lord's, London",Somerset,913,867,46,456,457
+2021-04-08,Namibia|Uganda,"Wanderers Cricket Ground, Windhoek",Namibia,547,521,26,273,274
+2021-04-08,Surrey|Gloucestershire,"County Ground, Bristol",Gloucestershire,1108,1008,100,554,554
+2021-04-08,Victoria|South Australia,"Junction Oval, Melbourne",Victoria,645,617,28,322,323
+2021-04-08,Western Australia|Tasmania,"Western Australia Cricket Association Ground, Perth",Western Australia,455,436,19,227,228
+2021-04-09,Mumbai Indians|Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,319,303,16,159,160
+2021-04-10,Australia|New Zealand,"Bay Oval, Mount Maunganui",Australia,277,262,15,138,139
+2021-04-10,Chennai Super Kings|Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,378,364,14,189,189
+2021-04-10,South Africa|Pakistan,"The Wanderers Stadium, Johannesburg",Pakistan,377,368,9,188,189
+2021-04-11,Kolkata Knight Riders|Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,364,350,14,182,182
+2021-04-11,New South Wales|Western Australia,"Bankstown Oval, Sydney",New South Wales,400,371,29,200,200
+2021-04-12,Pakistan|South Africa,"The Wanderers Stadium, Johannesburg",South Africa,281,271,10,140,141
+2021-04-12,Punjab Kings|Rajasthan Royals,"Wankhede Stadium, Mumbai",Punjab Kings,438,423,15,219,219
+2021-04-13,Mumbai Indians|Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,294,275,19,147,147
+2021-04-14,Royal Challengers Bangalore|Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,292,270,22,146,146
+2021-04-14,South Africa|Pakistan,"SuperSport Park, Centurion",Pakistan,408,403,5,204,204
+2021-04-15,Delhi Capitals|Rajasthan Royals,"Wankhede Stadium, Mumbai",Rajasthan Royals,297,289,8,148,149
+2021-04-15,Essex|Durham,"County Ground, Chelmsford",Essex,808,782,26,404,404
+2021-04-15,Glamorgan|Sussex,"Sophia Gardens, Cardiff",Sussex,1269,1202,67,634,635
+2021-04-15,Hampshire|Middlesex,"The Rose Bowl, Southampton",Hampshire,969,911,58,484,485
+2021-04-15,Lancashire|Northamptonshire,"Old Trafford, Manchester",Lancashire,996,943,53,498,498
+2021-04-15,New South Wales|Queensland,"Allan Border Field, Brisbane",Queensland,745,726,19,372,373
+2021-04-15,Nottinghamshire|Warwickshire,"Trent Bridge, Nottingham",Warwickshire,1067,989,78,533,534
+2021-04-15,Somerset|Gloucestershire,"The Cooper Associates County Ground, Taunton",Gloucestershire,926,890,36,463,463
+2021-04-15,Yorkshire|Kent,"St Lawrence Ground, Canterbury",Yorkshire,1218,1152,66,609,609
+2021-04-16,Punjab Kings|Chennai Super Kings,"Wankhede Stadium, Mumbai",Chennai Super Kings,213,202,11,106,107
+2021-04-16,South Africa|Pakistan,"SuperSport Park, Centurion",Pakistan,293,268,25,146,147
+2021-04-17,Mumbai Indians|Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,287,271,16,143,144
+2021-04-17,Netherlands|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,277,253,24,138,139
+2021-04-18,Netherlands|Malaysia,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,367,348,19,183,184
+2021-04-18,Punjab Kings|Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,393,374,19,196,197
+2021-04-18,Royal Challengers Bangalore|Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,370,358,12,185,185
+2021-04-19,Chennai Super Kings|Rajasthan Royals,"Wankhede Stadium, Mumbai",Chennai Super Kings,331,304,27,165,166
+2021-04-19,Malaysia|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,222,206,16,111,111
+2021-04-20,Mumbai Indians|Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,275,260,15,137,138
+2021-04-20,Nepal|Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,415,382,33,207,208
+2021-04-21,Chennai Super Kings|Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Chennai Super Kings,422,395,27,211,211
+2021-04-21,Pakistan|Zimbabwe,Harare Sports Club,Pakistan,287,269,18,143,144
+2021-04-21,Punjab Kings|Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,241,225,16,120,121
+2021-04-22,Essex|Warwickshire,"Edgbaston, Birmingham",Warwickshire,1079,1056,23,539,540
+2021-04-22,Glamorgan|Northamptonshire,"County Ground, Northampton",Northamptonshire,1439,1370,69,719,720
+2021-04-22,Lancashire|Kent,"St Lawrence Ground, Canterbury",Lancashire,1045,994,51,522,523
+2021-04-22,Nepal|Malaysia,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,365,345,20,182,183
+2021-04-22,Rajasthan Royals|Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,358,337,21,179,179
+2021-04-22,Surrey|Middlesex,"Lord's, London",Middlesex,570,546,24,285,285
+2021-04-22,Yorkshire|Sussex,"County Ground, Hove",Yorkshire,862,803,59,431,431
+2021-04-23,Mumbai Indians|Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,263,253,10,131,132
+2021-04-23,Zimbabwe|Pakistan,Harare Sports Club,Zimbabwe,217,203,14,108,109
+2021-04-24,Kolkata Knight Riders|Rajasthan Royals,"Wankhede Stadium, Mumbai",Rajasthan Royals,267,244,23,133,134
+2021-04-24,Nepal|Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,334,314,20,167,167
+2021-04-25,Chennai Super Kings|Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Chennai Super Kings,313,299,14,156,157
+2021-04-25,Pakistan|Zimbabwe,Harare Sports Club,Pakistan,306,299,7,153,153
+2021-04-26,Punjab Kings|Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,249,237,12,124,125
+2021-04-27,Royal Challengers Bangalore|Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,341,333,8,170,171
+2021-04-28,Sunrisers Hyderabad|Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,344,333,11,172,172
+2021-04-29,Hampshire|Surrey,"Kennington Oval, London",Surrey,831,787,44,415,416
+2021-04-29,Kent|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,428,399,29,214,214
+2021-04-29,Kolkata Knight Riders|Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,310,297,13,155,155
+2021-04-29,Leicestershire|Gloucestershire,"County Ground, Bristol",Gloucestershire,1245,1121,124,622,623
+2021-04-29,Middlesex|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,951,903,48,475,476
+2021-04-29,Nottinghamshire|Derbyshire,"County Ground, Derby",Nottinghamshire,838,789,49,419,419
+2021-04-29,Rajasthan Royals|Mumbai Indians,"Arun Jaitley Stadium, Delhi",Mumbai Indians,343,320,23,171,172
+2021-04-29,Sri Lanka|Bangladesh,Pallekele International Cricket Stadium,Sri Lanka,1165,1139,26,582,583
+2021-04-29,Sussex|Lancashire,"County Ground, Hove",Lancashire,967,905,62,483,484
+2021-04-29,Warwickshire|Durham,"Riverside Ground, Chester-le-Street",Durham,655,617,38,327,328
+2021-04-29,Yorkshire|Northamptonshire,"Headingley, Leeds",Yorkshire,905,802,103,452,453
+2021-04-29,Zimbabwe|Pakistan,Harare Sports Club,Pakistan,736,716,20,368,368
+2021-04-30,Punjab Kings|Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,324,308,16,162,162
+2021-05-01,Chennai Super Kings|Mumbai Indians,"Arun Jaitley Stadium, Delhi",Mumbai Indians,437,419,18,218,219
+2021-05-01,North-West Warriors|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,411,379,32,205,206
+2021-05-02,Punjab Kings|Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,333,323,10,166,167
+2021-05-02,Rajasthan Royals|Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,385,363,22,192,193
+2021-05-04,Leinster Lightning|Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,414,377,37,207,207
+2021-05-06,Essex|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,616,583,33,308,308
+2021-05-06,Hampshire|Somerset,"The Rose Bowl, Southampton",Somerset,675,623,52,337,338
+2021-05-06,Middlesex|Gloucestershire,"Lord's, London",Gloucestershire,728,683,45,364,364
+2021-05-06,Munster Reds|North-West Warriors,"Woodvale Road, Eglinton",North-West Warriors,439,409,30,219,220
+2021-05-06,Sussex|Northamptonshire,"County Ground, Northampton",Northamptonshire,762,722,40,381,381
+2021-05-07,Pakistan|Zimbabwe,Harare Sports Club,Pakistan,873,836,37,436,437
+2021-05-13,Durham|Worcestershire,"Riverside Ground, Chester-le-Street",Durham,1012,933,79,506,506
+2021-05-13,Essex|Derbyshire,"County Ground, Chelmsford",Essex,809,766,43,404,405
+2021-05-13,Middlesex|Hampshire,"Lord's, London",Hampshire,547,517,30,273,274
+2021-05-16,Leinster Lightning|Northern Knights,"The Green, Comber",Northern Knights,487,460,27,243,244
+2021-05-18,North-West Warriors|Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",North-West Warriors,534,502,32,267,267
+2021-05-19,Netherlands|Scotland,"Hazelaarweg, Rotterdam",Netherlands,312,285,27,156,156
+2021-05-20,Netherlands|Scotland,"Hazelaarweg, Rotterdam",Scotland,343,326,17,171,172
+2021-05-20,Nottinghamshire|Worcestershire,"Trent Bridge, Nottingham",Nottinghamshire,630,596,34,315,315
+2021-05-21,Luxembourg|Czech Republic,"Scott Page Field, Vinor",Czech Republic,253,232,21,126,127
+2021-05-22,Austria|Czech Republic,"Scott Page Field, Vinor",Austria,246,215,31,123,123
+2021-05-22,Czech Republic|Luxembourg,"Scott Page Field, Vinor",Luxembourg,326,297,29,163,163
+2021-05-22,Leinster Lightning|Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,449,417,32,224,225
+2021-05-23,Austria|Luxembourg,"Scott Page Field, Vinor",Luxembourg,359,339,20,179,180
+2021-05-23,Bangladesh|Sri Lanka,"Shere Bangla National Stadium, Mirpur",Bangladesh,481,462,19,240,241
+2021-05-23,Czech Republic|Austria,"Scott Page Field, Vinor",Austria,317,296,21,158,159
+2021-05-24,Scotland|Ireland,"Civil Service Cricket Club, Stormont, Belfast",Scotland,163,149,14,81,82
+2021-05-25,Bangladesh|Sri Lanka,Sher-e-Bangla National Cricket Stadium,Bangladesh,387,376,11,193,194
+2021-05-25,Ireland|Scotland,"Civil Service Cricket Club, Stormont, Belfast",Ireland,213,199,14,106,107
+2021-05-25,North-West Warriors|Leinster Lightning,"Woodvale Road, Eglinton",Leinster Lightning,466,445,21,233,233
+2021-05-26,Ireland|Scotland,"Civil Service Cricket Club, Stormont, Belfast",Ireland,227,217,10,113,114
+2021-05-27,Essex|Durham,"Riverside Ground, Chester-le-Street",Essex,771,699,72,385,386
+2021-05-27,Middlesex|Leicestershire,"Grace Road, Leicester",Leicestershire,1027,968,59,513,514
+2021-05-27,Scotland|Ireland,"Civil Service Cricket Club, Stormont, Belfast",Ireland,200,181,19,100,100
+2021-05-27,Surrey|Gloucestershire,"Kennington Oval, London",Surrey,899,849,50,449,450
+2021-05-27,Sussex|Northamptonshire,"County Ground, Hove",Northamptonshire,947,886,61,473,474
+2021-05-27,Warwickshire|Nottinghamshire,"Edgbaston, Birmingham",Warwickshire,1040,972,68,520,520
+2021-05-27,Worcestershire|Derbyshire,"County Ground, New Road, Worcester",Worcestershire,819,778,41,409,410
+2021-05-27,Yorkshire|Lancashire,"Old Trafford, Manchester",Lancashire,939,868,71,469,470
+2021-05-28,Sri Lanka|Bangladesh,"Shere Bangla National Stadium, Mirpur",Sri Lanka,475,447,28,237,238
+2021-05-29,Lightning|Southern Vipers,"The Rose Bowl, Southampton",Southern Vipers,429,391,38,214,215
+2021-05-29,Northern Diamonds|Central Sparks,"Headingley, Leeds",Central Sparks,562,510,52,281,281
+2021-05-29,South East Stars|Sunrisers,"County Ground, Chelmsford",South East Stars,513,459,54,256,257
+2021-05-29,Thunder|Western Storm,"County Ground, Bristol",Western Storm,586,540,46,293,293
+2021-05-31,Central Sparks|Western Storm,"Edgbaston, Birmingham",Central Sparks,549,501,48,274,275
+2021-05-31,Northern Diamonds|Lightning,Kibworth Cricket Club Ground,Northern Diamonds,296,254,42,148,148
+2021-05-31,South East Stars|Southern Vipers,"Kent County Cricket Ground, Beckenham",Southern Vipers,275,259,16,137,138
+2021-05-31,Thunder|Sunrisers,"Boughton Hall Cricket Club Ground, Chester",Thunder,458,402,56,229,229
+2021-06-02,Netherlands|Ireland,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,389,348,41,194,195
+2021-06-03,Lancashire|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,675,630,45,337,338
+2021-06-03,Leicestershire|Gloucestershire,"Grace Road, Leicester",Leicestershire,809,716,93,404,405
+2021-06-03,Sussex|Yorkshire,"Headingley, Leeds",Yorkshire,1086,1007,79,543,543
+2021-06-03,Warwickshire|Derbyshire,"County Ground, Derby",Warwickshire,667,612,55,333,334
+2021-06-03,Worcestershire|Durham,"County Ground, New Road, Worcester",Durham,937,841,96,468,469
+2021-06-04,Netherlands|Ireland,"Sportpark Maarschalkerweerd, Utrecht",Ireland,315,292,23,157,158
+2021-06-05,Central Sparks|Southern Vipers,"County Ground, Hove",Central Sparks,328,280,48,164,164
+2021-06-05,Sunrisers|Northern Diamonds,"FP Fenner's Ground, Cambridge",Northern Diamonds,107,73,34,53,54
+2021-06-05,Western Storm|South East Stars,"Kennington Oval, London",South East Stars,494,449,45,247,247
+2021-06-06,Lightning|Thunder,"Boughton Hall Cricket Club Ground, Chester",Lightning,384,358,26,192,192
+2021-06-06,Nigeria|Namibia,Gahanga International Cricket Stadium. Rwanda,Namibia,108,85,23,54,54
+2021-06-07,Botswana|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,139,132,7,69,70
+2021-06-07,Ireland|Netherlands,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,329,309,20,164,165
+2021-06-07,Namibia|Rwanda,Gahanga International Cricket Stadium. Rwanda,Namibia,159,141,18,79,80
+2021-06-08,Namibia|Botswana,Gahanga International Cricket Stadium. Rwanda,Namibia,245,215,30,122,123
+2021-06-09,Derbyshire|Lancashire,"Old Trafford, Manchester",Lancashire,339,325,14,169,170
+2021-06-09,Islamabad United|Lahore Qalandars,"Sheikh Zayed Stadium, Abu Dhabi",Lahore Qalandars,287,274,13,143,144
+2021-06-09,Kent|Hampshire,"St Lawrence Ground, Canterbury",Kent,314,302,12,157,157
+2021-06-09,Rwanda|Nigeria,Gahanga International Cricket Stadium. Rwanda,Rwanda,210,179,31,105,105
+2021-06-09,Somerset|Essex,"The Cooper Associates County Ground, Taunton",Essex,372,359,13,186,186
+2021-06-10,Birmingham Bears|Yorkshire,"Headingley, Leeds",Yorkshire,291,275,16,145,146
+2021-06-10,Botswana|Nigeria,Gahanga International Cricket Stadium. Rwanda,Nigeria,213,175,38,106,107
+2021-06-10,England|New Zealand,"Edgbaston, Birmingham",New Zealand,854,784,70,427,427
+2021-06-10,Gloucestershire|Glamorgan,"Sophia Gardens, Cardiff",Gloucestershire,354,350,4,177,177
+2021-06-10,Kenya|Rwanda,Gahanga International Cricket Stadium. Rwanda,Kenya,233,211,22,116,117
+2021-06-10,Lahore Qalandars|Peshawar Zalmi,"Sheikh Zayed Stadium, Abu Dhabi",Lahore Qalandars,330,314,16,165,165
+2021-06-10,Lancashire|Leicestershire,"Old Trafford, Manchester",Lancashire,328,317,11,164,164
+2021-06-10,Multan Sultans|Karachi Kings,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,340,328,12,170,170
+2021-06-10,Surrey|Middlesex,"Lord's, London",Surrey,392,363,29,196,196
+2021-06-10,West Indies|South Africa,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",South Africa,581,541,40,290,291
+2021-06-11,Birmingham Bears|Nottinghamshire,"Trent Bridge, Nottingham",Birmingham Bears,440,417,23,220,220
+2021-06-11,Derbyshire|Leicestershire,"Grace Road, Leicester",Derbyshire,395,368,27,197,198
+2021-06-11,Durham|Yorkshire,"Riverside Ground, Chester-le-Street",Durham,342,324,18,171,171
+2021-06-11,Gloucestershire|Sussex,"County Ground, Bristol",Sussex,355,334,21,177,178
+2021-06-11,Hampshire|Essex,"County Ground, Chelmsford",Hampshire,297,284,13,148,149
+2021-06-11,Kent|Middlesex,"St Lawrence Ground, Canterbury",Kent,340,315,25,170,170
+2021-06-11,Kenya|Rwanda,Gahanga International Cricket Stadium. Rwanda,Kenya,182,159,23,91,91
+2021-06-11,Namibia|Nigeria,Gahanga International Cricket Stadium. Rwanda,Namibia,221,201,20,110,111
+2021-06-11,Quetta Gladiators|Islamabad United,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,270,247,23,135,135
+2021-06-11,Somerset|Surrey,"The Cooper Associates County Ground, Taunton",Surrey,375,351,24,187,188
+2021-06-11,Worcestershire|Northamptonshire,"County Ground, Northampton",Worcestershire,338,312,26,169,169
+2021-06-12,Central Sparks|Thunder,"County Ground, New Road, Worcester",Thunder,408,352,56,204,204
+2021-06-12,Hampshire|Sussex,"County Ground, Hove",Sussex,309,297,12,154,155
+2021-06-12,Namibia|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,141,130,11,70,71
+2021-06-12,Peshawar Zalmi|Quetta Gladiators,"Sheikh Zayed Stadium, Abu Dhabi",Peshawar Zalmi,333,316,17,166,167
+2021-06-12,Rwanda|Nigeria,Gahanga International Cricket Stadium. Rwanda,Rwanda,216,190,26,108,108
+2021-06-12,South East Stars|Northern Diamonds,"Headingley, Leeds",Northern Diamonds,504,467,37,252,252
+2021-06-12,Sunrisers|Lightning,"Haslegrave Ground, Loughborough",Lightning,416,369,47,208,208
+2021-06-12,Western Storm|Southern Vipers,"The Cooper Associates County Ground, Taunton",Southern Vipers,355,319,36,177,178
+2021-06-13,Derbyshire|Birmingham Bears,"County Ground, Derby",Birmingham Bears,321,305,16,160,161
+2021-06-13,Essex|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,309,298,11,154,155
+2021-06-13,Islamabad United|Lahore Qalandars,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,276,265,11,138,138
+2021-06-13,Kent|Gloucestershire,"St Lawrence Ground, Canterbury",Kent,361,341,20,180,181
+2021-06-13,Lancashire|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,265,259,6,132,133
+2021-06-13,Leicestershire|Durham,"Grace Road, Leicester",Durham,338,318,20,169,169
+2021-06-13,Nottinghamshire|Northamptonshire,"County Ground, Northampton",Nottinghamshire,414,392,22,207,207
+2021-06-13,Peshawar Zalmi|Multan Sultans,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,333,309,24,166,167
+2021-06-14,Glamorgan|Surrey,"Kennington Oval, London",Surrey,333,327,6,166,167
+2021-06-14,Karachi Kings|Islamabad United,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,381,356,25,190,191
+2021-06-15,Birmingham Bears|Northamptonshire,"County Ground, Northampton",Birmingham Bears,285,272,13,142,143
+2021-06-15,Derbyshire|Lancashire,"County Ground, Derby",Lancashire,393,371,22,196,197
+2021-06-15,Essex|Sussex,"County Ground, Chelmsford",Sussex,258,249,9,129,129
+2021-06-15,Hampshire|Middlesex,"Radlett Cricket Club, Radlett",Middlesex,432,417,15,216,216
+2021-06-15,Karachi Kings|Peshawar Zalmi,"Sheikh Zayed Stadium, Abu Dhabi",Peshawar Zalmi,217,192,25,108,109
+2021-06-15,Munster Reds|North-West Warriors,"Mardyke, Cork",North-West Warriors,581,548,33,290,291
+2021-06-15,Nottinghamshire|Durham,"Riverside Ground, Chester-le-Street",Nottinghamshire,377,367,10,188,189
+2021-06-15,Quetta Gladiators|Lahore Qalandars,"Sheikh Zayed Stadium, Abu Dhabi",Quetta Gladiators,298,278,20,149,149
+2021-06-15,Somerset|Kent,"The Cooper Associates County Ground, Taunton",Somerset,361,342,19,180,181
+2021-06-15,Yorkshire|Leicestershire,"Headingley, Leeds",Yorkshire,462,446,16,231,231
+2021-06-16,Birmingham Bears|Leicestershire,"Grace Road, Leicester",Birmingham Bears,345,333,12,172,173
+2021-06-16,Kent|Glamorgan,"Sophia Gardens, Cardiff",Kent,248,236,12,124,124
+2021-06-16,Multan Sultans|Quetta Gladiators,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,256,240,16,128,128
+2021-06-16,Yorkshire|Worcestershire,"County Ground, New Road, Worcester",Yorkshire,338,319,19,169,169
+2021-06-17,Islamabad United|Peshawar Zalmi,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,479,461,18,239,240
+2021-06-17,Karachi Kings|Lahore Qalandars,"Sheikh Zayed Stadium, Abu Dhabi",Karachi Kings,345,327,18,172,173
+2021-06-17,Lancashire|Durham,"Riverside Ground, Chester-le-Street",Durham,304,273,31,152,152
+2021-06-17,Middlesex|Gloucestershire,"Radlett Cricket Club, Radlett",Gloucestershire,336,324,12,168,168
+2021-06-17,Northamptonshire|Derbyshire,"County Ground, Derby",Derbyshire,284,271,13,142,142
+2021-06-18,Glamorgan|Middlesex,"Sophia Gardens, Cardiff",Glamorgan,279,262,17,139,140
+2021-06-18,India|New Zealand,"The Rose Bowl, Southampton",New Zealand,776,721,55,388,388
+2021-06-18,Multan Sultans|Lahore Qalandars,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,258,241,17,129,129
+2021-06-18,Munster Reds|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,297,280,17,148,149
+2021-06-18,Northern Knights|North-West Warriors,"Pembroke Cricket Club, Sandymount, Dublin",North-West Warriors,273,258,15,136,137
+2021-06-18,Nottinghamshire|Derbyshire,"Trent Bridge, Nottingham",Nottinghamshire,302,278,24,151,151
+2021-06-18,South Africa|West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",South Africa,786,707,79,393,393
+2021-06-19,Karachi Kings|Quetta Gladiators,"Sheikh Zayed Stadium, Abu Dhabi",Karachi Kings,338,325,13,169,169
+2021-06-19,Multan Sultans|Islamabad United,"Sheikh Zayed Stadium, Abu Dhabi",Islamabad United,299,283,16,149,150
+2021-06-19,North-West Warriors|Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",Munster Reds,293,275,18,146,147
+2021-06-19,Northern Knights|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Northern Knights,326,319,7,163,163
+2021-06-20,Durham|Birmingham Bears,"Riverside Ground, Chester-le-Street",Durham,348,315,33,174,174
+2021-06-20,Kent|Essex,"St Lawrence Ground, Canterbury",Kent,405,387,18,202,203
+2021-06-20,Leicestershire|Northamptonshire,"County Ground, Northampton",Leicestershire,366,345,21,183,183
+2021-06-20,Leinster Lightning|North-West Warriors,"Pembroke Cricket Club, Sandymount, Dublin",North-West Warriors,365,346,19,182,183
+2021-06-20,Munster Reds|Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",Northern Knights,276,265,11,138,138
+2021-06-20,Yorkshire|Derbyshire,"Headingley, Leeds",Yorkshire,309,288,21,154,155
+2021-06-21,Karachi Kings|Peshawar Zalmi,"Sheikh Zayed Stadium, Abu Dhabi",Peshawar Zalmi,351,331,20,175,176
+2021-06-21,Multan Sultans|Islamabad United,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,329,324,5,164,165
+2021-06-21,Surrey|Essex,"Kennington Oval, London",Essex,237,227,10,118,119
+2021-06-22,Islamabad United|Peshawar Zalmi,"Sheikh Zayed Stadium, Abu Dhabi",Peshawar Zalmi,351,327,24,175,176
+2021-06-22,Kent|Gloucestershire,"County Ground, Bristol",Gloucestershire,296,284,12,148,148
+2021-06-22,Leicestershire|Derbyshire,"County Ground, Derby",Leicestershire,306,295,11,153,153
+2021-06-22,Worcestershire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,175,166,9,87,88
+2021-06-23,Durham|Northamptonshire,"Riverside Ground, Chester-le-Street",Northamptonshire,315,302,13,157,158
+2021-06-23,Sri Lanka|England,"Sophia Gardens, Cardiff",England,259,246,13,129,130
+2021-06-23,Surrey|Somerset,"Kennington Oval, London",Somerset,295,279,16,147,148
+2021-06-23,Yorkshire|Worcestershire,"Headingley, Leeds",Yorkshire,370,348,22,185,185
+2021-06-24,Birmingham Bears|Derbyshire,"Edgbaston, Birmingham",Derbyshire,337,322,15,168,169
+2021-06-24,Gloucestershire|Glamorgan,"County Ground, Bristol",Gloucestershire,398,388,10,199,199
+2021-06-24,Greece|Romania,"National Sports Academy, Sofia",Romania,316,287,29,158,158
+2021-06-24,Middlesex|Essex,"Lord's, London",Essex,367,353,14,183,184
+2021-06-24,Multan Sultans|Peshawar Zalmi,"Sheikh Zayed Stadium, Abu Dhabi",Multan Sultans,365,348,17,182,183
+2021-06-24,Sri Lanka|England,"Sophia Gardens, Cardiff",England,219,205,14,109,110
+2021-06-25,Bulgaria|Romania,"National Sports Academy, Sofia",Romania,318,292,26,159,159
+2021-06-25,Durham|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,359,333,26,179,180
+2021-06-25,Gloucestershire|Sussex,"County Ground, Hove",Gloucestershire,297,285,12,148,149
+2021-06-25,Kent|Essex,"County Ground, Chelmsford",Kent,198,195,3,99,99
+2021-06-25,Lancashire|Northamptonshire,"County Ground, Northampton",Northamptonshire,261,247,14,130,131
+2021-06-25,Leicestershire|Yorkshire,"Grace Road, Leicester",Leicestershire,380,356,24,190,190
+2021-06-25,Leinster Lightning|Munster Reds,"Bready Cricket Club, Magheramason, Bready",Munster Reds,270,242,28,135,135
+2021-06-25,Middlesex|Surrey,"Kennington Oval, London",Surrey,349,335,14,174,175
+2021-06-25,North-West Warriors|Northern Knights,"Bready Cricket Club, Magheramason, Bready",North-West Warriors,319,300,19,159,160
+2021-06-25,Romania|Serbia,"National Sports Academy, Sofia",Romania,291,260,31,145,146
+2021-06-25,Serbia|Greece,"National Sports Academy, Sofia",Greece,291,242,49,145,146
+2021-06-25,Somerset|Hampshire,"The Cooper Associates County Ground, Taunton",Somerset,337,308,29,168,169
+2021-06-26,Central Sparks|Southern Vipers,"Edgbaston, Birmingham",Southern Vipers,168,154,14,84,84
+2021-06-26,Durham|Birmingham Bears,"Edgbaston, Birmingham",Durham,294,282,12,147,147
+2021-06-26,England|Sri Lanka,"The Rose Bowl, Southampton",England,271,243,28,135,136
+2021-06-26,Leinster Lightning|Northern Knights,"Bready Cricket Club, Magheramason, Bready",Leinster Lightning,264,247,17,132,132
+2021-06-26,Lightning|South East Stars,"Trent Bridge, Nottingham",South East Stars,215,202,13,107,108
+2021-06-26,Munster Reds|North-West Warriors,"Bready Cricket Club, Magheramason, Bready",North-West Warriors,242,234,8,121,121
+2021-06-26,Nottinghamshire|Lancashire,"Trent Bridge, Nottingham",Nottinghamshire,339,329,10,169,170
+2021-06-26,Serbia|Romania,"National Sports Academy, Sofia",Romania,231,212,19,115,116
+2021-06-26,South Africa|West Indies,"National Cricket Stadium, St George's, Grenada",West Indies,321,310,11,160,161
+2021-06-26,Thunder|Northern Diamonds,"Headingley, Leeds",Thunder,224,198,26,112,112
+2021-06-26,Western Storm|Sunrisers,"The Cooper Associates County Ground, Taunton",Sunrisers,262,238,24,131,131
+2021-06-26,Yorkshire|Northamptonshire,"Headingley, Leeds",Yorkshire,366,342,24,183,183
+2021-06-27,Glamorgan|Middlesex,"Radlett Cricket Club, Radlett",Middlesex,341,325,16,170,171
+2021-06-27,India|England,"County Ground, Bristol",England,403,381,22,201,202
+2021-06-27,Leicestershire|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,313,292,21,156,157
+2021-06-27,Leinster Lightning|North-West Warriors,"Bready Cricket Club, Magheramason, Bready",Leinster Lightning,238,222,16,119,119
+2021-06-27,Northern Knights|Munster Reds,"Bready Cricket Club, Magheramason, Bready",Northern Knights,419,392,27,209,210
+2021-06-27,South Africa|West Indies,"National Cricket Stadium, St George's, Grenada",South Africa,316,291,25,158,158
+2021-06-28,Kent|Somerset,St Lawrence Ground,Somerset,337,314,23,168,169
+2021-06-29,Glamorgan|Surrey,"Sophia Gardens, Cardiff",Glamorgan,305,299,6,152,153
+2021-06-29,Leicestershire|Northamptonshire,"Grace Road, Leicester",Northamptonshire,279,265,14,139,140
+2021-06-29,Somerset|Essex,"County Ground, Chelmsford",Essex,304,284,20,152,152
+2021-06-29,South Africa|West Indies,"National Cricket Stadium, St George's, Grenada",South Africa,333,299,34,166,167
+2021-06-29,Sri Lanka|England,"Riverside Ground, Chester-le-Street",England,374,345,29,187,187
+2021-06-30,India|England,"The Cooper Associates County Ground, Taunton",England,446,410,36,223,223
+2021-06-30,Munster Reds|Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",Munster Reds,609,575,34,304,305
+2021-06-30,Northamptonshire|Durham,"County Ground, Northampton",Northamptonshire,316,303,13,158,158
+2021-06-30,Surrey|Hampshire,"The Rose Bowl, Southampton",Surrey,272,263,9,136,136
+2021-06-30,West Indies|Pakistan,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,262,248,14,131,131
+2021-06-30,Yorkshire|Birmingham Bears,"Edgbaston, Birmingham",Birmingham Bears,167,159,8,83,84
+2021-07-01,Glamorgan|Essex,"County Ground, Chelmsford",Essex,212,202,10,106,106
+2021-07-01,Gloucestershire|Somerset,"County Ground, Bristol",Somerset,326,309,17,163,163
+2021-07-01,Lancashire|Worcestershire,"Old Trafford, Manchester",Lancashire,284,271,13,142,142
+2021-07-01,Leicestershire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,310,295,15,155,155
+2021-07-01,Middlesex|Sussex,"Lord's, London",Middlesex,269,257,12,134,135
+2021-07-01,Sri Lanka|England,"Kennington Oval, London",England,485,459,26,242,243
+2021-07-01,West Indies|South Africa,"National Cricket Stadium, St George's, Grenada",West Indies,313,294,19,156,157
+2021-07-02,Derbyshire|Worcestershire,County Ground,Worcestershire,320,307,13,160,160
+2021-07-02,Durham|Leicestershire,"Riverside Ground, Chester-le-Street",Leicestershire,203,183,20,101,102
+2021-07-02,Hampshire|Gloucestershire,"The Rose Bowl, Southampton",Hampshire,342,325,17,171,171
+2021-07-02,Kent|Surrey,"St Lawrence Ground, Canterbury",Kent,371,357,14,185,186
+2021-07-02,Nottinghamshire|Birmingham Bears,"Edgbaston, Birmingham",Nottinghamshire,240,231,9,120,120
+2021-07-02,Somerset|Middlesex,"The Cooper Associates County Ground, Taunton",Somerset,266,238,28,133,133
+2021-07-02,Sunrisers|Northern Diamonds,"County Ground, Chelmsford",Northern Diamonds,233,219,14,116,117
+2021-07-02,Sussex|Glamorgan,"Sophia Gardens, Cardiff",Sussex,369,355,14,184,185
+2021-07-02,West Indies|Pakistan,"Coolidge Cricket Ground, Antigua",West Indies,228,198,30,114,114
+2021-07-02,Yorkshire|Lancashire,"Headingley, Leeds",Yorkshire,351,330,21,175,176
+2021-07-03,Central Sparks|South East Stars,"St Lawrence Ground, Canterbury",South East Stars,235,212,23,117,118
+2021-07-03,England|India,"County Ground, New Road, Worcester",India,439,420,19,219,220
+2021-07-03,South Africa|West Indies,"National Cricket Stadium, St George's, Grenada",South Africa,311,294,17,155,156
+2021-07-03,Southern Vipers|Lightning,Arundel Castle Cricket Club Ground,Southern Vipers,222,189,33,111,111
+2021-07-04,Derbyshire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,578,544,34,289,289
+2021-07-04,Pakistan|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,208,194,14,104,104
+2021-07-04,Thunder|Western Storm,"Boughton Hall Cricket Club Ground, Chester",Western Storm,146,126,20,73,73
+2021-07-04,Yorkshire|Northamptonshire,"County Ground, Northampton",Yorkshire,697,652,45,348,349
+2021-07-05,Gloucestershire|Middlesex,"College Ground, Cheltenham",Gloucestershire,876,810,66,438,438
+2021-07-07,Bangladesh|Zimbabwe,Harare Sports Club,Bangladesh,1284,1214,70,642,642
+2021-07-07,Pakistan|West Indies,"Coolidge Cricket Ground, Antigua",West Indies,414,388,26,207,207
+2021-07-08,Belgium|Malta,Marsa Sports Club,Malta,202,176,26,101,101
+2021-07-08,France|Germany,Bayer Uerdingen Cricket Ground,Germany,242,186,56,121,121
+2021-07-08,Malta|Belgium,Marsa Sports Club,Belgium,102,97,5,51,51
+2021-07-08,Pakistan|England,"Sophia Gardens, Cardiff",England,283,270,13,141,142
+2021-07-09,Durham|Derbyshire,"Riverside Ground, Chester-le-Street",Derbyshire,356,338,18,178,178
+2021-07-09,England|India,"County Ground, Northampton",England,231,216,15,115,116
+2021-07-09,Essex|Sussex,"County Ground, Hove",Sussex,294,282,12,147,147
+2021-07-09,Germany|France,Bayer Uerdingen Cricket Ground,Germany,199,151,48,99,100
+2021-07-09,Gloucestershire|Middlesex,"College Ground, Cheltenham",Gloucestershire,332,322,10,166,166
+2021-07-09,Hampshire|Somerset,"The Rose Bowl, Southampton",Hampshire,275,260,15,137,138
+2021-07-09,Malta|Belgium,Marsa Sports Club,Belgium,229,202,27,114,115
+2021-07-09,Northamptonshire|Lancashire,"Old Trafford, Manchester",Lancashire,286,260,26,143,143
+2021-07-09,Pakistan|West Indies,"Coolidge Cricket Ground, Antigua",West Indies,241,232,9,120,121
+2021-07-09,Surrey|Kent,"Kennington Oval, London",Kent,257,246,11,128,129
+2021-07-09,Thunder|Sunrisers,"Old Trafford, Manchester",Thunder,301,281,20,150,151
+2021-07-09,West Indies|Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,272,256,16,136,136
+2021-07-09,Worcestershire|Birmingham Bears,"County Ground, New Road, Worcester",Worcestershire,299,283,16,149,150
+2021-07-09,Yorkshire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,125,117,8,62,63
+2021-07-10,Belgium|Malta,Marsa Sports Club,Belgium,305,283,22,152,153
+2021-07-10,Belgium|Malta,Marsa Sports Club,Malta,253,222,31,126,127
+2021-07-10,England|Pakistan,"Lord's, London",England,442,423,19,221,221
+2021-07-10,Lightning|Central Sparks,"Grace Road, Leicester",Central Sparks,165,158,7,82,83
+2021-07-10,South East Stars|Southern Vipers,"St Lawrence Ground, Canterbury",Southern Vipers,257,245,12,128,129
+2021-07-10,West Indies|Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,336,308,28,168,168
+2021-07-10,Western Storm|Northern Diamonds,"The Cooper Associates County Ground, Taunton",Northern Diamonds,216,193,23,108,108
+2021-07-11,Gloucestershire|Hampshire,"College Ground, Cheltenham",Hampshire,1081,958,123,540,541
+2021-07-11,India|England,"County Ground, Hove",India,288,260,28,144,144
+2021-07-11,Middlesex|Leicestershire,"Merchant Taylors' School Ground, Northwood",Middlesex,919,855,64,459,460
+2021-07-12,Australia|West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,283,265,18,141,142
+2021-07-12,Pakistan|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,365,343,22,182,183
+2021-07-13,Ireland|South Africa,"The Village, Malahide, Dublin",Ireland,537,514,23,268,269
+2021-07-13,Pakistan|England,"Edgbaston, Birmingham",England,663,639,24,331,332
+2021-07-14,Australia|West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Australia,374,354,20,187,187
+2021-07-14,India|England,"County Ground, Chelmsford",England,307,294,13,153,154
+2021-07-15,West Indies|Pakistan,"Sir Vivian Richards Stadium, North Sound, Antigua",Pakistan,421,385,36,210,211
+2021-07-16,Bangladesh|Zimbabwe,Harare Sports Club,Bangladesh,397,373,24,198,199
+2021-07-16,Birmingham Bears|Worcestershire,"Edgbaston, Birmingham",Birmingham Bears,321,310,11,160,161
+2021-07-16,Gloucestershire|Surrey,"College Ground, Cheltenham",Surrey,355,335,20,177,178
+2021-07-16,Hampshire|Essex,"The Rose Bowl, Southampton",Hampshire,324,309,15,162,162
+2021-07-16,Kent|Middlesex,"Lord's, London",Kent,237,225,12,118,119
+2021-07-16,Lancashire|Durham,"Old Trafford, Manchester",Lancashire,392,379,13,196,196
+2021-07-16,Nottinghamshire|Leicestershire,"Grace Road, Leicester",Leicestershire,350,334,16,175,175
+2021-07-16,Pakistan|England,"Trent Bridge, Nottingham",Pakistan,433,416,17,216,217
+2021-07-16,Somerset|Glamorgan,"Sophia Gardens, Cardiff",Somerset,288,266,22,144,144
+2021-07-16,South Africa|Ireland,"The Village, Malahide, Dublin",South Africa,622,590,32,311,311
+2021-07-16,Sussex|Hampshire,"The Rose Bowl, Southampton",Hampshire,367,359,8,183,184
+2021-07-16,West Indies|Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,382,351,31,191,191
+2021-07-17,Yorkshire|Lancashire,"Old Trafford, Manchester",Lancashire,259,253,6,129,130
+2021-07-18,Birmingham Bears|Northamptonshire,"Edgbaston, Birmingham",Birmingham Bears,368,354,14,184,184
+2021-07-18,England|Pakistan,"Headingley, Leeds",England,355,341,14,177,178
+2021-07-18,Glamorgan|Hampshire,"The Rose Bowl, Southampton",Hampshire,371,354,17,185,186
+2021-07-18,Kent|Sussex,"St Lawrence Ground, Canterbury",Sussex,264,249,15,132,132
+2021-07-18,Middlesex|Essex,"County Ground, Chelmsford",Middlesex,329,310,19,164,165
+2021-07-18,Nottinghamshire|Durham,"Trent Bridge, Nottingham",Nottinghamshire,364,352,12,182,182
+2021-07-18,Pakistan|West Indies,"Coolidge Cricket Ground, Antigua",Pakistan,361,320,41,180,181
+2021-07-18,Somerset|Gloucestershire,"The Cooper Associates County Ground, Taunton",Somerset,343,322,21,171,172
+2021-07-18,Sri Lanka|India,"R Premadasa Stadium, Colombo",India,525,492,33,262,263
+2021-07-18,Worcestershire|Leicestershire,"Grace Road, Leicester",Leicestershire,340,329,11,170,170
+2021-07-18,Zimbabwe|Bangladesh,Harare Sports Club,Bangladesh,482,444,38,241,241
+2021-07-19,South Africa|Ireland,"The Village, Malahide, Dublin",South Africa,297,282,15,148,149
+2021-07-20,Australia|West Indies,"Kensington Oval, Bridgetown, Barbados",Australia,375,355,20,187,188
+2021-07-20,Pakistan|England,"Old Trafford, Manchester",England,309,298,11,154,155
+2021-07-20,Sri Lanka|India,"R Premadasa Stadium, Colombo",India,552,510,42,276,276
+2021-07-20,Zimbabwe|Bangladesh,Harare Sports Club,Bangladesh,600,553,47,300,300
+2021-07-21,Manchester Originals|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,274,256,18,137,137
+2021-07-22,Australia|West Indies,"Kensington Oval, Bridgetown, Barbados",West Indies,378,339,39,189,189
+2021-07-22,Derbyshire|Leicestershire,"Grace Road, Leicester",Leicestershire,554,521,33,277,277
+2021-07-22,Durham|Kent,"Kent County Cricket Ground, Beckenham",Durham,707,660,47,353,354
+2021-07-22,Hampshire|Essex,"The Rose Bowl, Southampton",Essex,548,520,28,274,274
+2021-07-22,Oval Invincibles|Manchester Originals,"Kennington Oval, London",Oval Invincibles,281,266,15,140,141
+2021-07-22,South Africa|Ireland,"Civil Service Cricket Club, Stormont, Belfast",South Africa,276,266,10,138,138
+2021-07-22,Warwickshire|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,446,408,38,223,223
+2021-07-22,Yorkshire|Surrey,"North Marine Road Ground, Scarborough",Surrey,333,318,15,166,167
+2021-07-22,Zimbabwe|Bangladesh,Harare Sports Club,Bangladesh,305,292,13,152,153
+2021-07-23,Birmingham Phoenix|London Spirit,"Edgbaston, Birmingham",London Spirit,260,247,13,130,130
+2021-07-23,India|Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,452,412,40,226,226
+2021-07-23,London Spirit|Birmingham Phoenix,"Edgbaston, Birmingham",Birmingham Phoenix,292,277,15,146,146
+2021-07-23,Sussex|Lancashire,"The Cricket Field, Sedbergh School",Lancashire,544,501,43,272,272
+2021-07-23,Zimbabwe|Bangladesh,Harare Sports Club,Zimbabwe,309,286,23,154,155
+2021-07-24,South Africa|Ireland,"Civil Service Cricket Club, Stormont, Belfast",South Africa,329,316,13,164,165
+2021-07-24,Southern Brave|Trent Rockets,"Trent Bridge, Nottingham",Southern Brave,243,230,13,121,122
+2021-07-24,Southern Brave|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,253,228,25,126,127
+2021-07-24,Welsh Fire|Northern Superchargers,"Headingley, Leeds",Northern Superchargers,261,247,14,130,131
+2021-07-24,Welsh Fire|Northern Superchargers,"Headingley, Leeds",Welsh Fire,341,326,15,170,171
+2021-07-25,Birmingham Phoenix|Manchester Originals,"Old Trafford, Manchester",Birmingham Phoenix,206,193,13,103,103
+2021-07-25,Birmingham Phoenix|Manchester Originals,"Old Trafford, Manchester",Manchester Originals,176,163,13,88,88
+2021-07-25,Derbyshire|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,597,576,21,298,299
+2021-07-25,Glamorgan|Northamptonshire,"County Ground, Northampton",Glamorgan,531,512,19,265,266
+2021-07-25,Gloucestershire|Lancashire,"County Ground, Bristol",Lancashire,348,318,30,174,174
+2021-07-25,India|Sri Lanka,"R Premadasa Stadium, Colombo",India,290,276,14,145,145
+2021-07-25,Kent|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,645,617,28,322,323
+2021-07-25,Leicestershire|Yorkshire,"Grace Road, Leicester",Yorkshire,656,622,34,328,328
+2021-07-25,Middlesex|Essex,"County Ground, Chelmsford",Essex,425,398,27,212,213
+2021-07-25,Nottinghamshire|Warwickshire,"Edgbaston, Birmingham",Nottinghamshire,560,547,13,280,280
+2021-07-25,Oval Invincibles|London Spirit,"Lord's, London",Oval Invincibles,249,236,13,124,125
+2021-07-25,Zimbabwe|Bangladesh,Harare Sports Club,Bangladesh,387,360,27,193,194
+2021-07-26,Ireland|Netherlands,"The Village, Malahide, Dublin",Ireland,292,274,18,146,146
+2021-07-26,Northern Superchargers|Trent Rockets,"Trent Bridge, Nottingham",Northern Superchargers,271,255,16,135,136
+2021-07-26,Northern Superchargers|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,266,241,25,133,133
+2021-07-26,West Indies|Australia,"Kensington Oval, Bridgetown, Barbados",Australia,305,282,23,152,153
+2021-07-27,Derbyshire|Warwickshire,"County Ground, Derby",Warwickshire,407,383,24,203,204
+2021-07-27,Durham|Middlesex,"Radlett Cricket Club, Radlett",Durham,513,486,27,256,257
+2021-07-27,Hampshire|Sussex,"The Rose Bowl, Southampton",Hampshire,558,533,25,279,279
+2021-07-27,Surrey|Nottinghamshire,"Woodbridge Road, Guildford",Surrey,577,542,35,288,289
+2021-07-27,Welsh Fire|Southern Brave,"Sophia Gardens, Cardiff",Southern Brave,222,204,18,111,111
+2021-07-27,Welsh Fire|Southern Brave,"Sophia Gardens, Cardiff",Welsh Fire,312,300,12,156,156
+2021-07-27,Worcestershire|Gloucestershire,"County Ground, Bristol",Worcestershire,310,290,20,155,155
+2021-07-28,India|Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,265,247,18,132,133
+2021-07-28,Somerset|Glamorgan,"The Cooper Associates County Ground, Taunton",Somerset,359,342,17,179,180
+2021-07-29,Durham|Gloucestershire,"North Marine Road Ground, Scarborough",Gloucestershire,671,642,29,335,336
+2021-07-29,India|Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,163,151,12,81,82
+2021-07-29,Netherlands|Ireland,"The Village, Malahide, Dublin",Ireland,219,201,18,109,110
+2021-07-29,Trent Rockets|London Spirit,"Lord's, London",Trent Rockets,523,499,24,261,262
+2021-07-29,Warwickshire|Leicestershire,"Edgbaston, Birmingham",Warwickshire,599,572,27,299,300
+2021-07-29,Worcestershire|Essex,"County Ground, Chelmsford",Worcestershire,494,479,15,247,247
+2021-07-30,Birmingham Phoenix|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,584,538,46,292,292
+2021-07-30,Ireland|Netherlands,"The Village, Malahide, Dublin",Netherlands,220,202,18,110,110
+2021-07-31,Manchester Originals|Welsh Fire,"Sophia Gardens, Cardiff",Welsh Fire,244,221,23,122,122
+2021-07-31,Northern Superchargers|Oval Invincibles,"Headingley, Leeds",Northern Superchargers,214,207,7,107,107
+2021-07-31,Oval Invincibles|Northern Superchargers,"Headingley, Leeds",Northern Superchargers,255,242,13,127,128
+2021-07-31,Pakistan|West Indies,"Providence Stadium, Guyana",Pakistan,307,292,15,153,154
+2021-07-31,Welsh Fire|Manchester Originals,"Sophia Gardens, Cardiff",Manchester Originals,303,280,23,151,152
+2021-08-01,Derbyshire|Northamptonshire,"County Ground, Northampton",Northamptonshire,360,346,14,180,180
+2021-08-01,Gloucestershire|Sussex,"County Ground, Hove",Gloucestershire,432,410,22,216,216
+2021-08-01,Hampshire|Lancashire,"The Rose Bowl, Southampton",Lancashire,277,263,14,138,139
+2021-08-01,Kent|Essex,"County Ground, Chelmsford",Essex,317,307,10,158,159
+2021-08-01,Leicestershire|Nottinghamshire,Welbeck Abbey Cricket Ground,Nottinghamshire,289,268,21,144,145
+2021-08-01,London Spirit|Southern Brave,"Lord's, London",Southern Brave,190,156,34,95,95
+2021-08-01,Middlesex|Worcestershire,"County Ground, New Road, Worcester",Middlesex,591,569,22,295,296
+2021-08-01,Southern Brave|London Spirit,"Lord's, London",Southern Brave,286,262,24,143,143
+2021-08-01,Trent Rockets|Birmingham Phoenix,"Edgbaston, Birmingham",Birmingham Phoenix,289,280,9,144,145
+2021-08-01,Trent Rockets|Birmingham Phoenix,"Edgbaston, Birmingham",Trent Rockets,279,260,19,139,140
+2021-08-01,Yorkshire|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,317,302,15,158,159
+2021-08-02,Welsh Fire|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,246,234,12,123,123
+2021-08-02,Welsh Fire|Oval Invincibles,"Kennington Oval, London",Welsh Fire,212,193,19,106,106
+2021-08-03,Bangladesh|Australia,"Shere Bangla National Stadium, Mirpur",Bangladesh,239,224,15,119,120
+2021-08-03,Gloucestershire|Essex,"County Ground, Bristol",Essex,411,384,27,205,206
+2021-08-03,Middlesex|Lancashire,"Old Trafford, Manchester",Middlesex,508,478,30,254,254
+2021-08-03,Northern Superchargers|London Spirit,"Lord's, London",London Spirit,255,246,9,127,128
+2021-08-03,Northern Superchargers|London Spirit,"Lord's, London",Northern Superchargers,247,234,13,123,124
+2021-08-03,Surrey|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,265,251,14,132,133
+2021-08-03,Yorkshire|Warwickshire,York Cricket Club,Yorkshire,601,568,33,300,301
+2021-08-04,Australia|Bangladesh,"Shere Bangla National Stadium, Mirpur",Bangladesh,244,236,8,122,122
+2021-08-04,Birmingham Phoenix|Oval Invincibles,"Edgbaston, Birmingham",Oval Invincibles,262,249,13,131,131
+2021-08-04,Derbyshire|Nottinghamshire,"County Ground, Derby",Derbyshire,475,445,30,237,238
+2021-08-04,Oval Invincibles|Birmingham Phoenix,"Edgbaston, Birmingham",Birmingham Phoenix,346,331,15,173,173
+2021-08-04,Worcestershire|Hampshire,"The Rose Bowl, Southampton",Hampshire,356,321,35,178,178
+2021-08-05,Durham|Lancashire,"Roseworth Terrace, Gosforth",Durham,567,547,20,283,284
+2021-08-05,Norway|France,Bayer Uerdingen Cricket Ground,France,225,198,27,112,113
+2021-08-05,Norway|Germany,Bayer Uerdingen Cricket Ground,Germany,156,149,7,78,78
+2021-08-05,Southern Brave|Manchester Originals,"Old Trafford, Manchester",Manchester Originals,220,206,14,110,110
+2021-08-06,Bangladesh|Australia,"Shere Bangla National Stadium, Mirpur",Bangladesh,244,236,8,122,122
+2021-08-06,France|Germany,Bayer Uerdingen Cricket Ground,Germany,191,182,9,95,96
+2021-08-06,Hampshire|Gloucestershire,"County Ground, Bristol",Gloucestershire,409,388,21,204,205
+2021-08-06,Kent|Middlesex,"Radlett Cricket Club, Radlett",Kent,413,395,18,206,207
+2021-08-06,Warwickshire|Northamptonshire,"Edgbaston, Birmingham",Warwickshire,422,405,17,211,211
+2021-08-06,Welsh Fire|Trent Rockets,"Sophia Gardens, Cardiff",Trent Rockets,484,449,35,242,242
+2021-08-06,Worcestershire|Sussex,"County Ground, New Road, Worcester",Sussex,467,448,19,233,234
+2021-08-07,Bangladesh|Australia,"Shere Bangla National Stadium, Mirpur",Australia,209,201,8,104,105
+2021-08-07,Germany|France,Bayer Uerdingen Cricket Ground,Germany,280,249,31,140,140
+2021-08-07,Leicestershire|Surrey,"Grace Road, Leicester",Leicestershire,478,442,36,239,239
+2021-08-07,Northern Superchargers|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,424,411,13,212,212
+2021-08-07,Norway|France,Bayer Uerdingen Cricket Ground,Norway,259,249,10,129,130
+2021-08-08,Derbyshire|Yorkshire,"Queen's Park, Chesterfield",Yorkshire,217,209,8,108,109
+2021-08-08,Essex|Durham,"Riverside Ground, Chester-le-Street",Durham,460,442,18,230,230
+2021-08-08,Kent|Hampshire,"Kent County Cricket Ground, Beckenham",Hampshire,212,206,6,106,106
+2021-08-08,Northamptonshire|Somerset,"County Ground, Northampton",Northamptonshire,528,502,26,264,264
+2021-08-08,Norway|Germany,Bayer Uerdingen Cricket Ground,Germany,223,214,9,111,112
+2021-08-08,Norway|Germany,Bayer Uerdingen Cricket Ground,Norway,319,301,18,159,160
+2021-08-08,Nottinghamshire|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,149,131,18,74,75
+2021-08-08,Oval Invincibles|Trent Rockets,"Kennington Oval, London",Oval Invincibles,241,214,27,120,121
+2021-08-09,Bangladesh|Australia,"Shere Bangla National Stadium, Mirpur",Bangladesh,184,165,19,92,92
+2021-08-09,Birmingham Phoenix|Welsh Fire,"Edgbaston, Birmingham",Birmingham Phoenix,275,253,22,137,138
+2021-08-09,Welsh Fire|Birmingham Phoenix,"Edgbaston, Birmingham",Birmingham Phoenix,258,244,14,129,129
+2021-08-10,Durham|Worcestershire,"County Ground, New Road, Worcester",Durham,532,496,36,266,266
+2021-08-10,Essex|Sussex,"County Ground, Chelmsford",Essex,545,528,17,272,273
+2021-08-10,London Spirit|Manchester Originals,"Old Trafford, Manchester",London Spirit,278,266,12,139,139
+2021-08-10,Manchester Originals|London Spirit,"Old Trafford, Manchester",London Spirit,258,241,17,129,129
+2021-08-10,Northamptonshire|Nottinghamshire,"Gorse Lane, Grantham",Nottinghamshire,421,389,32,210,211
+2021-08-10,Somerset|Leicestershire,"The Cooper Associates County Ground, Taunton",Leicestershire,653,620,33,326,327
+2021-08-10,Warwickshire|Surrey,"Kennington Oval, London",Surrey,537,504,33,268,269
+2021-08-11,Southern Brave|Welsh Fire,"The Rose Bowl, Southampton",Southern Brave,293,280,13,146,147
+2021-08-11,Welsh Fire|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,291,282,9,145,146
+2021-08-12,Derbyshire|Surrey,"County Ground, Derby",Surrey,434,418,16,217,217
+2021-08-12,Hampshire|Durham,"Riverside Ground, Chester-le-Street",Durham,453,428,25,226,227
+2021-08-12,India|England,"Lord's, London",India,1173,1081,92,586,587
+2021-08-12,Kent|Gloucestershire,"Kent County Cricket Ground, Beckenham",Gloucestershire,437,422,15,218,219
+2021-08-12,Leicestershire|Northamptonshire,"County Ground, Northampton",Leicestershire,532,516,16,266,266
+2021-08-12,Northern Superchargers|Manchester Originals,"Headingley, Leeds",Manchester Originals,253,236,17,126,127
+2021-08-12,Northern Superchargers|Manchester Originals,"Headingley, Leeds",Northern Superchargers,331,302,29,165,166
+2021-08-12,Pakistan|West Indies,"Sabina Park, Kingston, Jamaica",West Indies,841,787,54,420,421
+2021-08-12,Somerset|Warwickshire,"Edgbaston, Birmingham",Warwickshire,576,548,28,288,288
+2021-08-12,Sussex|Middlesex,"County Ground, Hove",Sussex,663,638,25,331,332
+2021-08-12,Yorkshire|Glamorgan,"Sophia Gardens, Cardiff",Yorkshire,456,421,35,228,228
+2021-08-13,Birmingham Phoenix|Trent Rockets,"Trent Bridge, Nottingham",Birmingham Phoenix,316,303,13,158,158
+2021-08-13,Trent Rockets|Birmingham Phoenix,"Trent Bridge, Nottingham",Birmingham Phoenix,254,234,20,127,127
+2021-08-14,Denmark|Sweden,"Svanholm Park, Brondby",Sweden,272,239,33,136,136
+2021-08-14,Essex|Yorkshire,"County Ground, Chelmsford",Essex,505,491,14,252,253
+2021-08-14,London Spirit|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,503,468,35,251,252
+2021-08-15,Gloucestershire|Surrey,"Kennington Oval, London",Surrey,488,466,22,244,244
+2021-08-15,Manchester Originals|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,271,257,14,135,136
+2021-08-15,Sweden|Denmark,"Svanholm Park, Brondby",Denmark,248,233,15,124,124
+2021-08-15,Trent Rockets|Manchester Originals,"Trent Bridge, Nottingham",Manchester Originals,246,218,28,123,123
+2021-08-16,Essex|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,582,545,37,291,291
+2021-08-16,Oval Invincibles|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,269,258,11,134,135
+2021-08-16,Southern Brave|Oval Invincibles,"The Rose Bowl, Southampton",Southern Brave,200,193,7,100,100
+2021-08-17,Birmingham Phoenix|Northern Superchargers,"Headingley, Leeds",Birmingham Phoenix,280,265,15,140,140
+2021-08-17,Northern Superchargers|Birmingham Phoenix,"Headingley, Leeds",Birmingham Phoenix,290,280,10,145,145
+2021-08-17,Surrey|Durham,"Riverside Ground, Chester-le-Street",Durham,561,535,26,280,281
+2021-08-18,Ghana|Rwanda,Gahanga International Cricket Stadium. Rwanda,Rwanda,329,298,31,164,165
+2021-08-18,London Spirit|Welsh Fire,"Sophia Gardens, Cardiff",Welsh Fire,328,321,7,164,164
+2021-08-18,Welsh Fire|London Spirit,"Sophia Gardens, Cardiff",London Spirit,191,177,14,95,96
+2021-08-19,Glamorgan|Durham,"Trent Bridge, Nottingham",Glamorgan,534,512,22,267,267
+2021-08-20,Ghana|Rwanda,Gahanga International Cricket Stadium. Rwanda,Ghana,196,166,30,98,98
+2021-08-20,Gibraltar|Malta,Gucherre Cricket Ground,Malta,297,267,30,148,149
+2021-08-20,Oval Invincibles|Birmingham Phoenix,"Kennington Oval, London",Oval Invincibles,208,193,15,104,104
+2021-08-20,Pakistan|West Indies,"Sabina Park, Kingston, Jamaica",Pakistan,847,783,64,423,424
+2021-08-20,Rwanda|Ghana,Gahanga International Cricket Stadium. Rwanda,Rwanda,215,188,27,107,108
+2021-08-20,Trent Rockets|Southern Brave,"Kennington Oval, London",Southern Brave,193,179,14,96,97
+2021-08-21,Malta|Gibraltar,Gucherre Cricket Ground,Malta,390,347,43,195,195
+2021-08-21,Oval Invincibles|Southern Brave,"Lord's, London",Oval Invincibles,194,185,9,97,97
+2021-08-21,Rwanda|Ghana,Gahanga International Cricket Stadium. Rwanda,Ghana,295,275,20,147,148
+2021-08-21,Southern Brave|Birmingham Phoenix,"Lord's, London",Southern Brave,304,293,11,152,152
+2021-08-21,Sweden|Finland,Kerava National Cricket Ground,Finland,557,514,43,278,279
+2021-08-22,Finland|Sweden,Kerava National Cricket Ground,Sweden,545,505,40,272,273
+2021-08-22,Portugal|Gibraltar,Gucherre Cricket Ground,Portugal,326,289,37,163,163
+2021-08-24,Yorkshire|Sussex,"Riverside Ground, Chester-le-Street",Sussex,355,328,27,177,178
+2021-08-25,Hampshire|Nottinghamshire,"Trent Bridge, Nottingham",Hampshire,248,238,10,124,124
+2021-08-25,India|England,"Headingley, Leeds",England,788,736,52,394,394
+2021-08-25,Northern Diamonds|Sunrisers,"Roseworth Terrace, Gosforth",Northern Diamonds,221,199,22,110,111
+2021-08-25,South East Stars|Lightning,"Woodbridge Road, Guildford",South East Stars,322,299,23,161,161
+2021-08-25,Southern Vipers|Central Sparks,"County Ground, Hove",Central Sparks,325,304,21,162,163
+2021-08-25,Thunder|Western Storm,"Sophia Gardens, Cardiff",Western Storm,201,184,17,100,101
+2021-08-26,France|Netherlands,La Manga Club Top Ground,Netherlands,67,50,17,33,34
+2021-08-26,Guyana Amazon Warriors|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",Guyana Amazon Warriors,275,249,26,137,138
+2021-08-26,Ireland|Germany,La Manga Club Bottom Ground,Ireland,228,202,26,114,114
+2021-08-26,Lancashire|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,369,343,26,184,185
+2021-08-26,Netherlands|Scotland,La Manga Club Top Ground,Scotland,197,186,11,98,99
+2021-08-26,St Kitts and Nevis Patriots|Barbados Royals,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,329,287,42,164,165
+2021-08-27,Barbados Royals|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,247,226,21,123,124
+2021-08-27,France|Germany,La Manga Club Bottom Ground,Germany,91,64,27,45,46
+2021-08-27,Germany|Netherlands,La Manga Club Bottom Ground,Netherlands,143,117,26,71,72
+2021-08-27,Ireland|Scotland,La Manga Club Top Ground,Scotland,181,166,15,90,91
+2021-08-27,Jamaica Tallawahs|St Lucia Kings,"Warner Park, Basseterre, St Kitts",Jamaica Tallawahs,390,359,31,195,195
+2021-08-27,Kent|Birmingham Bears,"St Lawrence Ground, Canterbury",Kent,303,288,15,151,152
+2021-08-27,Thailand|Zimbabwe,"Takashinga Sports Club, Highfield, Harare",Zimbabwe,211,201,10,105,106
+2021-08-27,Zimbabwe|Ireland,"Castle Avenue, Dublin",Zimbabwe,231,223,8,115,116
+2021-08-28,Barbados Royals|Jamaica Tallawahs,"Warner Park, Basseterre, St Kitts",Barbados Royals,307,276,31,153,154
+2021-08-28,Guyana Amazon Warriors|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,293,264,29,146,147
+2021-08-28,Lightning|Central Sparks,"County Ground, New Road, Worcester",Central Sparks,275,248,27,137,138
+2021-08-28,Northern Diamonds|Western Storm,"Riverside Ground, Chester-le-Street",Western Storm,221,202,19,110,111
+2021-08-28,South East Stars|Southern Vipers,"The Rose Bowl, Southampton",South East Stars,314,297,17,157,157
+2021-08-28,Thailand|Zimbabwe,"Takashinga Sports Club, Highfield, Harare",Thailand,255,244,11,127,128
+2021-08-29,France|Ireland,La Manga Club Bottom Ground,Ireland,49,30,19,24,25
+2021-08-29,Germany|Scotland,La Manga Club Top Ground,Scotland,73,56,17,36,37
+2021-08-29,Guyana Amazon Warriors|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,334,300,34,167,167
+2021-08-29,Norway|Sweden,Guttsta Wicked Cricket Club,Sweden,105,64,41,52,53
+2021-08-29,St Lucia Kings|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",St Lucia Kings,309,278,31,154,155
+2021-08-29,Zimbabwe|Ireland,"Castle Avenue, Dublin",Ireland,305,281,24,152,153
+2021-08-30,France|Scotland,La Manga Club Bottom Ground,Scotland,49,41,8,24,25
+2021-08-30,Glamorgan|Essex,"Sophia Gardens, Cardiff",Essex,566,533,33,283,283
+2021-08-30,Ireland|Netherlands,La Manga Club Top Ground,Ireland,198,183,15,99,99
+2021-08-30,Kent|Leicestershire,"Grace Road, Leicester",Kent,856,805,51,428,428
+2021-08-30,Lightning|Southern Vipers,"County Ground, Derby",Southern Vipers,249,212,37,124,125
+2021-08-30,Middlesex|Derbyshire,"Lord's, London",Middlesex,964,939,25,482,482
+2021-08-30,Northamptonshire|Gloucestershire,"County Ground, Bristol",Gloucestershire,914,831,83,457,457
+2021-08-30,Nottinghamshire|Somerset,"The Cooper Associates County Ground, Taunton",Nottinghamshire,736,695,41,368,368
+2021-08-30,South East Stars|Central Sparks,"Edgbaston Foundation Community Sports Ground, Birmingham",South East Stars,304,287,17,152,152
+2021-08-30,Sussex|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,1055,989,66,527,528
+2021-08-30,Thailand|Zimbabwe,"Takashinga Sports Club, Highfield, Harare",Thailand,241,234,7,120,121
+2021-08-30,Thunder|Northern Diamonds,"Boughton Hall Cricket Club Ground, Chester",Northern Diamonds,182,172,10,91,91
+2021-08-30,Western Storm|Sunrisers,"FP Fenner's Ground, Cambridge",Western Storm,289,264,25,144,145
+2021-08-31,Barbados Royals|Jamaica Tallawahs,"Warner Park, Basseterre, St Kitts",Jamaica Tallawahs,306,293,13,153,153
+2021-08-31,Trinbago Knight Riders|St Lucia Kings,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,289,261,28,144,145
+2021-09-01,England|New Zealand,"County Ground, Chelmsford",England,322,306,16,161,161
+2021-09-01,Ireland|Zimbabwe,"Bready Cricket Club, Magheramason, Bready",Ireland,316,302,14,158,158
+2021-09-01,Jamaica Tallawahs|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,335,296,39,167,168
+2021-09-01,New Zealand|Bangladesh,"Shere Bangla National Stadium, Mirpur",Bangladesh,122,115,7,61,61
+2021-09-02,Barbados Royals|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,323,298,25,161,162
+2021-09-02,Hungary|Czech Republic,"Moara Vlasiei Cricket Ground, Ilfov County",Hungary,325,295,30,162,163
+2021-09-02,India|England,"Kennington Oval, London",India,1157,1103,54,578,579
+2021-09-02,Ireland|Zimbabwe,"Bready Cricket Club, Magheramason, Bready",Ireland,284,268,16,142,142
+2021-09-02,Luxembourg|Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",Luxembourg,312,275,37,156,156
+2021-09-02,South Africa|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",South Africa,280,271,9,140,140
+2021-09-02,Sri Lanka|South Africa,"R Premadasa Stadium, Colombo",Sri Lanka,586,559,27,293,293
+2021-09-02,St Lucia Kings|Guyana Amazon Warriors,"Warner Park, Basseterre, St Kitts",St Lucia Kings,247,236,11,123,124
+2021-09-03,Bangladesh|New Zealand,"Shere Bangla National Stadium, Mirpur",Bangladesh,278,269,9,139,139
+2021-09-03,Bulgaria|Malta,"Moara Vlasiei Cricket Ground, Ilfov County",Malta,225,185,40,112,113
+2021-09-03,Romania|Czech Republic,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,387,331,56,193,194
+2021-09-03,Romania|Hungary,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,382,338,44,191,191
+2021-09-04,Barbados Royals|Guyana Amazon Warriors,"Warner Park, Basseterre, St Kitts",Guyana Amazon Warriors,266,251,15,133,133
+2021-09-04,England|New Zealand,"County Ground, Hove",New Zealand,255,227,28,127,128
+2021-09-04,Luxembourg|Hungary,"Moara Vlasiei Cricket Ground, Ilfov County",Luxembourg,356,332,24,178,178
+2021-09-04,Romania|Malta,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,368,321,47,184,184
+2021-09-04,South Africa|Sri Lanka,"R Premadasa Stadium, Colombo",South Africa,480,458,22,240,240
+2021-09-04,South Africa|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,161,153,8,80,81
+2021-09-04,St Lucia Kings|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Lucia Kings,348,334,14,174,174
+2021-09-04,Zimbabwe|Ireland,"Bready Cricket Club, Magheramason, Bready",Zimbabwe,243,222,21,121,122
+2021-09-05,Glamorgan|Durham,"Riverside Ground, Chester-le-Street",Durham,964,917,47,482,482
+2021-09-05,Gloucestershire|Essex,"County Ground, Chelmsford",Essex,549,534,15,274,275
+2021-09-05,Hampshire|Warwickshire,"Edgbaston, Birmingham",Hampshire,762,717,45,381,381
+2021-09-05,Jamaica Tallawahs|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,289,265,24,144,145
+2021-09-05,Malta|Hungary,"Moara Vlasiei Cricket Ground, Ilfov County",Hungary,341,305,36,170,171
+2021-09-05,New Zealand|Bangladesh,"Shere Bangla National Stadium, Mirpur",New Zealand,204,198,6,102,102
+2021-09-05,Northern Diamonds|South East Stars,"The Rose Bowl, Southampton",South East Stars,277,266,11,138,139
+2021-09-05,Northern Diamonds|Southern Vipers,"The Rose Bowl, Southampton",Northern Diamonds,252,224,28,126,126
+2021-09-05,Nottinghamshire|Lancashire,"Trent Bridge, Nottingham",Nottinghamshire,1120,1058,62,560,560
+2021-09-05,Romania|Luxembourg,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,279,247,32,139,140
+2021-09-05,Somerset|Yorkshire,"North Marine Road Ground, Scarborough",Yorkshire,583,550,33,291,292
+2021-09-05,St Kitts and Nevis Patriots|St Lucia Kings,"Warner Park, Basseterre, St Kitts",St Lucia Kings,239,228,11,119,120
+2021-09-05,Surrey|Northamptonshire,"County Ground, Northampton",Northamptonshire,983,902,81,491,492
+2021-09-05,Worcestershire|Kent,"St Lawrence Ground, Canterbury",Kent,730,682,48,365,365
+2021-09-06,Middlesex|Sussex,"County Ground, Hove",Middlesex,1298,1208,90,649,649
+2021-09-06,Papua New Guinea|United States of America,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United States of America,317,301,16,158,159
+2021-09-07,Barbados Royals|Guyana Amazon Warriors,"Warner Park, Basseterre, St Kitts",Barbados Royals,325,299,26,162,163
+2021-09-07,Papua New Guinea|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,269,257,12,134,135
+2021-09-07,Sri Lanka|South Africa,"R Premadasa Stadium, Colombo",Sri Lanka,328,306,22,164,164
+2021-09-07,Trinbago Knight Riders|Jamaica Tallawahs,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,259,229,30,129,130
+2021-09-07,West Indies|South Africa,"Coolidge Cricket Ground, Antigua",South Africa,310,284,26,155,155
+2021-09-08,Guyana Amazon Warriors|St Lucia Kings,"Warner Park, Basseterre, St Kitts",Guyana Amazon Warriors,285,262,23,142,143
+2021-09-08,Jamaica Tallawahs|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",Jamaica Tallawahs,316,288,28,158,158
+2021-09-08,New Zealand|Bangladesh,"Shere Bangla National Stadium, Mirpur",Bangladesh,189,182,7,94,95
+2021-09-08,Zimbabwe|Ireland,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,494,462,32,247,247
+2021-09-09,Barbados Royals|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,192,185,7,96,96
+2021-09-09,Botswana|Eswatini,"Botswana Cricket Association Oval 1, Gaborone",Botswana,253,181,72,126,127
+2021-09-09,Jamaica Tallawahs|St Lucia Kings,"Warner Park, Basseterre, St Kitts",Jamaica Tallawahs,367,347,20,183,184
+2021-09-09,Mozambique|Rwanda,"Botswana Cricket Association Oval 1, Gaborone",Rwanda,35,20,15,17,18
+2021-09-09,New Zealand|England,"The Cooper Associates County Ground, Taunton",England,289,274,15,144,145
+2021-09-09,Sierra Leone|Nigeria,"Botswana Cricket Association Oval 2, Gaborone",Nigeria,205,169,36,102,103
+2021-09-09,United States of America|Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United States of America,408,386,22,204,204
+2021-09-10,Botswana|Mozambique,"Botswana Cricket Association Oval 1, Gaborone",Botswana,192,155,37,96,96
+2021-09-10,Kenya|Uganda,Entebbe Cricket Oval,Kenya,280,261,19,140,140
+2021-09-10,Namibia|Nigeria,"Botswana Cricket Association Oval 2, Gaborone",Namibia,191,164,27,95,96
+2021-09-10,Nepal|Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,315,287,28,157,158
+2021-09-10,New Zealand|Bangladesh,"Shere Bangla National Stadium, Mirpur",New Zealand,295,290,5,147,148
+2021-09-10,South Africa|Sri Lanka,"R Premadasa Stadium, Colombo",South Africa,298,282,16,149,149
+2021-09-10,South East Stars|Lightning,"Kent County Cricket Ground, Beckenham",South East Stars,558,514,44,279,279
+2021-09-10,Spain|Germany,"Desert Springs Cricket Ground, Almeria",Germany,260,241,19,130,130
+2021-09-10,Sunrisers|Central Sparks,"Merchant Taylors' School Ground, Northwood",Central Sparks,412,364,48,206,206
+2021-09-10,Tanzania|Zimbabwe,"Botswana Cricket Association Oval 1, Gaborone",Zimbabwe,207,188,19,103,104
+2021-09-10,Thunder|Southern Vipers,"Rookwood, Sale",Southern Vipers,222,193,29,111,111
+2021-09-10,West Indies|South Africa,"Coolidge Cricket Ground, Antigua",South Africa,241,225,16,120,121
+2021-09-10,Western Storm|Northern Diamonds,"Riverside Ground, Chester-le-Street",Northern Diamonds,367,330,37,183,184
+2021-09-11,Eswatini|Zimbabwe,"Botswana Cricket Association Oval 1, Gaborone",Zimbabwe,35,25,10,17,18
+2021-09-11,Germany|Spain,"Desert Springs Cricket Ground, Almeria",Spain,470,429,41,235,235
+2021-09-11,Guyana Amazon Warriors|Jamaica Tallawahs,"Warner Park, Basseterre, St Kitts",Guyana Amazon Warriors,292,272,20,146,146
+2021-09-11,Nigeria|Kenya,Entebbe Cricket Oval,Kenya,215,205,10,107,108
+2021-09-11,St Lucia Kings|Barbados Royals,"Warner Park, Basseterre, St Kitts",St Lucia Kings,330,310,20,165,165
+2021-09-11,Tanzania|Mozambique,"Botswana Cricket Association Oval 1, Gaborone",Tanzania,256,216,40,128,128
+2021-09-11,Trinbago Knight Riders|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,319,297,22,159,160
+2021-09-11,Uganda|Nigeria,"Botswana Cricket Association Oval 2, Gaborone",Uganda,165,148,17,82,83
+2021-09-11,Uganda|Nigeria,Entebbe Cricket Oval,Uganda,248,236,12,124,124
+2021-09-12,Central Sparks|South East Stars,"County Ground, New Road, Worcester",Central Sparks,343,298,45,171,172
+2021-09-12,Glamorgan|Gloucestershire,"Sophia Gardens, Cardiff",Gloucestershire,867,798,69,433,434
+2021-09-12,Guyana Amazon Warriors|Jamaica Tallawahs,"Warner Park, Basseterre, St Kitts",Guyana Amazon Warriors,270,253,17,135,135
+2021-09-12,Hampshire|Nottinghamshire,"The Rose Bowl, Southampton",Hampshire,686,659,27,343,343
+2021-09-12,Kent|Derbyshire,"County Ground, Derby",Kent,862,816,46,431,431
+2021-09-12,Lancashire|Somerset,"The Cooper Associates County Ground, Taunton",Lancashire,809,752,57,404,405
+2021-09-12,Middlesex|Worcestershire,"Lord's, London",Middlesex,681,647,34,340,341
+2021-09-12,Northern Diamonds|Thunder,"Riverside Ground, Chester-le-Street",Northern Diamonds,483,461,22,241,242
+2021-09-12,Rwanda|Eswatini,"Botswana Cricket Association Oval 1, Gaborone",Rwanda,223,175,48,111,112
+2021-09-12,Southern Vipers|Sunrisers,"County Ground, Chelmsford",Southern Vipers,617,550,67,308,309
+2021-09-12,Sri Lanka|South Africa,"R Premadasa Stadium, Colombo",South Africa,208,193,15,104,104
+2021-09-12,St Kitts and Nevis Patriots|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,297,266,31,148,149
+2021-09-12,St Lucia Kings|Barbados Royals,"Warner Park, Basseterre, St Kitts",Barbados Royals,381,357,24,190,191
+2021-09-12,Sussex|Leicestershire,"Grace Road, Leicester",Leicestershire,979,895,84,489,490
+2021-09-12,Warwickshire|Yorkshire,"Headingley, Leeds",Warwickshire,556,531,25,278,278
+2021-09-12,Western Storm|Lightning,"County Ground, Bristol",Western Storm,394,364,30,197,197
+2021-09-13,Kenya|Nigeria,Entebbe Cricket Oval,Kenya,263,241,22,131,132
+2021-09-13,Nigeria|Uganda,Entebbe Cricket Oval,Uganda,247,237,10,123,124
+2021-09-13,Tanzania|Rwanda,"Botswana Cricket Association Oval 1, Gaborone",Tanzania,165,152,13,82,83
+2021-09-13,United States of America|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,461,448,13,230,231
+2021-09-13,West Indies|South Africa,"Coolidge Cricket Ground, Antigua",South Africa,315,288,27,157,158
+2021-09-13,Zimbabwe|Ireland,"Civil Service Cricket Club, Stormont, Belfast",Ireland,249,229,20,124,125
+2021-09-14,Guyana Amazon Warriors|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,359,332,27,179,180
+2021-09-14,Nepal|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,396,383,13,198,198
+2021-09-14,Sierra Leone|Uganda,"Botswana Cricket Association Oval 2, Gaborone",Uganda,173,148,25,86,87
+2021-09-14,Sri Lanka|South Africa,"R Premadasa Stadium, Colombo",South Africa,241,231,10,120,121
+2021-09-14,St Lucia Kings|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",St Lucia Kings,389,352,37,194,195
+2021-09-14,Tanzania|Eswatini,"Botswana Cricket Association Oval 1, Gaborone",Tanzania,302,250,52,151,151
+2021-09-15,Cameroon|Sierra Leone,"Botswana Cricket Association Oval 2, Gaborone",Sierra Leone,153,119,34,76,77
+2021-09-15,Scotland|Zimbabwe,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,275,253,22,137,138
+2021-09-15,St Lucia Kings|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,319,301,18,159,160
+2021-09-15,Uganda|Nigeria,Entebbe Cricket Oval,Uganda,289,265,24,144,145
+2021-09-16,Botswana|Tanzania,"Botswana Cricket Association Oval 1, Gaborone",Tanzania,165,156,9,82,83
+2021-09-16,England|New Zealand,"County Ground, Bristol",England,452,410,42,226,226
+2021-09-16,Mozambique|Eswatini,"Botswana Cricket Association Oval 1, Gaborone",Mozambique,193,145,48,96,97
+2021-09-16,Nigeria|Kenya,Entebbe Cricket Oval,Nigeria,240,229,11,120,120
+2021-09-16,South Africa|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",South Africa,335,300,35,167,168
+2021-09-16,United States of America|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,357,345,12,178,179
+2021-09-16,Zimbabwe|Rwanda,"Botswana Cricket Association Oval 2, Gaborone",Zimbabwe,232,211,21,116,116
+2021-09-17,Uganda|Kenya,Entebbe Cricket Oval,Uganda,234,219,15,117,117
+2021-09-17,Zimbabwe|Scotland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Zimbabwe,262,242,20,131,131
+2021-09-17,Zimbabwe|Uganda,"Botswana Cricket Association Oval 1, Gaborone",Zimbabwe,202,170,32,101,101
+2021-09-18,Hampshire|Somerset,"Edgbaston, Birmingham",Somerset,303,294,9,151,152
+2021-09-18,Kent|Somerset,"Edgbaston, Birmingham",Kent,309,297,12,154,155
+2021-09-18,Kent|Sussex,"Edgbaston, Birmingham",Kent,315,299,16,157,158
+2021-09-18,Lightning|Central Sparks,"Haslegrave Ground, Loughborough",Lightning,616,558,58,308,308
+2021-09-18,North-West Warriors|Munster Reds,"The Green, Comber",Munster Reds,305,270,35,152,153
+2021-09-18,Northern Diamonds|Southern Vipers,"The Rose Bowl, Southampton",Southern Vipers,516,476,40,258,258
+2021-09-18,Thunder|South East Stars,"Kent County Cricket Ground, Beckenham",Thunder,315,286,29,157,158
+2021-09-18,Western Storm|Sunrisers,"County Ground, Bristol",Western Storm,590,538,52,295,295
+2021-09-19,Chennai Super Kings|Mumbai Indians,Dubai International Cricket Stadium,Chennai Super Kings,292,277,15,146,146
+2021-09-19,England|New Zealand,"County Ground, New Road, Worcester",England,366,330,36,183,183
+2021-09-19,Leinster Lightning|North-West Warriors,"The Green, Comber",North-West Warriors,232,213,19,116,116
+2021-09-19,Munster Reds|Northern Knights,"The Green, Comber",Northern Knights,146,136,10,73,73
+2021-09-19,Oman|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,243,214,29,121,122
+2021-09-19,Scotland|Zimbabwe,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Zimbabwe,357,334,23,178,179
+2021-09-19,Uganda|Tanzania,"Botswana Cricket Association Oval 1, Gaborone",Tanzania,161,141,20,80,81
+2021-09-19,Zimbabwe|Namibia,"Botswana Cricket Association Oval 1, Gaborone",Zimbabwe,253,221,32,126,127
+2021-09-20,Royal Challengers Bangalore|Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,186,175,11,93,93
+2021-09-21,Derbyshire|Sussex,"County Ground, Hove",Derbyshire,975,897,78,487,488
+2021-09-21,Durham|Gloucestershire,"County Ground, Bristol",Gloucestershire,543,500,43,271,272
+2021-09-21,England|New Zealand,"Grace Road, Leicester",New Zealand,359,322,37,179,180
+2021-09-21,Hampshire|Lancashire,"Aigburth, Liverpool",Lancashire,675,638,37,337,338
+2021-09-21,India|Australia,"Ray Mitchell Oval, Harrup Park, Mackay",Australia,452,426,26,226,226
+2021-09-21,Leicestershire|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,867,798,69,433,434
+2021-09-21,Middlesex|Kent,"St Lawrence Ground, Canterbury",Kent,1023,952,71,511,512
+2021-09-21,Northamptonshire|Essex,"County Ground, Chelmsford",Essex,296,287,9,148,148
+2021-09-21,Nottinghamshire|Yorkshire,"Trent Bridge, Nottingham",Nottinghamshire,939,884,55,469,470
+2021-09-21,Rajasthan Royals|Punjab Kings,Dubai International Cricket Stadium,Rajasthan Royals,368,350,18,184,184
+2021-09-21,Warwickshire|Somerset,"Edgbaston, Birmingham",Warwickshire,1204,1110,94,602,602
+2021-09-22,Central Sparks|Northern Diamonds,"North Marine Road Ground, Scarborough",Northern Diamonds,351,307,44,175,176
+2021-09-22,Sunrisers Hyderabad|Delhi Capitals,Dubai International Cricket Stadium,Delhi Capitals,273,256,17,136,137
+2021-09-22,Western Australia|South Australia,"Karen Rolton Oval, Adelaide",Western Australia,589,571,18,294,295
+2021-09-23,Mumbai Indians|Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,314,298,16,157,157
+2021-09-23,New Zealand|England,"County Ground, Derby",England,489,466,23,244,245
+2021-09-24,India|Australia,"Ray Mitchell Oval, Harrup Park, Mackay",Australia,549,501,48,274,275
+2021-09-24,Royal Challengers Bangalore|Chennai Super Kings,Sharjah Cricket Stadium,Chennai Super Kings,313,303,10,156,157
+2021-09-25,Delhi Capitals|Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,275,260,15,137,138
+2021-09-25,Northern Diamonds|Southern Vipers,"County Ground, Northampton",Southern Vipers,370,333,37,185,185
+2021-09-25,Papua New Guinea|Scotland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,395,365,30,197,198
+2021-09-25,Punjab Kings|Sunrisers Hyderabad,Sharjah Cricket Stadium,Punjab Kings,245,231,14,122,123
+2021-09-26,Australia|India,"Ray Mitchell Oval, Harrup Park, Mackay",India,530,485,45,265,265
+2021-09-26,England|New Zealand,"St Lawrence Ground, Canterbury",England,491,456,35,245,246
+2021-09-26,Kolkata Knight Riders|Chennai Super Kings,"Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,343,330,13,171,172
+2021-09-26,Oman|Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,390,376,14,195,195
+2021-09-26,Royal Challengers Bangalore|Mumbai Indians,Dubai International Cricket Stadium,Royal Challengers Bangalore,276,258,18,138,138
+2021-09-27,Rajasthan Royals|Sunrisers Hyderabad,Dubai International Cricket Stadium,Sunrisers Hyderabad,331,307,24,165,166
+2021-09-28,Delhi Capitals|Kolkata Knight Riders,Sharjah Cricket Stadium,Kolkata Knight Riders,257,246,11,128,129
+2021-09-28,Lancashire|Warwickshire,"Lord's, London",Warwickshire,837,792,45,418,419
+2021-09-28,Punjab Kings|Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,272,264,8,136,136
+2021-09-28,Scotland|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,528,509,19,264,264
+2021-09-29,Papua New Guinea|Scotland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,454,426,28,227,227
+2021-09-29,Rajasthan Royals|Royal Challengers Bangalore,Dubai International Cricket Stadium,Royal Challengers Bangalore,302,290,12,151,151
+2021-09-30,Sunrisers Hyderabad|Chennai Super Kings,Sharjah Cricket Stadium,Chennai Super Kings,273,260,13,136,137
+2021-10-01,Kolkata Knight Riders|Punjab Kings,Dubai International Cricket Stadium,Punjab Kings,333,319,14,166,167
+2021-10-01,Papua New Guinea|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,301,280,21,150,151
+2021-10-02,Chennai Super Kings|Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,379,367,12,189,190
+2021-10-02,Mumbai Indians|Delhi Capitals,Sharjah Cricket Stadium,Delhi Capitals,261,249,12,130,131
+2021-10-03,Royal Challengers Bangalore|Punjab Kings,Sharjah Cricket Stadium,Royal Challengers Bangalore,322,304,18,161,161
+2021-10-03,Sunrisers Hyderabad|Kolkata Knight Riders,Dubai International Cricket Stadium,Kolkata Knight Riders,234,229,5,117,117
+2021-10-04,Chennai Super Kings|Delhi Capitals,Dubai International Cricket Stadium,Delhi Capitals,275,252,23,137,138
+2021-10-05,Estonia|Cyprus,Happy Valley Ground,Cyprus,468,418,50,234,234
+2021-10-05,Ireland|Zimbabwe,Harare Sports Club,Zimbabwe,507,452,55,253,254
+2021-10-05,Rajasthan Royals|Mumbai Indians,Sharjah Cricket Stadium,Mumbai Indians,184,177,7,92,92
+2021-10-06,Cyprus|Isle of Man,Happy Valley Ground,Isle of Man,185,173,12,92,93
+2021-10-06,Estonia|Isle of Man,Happy Valley Ground,Isle of Man,240,219,21,120,120
+2021-10-06,Sunrisers Hyderabad|Royal Challengers Bangalore,"Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,278,271,7,139,139
+2021-10-07,Chennai Super Kings|Punjab Kings,Dubai International Cricket Stadium,Punjab Kings,273,259,14,136,137
+2021-10-07,Cyprus|Isle of Man,Happy Valley Ground,Isle of Man,300,282,18,150,150
+2021-10-07,Ireland|Zimbabwe,Harare Sports Club,Ireland,492,446,46,246,246
+2021-10-07,Kolkata Knight Riders|Rajasthan Royals,Sharjah Cricket Stadium,Kolkata Knight Riders,256,238,18,128,128
+2021-10-07,United Arab Emirates|Ireland,"ICC Academy, Dubai",Ireland,247,236,11,123,124
+2021-10-08,Cyprus|Estonia,Happy Valley Ground,Cyprus,281,263,18,140,141
+2021-10-08,Delhi Capitals|Royal Challengers Bangalore,Dubai International Cricket Stadium,Royal Challengers Bangalore,330,314,16,165,165
+2021-10-08,Estonia|Isle of Man,Happy Valley Ground,Isle of Man,143,132,11,71,72
+2021-10-08,Mumbai Indians|Sunrisers Hyderabad,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,428,407,21,214,214
+2021-10-08,Papua New Guinea|Scotland,"ICC Academy, Dubai",Scotland,310,293,17,155,155
+2021-10-08,United Arab Emirates|Ireland,"ICC Academy, Dubai",United Arab Emirates,272,257,15,136,136
+2021-10-09,India|Australia,Carrara Oval,Australia,237,219,18,118,119
+2021-10-09,Scotland|Namibia,"ICC Academy, Dubai",Namibia,275,256,19,137,138
+2021-10-09,Zimbabwe|Ireland,Harare Sports Club,Ireland,357,320,37,178,179
+2021-10-10,Australia|India,Carrara Oval,Australia,284,273,11,142,142
+2021-10-10,Delhi Capitals|Chennai Super Kings,Dubai International Cricket Stadium,Chennai Super Kings,345,335,10,172,173
+2021-10-10,Ireland|United Arab Emirates,"ICC Academy, Dubai",United Arab Emirates,273,262,11,136,137
+2021-10-10,Namibia|Papua New Guinea,"ICC Academy, Dubai",Namibia,334,315,19,167,167
+2021-10-11,Ireland|Zimbabwe,Harare Sports Club,Ireland,539,499,40,269,270
+2021-10-11,Royal Challengers Bangalore|Kolkata Knight Riders,Sharjah Cricket Stadium,Kolkata Knight Riders,277,259,18,138,139
+2021-10-13,Delhi Capitals|Kolkata Knight Riders,Sharjah Cricket Stadium,Kolkata Knight Riders,271,255,16,135,136
+2021-10-13,South Australia|Queensland,"Karen Rolton Oval, Adelaide",South Australia,703,691,12,351,352
+2021-10-14,Melbourne Stars|Sydney Sixers,"Bellerive Oval, Hobart",Sydney Sixers,199,180,19,99,100
+2021-10-15,Chennai Super Kings|Kolkata Knight Riders,Dubai International Cricket Stadium,Chennai Super Kings,357,342,15,178,179
+2021-10-15,Denmark|Italy,"Desert Springs Cricket Ground, Almeria",Italy,201,191,10,100,101
+2021-10-15,Jersey|Germany,"Desert Springs Cricket Ground, Almeria",Jersey,270,250,20,135,135
+2021-10-15,Western Australia|Tasmania,"Western Australia Cricket Association Ground, Perth",Tasmania,439,422,17,219,220
+2021-10-16,Adelaide Strikers|Sydney Thunder,"Bellerive Oval, Hobart",Adelaide Strikers,250,228,22,125,125
+2021-10-16,Denmark|Germany,"Desert Springs Cricket Ground, Almeria",Germany,222,202,20,111,111
+2021-10-16,Hobart Hurricanes|Melbourne Renegades,"Bellerive Oval, Hobart",Melbourne Renegades,246,223,23,123,123
+2021-10-16,Jersey|Italy,"Desert Springs Cricket Ground, Almeria",Jersey,237,217,20,118,119
+2021-10-16,Malawi|Uganda,Integrated Polytechnic Regional Centre,Uganda,199,180,19,99,100
+2021-10-16,Rwanda|Ghana,Gahanga International Cricket Stadium. Rwanda,Ghana,310,286,24,155,155
+2021-10-16,Seychelles|Ghana,Gahanga International Cricket Stadium. Rwanda,Ghana,191,186,5,95,96
+2021-10-17,Hobart Hurricanes|Sydney Sixers,"Bellerive Oval, Hobart",Sydney Sixers,254,225,29,127,127
+2021-10-17,Italy|Germany,"Desert Springs Cricket Ground, Almeria",Germany,207,189,18,103,104
+2021-10-17,Jersey|Denmark,"Desert Springs Cricket Ground, Almeria",Jersey,183,179,4,91,92
+2021-10-17,Lesotho|Seychelles,Gahanga International Cricket Stadium. Rwanda,Seychelles,263,242,21,131,132
+2021-10-17,Papua New Guinea|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,260,245,15,130,130
+2021-10-17,Scotland|Bangladesh,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,274,260,14,137,137
+2021-10-17,Swaziland|Malawi,Integrated Polytechnic Regional Centre,Malawi,196,180,16,98,98
+2021-10-17,Uganda|Rwanda,Integrated Polytechnic Regional Centre,Uganda,232,211,21,116,116
+2021-10-17,Western Australia|Tasmania,"Western Australia Cricket Association Ground, Perth",Tasmania,937,906,31,468,469
+2021-10-18,Namibia|Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",Sri Lanka,196,182,14,98,98
+2021-10-18,Netherlands|Ireland,"Zayed Cricket Stadium, Abu Dhabi",Ireland,213,199,14,106,107
+2021-10-19,Argentina|Brazil,"Reforma Athletic Club, Naucalpan",Brazil,25,15,10,12,13
+2021-10-19,Bangladesh|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bangladesh,280,257,23,140,140
+2021-10-19,Brisbane Heat|Perth Scorchers,"Bellerive Oval, Hobart",Brisbane Heat,265,235,30,132,133
+2021-10-19,Canada|United States of America,"Reforma Athletic Club, Naucalpan",United States of America,141,116,25,70,71
+2021-10-19,Germany|Jersey,"Desert Springs Cricket Ground, Almeria",Jersey,171,159,12,85,86
+2021-10-19,Hobart Hurricanes|Melbourne Stars,"Bellerive Oval, Hobart",Hobart Hurricanes,241,222,19,120,121
+2021-10-19,Italy|Denmark,"Desert Springs Cricket Ground, Almeria",Italy,273,255,18,136,137
+2021-10-19,Lesotho|Uganda,Integrated Polytechnic Regional Centre,Uganda,53,49,4,26,27
+2021-10-19,Malawi|Ghana,Gahanga International Cricket Stadium. Rwanda,Ghana,191,180,11,95,96
+2021-10-19,Nigeria|Sierra Leone,University of Lagos Cricket Oval,Sierra Leone,199,182,17,99,100
+2021-10-19,Scotland|Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,313,301,12,156,157
+2021-10-19,Swaziland|Uganda,Integrated Polytechnic Regional Centre,Uganda,148,112,36,74,74
+2021-10-20,Germany|Denmark,"Desert Springs Cricket Ground, Almeria",Germany,226,209,17,113,113
+2021-10-20,Italy|Jersey,"Desert Springs Cricket Ground, Almeria",Jersey,204,196,8,102,102
+2021-10-20,Malawi|Seychelles,Gahanga International Cricket Stadium. Rwanda,Malawi,263,246,17,131,132
+2021-10-20,Melbourne Renegades|Adelaide Strikers,"Bellerive Oval, Hobart",Adelaide Strikers,255,244,11,127,128
+2021-10-20,Melbourne Stars|Sydney Sixers,"Bellerive Oval, Hobart",Melbourne Stars,248,234,14,124,124
+2021-10-20,Netherlands|Namibia,"Zayed Cricket Stadium, Abu Dhabi",Namibia,330,308,22,165,165
+2021-10-20,Rwanda|Lesotho,Integrated Polytechnic Regional Centre,Rwanda,182,173,9,91,91
+2021-10-20,Sri Lanka|Ireland,"Zayed Cricket Stadium, Abu Dhabi",Sri Lanka,272,255,17,136,136
+2021-10-20,Swaziland|Ghana,Integrated Polytechnic Regional Centre,Ghana,149,125,24,74,75
+2021-10-20,Swaziland|Seychelles,Gahanga International Cricket Stadium. Rwanda,Seychelles,258,236,22,129,129
+2021-10-21,Bangladesh|Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bangladesh,278,264,14,139,139
+2021-10-21,Denmark|Jersey,"Desert Springs Cricket Ground, Almeria",Jersey,261,245,16,130,131
+2021-10-21,Italy|Germany,"Desert Springs Cricket Ground, Almeria",Italy,233,214,19,116,117
+2021-10-21,Malta|Gibraltar,Marsa Sports Club,Malta,365,328,37,182,183
+2021-10-21,Nigeria|Sierra Leone,University of Lagos Cricket Oval,Nigeria,179,165,14,89,90
+2021-10-21,Oman|Scotland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,245,236,9,122,123
+2021-10-21,Uganda|Ghana,Gahanga International Cricket Stadium. Rwanda,Uganda,273,251,22,136,137
+2021-10-22,Bulgaria|Switzerland,Marsa Sports Club,Switzerland,163,139,24,81,82
+2021-10-22,Gibraltar|Switzerland,Marsa Sports Club,Switzerland,267,229,38,133,134
+2021-10-22,Ireland|Namibia,Sharjah Cricket Stadium,Namibia,251,241,10,125,126
+2021-10-22,Malawi|Rwanda,Gahanga International Cricket Stadium. Rwanda,Malawi,254,213,41,127,127
+2021-10-22,Netherlands|Sri Lanka,Sharjah Cricket Stadium,Sri Lanka,89,79,10,44,45
+2021-10-22,Swaziland|Rwanda,Gahanga International Cricket Stadium. Rwanda,Rwanda,156,138,18,78,78
+2021-10-22,Uganda|Seychelles,Integrated Polytechnic Regional Centre,Uganda,233,221,12,116,117
+2021-10-23,Maldives|Saudi Arabia,"West End Park International Cricket Stadium, Doha",Saudi Arabia,199,176,23,99,100
+2021-10-23,Otago Volts|Wellington Firebirds,"Basin Reserve, Wellington",Wellington Firebirds,775,706,69,387,388
+2021-10-23,Sierra Leone|Nigeria,University of Lagos Cricket Oval,Nigeria,169,149,20,84,85
+2021-10-23,South Africa|Australia,"Zayed Cricket Stadium, Abu Dhabi",Australia,239,229,10,119,120
+2021-10-23,Switzerland|Malta,Marsa Sports Club,Switzerland,292,255,37,146,146
+2021-10-23,West Indies|England,Dubai International Cricket Stadium,England,111,107,4,55,56
+2021-10-24,Bahrain|Kuwait,"West End Park International Cricket Stadium, Doha",Kuwait,253,239,14,126,127
+2021-10-24,Bangladesh|Sri Lanka,Sharjah Cricket Stadium,Sri Lanka,343,327,16,171,172
+2021-10-24,Brisbane Heat|Adelaide Strikers,"Invermay Park, Launceston",Brisbane Heat,203,190,13,101,102
+2021-10-24,Canada|United States of America,"Reforma Athletic Club, Naucalpan",Canada,163,150,13,81,82
+2021-10-24,Gibraltar|Bulgaria,Marsa Sports Club,Bulgaria,355,332,23,177,178
+2021-10-24,India|Pakistan,Dubai International Cricket Stadium,Pakistan,303,286,17,151,152
+2021-10-24,Malta|Switzerland,Marsa Sports Club,Malta,346,315,31,173,173
+2021-10-24,Nigeria|Sierra Leone,University of Lagos Cricket Oval,Nigeria,161,151,10,80,81
+2021-10-24,Perth Scorchers|Sydney Thunder,"Aurora Stadium, Launceston",Perth Scorchers,291,278,13,145,146
+2021-10-24,Qatar|Maldives,"West End Park International Cricket Stadium, Doha",Qatar,210,197,13,105,105
+2021-10-24,Sydney Sixers|Melbourne Renegades,"Aurora Stadium, Launceston",Melbourne Renegades,238,227,11,119,119
+2021-10-25,South Australia|Western Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,360,337,23,180,180
+2021-10-26,Hobart Hurricanes|Brisbane Heat,"Aurora Stadium, Launceston",Brisbane Heat,270,252,18,135,135
+2021-10-26,Melbourne Stars|Sydney Thunder,"Aurora Stadium, Launceston",Melbourne Stars,204,193,11,102,102
+2021-10-26,New Zealand|Pakistan,Sharjah Cricket Stadium,Pakistan,269,254,15,134,135
+2021-10-26,Nigeria|Sierra Leone,University of Lagos Cricket Oval,Nigeria,232,201,31,116,116
+2021-10-26,West Indies|South Africa,Dubai International Cricket Stadium,South Africa,287,271,16,143,144
+2021-10-27,Bangladesh|England,"Zayed Cricket Stadium, Abu Dhabi",England,250,232,18,125,125
+2021-10-27,Maldives|Bahrain,"West End Park International Cricket Stadium, Doha",Bahrain,181,175,6,90,91
+2021-10-27,Melbourne Renegades|Sydney Thunder,"University Oval, Hobart",Melbourne Renegades,275,264,11,137,138
+2021-10-27,Melbourne Stars|Hobart Hurricanes,"University Oval, Hobart",Hobart Hurricanes,291,272,19,145,146
+2021-10-27,Scotland|Namibia,"Zayed Cricket Stadium, Abu Dhabi",Namibia,224,204,20,112,112
+2021-10-27,Victoria|New South Wales,"Drummoyne Oval, Sydney",Victoria,774,734,40,387,387
+2021-10-28,Bahrain|Saudi Arabia,"West End Park International Cricket Stadium, Doha",Bahrain,340,320,20,170,170
+2021-10-28,Maldives|Kuwait,"West End Park International Cricket Stadium, Doha",Kuwait,210,196,14,105,105
+2021-10-28,Sri Lanka|Australia,Dubai International Cricket Stadium,Australia,309,290,19,154,155
+2021-10-29,Kuwait|Qatar,"West End Park International Cricket Stadium, Doha",Qatar,253,237,16,126,127
+2021-10-29,West Indies|Bangladesh,Sharjah Cricket Stadium,West Indies,281,256,25,140,141
+2021-10-30,Australia|England,Dubai International Cricket Stadium,England,251,233,18,125,126
+2021-10-30,Brisbane Heat|Hobart Hurricanes,"Aurora Stadium, Launceston",Brisbane Heat,326,309,17,163,163
+2021-10-30,Melbourne Renegades|Sydney Sixers,"Lilac Hill Park, Perth",Melbourne Renegades,272,258,14,136,136
+2021-10-30,Sri Lanka|South Africa,Sharjah Cricket Stadium,South Africa,288,273,15,144,144
+2021-10-30,Sydney Thunder|Melbourne Stars,"Aurora Stadium, Launceston",Sydney Thunder,247,232,15,123,124
+2021-10-31,Adelaide Strikers|Melbourne Renegades,"Lilac Hill Park, Perth",Melbourne Renegades,322,305,17,161,161
+2021-10-31,Brisbane Heat|Melbourne Stars,"Aurora Stadium, Launceston",Melbourne Stars,194,176,18,97,97
+2021-10-31,Canterbury|Wellington Firebirds,"Basin Reserve, Wellington",Canterbury,924,883,41,462,462
+2021-10-31,India|New Zealand,Dubai International Cricket Stadium,New Zealand,221,210,11,110,111
+2021-10-31,Sydney Sixers|Perth Scorchers,"Lilac Hill Park, Perth",Sydney Sixers,278,259,19,139,139
+2021-10-31,Sydney Thunder|Hobart Hurricanes,"Aurora Stadium, Launceston",Sydney Thunder,255,237,18,127,128
+2021-11-01,England|Sri Lanka,Sharjah Cricket Stadium,England,300,292,8,150,150
+2021-11-01,Queensland|Tasmania,"Riverway Stadium, Townsville",Queensland,317,303,14,158,159
+2021-11-02,Bangladesh|South Africa,"Zayed Cricket Stadium, Abu Dhabi",South Africa,170,155,15,85,85
+2021-11-02,Botswana|Sierra Leone,Gahanga International Cricket Stadium. Rwanda,Botswana,242,222,20,121,121
+2021-11-02,Pakistan|Namibia,"Zayed Cricket Stadium, Abu Dhabi",Pakistan,333,326,7,166,167
+2021-11-02,Tanzania|Mozambique,Gahanga International Cricket Stadium. Rwanda,Tanzania,397,365,32,198,199
+2021-11-03,Mozambique|Cameroon,Gahanga International Cricket Stadium. Rwanda,Mozambique,247,221,26,123,124
+2021-11-03,New Zealand|Scotland,Dubai International Cricket Stadium,New Zealand,328,300,28,164,164
+2021-11-03,Perth Scorchers|Melbourne Renegades,"Western Australia Cricket Association Ground, Perth",Perth Scorchers,348,324,24,174,174
+2021-11-03,Sierra Leone|Tanzania,Gahanga International Cricket Stadium. Rwanda,Tanzania,203,184,19,101,102
+2021-11-03,Sydney Sixers|Hobart Hurricanes,"Western Australia Cricket Association Ground, Perth",Sydney Sixers,251,230,21,125,126
+2021-11-04,Assam|Madhya Pradesh,Arun Jaitley Stadium,Madhya Pradesh,208,196,12,104,104
+2021-11-04,Bangladesh|Australia,Dubai International Cricket Stadium,Australia,151,142,9,75,76
+2021-11-04,Baroda|Services,Nehru Stadium,Services,252,243,9,126,126
+2021-11-04,Bihar|Railways,Arun Jaitley Stadium,Bihar,303,281,22,151,152
+2021-11-04,Chhattisgarh|Bengal,"ACA Stadium, Barsapara",Bengal,237,228,9,118,119
+2021-11-04,Delhi|Uttarakhand,Chaudhry Bansi Lal Cricket Stadium,Delhi,207,197,10,103,104
+2021-11-04,Goa|Odisha,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,Odisha,211,204,7,105,106
+2021-11-04,Himachal|Haryana,Reliance Cricket Stadium,Haryana,294,290,4,147,147
+2021-11-04,Karnataka|Mumbai,"ACA Stadium, Barsapara",Karnataka,323,314,9,161,162
+2021-11-04,Kerala|Gujarat,"Airforce Complex ground, Palam",Gujarat,249,241,8,124,125
+2021-11-04,Mizoram|Meghalaya,"ACA Stadium,Mangalagiri",Meghalaya,208,204,4,104,104
+2021-11-04,Saurashtra|Hyderabad (India),Gurugram Cricket Ground (SRNCC),Hyderabad (India),350,343,7,175,175
+2021-11-04,Sri Lanka|West Indies,"Zayed Cricket Stadium, Abu Dhabi",Sri Lanka,358,334,24,179,179
+2021-11-04,Tamil Nadu|Maharashtra,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Tamil Nadu,322,306,16,161,161
+2021-11-04,Tripura|Sikkim,Gokaraju Liala Gangaaraju ACA Cricket Ground,Tripura,248,237,11,124,124
+2021-11-04,Uttar Pradesh|Chandigarh,Gurugram Cricket Ground (SRNCC),Uttar Pradesh,308,295,13,154,154
+2021-11-04,Vidarbha|Arunachal Pradesh,Gokaraju Liala Gangaaraju ACA Cricket Ground,Vidarbha,232,219,13,116,116
+2021-11-05,Andhra|Haryana,Alembic 2  Cricket Ground,Haryana,359,350,9,179,180
+2021-11-05,Arunachal Pradesh|Manipur,"ACA Stadium,Mangalagiri",Manipur,259,252,7,129,130
+2021-11-05,Bengal|Baroda,"ACA Stadium, Barsapara",Bengal,290,268,22,145,145
+2021-11-05,Bihar|Kerala,"Airforce Complex ground, Palam",Kerala,263,250,13,131,132
+2021-11-05,Cameroon|Botswana,Gahanga International Cricket Stadium. Rwanda,Botswana,105,97,8,52,53
+2021-11-05,Chandigarh|Delhi,Chaudhry Bansi Lal Cricket Stadium,Delhi,292,289,3,146,146
+2021-11-05,Chhattisgarh|Karnataka,"ACA Stadium, Barsapara",Karnataka,291,274,17,145,146
+2021-11-05,Goa|Puducherry,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,Goa,313,299,14,156,157
+2021-11-05,Gujarat|Assam,Arun Jaitley Stadium,Assam,179,163,16,89,90
+2021-11-05,Himachal|Jharkhand,Reliance Cricket Stadium,Himachal,281,274,7,140,141
+2021-11-05,Hyderabad (India)|Uttarakhand,Gurugram Cricket Ground (SRNCC),Hyderabad (India),273,259,14,136,137
+2021-11-05,Jammu & Kashmir|Rajasthan,Reliance Cricket Stadium,Rajasthan,292,272,20,146,146
+2021-11-05,Mozambique|Sierra Leone,Gahanga International Cricket Stadium. Rwanda,Sierra Leone,193,176,17,96,97
+2021-11-05,Nagaland|Vidarbha,Gokaraju Liala Gangaaraju ACA Cricket Ground,Vidarbha,232,213,19,116,116
+2021-11-05,New Zealand|Namibia,Sharjah Cricket Stadium,New Zealand,274,259,15,137,137
+2021-11-05,Punjab|Maharashtra,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Maharashtra,275,261,14,137,138
+2021-11-05,Railways|Madhya Pradesh,Arun Jaitley Stadium,Madhya Pradesh,197,191,6,98,99
+2021-11-05,Saurashtra|Uttar Pradesh,Gurugram Cricket Ground (SRNCC),Saurashtra,292,283,9,146,146
+2021-11-05,Scotland|India,Dubai International Cricket Stadium,India,174,169,5,87,87
+2021-11-05,Sikkim|Meghalaya,Gokaraju Liala Gangaaraju ACA Cricket Ground,Meghalaya,228,221,7,114,114
+2021-11-05,Tripura|Mizoram,"ACA Stadium,Mangalagiri",Tripura,247,241,6,123,124
+2021-11-05,Victoria|New South Wales,Melbourne Cricket Ground,Victoria,948,897,51,474,474
+2021-11-06,Andhra|Jharkhand,Alembic 2  Cricket Ground,Andhra,322,300,22,161,161
+2021-11-06,Bihar|Assam,Arun Jaitley Stadium,Assam,271,255,16,135,136
+2021-11-06,Botswana|Mozambique,Gahanga International Cricket Stadium. Rwanda,Botswana,252,234,18,126,126
+2021-11-06,Chandigarh|Hyderabad (India),Gurugram Cricket Ground (SRNCC),Hyderabad (India),325,317,8,162,163
+2021-11-06,Chhattisgarh|Baroda,Nehru Stadium,Baroda,192,186,6,96,96
+2021-11-06,Gujarat|Madhya Pradesh,"Airforce Complex ground, Palam",Gujarat,274,262,12,137,137
+2021-11-06,Haryana|Jammu & Kashmir,Alembic 2  Cricket Ground,Jammu & Kashmir,217,204,13,108,109
+2021-11-06,Hobart Hurricanes|Perth Scorchers,"Western Australia Cricket Association Ground, Perth",Hobart Hurricanes,272,254,18,136,136
+2021-11-06,Karnataka|Services,"ACA Stadium, Barsapara",Karnataka,251,235,16,125,126
+2021-11-06,Maharashtra|Odisha,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,Maharashtra,339,331,8,169,170
+2021-11-06,Meghalaya|Vidarbha,Gokaraju Liala Gangaaraju ACA Cricket Ground,Vidarbha,196,189,7,98,98
+2021-11-06,Melbourne Renegades|Brisbane Heat,"Karen Rolton Oval, Adelaide",Melbourne Renegades,399,375,24,199,200
+2021-11-06,Melbourne Stars|Adelaide Strikers,"Karen Rolton Oval, Adelaide",Melbourne Stars,215,210,5,107,108
+2021-11-06,Mumbai|Bengal,"ACA Stadium, Barsapara",Mumbai,252,230,22,126,126
+2021-11-06,Puducherry|Tamil Nadu,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Tamil Nadu,259,241,18,129,130
+2021-11-06,Punjab|Goa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Punjab,313,304,9,156,157
+2021-11-06,Railways|Kerala,Arun Jaitley Stadium,Railways,282,273,9,141,141
+2021-11-06,Saurashtra|Uttarakhand,Gurugram Cricket Ground (SRNCC),Saurashtra,290,275,15,145,145
+2021-11-06,South Africa|England,Sharjah Cricket Stadium,South Africa,368,354,14,184,184
+2021-11-06,Tanzania|Cameroon,Gahanga International Cricket Stadium. Rwanda,Tanzania,302,269,33,151,151
+2021-11-06,Tripura|Manipur,Gokaraju Liala Gangaaraju ACA Cricket Ground,Tripura,281,265,16,140,141
+2021-11-06,West Indies|Australia,"Zayed Cricket Stadium, Abu Dhabi",Australia,318,299,19,159,159
+2021-11-07,Belize|United States of America,"Coolidge Cricket Ground, Antigua",United States of America,132,122,10,66,66
+2021-11-07,Cameroon|Sierra Leone,Gahanga International Cricket Stadium. Rwanda,Sierra Leone,179,150,29,89,90
+2021-11-07,Canterbury|Wellington Firebirds,"Basin Reserve, Wellington",Canterbury,812,758,54,406,406
+2021-11-07,Hobart Hurricanes|Perth Scorchers,"Western Australia Cricket Association Ground, Perth",Perth Scorchers,195,181,14,97,98
+2021-11-07,Melbourne Stars|Melbourne Renegades,Adelaide Oval,Melbourne Renegades,207,199,8,103,104
+2021-11-07,Otago Volts|Central Stags,"Saxton Oval, Nelson",Otago Volts,1171,1110,61,585,586
+2021-11-07,Pakistan|Scotland,Sharjah Cricket Stadium,Pakistan,306,284,22,153,153
+2021-11-07,Sydney Thunder|Brisbane Heat,Adelaide Oval,Brisbane Heat,287,265,22,143,144
+2021-11-07,Tanzania|Botswana,Gahanga International Cricket Stadium. Rwanda,Tanzania,283,264,19,141,142
+2021-11-08,Assam|Kerala,Arun Jaitley Stadium,Kerala,243,235,8,121,122
+2021-11-08,Bahamas|Argentina,"Sir Vivian Richards Stadium, North Sound, Antigua",Bahamas,230,212,18,115,115
+2021-11-08,Baroda|Karnataka,"ACA Stadium, Barsapara",Karnataka,271,262,9,135,136
+2021-11-08,Belize|Panama,"Coolidge Cricket Ground, Antigua",Belize,274,241,33,137,137
+2021-11-08,Bihar|Madhya Pradesh,"Airforce Complex ground, Palam",Madhya Pradesh,119,113,6,59,60
+2021-11-08,Canada|Belize,"Coolidge Cricket Ground, Antigua",Canada,323,293,30,161,162
+2021-11-08,Chhattisgarh|Mumbai,Nehru Stadium,Chhattisgarh,313,298,15,156,157
+2021-11-08,Maharashtra|Puducherry,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,Maharashtra,269,258,11,134,135
+2021-11-08,Mizoram|Sikkim,Gokaraju Liala Gangaaraju ACA Cricket Ground,Sikkim,221,217,4,110,111
+2021-11-08,Nagaland|Arunachal Pradesh,Gokaraju Liala Gangaaraju ACA Cricket Ground,Nagaland,251,239,12,125,126
+2021-11-08,Namibia|India,Dubai International Cricket Stadium,India,268,250,18,134,134
+2021-11-08,Rajasthan|Andhra,Alembic 2  Cricket Ground,Rajasthan,287,275,12,143,144
+2021-11-08,Saurashtra|Chandigarh,Chaudhry Bansi Lal Cricket Stadium,Saurashtra,376,357,19,188,188
+2021-11-08,Services|Bengal,"ACA Stadium, Barsapara",Bengal,181,178,3,90,91
+2021-11-08,Tamil Nadu|Goa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Goa,276,265,11,138,138
+2021-11-08,Tripura|Meghalaya,"ACA Stadium,Mangalagiri",Meghalaya,293,275,18,146,147
+2021-11-08,United States of America|Bermuda,"Sir Vivian Richards Stadium, North Sound, Antigua",United States of America,321,305,16,160,161
+2021-11-08,Vidarbha|Manipur,"ACA Stadium,Mangalagiri",Vidarbha,277,258,19,138,139
+2021-11-08,West Indies|Pakistan,"National Stadium, Karachi",West Indies,461,444,17,230,231
+2021-11-09,Adelaide Strikers|Sydney Thunder,"Karen Rolton Oval, Adelaide",Adelaide Strikers,334,319,15,167,167
+2021-11-09,Bihar|Gujarat,Arun Jaitley Stadium,Gujarat,239,219,20,119,120
+2021-11-09,Chhattisgarh|Services,"ACA Stadium, Barsapara",Chhattisgarh,317,310,7,158,159
+2021-11-09,Himachal|Andhra,Alembic 2  Cricket Ground,Himachal,266,255,11,133,133
+2021-11-09,Hyderabad (India)|Uttar Pradesh,Gurugram Cricket Ground (SRNCC),Hyderabad (India),265,253,12,132,133
+2021-11-09,Jammu & Kashmir|Jharkhand,Reliance Cricket Stadium,Jharkhand,313,308,5,156,157
+2021-11-09,Karnataka|Bengal,Nehru Stadium,Bengal,272,257,15,136,136
+2021-11-09,Madhya Pradesh|Kerala,Arun Jaitley Stadium,Kerala,343,322,21,171,172
+2021-11-09,Maharashtra|Goa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Maharashtra,281,272,9,140,141
+2021-11-09,Manipur|Mizoram,Gokaraju Liala Gangaaraju ACA Cricket Ground,Mizoram,205,196,9,102,103
+2021-11-09,Meghalaya|Arunachal Pradesh,"ACA Stadium,Mangalagiri",Meghalaya,296,281,15,148,148
+2021-11-09,Mumbai|Baroda,"ACA Stadium, Barsapara",Mumbai,304,284,20,152,152
+2021-11-09,Nagaland|Tripura,Gokaraju Liala Gangaaraju ACA Cricket Ground,Tripura,130,116,14,65,65
+2021-11-09,Odisha|Puducherry,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Puducherry,268,243,25,134,134
+2021-11-09,Punjab|Tamil Nadu,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,Tamil Nadu,293,282,11,146,147
+2021-11-09,Railways|Assam,"Airforce Complex ground, Palam",Railways,282,265,17,141,141
+2021-11-09,Rajasthan|Haryana,Alembic 2  Cricket Ground,Rajasthan,280,264,16,140,140
+2021-11-09,Saurashtra|Delhi,Chaudhry Bansi Lal Cricket Stadium,Saurashtra,319,301,18,159,160
+2021-11-09,Sydney Sixers|Brisbane Heat,"Karen Rolton Oval, Adelaide",Brisbane Heat,321,306,15,160,161
+2021-11-09,Uttarakhand|Chandigarh,Gurugram Cricket Ground (SRNCC),Chandigarh,325,311,14,162,163
+2021-11-09,Vidarbha|Sikkim,"ACA Stadium,Mangalagiri",Vidarbha,280,271,9,140,140
+2021-11-10,Argentina|Belize,"Sir Vivian Richards Stadium, North Sound, Antigua",Argentina,283,265,18,141,142
+2021-11-10,Bermuda|Bahamas,"Coolidge Cricket Ground, Antigua",Bermuda,338,317,21,169,169
+2021-11-10,England|New Zealand,"Zayed Cricket Stadium, Abu Dhabi",New Zealand,333,312,21,166,167
+2021-11-10,Melbourne Stars|Perth Scorchers,"Karen Rolton Oval, Adelaide",Perth Scorchers,195,180,15,97,98
+2021-11-10,Queensland|Western Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Western Australia,751,705,46,375,376
+2021-11-10,Sydney Sixers|Adelaide Strikers,"Karen Rolton Oval, Adelaide",Adelaide Strikers,290,279,11,145,145
+2021-11-11,Argentina|United States of America,"Sir Vivian Richards Stadium, North Sound, Antigua",United States of America,184,168,16,92,92
+2021-11-11,Pakistan|Australia,Dubai International Cricket Stadium,Australia,353,333,20,176,177
+2021-11-11,West Indies|Pakistan,"National Stadium, Karachi",West Indies,269,249,20,134,135
+2021-11-13,Adelaide Strikers|Hobart Hurricanes,"Ray Mitchell Oval, Harrup Park, Mackay",Adelaide Strikers,236,222,14,118,118
+2021-11-13,Argentina|Canada,"Sir Vivian Richards Stadium, North Sound, Antigua",Canada,224,203,21,112,112
+2021-11-13,Bahamas|United States of America,"Coolidge Cricket Ground, Antigua",United States of America,181,160,21,90,91
+2021-11-13,Belize|Bermuda,"Sir Vivian Richards Stadium, North Sound, Antigua",Bermuda,174,167,7,87,87
+2021-11-13,Panama|Bahamas,"Coolidge Cricket Ground, Antigua",Panama,252,218,34,126,126
+2021-11-13,Sydney Sixers|Brisbane Heat,"Ray Mitchell Oval, Harrup Park, Mackay",Brisbane Heat,183,161,22,91,92
+2021-11-14,Brisbane Heat|Adelaide Strikers,"Ray Mitchell Oval, Harrup Park, Mackay",Adelaide Strikers,192,177,15,96,96
+2021-11-14,Canada|Panama,"Coolidge Cricket Ground, Antigua",Canada,282,264,18,141,141
+2021-11-14,New Zealand|Australia,Dubai International Cricket Stadium,Australia,345,326,19,172,173
+2021-11-14,Pakistan|West Indies,"National Stadium, Karachi",West Indies,451,412,39,225,226
+2021-11-14,Sydney Sixers|Sydney Thunder,"Ray Mitchell Oval, Harrup Park, Mackay",Sydney Thunder,190,178,12,95,95
+2021-11-15,Northern Districts|Canterbury,"Bay Oval, Mount Maunganui",Canterbury,621,536,85,310,311
+2021-11-15,Wellington Firebirds|Central Stags,"Basin Reserve, Wellington",Central Stags,980,939,41,490,490
+2021-11-15,Western Australia|Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Western Australia,652,623,29,326,326
+2021-11-15,Zimbabwe|Bangladesh,"Queens Sports Club, Bulawayo",Bangladesh,146,126,20,73,73
+2021-11-16,Himachal|Kerala,"Airforce Complex ground, Palam",Kerala,292,281,11,146,146
+2021-11-16,Maharashtra|Vidarbha,Arun Jaitley Stadium,Vidarbha,317,301,16,158,159
+2021-11-16,Nepal|Qatar,"West End Park International Cricket Stadium, Doha",Nepal,173,152,21,86,87
+2021-11-16,Saurashtra|Karnataka,Arun Jaitley Stadium,Karnataka,295,274,21,147,148
+2021-11-17,Kenya|Uganda,Integrated Polytechnic Regional Centre,Kenya,321,299,22,160,161
+2021-11-17,Melbourne Renegades|Sydney Thunder,"Ray Mitchell Oval, Harrup Park, Mackay",Melbourne Renegades,346,330,16,173,173
+2021-11-17,Nepal|Qatar,"West End Park International Cricket Stadium, Doha",Nepal,197,179,18,98,99
+2021-11-17,New Zealand|India,"Sawai Mansingh Stadium, Jaipur",India,330,308,22,165,165
+2021-11-17,Nigeria|Tanzania,Gahanga International Cricket Stadium. Rwanda,Tanzania,231,207,24,115,116
+2021-11-17,Perth Scorchers|Adelaide Strikers,"Karen Rolton Oval, Adelaide",Perth Scorchers,342,322,20,171,171
+2021-11-17,Tanzania|Kenya,Integrated Polytechnic Regional Centre,Tanzania,325,310,15,162,163
+2021-11-17,Uganda|Nigeria,Gahanga International Cricket Stadium. Rwanda,Uganda,197,185,12,98,99
+2021-11-18,Hyderabad (India)|Gujarat,"Airforce Complex ground, Palam",Hyderabad (India),286,278,8,143,143
+2021-11-18,Kerala|Tamil Nadu,Arun Jaitley Stadium,Tamil Nadu,368,348,20,184,184
+2021-11-18,Nepal|Qatar,"West End Park International Cricket Stadium, Doha",Nepal,219,190,29,109,110
+2021-11-18,Nigeria|Kenya,Integrated Polytechnic Regional Centre,Kenya,266,247,19,133,133
+2021-11-18,Nigeria|Uganda,Integrated Polytechnic Regional Centre,Uganda,226,202,24,113,113
+2021-11-18,Rajasthan|Vidarbha,"Airforce Complex ground, Palam",Vidarbha,171,157,14,85,86
+2021-11-18,Tanzania|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,205,197,8,102,103
+2021-11-18,Tanzania|Uganda,Gahanga International Cricket Stadium. Rwanda,Uganda,281,270,11,140,141
+2021-11-19,Bangladesh|Pakistan,"Shere Bangla National Stadium, Mirpur",Pakistan,259,244,15,129,130
+2021-11-19,Hobart Hurricanes|Melbourne Renegades,"Ray Mitchell Oval, Harrup Park, Mackay",Hobart Hurricanes,270,254,16,135,135
+2021-11-19,New Zealand|India,"JSCA International Stadium Complex, Ranchi",India,308,291,17,154,154
+2021-11-19,Sydney Thunder|Brisbane Heat,"Ray Mitchell Oval, Harrup Park, Mackay",Sydney Thunder,315,295,20,157,158
+2021-11-20,Bangladesh|Pakistan,"Shere Bangla National Stadium, Mirpur",Pakistan,217,201,16,108,109
+2021-11-20,Brisbane Heat|Melbourne Renegades,"Ray Mitchell Oval, Harrup Park, Mackay",Brisbane Heat,269,256,13,134,135
+2021-11-20,Hobart Hurricanes|Sydney Thunder,"Ray Mitchell Oval, Harrup Park, Mackay",Hobart Hurricanes,290,280,10,145,145
+2021-11-20,Hyderabad (India)|Tamil Nadu,Arun Jaitley Stadium,Tamil Nadu,182,171,11,91,91
+2021-11-20,Karnataka|Vidarbha,Arun Jaitley Stadium,Karnataka,348,343,5,174,174
+2021-11-20,Kenya|Nigeria,Integrated Polytechnic Regional Centre,Kenya,276,262,14,138,138
+2021-11-20,Kenya|Uganda,Gahanga International Cricket Stadium. Rwanda,Uganda,241,228,13,120,121
+2021-11-20,Melbourne Stars|Perth Scorchers,Adelaide Oval,Perth Scorchers,245,227,18,122,123
+2021-11-20,Sydney Sixers|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,166,151,15,83,83
+2021-11-20,Tanzania|Nigeria,Integrated Polytechnic Regional Centre,Tanzania,203,191,12,101,102
+2021-11-20,Tanzania|Uganda,Gahanga International Cricket Stadium. Rwanda,Uganda,142,131,11,71,71
+2021-11-21,Adelaide Strikers|Melbourne Stars,Adelaide Oval,Melbourne Stars,356,341,15,178,178
+2021-11-21,India|New Zealand,"Eden Gardens, Kolkata",India,295,285,10,147,148
+2021-11-21,Pakistan|Bangladesh,"Old Hararians, Harare",Bangladesh,403,387,16,201,202
+2021-11-21,Sri Lanka|West Indies,Galle International Stadium,Sri Lanka,967,910,57,483,484
+2021-11-21,Sydney Sixers|Perth Scorchers,Adelaide Oval,Perth Scorchers,259,252,7,129,130
+2021-11-21,Thailand|Zimbabwe,Harare Sports Club,Thailand,486,454,32,243,243
+2021-11-22,Bangladesh|Pakistan,"Shere Bangla National Stadium, Mirpur",Pakistan,251,239,12,125,126
+2021-11-22,Bhutan|Kuwait,"ICC Academy, Dubai",Bhutan,188,168,20,94,94
+2021-11-22,Karnataka|Tamil Nadu,Arun Jaitley Stadium,Tamil Nadu,304,284,20,152,152
+2021-11-22,Otago Volts|Northern Districts,"Molyneux Park, Alexandra",Northern Districts,1032,965,67,516,516
+2021-11-22,United Arab Emirates|Malaysia,"ICC Academy, Dubai",United Arab Emirates,232,209,23,116,116
+2021-11-23,Bangladesh|United States of America,"Sunrise Sports Club, Harare",Bangladesh,374,349,25,187,187
+2021-11-23,Bhutan|Nepal,"ICC Academy Ground No 2, Dubai",Nepal,125,103,22,62,63
+2021-11-23,Malaysia|Kuwait,"ICC Academy, Dubai",Malaysia,241,221,20,120,121
+2021-11-23,Pakistan|Thailand,"Takashinga Sports Club, Highfield, Harare",Pakistan,238,222,16,119,119
+2021-11-23,Queensland|South Australia,"Karen Rolton Oval, Adelaide",Queensland,773,749,24,386,387
+2021-11-23,Sri Lanka|Netherlands,Harare Sports Club,Sri Lanka,474,435,39,237,237
+2021-11-23,United Arab Emirates|Hong Kong,"ICC Academy, Dubai",United Arab Emirates,245,220,25,122,123
+2021-11-24,Brisbane Heat|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,232,221,11,116,116
+2021-11-24,New South Wales|Victoria,Sydney Cricket Ground,New South Wales,514,469,45,257,257
+2021-11-25,Bangladesh|Thailand,Harare Sports Club,Thailand,308,289,19,154,154
+2021-11-25,Ireland|Netherlands,"Sunrise Sports Club, Harare",Ireland,369,345,24,184,185
+2021-11-25,Kuwait|Nepal,"ICC Academy, Dubai",Nepal,55,49,6,27,28
+2021-11-25,Malaysia|Hong Kong,"ICC Academy Ground No 2, Dubai",Hong Kong,203,180,23,101,102
+2021-11-25,Melbourne Renegades|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,169,163,6,84,85
+2021-11-25,United Arab Emirates|Bhutan,"ICC Academy Ground No 2, Dubai",United Arab Emirates,251,231,20,125,126
+2021-11-25,United States of America|Zimbabwe,"Takashinga Sports Club, Highfield, Harare",Zimbabwe,263,230,33,131,132
+2021-11-26,Bangladesh|Pakistan,"Zahur Ahmed Chowdhury Stadium, Chattogram",Pakistan,976,955,21,488,488
+2021-11-26,Hong Kong|Bhutan,"ICC Academy, Dubai",Hong Kong,198,175,23,99,99
+2021-11-26,Kuwait|United Arab Emirates,"ICC Academy Ground No 2, Dubai",United Arab Emirates,153,140,13,76,77
+2021-11-26,Namibia|Oman,"Wanderers Cricket Ground, Windhoek",Namibia,416,395,21,208,208
+2021-11-26,Wellington|Canterbury,"Hagley Oval, Christchurch",Wellington,573,544,29,286,287
+2021-11-26,Western Australia|Tasmania,"Bellerive Oval, Hobart",Tasmania,592,566,26,296,296
+2021-11-27,Pakistan|Zimbabwe,"Sunrise Sports Club, Harare",Pakistan,276,249,27,138,138
+2021-11-27,Perth Scorchers|Adelaide Strikers,Perth Stadium,Perth Scorchers,280,264,16,140,140
+2021-11-27,United States of America|Thailand,"Old Hararians, Harare",Thailand,187,155,32,93,94
+2021-11-28,Hong Kong|Kuwait,"ICC Academy, Dubai",Hong Kong,275,247,28,137,138
+2021-11-28,Malaysia|Bhutan,"ICC Academy, Dubai",Malaysia,163,141,22,81,82
+2021-11-28,Otago|Central Districts,"University Oval, Dunedin",Central Districts,369,362,7,184,185
+2021-11-28,Otago|Central Districts,"University Oval, Dunedin",Otago,260,246,14,130,130
+2021-11-28,South Australia|Queensland,Adelaide Oval,Queensland,549,523,26,274,275
+2021-11-28,United Arab Emirates|Nepal,"ICC Academy Ground No 2, Dubai",United Arab Emirates,206,189,17,103,103
+2021-11-29,Sri Lanka|West Indies,Galle International Stadium,Sri Lanka,934,901,33,467,467
+2021-12-03,India|New Zealand,"Wankhede Stadium, Mumbai",India,830,787,43,415,415
+2021-12-03,Otago|Northern Districts,"Seddon Park, Hamilton",Otago,247,225,22,123,124
+2021-12-04,Pakistan|Bangladesh,"Shere Bangla National Stadium, Mirpur",Pakistan,592,573,19,296,296
+2021-12-05,Central Districts|Wellington,"Basin Reserve, Wellington",Central Districts,366,347,19,183,183
+2021-12-05,Galle Gladiators|Jaffna Kings,"R Premadasa Stadium, Colombo",Galle Gladiators,274,263,11,137,137
+2021-12-05,Sydney Sixers|Melbourne Stars,Sydney Cricket Ground,Sydney Sixers,274,260,14,137,137
+2021-12-05,Wellington|Central Districts,"Basin Reserve, Wellington",Wellington,223,212,11,111,112
+2021-12-06,Brisbane Heat|Sydney Thunder,"Manuka Oval, Canberra",Sydney Thunder,281,270,11,140,141
+2021-12-06,Dambulla Giants|Kandy Warriors,"R Premadasa Stadium, Colombo",Dambulla Giants,360,340,20,180,180
+2021-12-06,Galle Gladiators|Colombo Stars,"R Premadasa Stadium, Colombo",Colombo Stars,233,214,19,116,117
+2021-12-07,Dambulla Giants|Jaffna Kings,"R Premadasa Stadium, Colombo",Jaffna Kings,224,211,13,112,112
+2021-12-07,Kandy Warriors|Galle Gladiators,"R Premadasa Stadium, Colombo",Galle Gladiators,290,268,22,145,145
+2021-12-07,Melbourne Renegades|Adelaide Strikers,"Docklands Stadium, Melbourne",Melbourne Renegades,304,283,21,152,152
+2021-12-08,Dambulla Giants|Colombo Stars,"R Premadasa Stadium, Colombo",Dambulla Giants,372,353,19,186,186
+2021-12-08,England|Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,889,850,39,444,445
+2021-12-08,Jaffna Kings|Kandy Warriors,"R Premadasa Stadium, Colombo",Jaffna Kings,347,327,20,173,174
+2021-12-08,Perth Scorchers|Brisbane Heat,Perth Stadium,Perth Scorchers,308,290,18,154,154
+2021-12-08,Sydney Sixers|Hobart Hurricanes,"Aurora Stadium, Launceston",Sydney Sixers,274,263,11,137,137
+2021-12-09,Adelaide Strikers|Melbourne Renegades,Adelaide Oval,Adelaide Strikers,249,237,12,124,125
+2021-12-10,Canterbury|Central Districts,"Hagley Oval, Christchurch",Canterbury,297,287,10,148,149
+2021-12-10,Central Districts|Canterbury,"Hagley Oval, Christchurch",Canterbury,278,266,12,139,139
+2021-12-10,Jaffna Kings|Colombo Stars,"R Premadasa Stadium, Colombo",Jaffna Kings,321,299,22,160,161
+2021-12-10,Melbourne Stars|Sydney Thunder,Melbourne Cricket Ground,Melbourne Stars,326,302,24,163,163
+2021-12-11,Dambulla Giants|Colombo Stars,"R Premadasa Stadium, Colombo",Dambulla Giants,275,260,15,137,138
+2021-12-11,Galle Gladiators|Kandy Warriors,"R Premadasa Stadium, Colombo",Kandy Warriors,258,229,29,129,129
+2021-12-11,Hobart Hurricanes|Sydney Sixers,Sydney Cricket Ground,Hobart Hurricanes,364,352,12,182,182
+2021-12-11,Perth Scorchers|Adelaide Strikers,Sydney Showground Stadium,Perth Scorchers,341,309,32,170,171
+2021-12-12,Colombo Stars|Galle Gladiators,"R Premadasa Stadium, Colombo",Colombo Stars,283,266,17,141,142
+2021-12-12,Kandy Warriors|Jaffna Kings,"R Premadasa Stadium, Colombo",Jaffna Kings,189,183,6,94,95
+2021-12-12,Northern Districts|Otago,"University Oval, Dunedin",Otago,571,531,40,285,286
+2021-12-12,Sydney Thunder|Melbourne Stars,Sydney Showground Stadium,Melbourne Stars,306,289,17,153,153
+2021-12-13,Dambulla Giants|Jaffna Kings,"R Premadasa Stadium, Colombo",Jaffna Kings,140,130,10,70,70
+2021-12-13,Melbourne Renegades|Brisbane Heat,Carrara Oval,Brisbane Heat,281,264,17,140,141
+2021-12-13,Pakistan|West Indies,"National Stadium, Karachi",Pakistan,337,326,11,168,169
+2021-12-14,Galle Gladiators|Dambulla Giants,"R Premadasa Stadium, Colombo",Galle Gladiators,259,253,6,129,130
+2021-12-14,Kandy Warriors|Colombo Stars,"R Premadasa Stadium, Colombo",Colombo Stars,296,284,12,148,148
+2021-12-14,Pakistan|West Indies,"National Stadium, Karachi",Pakistan,335,318,17,167,168
+2021-12-14,Perth Scorchers|Hobart Hurricanes,"Bellerive Oval, Hobart",Perth Scorchers,311,304,7,155,156
+2021-12-15,Melbourne Stars|Sydney Sixers,Melbourne Cricket Ground,Sydney Sixers,359,341,18,179,180
+2021-12-16,Australia|England,Adelaide Oval,Australia,1131,1073,58,565,566
+2021-12-16,Dambulla Giants|Kandy Warriors,"R Premadasa Stadium, Colombo",Kandy Warriors,265,244,21,132,133
+2021-12-16,Jaffna Kings|Colombo Stars,"R Premadasa Stadium, Colombo",Jaffna Kings,284,269,15,142,142
+2021-12-16,West Indies|Pakistan,"National Stadium, Karachi",Pakistan,415,396,19,207,208
+2021-12-17,Auckland|Northern Districts,"Seddon Park, Hamilton",Auckland,236,217,19,118,118
+2021-12-17,Auckland|Northern Districts,"Seddon Park, Hamilton",Northern Districts,332,317,15,166,166
+2021-12-17,Colombo Stars|Kandy Warriors,"R Premadasa Stadium, Colombo",Colombo Stars,306,294,12,153,153
+2021-12-17,Galle Gladiators|Jaffna Kings,"R Premadasa Stadium, Colombo",Galle Gladiators,238,211,27,119,119
+2021-12-18,Central Districts|Otago,"McLean Park, Napier",Central Districts,307,284,23,153,154
+2021-12-18,Central Districts|Otago,"McLean Park, Napier",Otago,154,139,15,77,77
+2021-12-19,Colombo Stars|Dambulla Giants,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Dambulla Giants,291,285,6,145,146
+2021-12-19,Galle Gladiators|Jaffna Kings,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Galle Gladiators,312,298,14,156,156
+2021-12-19,Sydney Thunder|Brisbane Heat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sydney Thunder,339,313,26,169,170
+2021-12-19,Wellington|Canterbury,"Basin Reserve, Wellington",Canterbury,308,296,12,154,154
+2021-12-19,Wellington|Canterbury,"Basin Reserve, Wellington",Wellington,239,220,19,119,120
+2021-12-20,Auckland|Northern Districts,"Eden Park Outer Oval, Auckland",Northern Districts,185,165,20,92,93
+2021-12-20,Northern Districts|Auckland,"Eden Park Outer Oval, Auckland",Auckland,208,198,10,104,104
+2021-12-20,Perth Scorchers|Hobart Hurricanes,"Bellerive Oval, Hobart",Perth Scorchers,292,278,14,146,146
+2021-12-21,Adelaide Strikers|Sydney Sixers,Sydney Cricket Ground,Sydney Sixers,297,280,17,148,149
+2021-12-21,Jaffna Kings|Dambulla Giants,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Kings,397,374,23,198,199
+2021-12-22,Perth Scorchers|Melbourne Renegades,"Docklands Stadium, Melbourne",Perth Scorchers,391,374,17,195,196
+2021-12-22,United States of America|Ireland,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",United States of America,350,321,29,175,175
+2021-12-23,Brisbane Heat|Adelaide Strikers,Adelaide Oval,Brisbane Heat,377,366,11,188,189
+2021-12-23,Canterbury|Northern Districts,"Bay Oval, Mount Maunganui",Canterbury,268,250,18,134,134
+2021-12-23,Canterbury|Northern Districts,"Bay Oval, Mount Maunganui",Northern Districts,215,202,13,107,108
+2021-12-23,Ireland|United States of America,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Ireland,291,272,19,145,146
+2021-12-23,Jaffna Kings|Galle Gladiators,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Kings,379,360,19,189,190
+2021-12-24,Auckland|Wellington,"Basin Reserve, Wellington",Auckland,255,230,25,127,128
+2021-12-24,Hobart Hurricanes|Melbourne Stars,"Bellerive Oval, Hobart",Hobart Hurricanes,331,315,16,165,166
+2021-12-24,Wellington|Auckland,"Basin Reserve, Wellington",Wellington,246,228,18,123,123
+2021-12-26,Canterbury|Otago,"Hagley Oval, Christchurch",Canterbury,310,293,17,155,155
+2021-12-26,England|Australia,Melbourne Cricket Ground,Australia,520,498,22,260,260
+2021-12-26,India|South Africa,"SuperSport Park, Centurion",India,889,825,64,444,445
+2021-12-26,Melbourne Renegades|Perth Scorchers,"Docklands Stadium, Melbourne",Perth Scorchers,303,295,8,151,152
+2021-12-26,Otago|Canterbury,"Hagley Oval, Christchurch",Otago,260,245,15,130,130
+2021-12-26,Sydney Sixers|Sydney Thunder,Sydney Showground Stadium,Sydney Sixers,310,302,8,155,155
+2021-12-27,Adelaide Strikers|Hobart Hurricanes,"Bellerive Oval, Hobart",Hobart Hurricanes,351,327,24,175,176
+2021-12-27,Central Districts|Auckland,"Fitzherbert Park, Palmerston North",Auckland,338,320,18,169,169
+2021-12-27,Central Districts|Auckland,"Fitzherbert Park, Palmerston North",Central Districts,240,223,17,120,120
+2021-12-27,Melbourne Stars|Brisbane Heat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Melbourne Stars,394,372,22,197,197
+2021-12-28,Otago|Wellington,"John Davies Oval, Queenstown",Wellington,336,312,24,168,168
+2021-12-28,Sydney Thunder|Perth Scorchers,"Manuka Oval, Canberra",Sydney Thunder,366,341,25,183,183
+2021-12-28,Wellington|Otago,"John Davies Oval, Queenstown",Wellington,248,225,23,124,124
+2021-12-29,Brisbane Heat|Sydney Sixers,Sydney Cricket Ground,Sydney Sixers,211,198,13,105,106
+2021-12-29,Hobart Hurricanes|Melbourne Renegades,"Docklands Stadium, Melbourne",Hobart Hurricanes,327,308,19,163,164
+2021-12-29,Otago|Auckland,"John Davies Oval, Queenstown",Auckland,259,249,10,129,130
+2021-12-29,Otago|Auckland,"John Davies Oval, Queenstown",Otago,261,250,11,130,131
+2021-12-30,Central Districts|Northern Districts,"Pukekura Park, New Plymouth",Northern Districts,292,284,8,146,146
+2021-12-30,Northern Districts|Central Districts,"Pukekura Park, New Plymouth",Northern Districts,243,220,23,121,122
+2021-12-31,Central Districts|Canterbury,"Pukekura Park, New Plymouth",Canterbury,664,627,37,332,332
+2021-12-31,Sydney Thunder|Adelaide Strikers,Adelaide Oval,Sydney Thunder,352,339,13,176,176

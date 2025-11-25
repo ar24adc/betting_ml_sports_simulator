@@ -1,0 +1,1865 @@
+match_date,teams,venue,winner,runs_total,runs_batsman,runs_extras,team1_runs,team2_runs
+2022-01-01,Brisbane Heat|Hobart Hurricanes,"Bellerive Oval, Hobart",Brisbane Heat,286,279,7,143,143
+2022-01-01,New Zealand|Bangladesh,"Bay Oval, Mount Maunganui",Bangladesh,997,950,47,498,499
+2022-01-02,Perth Scorchers|Melbourne Stars,"Junction Oval, Melbourne",Perth Scorchers,310,290,20,155,155
+2022-01-02,Sydney Thunder|Adelaide Strikers,Sydney Showground Stadium,Sydney Thunder,316,298,18,158,158
+2022-01-03,India|South Africa,"The Wanderers Stadium, Johannesburg",South Africa,940,850,90,470,470
+2022-01-03,Melbourne Stars|Melbourne Renegades,Melbourne Cricket Ground,Melbourne Renegades,255,245,10,127,128
+2022-01-04,Perth Scorchers|Sydney Sixers,Carrara Oval,Perth Scorchers,276,260,16,138,138
+2022-01-05,Hobart Hurricanes|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,255,241,14,127,128
+2022-01-06,Brisbane Heat|Melbourne Renegades,"GMHBA Stadium, South Geelong, Victoria",Melbourne Renegades,257,245,12,128,129
+2022-01-06,Otago|Wellington,"Basin Reserve, Wellington",Wellington,276,262,14,138,138
+2022-01-06,Perth Scorchers|Sydney Thunder,Carrara Oval,Sydney Thunder,270,255,15,135,135
+2022-01-06,Wellington|Otago,"Basin Reserve, Wellington",Wellington,183,173,10,91,92
+2022-01-07,Auckland|Canterbury,"Eden Park, Auckland",Auckland,269,247,22,134,135
+2022-01-07,Auckland|Canterbury,"Eden Park, Auckland",Canterbury,339,326,13,169,170
+2022-01-08,Brisbane Heat|Hobart Hurricanes,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Hobart Hurricanes,289,274,15,144,145
+2022-01-08,Central Districts|Wellington,"Pukekura Park, New Plymouth",Wellington,705,648,57,352,353
+2022-01-08,Sydney Thunder|Melbourne Renegades,"Docklands Stadium, Melbourne",Sydney Thunder,289,283,6,144,145
+2022-01-08,West Indies|Ireland,"Sabina Park, Kingston, Jamaica",West Indies,514,485,29,257,257
+2022-01-09,New Zealand|Bangladesh,"Hagley Oval, Christchurch",New Zealand,925,898,27,462,463
+2022-01-09,Sydney Sixers|Perth Scorchers,"International Sports Stadium, Coffs Harbour",Perth Scorchers,303,298,5,151,152
+2022-01-10,Adelaide Strikers|Melbourne Stars,Melbourne Cricket Ground,Melbourne Stars,279,265,14,139,140
+2022-01-10,Hobart Hurricanes|Sydney Thunder,Melbourne Cricket Ground,Sydney Thunder,279,261,18,139,140
+2022-01-11,India|South Africa,"Newlands, Cape Town",South Africa,843,773,70,421,422
+2022-01-11,Perth Scorchers|Melbourne Stars,"GMHBA Stadium, South Geelong, Victoria",Perth Scorchers,345,325,20,172,173
+2022-01-11,Sydney Sixers|Melbourne Renegades,"GMHBA Stadium, South Geelong, Victoria",Sydney Sixers,255,248,7,127,128
+2022-01-12,Adelaide Strikers|Brisbane Heat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Adelaide Strikers,251,226,25,125,126
+2022-01-13,Hobart Hurricanes|Sydney Thunder,"Docklands Stadium, Melbourne",Hobart Hurricanes,345,327,18,172,173
+2022-01-13,Melbourne Renegades|Melbourne Stars,"Docklands Stadium, Melbourne",Melbourne Stars,245,219,26,122,123
+2022-01-13,West Indies|Ireland,"Sabina Park, Kingston, Jamaica",Ireland,397,353,44,198,199
+2022-01-14,Australia|England,"Bellerive Oval, Hobart",Australia,770,731,39,385,385
+2022-01-14,Northern Districts|Central Districts,"Bay Oval, Mount Maunganui",Central Districts,223,195,28,111,112
+2022-01-14,Northern Districts|Central Districts,"Bay Oval, Mount Maunganui",Northern Districts,333,311,22,166,167
+2022-01-14,Perth Scorchers|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,257,245,12,128,129
+2022-01-15,Adelaide Strikers|Melbourne Stars,Adelaide Oval,Adelaide Strikers,287,277,10,143,144
+2022-01-15,Auckland|Otago,"Eden Park, Auckland",Otago,213,203,10,106,107
+2022-01-15,Otago|Auckland,"Eden Park, Auckland",Auckland,263,254,9,131,132
+2022-01-15,Sydney Sixers|Sydney Thunder,Sydney Cricket Ground,Sydney Sixers,334,320,14,167,167
+2022-01-16,Brisbane Heat|Melbourne Stars,Melbourne Cricket Ground,Melbourne Stars,299,283,16,149,150
+2022-01-16,Northern Districts|Wellington,"Cobham Oval (New), Whangarei",Wellington,97,91,6,48,49
+2022-01-16,Wellington|Northern Districts,"Cobham Oval (New), Whangarei",Northern Districts,209,196,13,104,105
+2022-01-16,West Indies|Ireland,"Sabina Park, Kingston, Jamaica",Ireland,426,387,39,213,213
+2022-01-16,Zimbabwe|Sri Lanka,Pallekele International Cricket Stadium,Sri Lanka,596,564,32,298,298
+2022-01-17,Brisbane Heat|Perth Scorchers,"Docklands Stadium, Melbourne",Perth Scorchers,311,301,10,155,156
+2022-01-17,Sydney Sixers|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,326,316,10,163,163
+2022-01-18,Auckland|Canterbury,"Hagley Oval, Christchurch",Auckland,254,220,34,127,127
+2022-01-18,Canterbury|Auckland,"Hagley Oval, Christchurch",Canterbury,290,281,9,145,145
+2022-01-18,Hobart Hurricanes|Melbourne Renegades,"Docklands Stadium, Melbourne",Hobart Hurricanes,358,344,14,179,179
+2022-01-18,Malaysia|Bangladesh,"Kinrara Academy Oval, Kuala Lumpur",Bangladesh,102,98,4,51,51
+2022-01-18,Sri Lanka|Scotland,"Kinrara Academy Oval, Kuala Lumpur",Sri Lanka,255,235,20,127,128
+2022-01-18,Zimbabwe|Sri Lanka,Pallekele International Cricket Stadium,Zimbabwe,582,555,27,291,291
+2022-01-19,Bangladesh|Kenya,"Kinrara Academy Oval, Kuala Lumpur",Bangladesh,170,153,17,85,85
+2022-01-19,Melbourne Stars|Hobart Hurricanes,Melbourne Cricket Ground,Melbourne Stars,440,428,12,220,220
+2022-01-19,Scotland|Malaysia,"Kinrara Academy Oval, Kuala Lumpur",Scotland,265,244,21,132,133
+2022-01-19,South Africa|India,"Boland Park, Paarl",South Africa,561,530,31,280,281
+2022-01-19,Sydney Sixers|Brisbane Heat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sydney Sixers,329,316,13,164,165
+2022-01-19,Sydney Thunder|Melbourne Renegades,Melbourne Cricket Ground,Sydney Thunder,339,320,19,169,170
+2022-01-20,Auckland|Wellington,"Eden Park Outer Oval, Auckland",Wellington,422,398,24,211,211
+2022-01-20,England|Australia,Adelaide Oval,Australia,339,318,21,169,170
+2022-01-20,Kenya|Sri Lanka,"Kinrara Academy Oval, Kuala Lumpur",Sri Lanka,176,156,20,88,88
+2022-01-21,Adelaide Strikers|Hobart Hurricanes,Melbourne Cricket Ground,Adelaide Strikers,354,346,8,177,177
+2022-01-21,Canterbury|Northern Districts,"Hagley Oval, Christchurch",Canterbury,320,297,23,160,160
+2022-01-21,Canterbury|Northern Districts,"Hagley Oval, Christchurch",Northern Districts,347,336,11,173,174
+2022-01-21,Chattogram Challengers|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,251,235,16,125,126
+2022-01-21,India|South Africa,"Boland Park, Paarl",South Africa,575,545,30,287,288
+2022-01-21,Minister Group Dhaka|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,369,349,20,184,185
+2022-01-21,Sri Lanka|Zimbabwe,Pallekele International Cricket Stadium,Sri Lanka,324,309,15,162,162
+2022-01-22,Central Districts|Auckland,"Eden Park, Auckland",Auckland,271,253,18,135,136
+2022-01-22,Central Districts|Auckland,"Eden Park, Auckland",Central Districts,342,329,13,171,171
+2022-01-22,Chattogram Challengers|Minister Group Dhaka,"Shere Bangla National Stadium, Mirpur",Chattogram Challengers,292,283,9,146,146
+2022-01-22,England|West Indies,"Kensington Oval, Bridgetown, Barbados",West Indies,207,199,8,103,104
+2022-01-22,Perth Scorchers|Sydney Sixers,"Docklands Stadium, Melbourne",Perth Scorchers,330,312,18,165,165
+2022-01-22,Scotland|Kenya,"Kinrara Academy Oval, Kuala Lumpur",Scotland,124,115,9,62,62
+2022-01-22,Sri Lanka|Malaysia,"Kinrara Academy Oval, Kuala Lumpur",Sri Lanka,257,237,20,128,129
+2022-01-22,Sylhet Sunrisers|Comilla Victorians,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,193,171,22,96,97
+2022-01-23,Adelaide Strikers|Sydney Thunder,Melbourne Cricket Ground,Adelaide Strikers,362,347,15,181,181
+2022-01-23,Canterbury|Otago,"University Oval, Dunedin",Otago,226,214,12,113,113
+2022-01-23,England|West Indies,"Kensington Oval, Bridgetown, Barbados",England,341,321,20,170,171
+2022-01-23,Kenya|Malaysia,"Kinrara Academy Oval, Kuala Lumpur",Malaysia,177,163,14,88,89
+2022-01-23,Otago|Canterbury,"University Oval, Dunedin",Canterbury,371,364,7,185,186
+2022-01-23,Scotland|Bangladesh,"Kinrara Academy Oval, Kuala Lumpur",Bangladesh,155,145,10,77,78
+2022-01-23,South Africa|India,"Newlands, Cape Town",South Africa,570,541,29,285,285
+2022-01-24,Chattogram Challengers|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Chattogram Challengers,355,334,21,177,178
+2022-01-24,Fortune Barishal|Minister Group Dhaka,"Shere Bangla National Stadium, Mirpur",Minister Group Dhaka,259,240,19,129,130
+2022-01-24,Sri Lanka|Bangladesh,"Kinrara Academy Oval, Kuala Lumpur",Sri Lanka,250,238,12,125,125
+2022-01-24,Wellington|Northern Districts,"Basin Reserve, Wellington",Northern Districts,335,327,8,167,168
+2022-01-24,Wellington|Northern Districts,"Basin Reserve, Wellington",Wellington,254,239,15,127,127
+2022-01-25,Comilla Victorians|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,253,237,16,126,127
+2022-01-25,Minister Group Dhaka|Sylhet Sunrisers,"Shere Bangla National Stadium, Mirpur",Sylhet Sunrisers,201,196,5,100,101
+2022-01-26,Adelaide Strikers|Sydney Sixers,Sydney Cricket Ground,Sydney Sixers,337,321,16,168,169
+2022-01-26,West Indies|England,"Kensington Oval, Bridgetown, Barbados",West Indies,428,403,25,214,214
+2022-01-27,Karachi Kings|Multan Sultans,"National Stadium, Karachi",Multan Sultans,250,240,10,125,125
+2022-01-27,Otago|Auckland,"University Oval, Dunedin",Otago,257,238,19,128,129
+2022-01-27,Wellington|Canterbury,"University Oval, Dunedin",Canterbury,381,368,13,190,191
+2022-01-28,Chattogram Challengers|Khulna Tigers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Khulna Tigers,287,277,10,143,144
+2022-01-28,Perth Scorchers|Sydney Sixers,"Docklands Stadium, Melbourne",Perth Scorchers,263,252,11,131,132
+2022-01-28,Quetta Gladiators|Peshawar Zalmi,"National Stadium, Karachi",Peshawar Zalmi,381,364,17,190,191
+2022-01-28,Sylhet Sunrisers|Minister Group Dhaka,"Zahur Ahmed Chowdhury Stadium, Chattogram",Minister Group Dhaka,352,332,20,176,176
+2022-01-29,Chattogram Challengers|Sylhet Sunrisers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram Challengers,388,360,28,194,194
+2022-01-29,England|West Indies,"Kensington Oval, Bridgetown, Barbados",England,352,332,20,176,176
+2022-01-29,Fortune Barishal|Khulna Tigers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,265,255,10,132,133
+2022-01-29,Karachi Kings|Quetta Gladiators,"National Stadium, Karachi",Quetta Gladiators,227,216,11,113,114
+2022-01-29,Lahore Qalandars|Multan Sultans,"National Stadium, Karachi",Multan Sultans,415,394,21,207,208
+2022-01-29,Northern Districts|Canterbury,"Seddon Park, Hamilton",Northern Districts,378,363,15,189,189
+2022-01-29,Wellington|Otago,"Seddon Park, Hamilton",Wellington,275,265,10,137,138
+2022-01-30,Karachi Kings|Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,344,329,15,172,172
+2022-01-30,Peshawar Zalmi|Islamabad United,"National Stadium, Karachi",Islamabad United,340,320,20,170,170
+2022-01-30,West Indies|England,"Kensington Oval, Bridgetown, Barbados",West Indies,341,318,23,170,171
+2022-01-31,Comilla Victorians|Chattogram Challengers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Comilla Victorians,314,309,5,157,157
+2022-01-31,Fortune Barishal|Khulna Tigers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,284,277,7,142,142
+2022-01-31,Multan Sultans|Quetta Gladiators,"National Stadium, Karachi",Multan Sultans,342,324,18,171,171
+2022-02-01,Fortune Barishal|Chattogram Challengers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,284,272,12,142,142
+2022-02-01,Minister Group Dhaka|Comilla Victorians,"Zahur Ahmed Chowdhury Stadium, Chattogram",Minister Group Dhaka,312,295,17,156,156
+2022-02-01,Multan Sultans|Islamabad United,"National Stadium, Karachi",Multan Sultans,414,404,10,207,207
+2022-02-02,Lahore Qalandars|Peshawar Zalmi,"National Stadium, Karachi",Lahore Qalandars,369,347,22,184,185
+2022-02-03,Australia|England,"Manuka Oval, Canberra",Australia,383,351,32,191,192
+2022-02-03,Chattogram Challengers|Comilla Victorians,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,286,267,19,143,143
+2022-02-03,Islamabad United|Quetta Gladiators,"National Stadium, Karachi",Islamabad United,415,399,16,207,208
+2022-02-03,South Africa|West Indies,"The Wanderers Stadium, Johannesburg",South Africa,502,450,52,251,251
+2022-02-03,Sylhet Sunrisers|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,286,265,21,143,143
+2022-02-04,Northern Districts|Auckland Aces,"Eden Park Outer Oval, Auckland",Auckland Aces,807,767,40,403,404
+2022-02-04,Peshawar Zalmi|Karachi Kings,"National Stadium, Karachi",Peshawar Zalmi,337,322,15,168,169
+2022-02-05,Lahore Qalandars|Islamabad United,"National Stadium, Karachi",Lahore Qalandars,340,327,13,170,170
+2022-02-05,Multan Sultans|Peshawar Zalmi,"National Stadium, Karachi",Multan Sultans,387,373,14,193,194
+2022-02-05,Oman|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,615,602,13,307,308
+2022-02-06,England|Australia,"Junction Oval, Melbourne",Australia,260,249,11,130,130
+2022-02-06,Islamabad United|Karachi Kings,"National Stadium, Karachi",Islamabad United,312,304,8,156,156
+2022-02-06,Oman|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,391,377,14,195,196
+2022-02-06,West Indies|India,"Narendra Modi Stadium, Ahmedabad",India,354,335,19,177,177
+2022-02-06,West Indies|South Africa,"The Wanderers Stadium, Johannesburg",South Africa,349,325,24,174,175
+2022-02-07,Boland|Western Province,"St George's Park, Port Elizabeth",Western Province,285,275,10,142,143
+2022-02-07,Fortune Barishal|Comilla Victorians,Sylhet International Cricket Stadium,Fortune Barishal,278,268,10,139,139
+2022-02-07,Khulna Tigers|Sylhet Sunrisers,Sylhet International Cricket Stadium,Khulna Tigers,349,330,19,174,175
+2022-02-07,Lahore Qalandars|Quetta Gladiators,"National Stadium, Karachi",Quetta Gladiators,411,400,11,205,206
+2022-02-07,Warriors|Titans,"St George's Park, Port Elizabeth",Warriors,318,299,19,159,159
+2022-02-08,Chattogram Challengers|Minister Group Dhaka,Sylhet International Cricket Stadium,Chattogram Challengers,293,278,15,146,147
+2022-02-08,England|Australia,"Junction Oval, Melbourne",Australia,327,309,18,163,164
+2022-02-08,Fortune Barishal|Sylhet Sunrisers,Sylhet International Cricket Stadium,Fortune Barishal,386,369,17,193,193
+2022-02-08,Knights|Dolphins,"St George's Park, Port Elizabeth",Dolphins,258,248,10,129,129
+2022-02-08,North West|Lions,"St George's Park, Port Elizabeth",North West,261,247,14,130,131
+2022-02-09,India|West Indies,"Narendra Modi Stadium, Ahmedabad",India,430,408,22,215,215
+2022-02-09,Khulna Tigers|Minister Group Dhaka,Sylhet International Cricket Stadium,Minister Group Dhaka,260,254,6,130,130
+2022-02-09,New Zealand|India,"John Davies Oval, Queenstown",New Zealand,292,283,9,146,146
+2022-02-09,Queensland|New South Wales,"Brisbane Cricket Ground, Woolloongabba, Brisbane",New South Wales,645,591,54,322,323
+2022-02-09,Sylhet Sunrisers|Comilla Victorians,Sylhet International Cricket Stadium,Comilla Victorians,342,329,13,171,171
+2022-02-09,Titans|Boland,"St George's Park, Port Elizabeth",Titans,313,302,11,156,157
+2022-02-09,Warriors|Western Province,"St George's Park, Port Elizabeth",Western Province,327,312,15,163,164
+2022-02-10,Knights|North West,"St George's Park, Port Elizabeth",North West,189,175,14,94,95
+2022-02-10,Lions|Dolphins,"St George's Park, Port Elizabeth",Lions,304,287,17,152,152
+2022-02-10,Multan Sultans|Peshawar Zalmi,"Gaddafi Stadium, Lahore",Multan Sultans,322,304,18,161,161
+2022-02-11,Auckland Aces|Otago Volts,"University Oval, Dunedin",Auckland Aces,605,565,40,302,303
+2022-02-11,Australia|Sri Lanka,Sydney Cricket Ground,Australia,271,252,19,135,136
+2022-02-11,Comilla Victorians|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,311,294,17,155,156
+2022-02-11,India|West Indies,"Narendra Modi Stadium, Ahmedabad",India,434,401,33,217,217
+2022-02-11,Lahore Qalandars|Multan Sultans,"Gaddafi Stadium, Lahore",Lahore Qalandars,312,294,18,156,156
+2022-02-11,Minister Group Dhaka|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,257,240,17,128,129
+2022-02-11,Oman|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,272,259,13,136,136
+2022-02-12,Comilla Victorians|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,365,351,14,182,183
+2022-02-12,Dolphins|Warriors,"St George's Park, Port Elizabeth",Dolphins,402,385,17,201,201
+2022-02-12,Islamabad United|Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,402,370,32,201,201
+2022-02-12,New Zealand|India,"John Davies Oval, Queenstown",New Zealand,488,470,18,244,244
+2022-02-12,Oman|Ireland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,277,269,8,138,139
+2022-02-12,Sylhet Sunrisers|Chattogram Challengers,"Shere Bangla National Stadium, Mirpur",Chattogram Challengers,373,363,10,186,187
+2022-02-12,Titans|Knights,"St George's Park, Port Elizabeth",Titans,275,264,11,137,138
+2022-02-12,United Arab Emirates|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,359,337,22,179,180
+2022-02-13,Lions|Western Province,"St George's Park, Port Elizabeth",Western Province,281,272,9,140,141
+2022-02-13,Peshawar Zalmi|Karachi Kings,"Gaddafi Stadium, Lahore",Peshawar Zalmi,331,314,17,165,166
+2022-02-13,Quetta Gladiators|Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,284,270,14,142,142
+2022-02-13,United Arab Emirates|Ireland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,343,326,17,171,172
+2022-02-14,Chattogram Challengers|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Chattogram Challengers,371,359,12,185,186
+2022-02-14,Dolphins|Titans,"St George's Park, Port Elizabeth",Titans,271,260,11,135,136
+2022-02-14,Fortune Barishal|Comilla Victorians,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,276,257,19,138,138
+2022-02-14,Ireland|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,238,232,6,119,119
+2022-02-14,Islamabad United|Karachi Kings,"Gaddafi Stadium, Lahore",Islamabad United,381,362,19,190,191
+2022-02-14,United Arab Emirates|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,329,311,18,164,165
+2022-02-14,Warriors|Knights,"St George's Park, Port Elizabeth",Knights,343,329,14,171,172
+2022-02-15,Boland|Lions,"St George's Park, Port Elizabeth",Boland,276,265,11,138,138
+2022-02-15,India|New Zealand,"John Davies Oval, Queenstown",New Zealand,543,520,23,271,272
+2022-02-15,Peshawar Zalmi|Quetta Gladiators,"Gaddafi Stadium, Lahore",Peshawar Zalmi,346,331,15,173,173
+2022-02-15,South Australia|Victoria,"Karen Rolton Oval, Adelaide",Victoria,521,492,29,260,261
+2022-02-15,Sri Lanka|Australia,"Manuka Oval, Canberra",Australia,245,232,13,122,123
+2022-02-15,Western Province|North West,"St George's Park, Port Elizabeth",Western Province,244,232,12,122,122
+2022-02-16,Chattogram Challengers|Comilla Victorians,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,297,282,15,148,149
+2022-02-16,Karachi Kings|Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,350,334,16,175,175
+2022-02-16,West Indies|India,"Eden Gardens, Kolkata",India,319,298,21,159,160
+2022-02-17,Lions|Titans,"St George's Park, Port Elizabeth",Titans,300,287,13,150,150
+2022-02-17,Peshawar Zalmi|Islamabad United,"Gaddafi Stadium, Lahore",Peshawar Zalmi,402,384,18,201,201
+2022-02-17,South Africa|New Zealand,"Hagley Oval, Christchurch",New Zealand,688,643,45,344,344
+2022-02-17,Warriors|Boland,"St George's Park, Port Elizabeth",Boland,316,300,16,158,158
+2022-02-18,Canada|Philippines,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Canada,314,290,24,157,157
+2022-02-18,Comilla Victorians|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,301,280,21,150,151
+2022-02-18,Germany|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Bahrain,213,204,9,106,107
+2022-02-18,India|New Zealand,"John Davies Oval, Queenstown",New Zealand,559,538,21,279,280
+2022-02-18,India|West Indies,"Eden Gardens, Kolkata",India,364,331,33,182,182
+2022-02-18,Karachi Kings|Lahore Qalandars,"Gaddafi Stadium, Lahore",Karachi Kings,276,260,16,138,138
+2022-02-18,Knights|Western Province,"St George's Park, Port Elizabeth",Western Province,256,242,14,128,128
+2022-02-18,Multan Sultans|Quetta Gladiators,"Gaddafi Stadium, Lahore",Multan Sultans,373,347,26,186,187
+2022-02-18,Nepal|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,195,179,16,97,98
+2022-02-18,New South Wales|Tasmania,Sydney Cricket Ground,New South Wales,929,908,21,464,465
+2022-02-18,North West|Dolphins,"St George's Park, Port Elizabeth",Dolphins,271,257,14,135,136
+2022-02-18,Sri Lanka|Australia,Melbourne Cricket Ground,Australia,282,271,11,141,141
+2022-02-18,United Arab Emirates|Ireland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,296,280,16,148,148
+2022-02-19,Canada|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,314,309,5,157,157
+2022-02-19,Ireland|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Ireland,295,284,11,147,148
+2022-02-19,Lahore Qalandars|Islamabad United,"Gaddafi Stadium, Lahore",Lahore Qalandars,328,315,13,164,164
+2022-02-19,Lions|Warriors,"St George's Park, Port Elizabeth",Warriors,286,267,19,143,143
+2022-02-19,Nepal|Philippines,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Nepal,300,283,17,150,150
+2022-02-19,United Arab Emirates|Germany,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,358,327,31,179,179
+2022-02-19,Western Province|Titans,"St George's Park, Port Elizabeth",Titans,284,276,8,142,142
+2022-02-20,Australia|Sri Lanka,Melbourne Cricket Ground,Sri Lanka,309,292,17,154,155
+2022-02-20,Boland|Dolphins,"St George's Park, Port Elizabeth",Boland,230,219,11,115,115
+2022-02-20,India|West Indies,"Eden Gardens, Kolkata",India,351,327,24,175,176
+2022-02-20,Islamabad United|Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,216,205,11,108,108
+2022-02-20,Knights|Lions,"St George's Park, Port Elizabeth",Lions,257,242,15,128,129
+2022-02-20,Quetta Gladiators|Karachi Kings,"Gaddafi Stadium, Lahore",Quetta Gladiators,309,284,25,154,155
+2022-02-21,Bahrain|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Bahrain,342,317,25,171,171
+2022-02-21,Canada|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,161,153,8,80,81
+2022-02-21,Germany|Ireland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,218,211,7,109,109
+2022-02-21,Philippines|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,76,72,4,38,38
+2022-02-22,Bahrain|Philippines,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Bahrain,291,269,22,145,146
+2022-02-22,Germany|Canada,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,263,248,15,131,132
+2022-02-22,Ireland|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Ireland,274,267,7,137,137
+2022-02-22,Knights|Boland,"St George's Park, Port Elizabeth",Knights,325,311,14,162,163
+2022-02-22,New Zealand|India,"John Davies Oval, Queenstown",New Zealand,319,307,12,159,160
+2022-02-22,Titans|North West,"St George's Park, Port Elizabeth",Titans,301,286,15,150,151
+2022-02-22,United Arab Emirates|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,282,267,15,141,141
+2022-02-23,Dolphins|Western Province,"St George's Park, Port Elizabeth",Dolphins,231,230,1,115,116
+2022-02-23,Multan Sultans|Lahore Qalandars,"Gaddafi Stadium, Lahore",Multan Sultans,298,282,16,149,149
+2022-02-23,North West|Warriors,"St George's Park, Port Elizabeth",North West,328,317,11,164,164
+2022-02-23,Queensland|Victoria,"Junction Oval, Melbourne",Queensland,478,454,24,239,239
+2022-02-24,Bahrain|Canada,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,263,252,11,131,132
+2022-02-24,India|Sri Lanka,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,336,328,8,168,168
+2022-02-24,Ireland|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,319,307,12,159,160
+2022-02-24,New Zealand|India,"John Davies Oval, Queenstown",India,503,464,39,251,252
+2022-02-24,Oman|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Nepal,177,174,3,88,89
+2022-02-24,Peshawar Zalmi|Islamabad United,"Gaddafi Stadium, Lahore",Islamabad United,339,323,16,169,170
+2022-02-24,Philippines|Germany,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Germany,224,210,14,112,112
+2022-02-25,Dolphins|Titans,"St George's Park, Port Elizabeth",Titans,187,179,8,93,94
+2022-02-25,Lahore Qalandars|Islamabad United,"Gaddafi Stadium, Lahore",Lahore Qalandars,330,317,13,165,165
+2022-02-25,South Africa|New Zealand,"Hagley Oval, Christchurch",South Africa,1238,1204,34,619,619
+2022-02-25,Western Province|Boland,"St George's Park, Port Elizabeth",Boland,239,223,16,119,120
+2022-02-26,Sri Lanka|India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,369,347,22,184,185
+2022-02-27,Boland|Titans,"St George's Park, Port Elizabeth",Boland,261,248,13,130,131
+2022-02-27,Lahore Qalandars|Multan Sultans,"Gaddafi Stadium, Lahore",Lahore Qalandars,318,307,11,159,159
+2022-02-27,Sri Lanka|India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,294,266,28,147,147
+2022-03-03,Auckland Aces|Canterbury,"Eden Park Outer Oval, Auckland",Auckland Aces,1132,1075,57,566,566
+2022-03-03,Northern Districts|Wellington Firebirds,"Cobham Oval (New), Whangarei",Northern Districts,901,856,45,450,451
+2022-03-04,India|Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,926,874,52,463,463
+2022-03-04,West Indies|New Zealand,"Bay Oval, Mount Maunganui",West Indies,515,490,25,257,258
+2022-03-05,Australia|England,"Seddon Park, Hamilton",Australia,608,573,35,304,304
+2022-03-05,Oman|United Arab Emirates,"ICC Academy, Dubai",Oman,438,399,39,219,219
+2022-03-05,South Africa|Bangladesh,"University Oval, Dunedin",South Africa,382,348,34,191,191
+2022-03-06,India|Pakistan,"Bay Oval, Mount Maunganui",India,381,367,14,190,191
+2022-03-06,Namibia|Oman,"ICC Academy, Dubai",Namibia,342,325,17,171,171
+2022-03-06,Tasmania|Victoria,"Bellerive Oval, Hobart",Tasmania,451,430,21,225,226
+2022-03-07,Bangladesh|New Zealand,"University Oval, Dunedin",New Zealand,284,274,10,142,142
+2022-03-08,Namibia|United Arab Emirates,"ICC Academy, Dubai",United Arab Emirates,413,371,42,206,207
+2022-03-08,Pakistan|Australia,"Bay Oval, Mount Maunganui",Australia,383,370,13,191,192
+2022-03-08,Victoria|Western Australia,"Junction Oval, Melbourne",Western Australia,288,257,31,144,144
+2022-03-09,Oman|United Arab Emirates,"ICC Academy, Dubai",Oman,434,403,31,217,217
+2022-03-09,West Indies|England,"University Oval, Dunedin",West Indies,443,395,48,221,222
+2022-03-10,New Zealand|India,"Seddon Park, Hamilton",New Zealand,458,442,16,229,229
+2022-03-11,Auckland Aces|Otago Volts,"Molyneux Park, Alexandra",Auckland Aces,1138,1069,69,569,569
+2022-03-11,Namibia|Oman,Sharjah Cricket Stadium,Oman,551,528,23,275,276
+2022-03-11,Northern Districts|Central Stags,"McLean Park, Napier",Northern Districts,803,756,47,401,402
+2022-03-11,South Africa|Pakistan,"Bay Oval, Mount Maunganui",South Africa,440,420,20,220,220
+2022-03-11,Western Australia|New South Wales,"Junction Oval, Melbourne",Western Australia,432,406,26,216,216
+2022-03-12,India|Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",India,872,824,48,436,436
+2022-03-12,India|West Indies,"Seddon Park, Hamilton",India,479,464,15,239,240
+2022-03-12,United Arab Emirates|Namibia,Sharjah Cricket Stadium,United Arab Emirates,653,615,38,326,327
+2022-03-13,Australia|New Zealand,"Basin Reserve, Wellington",Australia,397,381,16,198,199
+2022-03-14,Bangladesh|Pakistan,"Seddon Park, Hamilton",Bangladesh,459,433,26,229,230
+2022-03-14,England|South Africa,"Bay Oval, Mount Maunganui",South Africa,471,431,40,235,236
+2022-03-14,Oman|Namibia,Dubai International Cricket Stadium,Namibia,531,499,32,265,266
+2022-03-15,Papua New Guinea|United Arab Emirates,Sharjah Cricket Stadium,United Arab Emirates,355,340,15,177,178
+2022-03-15,Tasmania|Victoria,"Junction Oval, Melbourne",Victoria,1132,1093,39,566,566
+2022-03-15,West Indies|Australia,"Basin Reserve, Wellington",Australia,263,242,21,131,132
+2022-03-16,India|England,"Bay Oval, Mount Maunganui",England,270,253,17,135,135
+2022-03-16,Papua New Guinea|Nepal,Sharjah Cricket Stadium,Nepal,412,386,26,206,206
+2022-03-17,New Zealand|South Africa,"Seddon Park, Hamilton",South Africa,457,427,30,228,229
+2022-03-18,Bangladesh|South Africa,"SuperSport Park, Centurion",Bangladesh,590,559,31,295,295
+2022-03-18,United Arab Emirates|Nepal,Dubai International Cricket Stadium,United Arab Emirates,288,273,15,144,144
+2022-03-18,West Indies|Bangladesh,"Bay Oval, Mount Maunganui",West Indies,276,250,26,138,138
+2022-03-19,India|Australia,"Eden Park, Auckland",Australia,557,518,39,278,279
+2022-03-19,United Arab Emirates|Papua New Guinea,Dubai International Cricket Stadium,Papua New Guinea,297,278,19,148,149
+2022-03-20,Bangladesh|South Africa,"The Wanderers Stadium, Johannesburg",South Africa,389,368,21,194,195
+2022-03-20,New Zealand|England,"Eden Park, Auckland",England,407,380,27,203,204
+2022-03-20,Qatar|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,151,137,14,75,76
+2022-03-20,Saudi Arabia|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Kuwait,63,45,18,31,32
+2022-03-20,Wellington Firebirds|Otago Volts,"University Oval, Dunedin",Otago Volts,942,893,49,471,471
+2022-03-21,Australia|Pakistan,"Gaddafi Stadium, Lahore",Australia,1121,1063,58,560,561
+2022-03-21,Oman|Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,286,216,70,143,143
+2022-03-21,Qatar|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Qatar,244,204,40,122,122
+2022-03-21,United Arab Emirates|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,243,228,15,121,122
+2022-03-21,United Arab Emirates|Nepal,Dubai International Cricket Stadium,United Arab Emirates,305,290,15,152,153
+2022-03-21,West Indies|Pakistan,"Seddon Park, Hamilton",Pakistan,179,169,10,89,90
+2022-03-22,Bahrain|Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Bahrain,367,306,61,183,184
+2022-03-22,India|Bangladesh,"Seddon Park, Hamilton",India,348,334,14,174,174
+2022-03-22,Papua New Guinea|Nepal,Dubai International Cricket Stadium,Nepal,347,318,29,173,174
+2022-03-22,Qatar|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Kuwait,147,131,16,73,74
+2022-03-22,South Africa|Australia,"Basin Reserve, Wellington",Australia,543,508,35,271,272
+2022-03-22,United Arab Emirates|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,299,255,44,149,150
+2022-03-23,New South Wales|South Australia,"Karen Rolton Oval, Adelaide",South Australia,1207,1172,35,603,604
+2022-03-23,Queensland|Tasmania,"Bellerive Oval, Hobart",Tasmania,613,585,28,306,307
+2022-03-23,South Africa|Bangladesh,"SuperSport Park, Centurion",Bangladesh,310,290,20,155,155
+2022-03-23,Victoria|Western Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,623,590,33,311,312
+2022-03-24,England|West Indies,"National Cricket Stadium, St George's, Grenada",West Indies,649,590,59,324,325
+2022-03-24,Oman|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,209,180,29,104,105
+2022-03-24,Pakistan|England,"Hagley Oval, Christchurch",England,212,201,11,106,106
+2022-03-24,Saudi Arabia|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,51,34,17,25,26
+2022-03-25,Bangladesh|Australia,"Basin Reserve, Wellington",Australia,271,247,24,135,136
+2022-03-25,Kuwait|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Bahrain,252,226,26,126,126
+2022-03-25,Papua New Guinea|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,578,545,33,289,289
+2022-03-25,Qatar|Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Qatar,308,245,63,154,154
+2022-03-26,Chennai Super Kings|Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,264,254,10,132,132
+2022-03-26,Nepal|Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,561,530,31,280,281
+2022-03-26,New Zealand|Pakistan,"Hagley Oval, Christchurch",New Zealand,459,443,16,229,230
+2022-03-26,Oman|Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,192,171,21,96,96
+2022-03-26,United Arab Emirates|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,296,258,38,148,148
+2022-03-27,England|Bangladesh,"Basin Reserve, Wellington",England,368,355,13,184,184
+2022-03-27,India|South Africa,"Hagley Oval, Christchurch",South Africa,549,523,26,274,275
+2022-03-27,Mumbai Indians|Delhi Capitals,"Brabourne Stadium, Mumbai",Delhi Capitals,356,342,14,178,178
+2022-03-27,Royal Challengers Bangalore|Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Punjab Kings,413,368,45,206,207
+2022-03-28,Auckland Aces|Wellington Firebirds,"Eden Park Outer Oval, Auckland",Auckland Aces,954,888,66,477,477
+2022-03-28,Lucknow Super Giants|Gujarat Titans,"Wankhede Stadium, Mumbai",Gujarat Titans,319,306,13,159,160
+2022-03-28,Nepal|Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,351,317,34,175,176
+2022-03-29,Australia|Pakistan,"Gaddafi Stadium, Lahore",Australia,538,512,26,269,269
+2022-03-29,Malaysia|Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",Malaysia,352,325,27,176,176
+2022-03-29,Netherlands|New Zealand,"Bay Oval, Mount Maunganui",New Zealand,406,371,35,203,203
+2022-03-29,Rajasthan Royals|Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Rajasthan Royals,359,335,24,179,180
+2022-03-30,Australia|West Indies,"Basin Reserve, Wellington",Australia,453,434,19,226,227
+2022-03-30,Kolkata Knight Riders|Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,260,240,20,130,130
+2022-03-30,Malaysia|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,231,216,15,115,116
+2022-03-31,Australia|Pakistan,"Gaddafi Stadium, Lahore",Pakistan,697,685,12,348,349
+2022-03-31,Chennai Super Kings|Lucknow Super Giants,"Brabourne Stadium, Mumbai",Lucknow Super Giants,421,389,32,210,211
+2022-03-31,England|South Africa,"Hagley Oval, Christchurch",England,449,414,35,224,225
+2022-03-31,Nepal|Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,369,353,16,184,185
+2022-03-31,South Africa|Bangladesh,"Kingsmead, Durban",South Africa,922,871,51,461,461
+2022-04-01,Malaysia|Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,395,379,16,197,198
+2022-04-01,Punjab Kings|Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,278,261,17,139,139
+2022-04-02,Australia|Pakistan,"Gaddafi Stadium, Lahore",Pakistan,424,413,11,212,212
+2022-04-02,Gujarat Titans|Delhi Capitals,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,328,310,18,164,164
+2022-04-02,Nepal|Malaysia,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,361,337,24,180,181
+2022-04-02,New Zealand|Netherlands,"Seddon Park, Hamilton",New Zealand,410,377,33,205,205
+2022-04-02,Rajasthan Royals|Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Rajasthan Royals,363,341,22,181,182
+2022-04-03,Australia|England,"Hagley Oval, Christchurch",Australia,641,611,30,320,321
+2022-04-03,Punjab Kings|Chennai Super Kings,"Brabourne Stadium, Mumbai",Punjab Kings,306,288,18,153,153
+2022-04-04,Lucknow Super Giants|Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,326,312,14,163,163
+2022-04-04,Nepal|Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,286,267,19,143,143
+2022-04-04,New Zealand|Netherlands,"Seddon Park, Hamilton",New Zealand,551,516,35,275,276
+2022-04-05,Pakistan|Australia,"Gaddafi Stadium, Lahore",Australia,325,313,12,162,163
+2022-04-05,Rajasthan Royals|Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,342,324,18,171,171
+2022-04-06,Mumbai Indians|Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,323,317,6,161,162
+2022-04-06,Northern Districts|Wellington Firebirds,"Cobham Oval (New), Whangarei",Wellington Firebirds,699,639,60,349,350
+2022-04-07,Delhi Capitals|Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,304,292,12,152,152
+2022-04-07,Somerset|Hampshire,"The Rose Bowl, Southampton",Hampshire,743,721,22,371,372
+2022-04-07,Sussex|Nottinghamshire,"County Ground, Hove",Nottinghamshire,1095,1046,49,547,548
+2022-04-08,Punjab Kings|Gujarat Titans,"Brabourne Stadium, Mumbai",Gujarat Titans,379,368,11,189,190
+2022-04-08,South Africa|Bangladesh,"St George's Park, Port Elizabeth",South Africa,926,899,27,463,463
+2022-04-08,Uganda|Namibia,"United Cricket Club Ground, Windhoek",Namibia,255,240,15,127,128
+2022-04-09,Chennai Super Kings|Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,309,300,9,154,155
+2022-04-09,Mumbai Indians|Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,303,292,11,151,152
+2022-04-09,Namibia|Uganda,"United Cricket Club Ground, Windhoek",Uganda,355,344,11,177,178
+2022-04-09,Scotland|Papua New Guinea,Dubai International Cricket Stadium,Scotland,406,367,39,203,203
+2022-04-10,Delhi Capitals|Kolkata Knight Riders,"Brabourne Stadium, Mumbai",Delhi Capitals,386,364,22,193,193
+2022-04-10,Namibia|Uganda,"United Cricket Club Ground, Windhoek",Namibia,318,293,25,159,159
+2022-04-10,Rajasthan Royals|Lucknow Super Giants,"Wankhede Stadium, Mumbai",Rajasthan Royals,327,313,14,163,164
+2022-04-10,Scotland|Oman,Dubai International Cricket Stadium,Scotland,426,404,22,213,213
+2022-04-11,Gujarat Titans|Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,330,302,28,165,165
+2022-04-12,Canterbury|Auckland Aces,"Bert Sutcliffe Oval, Lincoln",Canterbury,988,931,57,494,494
+2022-04-12,Chennai Super Kings|Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,409,387,22,204,205
+2022-04-12,Papua New Guinea|Oman,Dubai International Cricket Stadium,Oman,451,413,38,225,226
+2022-04-13,Punjab Kings|Mumbai Indians,"Maharashtra Cricket Association Stadium, Pune",Punjab Kings,384,363,21,192,192
+2022-04-13,Scotland|Papua New Guinea,Dubai International Cricket Stadium,Scotland,451,437,14,225,226
+2022-04-14,Gloucestershire|Yorkshire,"County Ground, Bristol",Yorkshire,1175,1070,105,587,588
+2022-04-14,Gujarat Titans|Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,347,340,7,173,174
+2022-04-14,Lancashire|Kent,"St Lawrence Ground, Canterbury",Lancashire,1081,1027,54,540,541
+2022-04-14,Nottinghamshire|Glamorgan,"Trent Bridge, Nottingham",Glamorgan,1089,1034,55,544,545
+2022-04-14,Somerset|Essex,"The Cooper Associates County Ground, Taunton",Essex,527,499,28,263,264
+2022-04-14,Surrey|Hampshire,"Kennington Oval, London",Surrey,917,857,60,458,459
+2022-04-15,Kolkata Knight Riders|Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,351,330,21,175,176
+2022-04-15,Oman|Scotland,Dubai International Cricket Stadium,Scotland,451,433,18,225,226
+2022-04-16,Lucknow Super Giants|Mumbai Indians,"Brabourne Stadium, Mumbai",Lucknow Super Giants,380,357,23,190,190
+2022-04-16,Oman|Papua New Guinea,Dubai International Cricket Stadium,Oman,469,424,45,234,235
+2022-04-16,Royal Challengers Bangalore|Delhi Capitals,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,362,347,15,181,181
+2022-04-17,Chennai Super Kings|Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,339,327,12,169,170
+2022-04-17,Punjab Kings|Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,303,288,15,151,152
+2022-04-18,Rajasthan Royals|Kolkata Knight Riders,"Brabourne Stadium, Mumbai",Rajasthan Royals,427,398,29,213,214
+2022-04-19,Royal Challengers Bangalore|Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,344,320,24,172,172
+2022-04-20,Punjab Kings|Delhi Capitals,"Brabourne Stadium, Mumbai",Delhi Capitals,234,226,8,117,117
+2022-04-20,Zimbabwe|Namibia,"Centre for Cricket Development Ground, Windhoek",Namibia,261,240,21,130,131
+2022-04-21,Durham|Nottinghamshire,"Riverside Ground, Chester-le-Street",Nottinghamshire,835,760,75,417,418
+2022-04-21,Essex|Warwickshire,"Edgbaston, Birmingham",Warwickshire,986,953,33,493,493
+2022-04-21,Glamorgan|Middlesex,"Sophia Gardens, Cardiff",Middlesex,590,563,27,295,295
+2022-04-21,Gloucestershire|Lancashire,"Old Trafford, Manchester",Lancashire,1055,989,66,527,528
+2022-04-21,Kent|Hampshire,"St Lawrence Ground, Canterbury",Hampshire,1253,1196,57,626,627
+2022-04-21,Leicestershire|Derbyshire,"Grace Road, Leicester",Derbyshire,994,937,57,497,497
+2022-04-21,Mumbai Indians|Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,311,298,13,155,156
+2022-04-21,Namibia|Uganda,"Centre for Cricket Development Ground, Windhoek",Namibia,168,152,16,84,84
+2022-04-21,Somerset|Surrey,"Kennington Oval, London",Surrey,1091,1032,59,545,546
+2022-04-21,Worcestershire|Sussex,"County Ground, New Road, Worcester",Worcestershire,948,889,59,474,474
+2022-04-21,Zimbabwe|Uganda,"Centre for Cricket Development Ground, Windhoek",Zimbabwe,192,178,14,96,96
+2022-04-22,Rajasthan Royals|Delhi Capitals,"Wankhede Stadium, Mumbai",Rajasthan Royals,429,411,18,214,215
+2022-04-22,Zimbabwe|Uganda,"Centre for Cricket Development Ground, Windhoek",Zimbabwe,232,216,16,116,116
+2022-04-23,Gujarat Titans|Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,304,287,17,152,152
+2022-04-23,Namibia|Uganda,"Centre for Cricket Development Ground, Windhoek",Namibia,108,96,12,54,54
+2022-04-23,Namibia|Zimbabwe,"Centre for Cricket Development Ground, Windhoek",Zimbabwe,86,80,6,43,43
+2022-04-23,Royal Challengers Bangalore|Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,140,126,14,70,70
+2022-04-24,Lucknow Super Giants|Mumbai Indians,"Wankhede Stadium, Mumbai",Lucknow Super Giants,300,278,22,150,150
+2022-04-24,Zimbabwe|Namibia,"Centre for Cricket Development Ground, Windhoek",Zimbabwe,245,205,40,122,123
+2022-04-24,Zimbabwe|Uganda,"Centre for Cricket Development Ground, Windhoek",Zimbabwe,161,145,16,80,81
+2022-04-25,Punjab Kings|Chennai Super Kings,"Wankhede Stadium, Mumbai",Punjab Kings,363,333,30,181,182
+2022-04-25,Uganda|Namibia,"Centre for Cricket Development Ground, Windhoek",Namibia,192,174,18,96,96
+2022-04-26,Namibia|Zimbabwe,"Centre for Cricket Development Ground, Windhoek",Zimbabwe,146,132,14,73,73
+2022-04-26,Rajasthan Royals|Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",Rajasthan Royals,259,245,14,129,130
+2022-04-27,Hong Kong|United Arab Emirates,"Malek Cricket Ground, Ajman",United Arab Emirates,238,199,39,119,119
+2022-04-27,Sunrisers Hyderabad|Gujarat Titans,"Wankhede Stadium, Mumbai",Gujarat Titans,394,369,25,197,197
+2022-04-28,Kolkata Knight Riders|Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,296,281,15,148,148
+2022-04-28,Leicestershire|Middlesex,"Lord's, London",Middlesex,843,789,54,421,422
+2022-04-28,Somerset|Warwickshire,"The Cooper Associates County Ground, Taunton",Somerset,834,791,43,417,417
+2022-04-28,United Arab Emirates|Hong Kong,"Malek Cricket Ground, Ajman",United Arab Emirates,234,208,26,117,117
+2022-04-28,Worcestershire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,997,951,46,498,499
+2022-04-29,Lucknow Super Giants|Punjab Kings,"Maharashtra Cricket Association Stadium, Pune",Lucknow Super Giants,286,259,27,143,143
+2022-04-29,Norway|Guernsey,"Desert Springs Cricket Ground, Almeria",Norway,237,221,16,118,119
+2022-04-29,United Arab Emirates|Hong Kong,"Malek Cricket Ground, Ajman",United Arab Emirates,216,185,31,108,108
+2022-04-30,Guernsey|Spain,"Desert Springs Cricket Ground, Almeria",Spain,158,144,14,79,79
+2022-04-30,Hong Kong|United Arab Emirates,"Malek Cricket Ground, Ajman",United Arab Emirates,126,109,17,63,63
+2022-04-30,Norway|Guernsey,"Desert Springs Cricket Ground, Almeria",Guernsey,246,230,16,123,123
+2022-04-30,Rajasthan Royals|Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,319,296,23,159,160
+2022-04-30,Royal Challengers Bangalore|Gujarat Titans,"Brabourne Stadium, Mumbai",Gujarat Titans,344,328,16,172,172
+2022-04-30,Spain|Norway,"Desert Springs Cricket Ground, Almeria",Spain,207,186,21,103,104
+2022-05-01,Chennai Super Kings|Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,391,377,14,195,196
+2022-05-01,Lucknow Super Giants|Delhi Capitals,"Wankhede Stadium, Mumbai",Lucknow Super Giants,384,364,20,192,192
+2022-05-01,Spain|Guernsey,"Desert Springs Cricket Ground, Almeria",Guernsey,218,210,8,109,109
+2022-05-01,Spain|Norway,"Desert Springs Cricket Ground, Almeria",Spain,209,186,23,104,105
+2022-05-02,Rajasthan Royals|Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,310,286,24,155,155
+2022-05-03,Gujarat Titans|Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Punjab Kings,288,262,26,144,144
+2022-05-03,North-West Warriors|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,371,318,53,185,186
+2022-05-04,Royal Challengers Bangalore|Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,333,317,16,166,167
+2022-05-04,Warriors (FairBreak)|Falcons,Dubai International Cricket Stadium,Falcons,355,344,11,177,178
+2022-05-05,Barmy Army|Spirit,Dubai International Cricket Stadium,Barmy Army,200,188,12,100,100
+2022-05-05,Delhi Capitals|Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Delhi Capitals,393,370,23,196,197
+2022-05-05,Hampshire|Gloucestershire,"The Rose Bowl, Southampton",Hampshire,1005,925,80,502,503
+2022-05-05,Leicestershire|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,1176,1046,130,588,588
+2022-05-05,Northern Knights|Munster Reds,"Civil Service Cricket Club, Stormont, Belfast",Munster Reds,497,456,41,248,249
+2022-05-05,Surrey|Northamptonshire,"Kennington Oval, London",Surrey,797,752,45,398,399
+2022-05-05,Sussex|Middlesex,"County Ground, Hove",Middlesex,1455,1363,92,727,728
+2022-05-05,Tornadoes|Sapphires,Dubai International Cricket Stadium,Tornadoes,221,201,20,110,111
+2022-05-06,Barmy Army|Falcons,Dubai International Cricket Stadium,Falcons,308,292,16,154,154
+2022-05-06,Mumbai Indians|Gujarat Titans,"Brabourne Stadium, Mumbai",Mumbai Indians,349,338,11,174,175
+2022-05-06,Tornadoes|Warriors (FairBreak),Dubai International Cricket Stadium,Tornadoes,291,268,23,145,146
+2022-05-07,Denmark|Finland,"Svanholm Park, Brondby",Denmark,204,193,11,102,102
+2022-05-07,Denmark|Finland,"Svanholm Park, Brondby",Finland,279,260,19,139,140
+2022-05-07,Lucknow Super Giants|Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",Lucknow Super Giants,277,270,7,138,139
+2022-05-07,Punjab Kings|Rajasthan Royals,"Wankhede Stadium, Mumbai",Rajasthan Royals,379,358,21,189,190
+2022-05-07,Spirit|Falcons,Dubai International Cricket Stadium,Spirit,267,249,18,133,134
+2022-05-07,Warriors (FairBreak)|Sapphires,Dubai International Cricket Stadium,Sapphires,262,246,16,131,131
+2022-05-08,Chennai Super Kings|Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,325,309,16,162,163
+2022-05-08,Denmark|Finland,"Svanholm Park, Brondby",Denmark,273,260,13,136,137
+2022-05-08,Royal Challengers Bangalore|Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,317,302,15,158,159
+2022-05-08,Spirit|Sapphires,Dubai International Cricket Stadium,Spirit,257,235,22,128,129
+2022-05-08,Tornadoes|Barmy Army,Dubai International Cricket Stadium,Barmy Army,303,275,28,151,152
+2022-05-09,Kolkata Knight Riders|Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Kolkata Knight Riders,278,257,21,139,139
+2022-05-10,Barmy Army|Sapphires,Dubai International Cricket Stadium,Barmy Army,290,276,14,145,145
+2022-05-10,Gibraltar|Hungary,Marsa Sports Club,Hungary,275,249,26,137,138
+2022-05-10,Gibraltar|Malta,Marsa Sports Club,Malta,267,220,47,133,134
+2022-05-10,Gujarat Titans|Lucknow Super Giants,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,226,216,10,113,113
+2022-05-10,Leinster Lightning|Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",Munster Reds,609,559,50,304,305
+2022-05-10,Malta|Hungary,Marsa Sports Club,Malta,367,321,46,183,184
+2022-05-10,Spirit|Warriors (FairBreak),Dubai International Cricket Stadium,Spirit,267,252,15,133,134
+2022-05-11,Czech Republic|Gibraltar,Marsa Sports Club,Czech Republic,328,293,35,164,164
+2022-05-11,Hungary|Bulgaria,Marsa Sports Club,Hungary,311,269,42,155,156
+2022-05-11,Rajasthan Royals|Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,321,308,13,160,161
+2022-05-11,Romania|Malta,Marsa Sports Club,Malta,331,304,27,165,166
+2022-05-11,Sapphires|Falcons,Dubai International Cricket Stadium,Sapphires,274,260,14,137,137
+2022-05-11,Spirit|Tornadoes,Dubai International Cricket Stadium,Spirit,237,215,22,118,119
+2022-05-12,Chennai Super Kings|Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,200,175,25,100,100
+2022-05-12,Czech Republic|Bulgaria,Marsa Sports Club,Czech Republic,428,390,38,214,214
+2022-05-12,Durham|Glamorgan,"Riverside Ground, Chester-le-Street",Durham,1057,1018,39,528,529
+2022-05-12,Falcons|Tornadoes,Dubai International Cricket Stadium,Tornadoes,279,268,11,139,140
+2022-05-12,Malta|Czech Republic,Marsa Sports Club,Malta,326,292,34,163,163
+2022-05-12,Northern Knights|North-West Warriors,"Bready Cricket Club, Magheramason, Bready",Northern Knights,184,169,15,92,92
+2022-05-12,Romania|Hungary,Marsa Sports Club,Hungary,320,292,28,160,160
+2022-05-12,Somerset|Gloucestershire,"County Ground, Bristol",Somerset,936,881,55,468,468
+2022-05-12,Warriors (FairBreak)|Barmy Army,Dubai International Cricket Stadium,Warriors (FairBreak),258,249,9,129,129
+2022-05-13,Bulgaria|Romania,Marsa Sports Club,Romania,263,235,28,131,132
+2022-05-13,Gibraltar|Bulgaria,Marsa Sports Club,Gibraltar,405,368,37,202,203
+2022-05-13,Punjab Kings|Royal Challengers Bangalore,"Brabourne Stadium, Mumbai",Punjab Kings,364,347,17,182,182
+2022-05-13,Romania|Czech Republic,Marsa Sports Club,Romania,360,337,23,180,180
+2022-05-14,Barmy Army|Tornadoes,Dubai International Cricket Stadium,Tornadoes,283,266,17,141,142
+2022-05-14,Bulgaria|Malta,Marsa Sports Club,Malta,409,365,44,204,205
+2022-05-14,Central Sparks|Western Storm,"Sophia Gardens, Cardiff",Central Sparks,292,270,22,146,146
+2022-05-14,Falcons|Spirit,Dubai International Cricket Stadium,Falcons,319,309,10,159,160
+2022-05-14,Gibraltar|Romania,Marsa Sports Club,Romania,283,264,19,141,142
+2022-05-14,Hungary|Czech Republic,Marsa Sports Club,Czech Republic,344,320,24,172,172
+2022-05-14,Kolkata Knight Riders|Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,300,285,15,150,150
+2022-05-14,Northern Diamonds|Lightning,"Haslegrave Ground, Loughborough",Northern Diamonds,315,295,20,157,158
+2022-05-14,Sunrisers|South East Stars,"County Ground, Chelmsford",South East Stars,245,228,17,122,123
+2022-05-14,Thunder|Southern Vipers,"County Ground, Hove",Southern Vipers,205,185,20,102,103
+2022-05-15,Barmy Army|Spirit,Dubai International Cricket Stadium,Spirit,365,352,13,182,183
+2022-05-15,Chennai Super Kings|Gujarat Titans,"Wankhede Stadium, Mumbai",Gujarat Titans,270,253,17,135,135
+2022-05-15,Czech Republic|Hungary,Marsa Sports Club,Czech Republic,372,352,20,186,186
+2022-05-15,Falcons|Tornadoes,Dubai International Cricket Stadium,Tornadoes,303,294,9,151,152
+2022-05-15,Gibraltar|Bulgaria,Marsa Sports Club,Bulgaria,341,298,43,170,171
+2022-05-15,Rajasthan Royals|Lucknow Super Giants,"Brabourne Stadium, Mumbai",Rajasthan Royals,332,313,19,166,166
+2022-05-15,Romania|Malta,Marsa Sports Club,Romania,333,315,18,166,167
+2022-05-16,Delhi Capitals|Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,301,286,15,150,151
+2022-05-16,Uganda|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Uganda,192,169,23,96,96
+2022-05-17,Nepal|Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",Uganda,203,178,25,101,102
+2022-05-17,Sunrisers Hyderabad|Mumbai Indians,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,383,360,23,191,192
+2022-05-17,Zimbabwe|Namibia,"Queens Sports Club, Bulawayo",Zimbabwe,299,278,21,149,150
+2022-05-18,Central Sparks|South East Stars,"Woodbridge Road, Guildford",Central Sparks,306,287,19,153,153
+2022-05-18,Lucknow Super Giants|Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,418,406,12,209,209
+2022-05-18,Southern Vipers|Lightning,"The Rose Bowl, Southampton",Southern Vipers,279,240,39,139,140
+2022-05-18,Sunrisers|Western Storm,"County Ground, Chelmsford",Western Storm,324,302,22,162,162
+2022-05-18,Thunder|Northern Diamonds,"Rookwood, Sale",Thunder,240,216,24,120,120
+2022-05-19,Derbyshire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,1047,988,59,523,524
+2022-05-19,Durham|Middlesex,"Lord's, London",Middlesex,1079,1013,66,539,540
+2022-05-19,Essex|Lancashire,"Old Trafford, Manchester",Essex,726,685,41,363,363
+2022-05-19,Gujarat Titans|Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,338,324,14,169,169
+2022-05-19,Leicestershire|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,895,853,42,447,448
+2022-05-19,Nepal|Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",Uganda,200,177,23,100,100
+2022-05-19,North-West Warriors|Munster Reds,"Mardyke, Cork",North-West Warriors,325,293,32,162,163
+2022-05-19,Somerset|Hampshire,"The Cooper Associates County Ground, Taunton",Hampshire,561,532,29,280,281
+2022-05-19,Zimbabwe|Namibia,"Queens Sports Club, Bulawayo",Namibia,246,234,12,123,123
+2022-05-20,Chennai Super Kings|Rajasthan Royals,"Brabourne Stadium, Mumbai",Rajasthan Royals,301,280,21,150,151
+2022-05-20,Jersey|Guernsey,"College Field, St Peter Port",Jersey,319,304,15,159,160
+2022-05-20,Nepal|Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,179,142,37,89,90
+2022-05-21,Central Sparks|Sunrisers,"Edgbaston, Birmingham",Central Sparks,282,270,12,141,141
+2022-05-21,Delhi Capitals|Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,319,300,19,159,160
+2022-05-21,Namibia|Zimbabwe,"Queens Sports Club, Bulawayo",Zimbabwe,257,239,18,128,129
+2022-05-21,Nepal|Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,213,187,26,106,107
+2022-05-21,Southern Vipers|Northern Diamonds,"Riverside Ground, Chester-le-Street",Southern Vipers,241,227,14,120,121
+2022-05-21,Thunder|Lightning,"Grace Road, Leicester",Lightning,307,295,12,153,154
+2022-05-21,Western Storm|South East Stars,"Kent County Cricket Ground, Beckenham",South East Stars,293,275,18,146,147
+2022-05-22,Sunrisers Hyderabad|Punjab Kings,"Wankhede Stadium, Mumbai",Punjab Kings,317,299,18,158,159
+2022-05-22,Zimbabwe|Namibia,"Queens Sports Club, Bulawayo",Namibia,318,294,24,159,159
+2022-05-23,Bangladesh|Sri Lanka,"Shere Bangla National Stadium, Mirpur",Sri Lanka,1069,1032,37,534,535
+2022-05-23,Supernovas|Trailblazers,"Maharashtra Cricket Association Stadium, Pune",Supernovas,277,270,7,138,139
+2022-05-24,Munster Reds|Northern Knights,"Mardyke, Cork",Munster Reds,511,477,34,255,256
+2022-05-24,Namibia|Zimbabwe,"Queens Sports Club, Bulawayo",Namibia,222,208,14,111,111
+2022-05-24,Rajasthan Royals|Gujarat Titans,"Eden Gardens, Kolkata",Gujarat Titans,379,355,24,189,190
+2022-05-24,Sri Lanka|Pakistan,"Southend Club Cricket Stadium, Karachi",Pakistan,213,202,11,106,107
+2022-05-24,Supernovas|Velocity,"Maharashtra Cricket Association Stadium, Pune",Velocity,301,290,11,150,151
+2022-05-25,Kent|Somerset,"St Lawrence Ground, Canterbury",Somerset,328,311,17,164,164
+2022-05-25,Royal Challengers Bangalore|Lucknow Super Giants,"Eden Gardens, Kolkata",Royal Challengers Bangalore,400,368,32,200,200
+2022-05-25,Worcestershire|Yorkshire,"Headingley, Leeds",Yorkshire,347,329,18,173,174
+2022-05-26,Birmingham Bears|Northamptonshire,"Edgbaston, Birmingham",Birmingham Bears,288,278,10,144,144
+2022-05-26,Durham|Leicestershire,"Grace Road, Leicester",Durham,314,293,21,157,157
+2022-05-26,Middlesex|Gloucestershire,"Radlett Cricket Club, Radlett",Middlesex,428,403,25,214,214
+2022-05-26,Sri Lanka|Pakistan,"Southend Club Cricket Stadium, Karachi",Pakistan,206,193,13,103,103
+2022-05-26,Sussex|Glamorgan,"County Ground, Hove",Glamorgan,303,293,10,151,152
+2022-05-26,Trailblazers|Velocity,"Maharashtra Cricket Association Stadium, Pune",Trailblazers,364,357,7,182,182
+2022-05-27,Birmingham Bears|Derbyshire,"County Ground, Derby",Birmingham Bears,397,377,20,198,199
+2022-05-27,Glamorgan|Surrey,"Kennington Oval, London",Surrey,347,332,15,173,174
+2022-05-27,Gloucestershire|Sussex,"County Ground, Bristol",Gloucestershire,345,326,19,172,173
+2022-05-27,Kent|Essex,"St Lawrence Ground, Canterbury",Essex,372,355,17,186,186
+2022-05-27,Leinster Lightning|Munster Reds,"The Green, Comber",Munster Reds,378,371,7,189,189
+2022-05-27,Middlesex|Hampshire,"The Rose Bowl, Southampton",Middlesex,316,307,9,158,158
+2022-05-27,Northamptonshire|Durham,"County Ground, Northampton",Northamptonshire,415,389,26,207,208
+2022-05-27,Northern Knights|North-West Warriors,"The Green, Comber",North-West Warriors,301,279,22,150,151
+2022-05-27,Royal Challengers Bangalore|Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,318,303,15,159,159
+2022-05-27,Worcestershire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,332,322,10,166,166
+2022-05-28,Derbyshire|Leicestershire,"Grace Road, Leicester",Derbyshire,248,234,14,124,124
+2022-05-28,North-West Warriors|Leinster Lightning,"The Green, Comber",North-West Warriors,317,304,13,158,159
+2022-05-28,Northern Knights|Munster Reds,"The Green, Comber",Munster Reds,218,205,13,109,109
+2022-05-28,Sri Lanka|Pakistan,"Southend Club Cricket Stadium, Karachi",Pakistan,215,198,17,107,108
+2022-05-28,Supernovas|Velocity,"Maharashtra Cricket Association Stadium, Pune",Supernovas,326,305,21,163,163
+2022-05-28,United States of America|Scotland,"Choice Moosa Stadium, Pearland",United States of America,516,489,27,258,258
+2022-05-29,Durham|Birmingham Bears,"Edgbaston, Birmingham",Birmingham Bears,320,303,17,160,160
+2022-05-29,Essex|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,286,281,5,143,143
+2022-05-29,Glamorgan|Middlesex,"Radlett Cricket Club, Radlett",Middlesex,340,328,12,170,170
+2022-05-29,Lancashire|Worcestershire,"Old Trafford, Manchester",Lancashire,354,342,12,177,177
+2022-05-29,Leicestershire|Yorkshire,"Headingley, Leeds",Leicestershire,345,328,17,172,173
+2022-05-29,Leinster Lightning|Northern Knights,"The Green, Comber",Leinster Lightning,313,290,23,156,157
+2022-05-29,Lightning|Southern Vipers,"Trent Bridge, Nottingham",Southern Vipers,283,272,11,141,142
+2022-05-29,Munster Reds|North-West Warriors,"The Green, Comber",Munster Reds,312,294,18,156,156
+2022-05-29,Northern Diamonds|Thunder,"Headingley, Leeds",Northern Diamonds,223,208,15,111,112
+2022-05-29,Rajasthan Royals|Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,263,252,11,131,132
+2022-05-29,Scotland|United States of America,"Choice Moosa Stadium, Pearland",Scotland,489,458,31,244,245
+2022-05-29,South East Stars|Central Sparks,"Edgbaston, Birmingham",South East Stars,239,219,20,119,120
+2022-05-29,Sussex|Kent,"County Ground, Hove",Sussex,338,322,16,169,169
+2022-05-29,Western Storm|Sunrisers,"The Cooper Associates County Ground, Taunton",Western Storm,297,280,17,148,149
+2022-05-30,Hampshire|Somerset,"The Rose Bowl, Southampton",Somerset,247,233,14,123,124
+2022-05-31,Hampshire|Essex,"County Ground, Chelmsford",Essex,302,286,16,151,151
+2022-05-31,Lancashire|Nottinghamshire,"Trent Bridge, Nottingham",Lancashire,269,246,23,134,135
+2022-05-31,Netherlands|West Indies,"VRA Ground, Amstelveen",West Indies,489,458,31,244,245
+2022-05-31,Surrey|Gloucestershire,"Kennington Oval, London",Surrey,221,198,23,110,111
+2022-05-31,United Arab Emirates|Scotland,"Moosa Cricket Stadium, Pearland",Scotland,432,412,20,216,216
+2022-05-31,Yorkshire|Derbyshire,"Headingley, Leeds",Derbyshire,167,157,10,83,84
+2022-06-01,Central Sparks|Sunrisers,"County Ground, Northampton",Central Sparks,289,270,19,144,145
+2022-06-01,Durham|Worcestershire,"Riverside Ground, Chester-le-Street",Durham,324,311,13,162,162
+2022-06-01,Kent|Gloucestershire,"County Ground, Bristol",Gloucestershire,230,220,10,115,115
+2022-06-01,Lancashire|Derbyshire,"Old Trafford, Manchester",Lancashire,421,409,12,210,211
+2022-06-01,Northamptonshire|Leicestershire,"County Ground, Northampton",Northamptonshire,412,385,27,206,206
+2022-06-01,Northern Diamonds|Lightning,"Riverside Ground, Chester-le-Street",Northern Diamonds,285,270,15,142,143
+2022-06-01,Sri Lanka|Pakistan,"Southend Club Cricket Stadium, Karachi",Pakistan,339,305,34,169,170
+2022-06-01,Sussex|Somerset,"The Cooper Associates County Ground, Taunton",Sussex,385,376,9,192,193
+2022-06-01,Thunder|Southern Vipers,"Old Trafford, Manchester",Southern Vipers,191,176,15,95,96
+2022-06-01,United Arab Emirates|United States of America,"Moosa Cricket Stadium, Pearland",United States of America,407,387,20,203,204
+2022-06-01,Western Storm|South East Stars,"County Ground, Bristol",South East Stars,221,210,11,110,111
+2022-06-02,Essex|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,227,217,10,113,114
+2022-06-02,Leicestershire|Birmingham Bears,"Edgbaston, Birmingham",Leicestershire,299,287,12,149,150
+2022-06-02,Netherlands|West Indies,"VRA Ground, Amstelveen",West Indies,431,399,32,215,216
+2022-06-02,New Zealand|England,"Lord's, London",England,837,780,57,418,419
+2022-06-02,North-West Warriors|Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",North-West Warriors,545,505,40,272,273
+2022-06-02,Surrey|Hampshire,"Kennington Oval, London",Surrey,384,372,12,192,192
+2022-06-03,Derbyshire|Nottinghamshire,"County Ground, Derby",Nottinghamshire,360,349,11,180,180
+2022-06-03,Durham|Yorkshire,"Headingley, Leeds",Yorkshire,417,408,9,208,209
+2022-06-03,Glamorgan|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,347,336,11,173,174
+2022-06-03,Ireland|South Africa,"Pembroke Cricket Club, Sandymount, Dublin",Ireland,276,260,16,138,138
+2022-06-03,Lightning|Thunder,"Old Trafford, Manchester",Thunder,207,186,21,103,104
+2022-06-03,Middlesex|Sussex,"County Ground, Hove",Sussex,310,295,15,155,155
+2022-06-03,Northamptonshire|Lancashire,"Old Trafford, Manchester",Lancashire,308,292,16,154,154
+2022-06-03,Pakistan|Sri Lanka,"Southend Club Cricket Stadium, Karachi",Pakistan,433,398,35,216,217
+2022-06-03,Scotland|United Arab Emirates,"Moosa Cricket Stadium, Pearland",United Arab Emirates,343,321,22,171,172
+2022-06-03,Surrey|Kent,"St Lawrence Ground, Canterbury",Surrey,286,270,16,143,143
+2022-06-03,Worcestershire|Birmingham Bears,"County Ground, New Road, Worcester",Worcestershire,419,403,16,209,210
+2022-06-04,Central Sparks|Western Storm,"County Ground, New Road, Worcester",Western Storm,269,261,8,134,135
+2022-06-04,Hampshire|Sussex,"The Rose Bowl, Southampton",Hampshire,376,350,26,188,188
+2022-06-04,Northern Diamonds|Southern Vipers,"The Rose Bowl, Southampton",Southern Vipers,285,263,22,142,143
+2022-06-04,United States of America|United Arab Emirates,"Moosa Cricket Stadium, Pearland",United Arab Emirates,398,386,12,199,199
+2022-06-04,West Indies|Netherlands,"VRA Ground, Amstelveen",West Indies,596,554,42,298,298
+2022-06-05,Birmingham Bears|Nottinghamshire,"Edgbaston, Birmingham",Birmingham Bears,195,183,12,97,98
+2022-06-05,Durham|Northamptonshire,"Riverside Ground, Chester-le-Street",Northamptonshire,312,291,21,156,156
+2022-06-05,Kent|Middlesex,"St Lawrence Ground, Canterbury",Kent,329,309,20,164,165
+2022-06-05,Leicestershire|Worcestershire,"County Ground, New Road, Worcester",Leicestershire,298,278,20,149,149
+2022-06-05,South East Stars|Sunrisers,"Woodbridge Road, Guildford",South East Stars,310,280,30,155,155
+2022-06-05,Sri Lanka|Pakistan,"Southend Club Cricket Stadium, Karachi",Sri Lanka,427,400,27,213,214
+2022-06-06,Ireland|South Africa,"Pembroke Cricket Club, Sandymount, Dublin",South Africa,213,199,14,106,107
+2022-06-06,Yorkshire|Nottinghamshire,"Headingley, Leeds",Yorkshire,381,361,20,190,191
+2022-06-07,Barbados|Guyana,"Guyana National Stadium, Providence",Barbados,165,145,20,82,83
+2022-06-07,Derbyshire|Northamptonshire,"County Ground, Northampton",Northamptonshire,306,287,19,153,153
+2022-06-07,Glamorgan|Gloucestershire,"Sophia Gardens, Cardiff",Gloucestershire,317,303,14,158,159
+2022-06-07,Jamaica|Trinidad and Tobago,"Guyana National Stadium, Providence",Jamaica,188,165,23,94,94
+2022-06-07,Kent|Essex,"County Ground, Chelmsford",Essex,265,244,21,132,133
+2022-06-07,Leeward Islands|Windward Islands,"Guyana National Stadium, Providence",Windward Islands,113,88,25,56,57
+2022-06-07,Leicestershire|Lancashire,"Grace Road, Leicester",Lancashire,274,254,20,137,137
+2022-06-07,Middlesex|Hampshire,"Radlett Cricket Club, Radlett",Hampshire,287,278,9,143,144
+2022-06-07,Sri Lanka|Australia,"R Premadasa Stadium, Colombo",Australia,262,252,10,131,131
+2022-06-08,Durham|Birmingham Bears,"Riverside Ground, Chester-le-Street",Birmingham Bears,283,259,24,141,142
+2022-06-08,Ireland|South Africa,"Pembroke Cricket Club, Sandymount, Dublin",South Africa,212,192,20,106,106
+2022-06-08,Lancashire|Yorkshire,"Headingley, Leeds",Lancashire,422,401,21,211,211
+2022-06-08,Sri Lanka|Australia,"R Premadasa Stadium, Colombo",Australia,250,248,2,125,125
+2022-06-08,Sussex|Surrey,"Kennington Oval, London",Surrey,293,279,14,146,147
+2022-06-08,United States of America|Oman,"Moosa Cricket Stadium, Pearland",United States of America,532,520,12,266,266
+2022-06-08,West Indies|Pakistan,Multan Cricket Stadium,Pakistan,611,586,25,305,306
+2022-06-09,Brazil|Nigeria,Gahanga International Cricket Stadium. Rwanda,Nigeria,109,83,26,54,55
+2022-06-09,Germany|Austria,Bayer Uerdingen Cricket Ground,Germany,216,200,16,108,108
+2022-06-09,Gloucestershire|Somerset,"County Ground, Bristol",Somerset,215,211,4,107,108
+2022-06-09,Hampshire|Essex,"The Rose Bowl, Southampton",Hampshire,278,264,14,139,139
+2022-06-09,India|South Africa,"Arun Jaitley Stadium, Delhi",South Africa,423,396,27,211,212
+2022-06-09,Jamaica|Windward Islands,"Guyana National Stadium, Providence",Jamaica,157,130,27,78,79
+2022-06-09,Leeward Islands|Barbados,"Guyana National Stadium, Providence",Barbados,121,92,29,60,61
+2022-06-09,Leicestershire|Derbyshire,"County Ground, Derby",Derbyshire,363,350,13,181,182
+2022-06-09,Northamptonshire|Worcestershire,"County Ground, Northampton",Northamptonshire,367,358,9,183,184
+2022-06-09,Oman|Nepal,"Moosa Cricket Stadium, Pearland",Oman,409,391,18,204,205
+2022-06-09,Rwanda|Uganda,Gahanga International Cricket Stadium. Rwanda,Uganda,137,118,19,68,69
+2022-06-09,Surrey|Middlesex,"Lord's, London",Surrey,396,371,25,198,198
+2022-06-09,Sweden|Germany,Bayer Uerdingen Cricket Ground,Germany,188,179,9,94,94
+2022-06-10,Austria|Germany,Bayer Uerdingen Cricket Ground,Austria,244,231,13,122,122
+2022-06-10,Austria|Sweden,Bayer Uerdingen Cricket Ground,Austria,245,232,13,122,123
+2022-06-10,Birmingham Bears|Yorkshire,"Edgbaston, Birmingham",Yorkshire,207,190,17,103,104
+2022-06-10,Derbyshire|Worcestershire,"County Ground, New Road, Worcester",Derbyshire,297,286,11,148,149
+2022-06-10,Essex|Middlesex,"County Ground, Chelmsford",Essex,311,299,12,155,156
+2022-06-10,Germany|Nigeria,Integrated Polytechnic Regional Centre,Nigeria,157,120,37,78,79
+2022-06-10,Gloucestershire|Sussex,"County Ground, Hove",Gloucestershire,286,268,18,143,143
+2022-06-10,Hampshire|Glamorgan,"Sophia Gardens, Cardiff",Hampshire,259,248,11,129,130
+2022-06-10,Kent|Somerset,"The Cooper Associates County Ground, Taunton",Kent,372,360,12,186,186
+2022-06-10,Lancashire|Durham,"Riverside Ground, Chester-le-Street",Durham,261,247,14,130,131
+2022-06-10,Leicestershire|Nottinghamshire,"Grace Road, Leicester",Nottinghamshire,250,236,14,125,125
+2022-06-10,New Zealand|England,"Trent Bridge, Nottingham",England,1675,1601,74,837,838
+2022-06-10,Northern Knights|North-West Warriors,"Bready Cricket Club, Magheramason, Bready",North-West Warriors,259,240,19,129,130
+2022-06-10,Pakistan|West Indies,Multan Cricket Stadium,Pakistan,430,403,27,215,215
+2022-06-10,Rwanda|Brazil,Gahanga International Cricket Stadium. Rwanda,Rwanda,213,182,31,106,107
+2022-06-10,Tanzania|Botswana,Integrated Polytechnic Regional Centre,Tanzania,181,162,19,90,91
+2022-06-10,Uganda|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,193,171,22,96,97
+2022-06-11,Australia|Sri Lanka,Pallekele International Cricket Stadium,Sri Lanka,353,339,14,176,177
+2022-06-11,Austria|Sweden,Bayer Uerdingen Cricket Ground,Austria,265,250,15,132,133
+2022-06-11,Barbados|Windward Islands,"Guyana National Stadium, Providence",Barbados,176,132,44,88,88
+2022-06-11,Botswana|Nigeria,Integrated Polytechnic Regional Centre,Nigeria,176,148,28,88,88
+2022-06-11,Brazil|Germany,Gahanga International Cricket Stadium. Rwanda,Brazil,226,165,61,113,113
+2022-06-11,Central Sparks|Southern Vipers,"County Ground, Northampton",Southern Vipers,219,200,19,109,110
+2022-06-11,Germany|Sweden,Bayer Uerdingen Cricket Ground,Germany,273,254,19,136,137
+2022-06-11,Ireland|South Africa,"Castle Avenue, Dublin",South Africa,139,124,15,69,70
+2022-06-11,Jamaica|Guyana,"Guyana National Stadium, Providence",Jamaica,182,165,17,91,91
+2022-06-11,Leeward Islands|Trinidad and Tobago,"Guyana National Stadium, Providence",Trinidad and Tobago,180,151,29,90,90
+2022-06-11,Rwanda|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,227,213,14,113,114
+2022-06-11,South East Stars|Central Sparks,"County Ground, Northampton",Central Sparks,209,199,10,104,105
+2022-06-11,Uganda|Tanzania,Integrated Polytechnic Regional Centre,Tanzania,214,199,15,107,107
+2022-06-12,Gloucestershire|Kent,"St Lawrence Ground, Canterbury",Kent,1306,1220,86,653,653
+2022-06-12,India|South Africa,"Barabati Stadium, Cuttack",South Africa,297,287,10,148,149
+2022-06-12,Leicestershire|Nottinghamshire,"Grace Road, Leicester",Nottinghamshire,1087,1007,80,543,544
+2022-06-12,Middlesex|Derbyshire,"Queen's Park, Chesterfield",Derbyshire,898,862,36,449,449
+2022-06-12,Oman|United States of America,"Moosa Cricket Stadium, Pearland",Oman,547,533,14,273,274
+2022-06-12,Pakistan|West Indies,Multan Cricket Stadium,Pakistan,485,453,32,242,243
+2022-06-12,Somerset|Surrey,"The Cooper Associates County Ground, Taunton",Surrey,1151,1060,91,575,576
+2022-06-12,Sussex|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,1269,1211,58,634,635
+2022-06-12,Warwickshire|Lancashire,"Edgbaston, Birmingham",Lancashire,1234,1165,69,617,617
+2022-06-12,Yorkshire|Hampshire,"The Rose Bowl, Southampton",Hampshire,1214,1157,57,607,607
+2022-06-13,Jamaica|Barbados,"Guyana National Stadium, Providence",Barbados,233,202,31,116,117
+2022-06-13,Leeward Islands|Guyana,"Guyana National Stadium, Providence",Guyana,169,145,24,84,85
+2022-06-13,Windward Islands|Trinidad and Tobago,"Guyana National Stadium, Providence",Trinidad and Tobago,175,165,10,87,88
+2022-06-14,India|South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,310,299,11,155,155
+2022-06-14,Ireland|South Africa,"Castle Avenue, Dublin",South Africa,430,399,31,215,215
+2022-06-14,Jamaica|Leeward Islands,"Guyana National Stadium, Providence",Jamaica,216,197,19,108,108
+2022-06-14,Oman|Nepal,"Moosa Cricket Stadium, Pearland",Nepal,330,311,19,165,165
+2022-06-14,Sri Lanka|Australia,Pallekele International Cricket Stadium,Australia,582,561,21,291,291
+2022-06-14,Windward Islands|Guyana,"Guyana National Stadium, Providence",Guyana,171,151,20,85,86
+2022-06-15,Botswana|Rwanda,Gahanga International Cricket Stadium. Rwanda,Rwanda,185,168,17,92,93
+2022-06-15,Kenya|Brazil,Integrated Polytechnic Regional Centre,Kenya,265,245,20,132,133
+2022-06-15,Nigeria|Tanzania,Gahanga International Cricket Stadium. Rwanda,Tanzania,126,114,12,63,63
+2022-06-15,Uganda|Germany,Integrated Polytechnic Regional Centre,Uganda,259,220,39,129,130
+2022-06-15,United States of America|Nepal,"Moosa Cricket Stadium, Pearland",United States of America,451,440,11,225,226
+2022-06-16,Bangladesh|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,701,680,21,350,351
+2022-06-16,Sri Lanka|Australia,Pallekele International Cricket Stadium,Sri Lanka,409,388,21,204,205
+2022-06-17,Birmingham Bears|Nottinghamshire,"Trent Bridge, Nottingham",Birmingham Bears,467,455,12,233,234
+2022-06-17,England|Netherlands,"VRA Ground, Amstelveen",England,764,728,36,382,382
+2022-06-17,Essex|Sussex,"County Ground, Chelmsford",Essex,477,453,24,238,239
+2022-06-17,Hampshire|Kent,"The Rose Bowl, Southampton",Hampshire,388,366,22,194,194
+2022-06-17,India|South Africa,"Saurashtra Cricket Association Stadium, Rajkot",India,256,243,13,128,128
+2022-06-17,Jersey|Uganda,"Lugogo Cricket Oval, Kampala",Jersey,448,412,36,224,224
+2022-06-17,Lancashire|Northamptonshire,"County Ground, Northampton",Northamptonshire,307,293,14,153,154
+2022-06-17,Malaysia|Singapore,"Kinrara Academy Oval, Kuala Lumpur",Malaysia,225,178,47,112,113
+2022-06-17,Middlesex|Surrey,"Kennington Oval, London",Surrey,313,298,15,156,157
+2022-06-17,Nepal|Bhutan,"UKM-YSD Cricket Oval, Bangi",Nepal,138,121,17,69,69
+2022-06-17,Somerset|Gloucestershire,"The Cooper Associates County Ground, Taunton",Somerset,361,346,15,180,181
+2022-06-17,South Africa|Ireland,"Castle Avenue, Dublin",South Africa,367,325,42,183,184
+2022-06-17,Trinidad and Tobago|Leeward Islands,"Guyana National Stadium, Providence",Trinidad and Tobago,266,219,47,133,133
+2022-06-17,Worcestershire|Leicestershire,"Grace Road, Leicester",Leicestershire,234,227,7,117,117
+2022-06-17,Yorkshire|Durham,"Riverside Ground, Chester-le-Street",Yorkshire,337,324,13,168,169
+2022-06-18,Bermuda|Kenya,"Kyambogo Cricket Ground, Kampala",Kenya,216,186,30,108,108
+2022-06-18,Hong Kong|Bhutan,"UKM-YSD Cricket Oval, Bangi",Hong Kong,190,172,18,95,95
+2022-06-18,Hong Kong|Italy,"Lugogo Cricket Oval, Kampala",Hong Kong,508,475,33,254,254
+2022-06-18,Jamaica|Barbados,"Guyana National Stadium, Providence",Barbados,227,189,38,113,114
+2022-06-18,Nepal|Kuwait,"Kinrara Academy Oval, Kuala Lumpur",Nepal,189,177,12,94,95
+2022-06-18,Qatar|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,140,120,20,70,70
+2022-06-18,Singapore|United Arab Emirates,"Kinrara Academy Oval, Kuala Lumpur",United Arab Emirates,62,58,4,31,31
+2022-06-18,Tanzania|Kenya,Gahanga International Cricket Stadium. Rwanda,Tanzania,184,171,13,92,92
+2022-06-18,Yorkshire|Derbyshire,"Queen's Park, Chesterfield",Derbyshire,280,267,13,140,140
+2022-06-19,Australia|Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,583,564,19,291,292
+2022-06-19,Bahrain|Hong Kong,"Kinrara Academy Oval, Kuala Lumpur",Hong Kong,160,143,17,80,80
+2022-06-19,Birmingham Bears|Derbyshire,"Edgbaston, Birmingham",Derbyshire,319,304,15,159,160
+2022-06-19,Essex|Somerset,"County Ground, Chelmsford",Somerset,382,365,17,191,191
+2022-06-19,Hampshire|Surrey,"The Rose Bowl, Southampton",Surrey,303,277,26,151,152
+2022-06-19,Kent|Middlesex,"Lord's, London",Middlesex,284,266,18,142,142
+2022-06-19,Leicestershire|Durham,"Riverside Ground, Chester-le-Street",Leicestershire,263,251,12,131,132
+2022-06-19,Netherlands|England,"VRA Ground, Amstelveen",England,474,453,21,237,237
+2022-06-19,Nottinghamshire|Lancashire,"Stanley Park, Blackpool",Lancashire,360,340,20,180,180
+2022-06-19,Oman|Qatar,"UKM-YSD Cricket Oval, Bangi",Qatar,97,69,28,48,49
+2022-06-19,Sussex|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,300,279,21,150,150
+2022-06-20,Bahrain|Nepal,"Kinrara Academy Oval, Kuala Lumpur",Nepal,29,20,9,14,15
+2022-06-20,Jamaica|Windward Islands,"Guyana National Stadium, Providence",Jamaica,201,175,26,100,101
+2022-06-20,Jersey|Kenya,"Lugogo Cricket Oval, Kampala",Jersey,454,430,24,227,227
+2022-06-20,Oman|Singapore,"Kinrara Academy Oval, Kuala Lumpur",Singapore,219,178,41,109,110
+2022-06-20,Uganda|Hong Kong,"Kyambogo Cricket Ground, Kampala",Hong Kong,190,166,24,95,95
+2022-06-20,United Arab Emirates|Malaysia,"UKM-YSD Cricket Oval, Bangi",United Arab Emirates,237,217,20,118,119
+2022-06-21,Bermuda|Uganda,"Lugogo Cricket Oval, Kampala",Uganda,194,168,26,97,97
+2022-06-21,Bhutan|Kuwait,"Kinrara Academy Oval, Kuala Lumpur",Kuwait,228,198,30,114,114
+2022-06-21,Gloucestershire|Kent,"St Lawrence Ground, Canterbury",Gloucestershire,385,363,22,192,193
+2022-06-21,Guyana|Leeward Islands,"Guyana National Stadium, Providence",Guyana,153,112,41,76,77
+2022-06-21,Jersey|Italy,"Kyambogo Cricket Ground, Kampala",Jersey,358,327,31,179,179
+2022-06-21,Leicestershire|Nottinghamshire,"Trent Bridge, Nottingham",Leicestershire,293,281,12,146,147
+2022-06-21,Middlesex|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,343,321,22,171,172
+2022-06-21,Nepal|Hong Kong,"Kinrara Academy Oval, Kuala Lumpur",Hong Kong,221,201,20,110,111
+2022-06-21,Northamptonshire|Derbyshire,"County Ground, Derby",Derbyshire,378,351,27,189,189
+2022-06-21,Singapore|Qatar,"UKM-YSD Cricket Oval, Bangi",Qatar,93,78,15,46,47
+2022-06-21,Somerset|Surrey,"Kennington Oval, London",Surrey,289,270,19,144,145
+2022-06-21,Sri Lanka|Australia,"R Premadasa Stadium, Colombo",Sri Lanka,512,498,14,256,256
+2022-06-22,Barbados|Trinidad and Tobago,"Guyana National Stadium, Providence",Barbados,270,211,59,135,135
+2022-06-22,Bhutan|Bahrain,"UKM-YSD Cricket Oval, Bangi",Bhutan,189,168,21,94,95
+2022-06-22,Hong Kong|Kuwait,"UKM-YSD Cricket Oval, Bangi",Hong Kong,150,131,19,75,75
+2022-06-22,Malaysia|Oman,"Kinrara Academy Oval, Kuala Lumpur",Malaysia,217,199,18,108,109
+2022-06-22,Netherlands|England,"VRA Ground, Amstelveen",England,492,460,32,246,246
+2022-06-22,Northamptonshire|Birmingham Bears,"County Ground, Northampton",Birmingham Bears,424,404,20,212,212
+2022-06-22,United Arab Emirates|Qatar,"Kinrara Academy Oval, Kuala Lumpur",United Arab Emirates,275,247,28,137,138
+2022-06-23,Essex|Middlesex,"Lord's, London",Essex,301,284,17,150,151
+2022-06-23,Guyana|Jamaica,"Guyana National Stadium, Providence",Jamaica,50,40,10,25,25
+2022-06-23,Hampshire|Somerset,"The Cooper Associates County Ground, Taunton",Hampshire,402,380,22,201,201
+2022-06-23,India|Sri Lanka,Rangiri Dambulla International Stadium,India,242,235,7,121,121
+2022-06-23,Kenya|Italy,"Lugogo Cricket Oval, Kampala",Kenya,546,520,26,273,273
+2022-06-23,New Zealand|England,"Headingley, Leeds",England,1311,1240,71,655,656
+2022-06-23,Nottinghamshire|Derbyshire,"Trent Bridge, Nottingham",Nottinghamshire,400,391,9,200,200
+2022-06-23,Sussex|Surrey,"County Ground, Hove",Sussex,327,310,17,163,164
+2022-06-23,Worcestershire|Yorkshire,"County Ground, New Road, Worcester",Yorkshire,301,282,19,150,151
+2022-06-24,Bangladesh|West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,841,776,65,420,421
+2022-06-24,Birmingham Bears|Worcestershire,"Edgbaston, Birmingham",Birmingham Bears,312,286,26,156,156
+2022-06-24,Derbyshire|Lancashire,"County Ground, Derby",Derbyshire,371,359,12,185,186
+2022-06-24,Essex|Surrey,"County Ground, Chelmsford",Essex,353,339,14,176,177
+2022-06-24,Hampshire|Gloucestershire,"County Ground, Bristol",Hampshire,347,330,17,173,174
+2022-06-24,Italy|Uganda,"Kyambogo Cricket Ground, Kampala",Uganda,241,213,28,120,121
+2022-06-24,Malaysia|Hong Kong,"Kinrara Academy Oval, Kuala Lumpur",Malaysia,160,146,14,80,80
+2022-06-24,Nottinghamshire|Durham,"Riverside Ground, Chester-le-Street",Nottinghamshire,194,182,12,97,97
+2022-06-24,Serbia|Bulgaria,"National Sports Academy, Sofia",Bulgaria,454,420,34,227,227
+2022-06-24,Somerset|Glamorgan,"Sophia Gardens, Cardiff",Somerset,134,127,7,67,67
+2022-06-24,Sri Lanka|Australia,"R Premadasa Stadium, Colombo",Australia,324,313,11,162,162
+2022-06-24,Sussex|Kent,"St Lawrence Ground, Canterbury",Kent,317,296,21,158,159
+2022-06-24,Windward Islands|Leeward Islands,"Guyana National Stadium, Providence",Windward Islands,331,270,61,165,166
+2022-06-24,Yorkshire|Northamptonshire,"County Ground, Northampton",Yorkshire,318,299,19,159,159
+2022-06-25,Barbados|Jamaica,"Guyana National Stadium, Providence",Barbados,238,211,27,119,119
+2022-06-25,Jersey|Guernsey,"Grainville, St Saviour",Jersey,203,154,49,101,102
+2022-06-25,Malaysia|United Arab Emirates,"Kinrara Academy Oval, Kuala Lumpur",United Arab Emirates,201,179,22,100,101
+2022-06-25,Serbia|Bulgaria,"National Sports Academy, Sofia",Bulgaria,700,631,69,350,350
+2022-06-25,Sri Lanka|India,Rangiri Dambulla International Stadium,India,252,239,13,126,126
+2022-06-26,Derbyshire|Sussex,"County Ground, Hove",Sussex,1360,1304,56,680,680
+2022-06-26,Essex|Hampshire,"County Ground, Chelmsford",Essex,910,861,49,455,455
+2022-06-26,Ireland|India,"The Village, Malahide, Dublin",India,219,200,19,109,110
+2022-06-26,Kenya|Uganda,"Lugogo Cricket Oval, Kampala",Uganda,444,427,17,222,222
+2022-06-26,Serbia|Bulgaria,"National Sports Academy, Sofia",Bulgaria,488,442,46,244,244
+2022-06-26,Worcestershire|Glamorgan,"County Ground, New Road, Worcester",Glamorgan,943,883,60,471,472
+2022-06-27,India|Sri Lanka,Rangiri Dambulla International Stadium,Sri Lanka,279,269,10,139,140
+2022-06-28,Gibraltar|Belgium,"Meersen, Gent",Belgium,281,271,10,140,141
+2022-06-28,India|Ireland,"The Village, Malahide, Dublin",India,446,414,32,223,223
+2022-06-28,Malaysia|Singapore,"Indian Association Ground, Singapore",Singapore,275,247,28,137,138
+2022-06-28,Netherlands|Namibia,"Sportpark Harga, Schiedam",Netherlands,128,115,13,64,64
+2022-06-29,Denmark|Gibraltar,"Royal Brussels Cricket Club Ground, Waterloo",Denmark,380,360,20,190,190
+2022-06-29,Hungary|Belgium,"Royal Brussels Cricket Club Ground, Waterloo",Belgium,243,222,21,121,122
+2022-06-29,Israel|Spain,"Meersen, Gent",Spain,229,207,22,114,115
+2022-06-29,Malaysia|Singapore,"Indian Association Ground, Singapore",Malaysia,331,309,22,165,166
+2022-06-29,Portugal|Malta,"Meersen, Gent",Portugal,297,280,17,148,149
+2022-06-29,Sri Lanka|Australia,Galle International Stadium,Australia,656,603,53,328,328
+2022-06-30,Namibia|Netherlands,"Sportpark Westvliet, Voorburg",Netherlands,201,188,13,100,101
+2022-06-30,Netherlands|Namibia,"Sportpark Westvliet, Voorburg",Namibia,167,151,16,83,84
+2022-06-30,Singapore|Malaysia,"Indian Association Ground, Singapore",Malaysia,247,221,26,123,124
+2022-07-01,Belgium|Denmark,"Royal Brussels Cricket Club Ground, Waterloo",Belgium,310,289,21,155,155
+2022-07-01,Birmingham Bears|Yorkshire,"Headingley, Leeds",Birmingham Bears,445,407,38,222,223
+2022-07-01,Durham|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,367,350,17,183,184
+2022-07-01,Essex|Sussex,"County Ground, Hove",Essex,366,351,15,183,183
+2022-07-01,Hampshire|Gloucestershire,"The Rose Bowl, Southampton",Hampshire,265,253,12,132,133
+2022-07-01,Hungary|Gibraltar,"Royal Brussels Cricket Club Ground, Waterloo",Gibraltar,269,242,27,134,135
+2022-07-01,India|England,"Edgbaston, Birmingham",England,1323,1209,114,661,662
+2022-07-01,Kent|Surrey,"Kennington Oval, London",Surrey,386,371,15,193,193
+2022-07-01,Leicestershire|Northamptonshire,"Grace Road, Leicester",Leicestershire,427,410,17,213,214
+2022-07-01,Malta|Israel,"Meersen, Gent",Malta,256,231,25,128,128
+2022-07-01,Middlesex|Somerset,"Lord's, London",Somerset,321,299,22,160,161
+2022-07-01,Netherlands|Namibia,"Sportpark Westvliet, Voorburg",Netherlands,192,179,13,96,96
+2022-07-01,Portugal|Spain,"Meersen, Gent",Spain,155,143,12,77,78
+2022-07-01,Sri Lanka|India,Pallekele International Cricket Stadium,India,347,322,25,173,174
+2022-07-01,Worcestershire|Lancashire,"County Ground, New Road, Worcester",Worcestershire,327,302,25,163,164
+2022-07-02,Belgium|Portugal,"Royal Brussels Cricket Club Ground, Waterloo",Portugal,227,208,19,113,114
+2022-07-02,Central Sparks|Southern Vipers,"Edgbaston Foundation Community Sports Ground, Birmingham",Southern Vipers,238,201,37,119,119
+2022-07-02,Denmark|Spain,"Royal Brussels Cricket Club Ground, Waterloo",Denmark,267,245,22,133,134
+2022-07-02,Essex|Glamorgan,"County Ground, Chelmsford",Essex,439,426,13,219,220
+2022-07-02,Malaysia|Bhutan,"UKM-YSD Cricket Oval, Bangi",Malaysia,271,257,14,135,136
+2022-07-02,Singapore|Papua New Guinea,"Indian Association Ground, Singapore",Singapore,318,303,15,159,159
+2022-07-02,South East Stars|Sunrisers,"Kent County Cricket Ground, Beckenham",South East Stars,482,449,33,241,241
+2022-07-02,Western Storm|Lightning,"Haslegrave Ground, Loughborough",Western Storm,421,389,32,210,211
+2022-07-03,Birmingham Bears|Lancashire,"Old Trafford, Manchester",Lancashire,337,318,19,168,169
+2022-07-03,Durham|Derbyshire,"County Ground, Derby",Derbyshire,387,368,19,193,194
+2022-07-03,Gibraltar|Malta,"Royal Brussels Cricket Club Ground, Waterloo",Malta,386,363,23,193,193
+2022-07-03,Glamorgan|Kent,"St Lawrence Ground, Canterbury",Glamorgan,345,313,32,172,173
+2022-07-03,Israel|Hungary,"Royal Brussels Cricket Club Ground, Waterloo",Israel,320,305,15,160,160
+2022-07-03,Leicestershire|Yorkshire,"Grace Road, Leicester",Leicestershire,362,344,18,181,181
+2022-07-03,Middlesex|Gloucestershire,"County Ground, Bristol",Gloucestershire,327,288,39,163,164
+2022-07-03,Singapore|Papua New Guinea,"Indian Association Ground, Singapore",Papua New Guinea,409,379,30,204,205
+2022-07-03,Somerset|Surrey,"The Cooper Associates County Ground, Taunton",Somerset,389,360,29,194,195
+2022-07-03,Sussex|Hampshire,"County Ground, Hove",Hampshire,361,343,18,180,181
+2022-07-03,Thunder|Northern Diamonds,"Rookwood, Sale",Northern Diamonds,476,451,25,238,238
+2022-07-03,West Indies|Bangladesh,"Windsor Park, Roseau, Dominica",West Indies,351,331,20,175,176
+2022-07-03,Worcestershire|Nottinghamshire,"County Ground, New Road, Worcester",Nottinghamshire,324,304,20,162,162
+2022-07-04,Bhutan|Maldives,"UKM-YSD Cricket Oval, Bangi",Bhutan,214,192,22,107,107
+2022-07-04,Leinster Lightning|Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,576,542,34,288,288
+2022-07-04,Portugal|Denmark,"Royal Brussels Cricket Club Ground, Waterloo",Denmark,221,206,15,110,111
+2022-07-04,Spain|Belgium,"Royal Brussels Cricket Club Ground, Waterloo",Belgium,294,276,18,147,147
+2022-07-04,Sri Lanka|India,Pallekele International Cricket Stadium,India,347,320,27,173,174
+2022-07-04,Thailand|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,64,60,4,32,32
+2022-07-06,Maldives|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,116,111,5,58,58
+2022-07-06,Thailand|Bhutan,"UKM-YSD Cricket Oval, Bangi",Bhutan,99,89,10,49,50
+2022-07-06,Yorkshire|Surrey,"Kennington Oval, London",Yorkshire,319,305,14,159,160
+2022-07-07,Bangladesh|West Indies,"Providence Stadium, Guyana",West Indies,332,306,26,166,166
+2022-07-07,Bhutan|Maldives,"UKM-YSD Cricket Oval, Bangi",Bhutan,218,196,22,109,109
+2022-07-07,Hampshire|Birmingham Bears,"Edgbaston, Birmingham",Hampshire,268,253,15,134,134
+2022-07-07,India|England,"The Rose Bowl, Southampton",India,346,324,22,173,173
+2022-07-07,India|Sri Lanka,Pallekele International Cricket Stadium,India,471,436,35,235,236
+2022-07-07,Thailand|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,147,142,5,73,74
+2022-07-08,Australia|Sri Lanka,Galle International Stadium,Sri Lanka,1069,1039,30,534,535
+2022-07-08,Bulgaria|Serbia,Lisicji Jarak Cricket Ground,Serbia,307,263,44,153,154
+2022-07-08,Essex|Lancashire,"Old Trafford, Manchester",Lancashire,323,310,13,161,162
+2022-07-08,Luxembourg|Austria,"Scott Page Field, Vinor",Austria,242,212,30,121,121
+2022-07-08,Luxembourg|Czech Republic,"Scott Page Field, Vinor",Czech Republic,227,208,19,113,114
+2022-07-08,Maldives|Thailand,"UKM-YSD Cricket Oval, Bangi",Maldives,153,143,10,76,77
+2022-07-08,Singapore|Malaysia,"Indian Association Ground, Singapore",Malaysia,157,120,37,78,79
+2022-07-09,Austria|Luxembourg,"Scott Page Field, Vinor",Austria,199,189,10,99,100
+2022-07-09,Bhutan|Thailand,"UKM-YSD Cricket Oval, Bangi",Bhutan,242,229,13,121,121
+2022-07-09,Bulgaria|Serbia,Lisicji Jarak Cricket Ground,Bulgaria,317,279,38,158,159
+2022-07-09,Bulgaria|Serbia,Lisicji Jarak Cricket Ground,Serbia,311,282,29,155,156
+2022-07-09,Central Sparks|Western Storm,"County Ground, Bristol",Central Sparks,390,366,24,195,195
+2022-07-09,Czech Republic|Austria,"Scott Page Field, Vinor",Austria,365,329,36,182,183
+2022-07-09,India|England,"Edgbaston, Birmingham",India,291,277,14,145,146
+2022-07-09,Malaysia|Singapore,"Indian Association Ground, Singapore",Malaysia,215,181,34,107,108
+2022-07-09,Northern Diamonds|Sunrisers,"Headingley, Leeds",Northern Diamonds,382,335,47,191,191
+2022-07-09,Somerset|Derbyshire,"The Cooper Associates County Ground, Taunton",Somerset,339,322,17,169,170
+2022-07-09,Southern Vipers|South East Stars,"County Ground, Hove",Southern Vipers,479,459,20,239,240
+2022-07-09,Thunder|Lightning,"Haslegrave Ground, Loughborough",Lightning,479,447,32,239,240
+2022-07-10,Austria|Czech Republic,"Scott Page Field, Vinor",Czech Republic,296,267,29,148,148
+2022-07-10,Czech Republic|Luxembourg,"Scott Page Field, Vinor",Czech Republic,382,349,33,191,191
+2022-07-10,England|India,"Trent Bridge, Nottingham",England,413,391,22,206,207
+2022-07-10,Ireland|New Zealand,"The Village, Malahide, Dublin",New Zealand,605,569,36,302,303
+2022-07-10,Malaysia|Singapore,"Indian Association Ground, Singapore",Malaysia,233,190,43,116,117
+2022-07-10,West Indies|Bangladesh,"Providence Stadium, Guyana",Bangladesh,300,281,19,150,150
+2022-07-11,Bhutan|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,166,154,12,83,83
+2022-07-11,Gloucestershire|Essex,"County Ground, Chelmsford",Essex,777,732,45,388,389
+2022-07-11,Hong Kong|Uganda,Bulawayo Athletic Club,Uganda,175,162,13,87,88
+2022-07-11,Jersey|United States of America,Bulawayo Athletic Club,United States of America,313,302,11,156,157
+2022-07-11,Middlesex|Worcestershire,"Merchant Taylors' School Ground, Northwood",Worcestershire,857,829,28,428,429
+2022-07-11,Namibia|Nepal,"Cambusdoon New Ground, Ayr",Namibia,400,382,18,200,200
+2022-07-11,Netherlands|Papua New Guinea,"Queens Sports Club, Bulawayo",Netherlands,274,246,28,137,137
+2022-07-11,Northamptonshire|Kent,"St Lawrence Ground, Canterbury",Northamptonshire,1195,1127,68,597,598
+2022-07-11,South Africa|England,"County Ground, Northampton",England,437,423,14,218,219
+2022-07-11,Warwickshire|Hampshire,"The Rose Bowl, Southampton",Hampshire,921,867,54,460,461
+2022-07-11,Yorkshire|Surrey,"North Marine Road Ground, Scarborough",Surrey,1484,1337,147,742,742
+2022-07-11,Zimbabwe|Singapore,"Queens Sports Club, Bulawayo",Zimbabwe,361,335,26,180,181
+2022-07-12,Cyprus|Isle of Man,Kerava National Cricket Ground,Isle of Man,242,217,25,121,121
+2022-07-12,England|India,"Kennington Oval, London",India,224,208,16,112,112
+2022-07-12,Finland|Sweden,Tikkurila Cricket Ground,Finland,218,204,14,109,109
+2022-07-12,Hong Kong|Netherlands,"Queens Sports Club, Bulawayo",Netherlands,233,223,10,116,117
+2022-07-12,Ireland|New Zealand,"The Village, Malahide, Dublin",New Zealand,435,394,41,217,218
+2022-07-12,Romania|Turkey,Kerava National Cricket Ground,Romania,243,204,39,121,122
+2022-07-12,Uganda|Papua New Guinea,Bulawayo Athletic Club,Papua New Guinea,321,308,13,160,161
+2022-07-12,United States of America|Singapore,Bulawayo Athletic Club,United States of America,270,259,11,135,135
+2022-07-12,Zimbabwe|Jersey,"Queens Sports Club, Bulawayo",Zimbabwe,269,255,14,134,135
+2022-07-13,Croatia|Sweden,Kerava National Cricket Ground,Sweden,139,126,13,69,70
+2022-07-13,Cyprus|Romania,Tikkurila Cricket Ground,Cyprus,288,262,26,144,144
+2022-07-13,Finland|Italy,Kerava National Cricket Ground,Italy,285,275,10,142,143
+2022-07-13,Isle of Man|Serbia,Tikkurila Cricket Ground,Isle of Man,262,232,30,131,131
+2022-07-13,Scotland|Nepal,"Titwood, Glasgow",Nepal,290,278,12,145,145
+2022-07-13,West Indies|Bangladesh,"Providence Stadium, Guyana",Bangladesh,220,203,17,110,110
+2022-07-14,England|India,"Lord's, London",England,392,371,21,196,196
+2022-07-14,Namibia|Scotland,"Titwood, Glasgow",Scotland,434,423,11,217,217
+2022-07-14,Netherlands|Uganda,"Queens Sports Club, Bulawayo",Netherlands,277,252,25,138,139
+2022-07-14,Papua New Guinea|Hong Kong,Bulawayo Athletic Club,Hong Kong,371,352,19,185,186
+2022-07-14,Zimbabwe|United States of America,"Queens Sports Club, Bulawayo",Zimbabwe,324,312,12,162,162
+2022-07-15,Croatia|Greece,Tikkurila Cricket Ground,Croatia,205,184,21,102,103
+2022-07-15,England|South Africa,"County Ground, Bristol",England,560,524,36,280,280
+2022-07-15,Italy|Sweden,Tikkurila Cricket Ground,Italy,247,236,11,123,124
+2022-07-15,New Zealand|Ireland,"The Village, Malahide, Dublin",New Zealand,719,673,46,359,360
+2022-07-15,Romania|Isle of Man,Kerava National Cricket Ground,Isle of Man,241,226,15,120,121
+2022-07-15,Singapore|Hong Kong,Bulawayo Athletic Club,Hong Kong,293,276,17,146,147
+2022-07-15,Turkey|Serbia,Kerava National Cricket Ground,Serbia,135,118,17,67,68
+2022-07-15,Uganda|Jersey,"Queens Sports Club, Bulawayo",Uganda,215,200,15,107,108
+2022-07-15,United States of America|Netherlands,Bulawayo Athletic Club,Netherlands,277,262,15,138,139
+2022-07-15,Zimbabwe|Papua New Guinea,"Queens Sports Club, Bulawayo",Zimbabwe,371,349,22,185,186
+2022-07-16,Central Sparks|Northern Diamonds,"County Ground, New Road, Worcester",Northern Diamonds,429,389,40,214,215
+2022-07-16,Cyprus|Turkey,Tikkurila Cricket Ground,Cyprus,231,206,25,115,116
+2022-07-16,Finland|Greece,Kerava National Cricket Ground,Finland,329,307,22,164,165
+2022-07-16,Hampshire|Lancashire,"Edgbaston, Birmingham",Hampshire,303,283,20,151,152
+2022-07-16,Hampshire|Somerset,"Edgbaston, Birmingham",Hampshire,343,320,23,171,172
+2022-07-16,Italy|Croatia,Kerava National Cricket Ground,Italy,254,244,10,127,127
+2022-07-16,Namibia|Nepal,"Cambusdoon New Ground, Ayr",Namibia,335,318,17,167,168
+2022-07-16,Romania|Serbia,Tikkurila Cricket Ground,Romania,235,215,20,117,118
+2022-07-16,South East Stars|Thunder,"Trafalgar Road Ground, Southport",South East Stars,344,299,45,172,172
+2022-07-16,Southern Vipers|Lightning,"County Ground, Derby",Southern Vipers,522,467,55,261,261
+2022-07-16,Sri Lanka|Pakistan,Galle International Stadium,Pakistan,1121,1088,33,560,561
+2022-07-16,Sunrisers|Western Storm,"County Ground, Chelmsford",Western Storm,511,470,41,255,256
+2022-07-16,West Indies|Bangladesh,"Providence Stadium, Guyana",Bangladesh,357,346,11,178,179
+2022-07-16,Yorkshire|Lancashire,"Edgbaston, Birmingham",Lancashire,412,397,15,206,206
+2022-07-17,England|India,"Old Trafford, Manchester",India,520,496,24,260,260
+2022-07-17,Ireland|Australia,"Bready Cricket Club, Magheramason, Bready",Australia,202,170,32,101,101
+2022-07-17,Nepal|Scotland,"Titwood, Glasgow",Scotland,258,241,17,129,129
+2022-07-17,Papua New Guinea|United States of America,Bulawayo Athletic Club,Papua New Guinea,189,181,8,94,95
+2022-07-17,Singapore|Jersey,Bulawayo Athletic Club,Jersey,281,270,11,140,141
+2022-07-17,Uganda|Hong Kong,"Queens Sports Club, Bulawayo",Uganda,200,170,30,100,100
+2022-07-17,Zimbabwe|Netherlands,"Queens Sports Club, Bulawayo",Zimbabwe,227,214,13,113,114
+2022-07-18,Croatia|Finland,Tikkurila Cricket Ground,Finland,172,151,21,86,86
+2022-07-18,Cyprus|Serbia,Kerava National Cricket Ground,Serbia,251,232,19,125,126
+2022-07-18,England|South Africa,"Grace Road, Leicester",England,633,594,39,316,317
+2022-07-18,Isle of Man|Turkey,Kerava National Cricket Ground,Isle of Man,268,257,11,134,134
+2022-07-18,New Zealand|Ireland,"Civil Service Cricket Club, Stormont, Belfast",New Zealand,315,287,28,157,158
+2022-07-18,Sweden|Greece,Tikkurila Cricket Ground,Sweden,193,180,13,96,97
+2022-07-19,Essex|Surrey,"Kennington Oval, London",Surrey,960,877,83,480,480
+2022-07-19,Finland|Cyprus,Kerava National Cricket Ground,Finland,307,283,24,153,154
+2022-07-19,Hampshire|Gloucestershire,"College Ground, Cheltenham",Hampshire,1077,999,78,538,539
+2022-07-19,Isle of Man|Italy,Kerava National Cricket Ground,Italy,203,190,13,101,102
+2022-07-19,Kent|Warwickshire,"Edgbaston, Birmingham",Kent,921,816,105,460,461
+2022-07-19,Northamptonshire|Lancashire,"County Ground, Northampton",Lancashire,819,754,65,409,410
+2022-07-19,Pakistan|Ireland,"Bready Cricket Club, Magheramason, Bready",Pakistan,175,164,11,87,88
+2022-07-19,Romania|Sweden,Tikkurila Cricket Ground,Sweden,210,200,10,105,105
+2022-07-19,Serbia|Croatia,Tikkurila Cricket Ground,Croatia,184,162,22,92,92
+2022-07-19,South Africa|England,"Riverside Ground, Chester-le-Street",South Africa,604,580,24,302,302
+2022-07-20,Leicestershire|Glamorgan,"Grace Road, Leicester",Glamorgan,1562,1501,61,781,781
+2022-07-20,New Zealand|Ireland,"Civil Service Cricket Club, Stormont, Belfast",New Zealand,270,249,21,135,135
+2022-07-21,Australia|Ireland,"Bready Cricket Club, Magheramason, Bready",Australia,301,269,32,150,151
+2022-07-21,South Africa|England,"County Ground, Chelmsford",England,225,212,13,112,113
+2022-07-22,England|South Africa,"Old Trafford, Manchester",England,284,271,13,142,142
+2022-07-22,India|West Indies,"Queen's Park Oval, Port of Spain, Trinidad",India,613,580,33,306,307
+2022-07-22,Ireland|New Zealand,"Civil Service Cricket Club, Stormont, Belfast",New Zealand,354,340,14,177,177
+2022-07-23,Lightning|Northern Diamonds,"Riverside Ground, Chester-le-Street",Northern Diamonds,399,358,41,199,200
+2022-07-23,South Africa|England,"County Ground, New Road, Worcester",England,299,285,14,149,150
+2022-07-23,South East Stars|Western Storm,"College Ground, Cheltenham",South East Stars,530,484,46,265,265
+2022-07-23,Southern Vipers|Sunrisers,"The Rose Bowl, Southampton",Southern Vipers,455,402,53,227,228
+2022-07-23,Thunder|Central Sparks,"Old Trafford, Manchester",Thunder,427,389,38,213,214
+2022-07-24,Austria|Luxembourg,Tikkurila Cricket Ground,Austria,242,230,12,121,121
+2022-07-24,Estonia|Norway,Kerava National Cricket Ground,Norway,203,187,16,101,102
+2022-07-24,France|Czech Republic,Kerava National Cricket Ground,France,255,241,14,127,128
+2022-07-24,Guernsey|Bulgaria,Tikkurila Cricket Ground,Guernsey,208,194,14,104,104
+2022-07-24,Sri Lanka|Pakistan,Galle International Stadium,Sri Lanka,1230,1173,57,615,615
+2022-07-24,West Indies|India,"Queen's Park Oval, Port of Spain, Trinidad",India,623,589,34,311,312
+2022-07-25,Austria|Slovenia,Kerava National Cricket Ground,Austria,287,266,21,143,144
+2022-07-25,Derbyshire|Worcestershire,"County Ground, New Road, Worcester",Derbyshire,848,804,44,424,424
+2022-07-25,England|South Africa,"County Ground, Derby",England,314,293,21,157,157
+2022-07-25,France|Switzerland,Tikkurila Cricket Ground,Switzerland,315,300,15,157,158
+2022-07-25,Gloucestershire|Northamptonshire,"College Ground, Cheltenham",Northamptonshire,1364,1246,118,682,682
+2022-07-25,Guernsey|Luxembourg,Kerava National Cricket Ground,Guernsey,245,235,10,122,123
+2022-07-25,Lancashire|Kent,"Old Trafford, Manchester",Lancashire,978,897,81,489,489
+2022-07-25,Warwickshire|Surrey,"Kennington Oval, London",Surrey,1131,1065,66,565,566
+2022-07-25,Yorkshire|Hampshire,"North Marine Road Ground, Scarborough",Hampshire,863,834,29,431,432
+2022-07-26,Nottinghamshire|Sussex,"Trent Bridge, Nottingham",Nottinghamshire,826,761,65,413,413
+2022-07-27,England|South Africa,"County Ground, Bristol",England,427,411,16,213,214
+2022-07-27,France|Norway,Kerava National Cricket Ground,France,305,296,9,152,153
+2022-07-27,Guernsey|Austria,Tikkurila Cricket Ground,Austria,280,270,10,140,140
+2022-07-27,India|West Indies,"Queen's Park Oval, Port of Spain, Trinidad",India,362,345,17,181,181
+2022-07-27,Munster Reds|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,440,409,31,220,220
+2022-07-27,New Zealand|Scotland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,382,366,16,191,191
+2022-07-27,North-West Warriors|Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",Northern Knights,409,382,27,204,205
+2022-07-27,Slovenia|Bulgaria,Tikkurila Cricket Ground,Bulgaria,283,251,32,141,142
+2022-07-27,Switzerland|Estonia,Kerava National Cricket Ground,Switzerland,315,296,19,157,158
+2022-07-28,Czech Republic|Estonia,Tikkurila Cricket Ground,Czech Republic,228,203,25,114,114
+2022-07-28,Leinster Lightning|North-West Warriors,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,392,363,29,196,196
+2022-07-28,Luxembourg|Bulgaria,Kerava National Cricket Ground,Luxembourg,237,220,17,118,119
+2022-07-28,Northern Knights|Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",Northern Knights,357,330,27,178,179
+2022-07-28,Norway|Switzerland,Tikkurila Cricket Ground,Norway,199,183,16,99,100
+2022-07-28,Singapore|Qatar,"Maple Leaf North-West Ground, King City",Singapore,457,442,15,228,229
+2022-07-28,Slovenia|Guernsey,Kerava National Cricket Ground,Guernsey,115,108,7,57,58
+2022-07-28,South Africa|England,"Sophia Gardens, Cardiff",South Africa,356,339,17,178,178
+2022-07-29,Barbados|Pakistan,"Edgbaston, Birmingham",Barbados,273,240,33,136,137
+2022-07-29,India|Australia,"Edgbaston, Birmingham",Australia,311,304,7,155,156
+2022-07-29,India|West Indies,"Brian Lara Stadium, Tarouba, Trinidad",India,312,289,23,156,156
+2022-07-29,New Zealand|Scotland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,406,381,25,203,203
+2022-07-29,North-West Warriors|Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",Munster Reds,333,310,23,166,167
+2022-07-29,Northern Knights|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,193,189,4,96,97
+2022-07-30,Denmark|Vanuatu,"Maple Leaf North-West Ground, King City",Denmark,443,418,25,221,222
+2022-07-30,Luxembourg|Slovenia,Tikkurila Cricket Ground,Luxembourg,253,232,21,126,127
+2022-07-30,New Zealand|South Africa,"Edgbaston, Birmingham",New Zealand,321,304,17,160,161
+2022-07-30,Singapore|Canada,"Maple Leaf North-East Ground, King City",Canada,378,345,33,189,189
+2022-07-30,Sri Lanka|England,"Edgbaston, Birmingham",England,215,196,19,107,108
+2022-07-30,Switzerland|Czech Republic,Kerava National Cricket Ground,Czech Republic,367,347,20,183,184
+2022-07-30,Zimbabwe|Bangladesh,Harare Sports Club,Zimbabwe,393,358,35,196,197
+2022-07-31,Barbados|Australia,"Edgbaston, Birmingham",Australia,132,120,12,66,66
+2022-07-31,Bulgaria|Czech Republic,Tikkurila Cricket Ground,Czech Republic,235,214,21,117,118
+2022-07-31,Canada|Malaysia,"Maple Leaf North-West Ground, King City",Canada,357,324,33,178,179
+2022-07-31,Denmark|Qatar,"Maple Leaf North-East Ground, King City",Denmark,447,418,29,223,224
+2022-07-31,Guernsey|France,Kerava National Cricket Ground,Guernsey,250,236,14,125,125
+2022-07-31,Luxembourg|Switzerland,Tikkurila Cricket Ground,Luxembourg,223,209,14,111,112
+2022-07-31,Norway|Austria,Kerava National Cricket Ground,Austria,154,148,6,77,77
+2022-07-31,Pakistan|India,"Edgbaston, Birmingham",India,201,193,8,100,101
+2022-07-31,Scotland|New Zealand,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,613,592,21,306,307
+2022-07-31,South Africa|England,"The Rose Bowl, Southampton",South Africa,292,276,16,146,146
+2022-07-31,Zimbabwe|Bangladesh,Harare Sports Club,Bangladesh,271,255,16,135,136
+2022-08-01,India|West Indies,"Warner Park, Basseterre, St Kitts",West Indies,279,266,13,139,140
+2022-08-02,Derbyshire|Glamorgan,"County Ground, Derby",Glamorgan,222,208,14,111,111
+2022-08-02,England|South Africa,"Edgbaston, Birmingham",England,308,302,6,154,154
+2022-08-02,Gloucestershire|Warwickshire,"College Ground, Cheltenham",Warwickshire,529,513,16,264,265
+2022-08-02,Malaysia|Singapore,"Maple Leaf North-East Ground, King City",Singapore,423,403,20,211,212
+2022-08-02,New Zealand|Sri Lanka,"Edgbaston, Birmingham",New Zealand,249,228,21,124,125
+2022-08-02,Nottinghamshire|Sussex,"Trent Bridge, Nottingham",Nottinghamshire,515,493,22,257,258
+2022-08-02,Surrey|Leicestershire,"Woodbridge Road, Guildford",Leicestershire,494,470,24,247,247
+2022-08-02,West Indies|India,"Warner Park, Basseterre, St Kitts",India,329,317,12,164,165
+2022-08-02,Worcestershire|Kent,"County Ground, New Road, Worcester",Kent,704,688,16,352,352
+2022-08-02,Yorkshire|Northamptonshire,York Cricket Club,Yorkshire,673,660,13,336,337
+2022-08-02,Zimbabwe|Bangladesh,Harare Sports Club,Zimbabwe,302,285,17,151,151
+2022-08-03,Australia|Pakistan,"Edgbaston, Birmingham",Australia,276,256,20,138,138
+2022-08-03,Canada|Qatar,"Maple Leaf North-East Ground, King City",Canada,366,347,19,183,183
+2022-08-03,Denmark|Singapore,"Maple Leaf North-West Ground, King City",Denmark,593,556,37,296,297
+2022-08-03,India|Barbados,"Edgbaston, Birmingham",India,224,203,21,112,112
+2022-08-03,South Africa|Ireland,"County Ground, Bristol",South Africa,401,379,22,200,201
+2022-08-03,Welsh Fire|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,216,203,13,108,108
+2022-08-04,Durham|Surrey,"Roseworth Terrace, Gosforth",Surrey,367,339,28,183,184
+2022-08-04,Italy|Bermuda,"Grainville, St Saviour",Italy,420,362,58,210,210
+2022-08-04,Kent|Glamorgan,"County Ground, Chelmsford",Glamorgan,612,575,37,306,306
+2022-08-04,Leicestershire|Middlesex,"Radlett Cricket Club, Radlett",Leicestershire,703,635,68,351,352
+2022-08-04,London Spirit|Oval Invincibles,"Kennington Oval, London",London Spirit,339,313,26,169,170
+2022-08-04,New Zealand|England,"Edgbaston, Birmingham",England,143,130,13,71,72
+2022-08-04,New Zealand|Netherlands,"Sportpark Westvliet, The Hague",New Zealand,280,266,14,140,140
+2022-08-04,Somerset|Nottinghamshire,"The Cooper Associates County Ground, Taunton",Nottinghamshire,243,224,19,121,122
+2022-08-04,Sri Lanka|South Africa,"Edgbaston, Birmingham",South Africa,95,82,13,47,48
+2022-08-04,Yorkshire|Lancashire,York Cricket Club,Lancashire,452,421,31,226,226
+2022-08-05,Bangladesh|Zimbabwe,Harare Sports Club,Zimbabwe,610,583,27,305,305
+2022-08-05,Canada|Vanuatu,"Maple Leaf North-West Ground, King City",Canada,288,258,30,144,144
+2022-08-05,Denmark|Malaysia,"Maple Leaf North-East Ground, King City",Denmark,393,361,32,196,197
+2022-08-05,Derbyshire|Essex,"County Ground, Chelmsford",Derbyshire,544,527,17,272,272
+2022-08-05,Hampshire|Worcestershire,"The Rose Bowl, Southampton",Hampshire,428,388,40,214,214
+2022-08-05,Manchester Originals|Northern Superchargers,"Old Trafford, Manchester",Northern Superchargers,323,311,12,161,162
+2022-08-05,Netherlands|New Zealand,"Sportpark Westvliet, The Hague",New Zealand,296,281,15,148,148
+2022-08-05,South Africa|Ireland,"County Ground, Bristol",South Africa,320,297,23,160,160
+2022-08-05,Sussex|Gloucestershire,"County Ground, Hove",Sussex,617,607,10,308,309
+2022-08-05,Uganda|Jersey,"Farmers Cricket Club Ground, St Martin",Jersey,537,508,29,268,269
+2022-08-06,Birmingham Phoenix|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,290,276,14,145,145
+2022-08-06,India|England,"Edgbaston, Birmingham",India,324,312,12,162,162
+2022-08-06,India|West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",India,323,302,21,161,162
+2022-08-06,New Zealand|Australia,"Edgbaston, Birmingham",Australia,289,269,20,144,145
+2022-08-06,Qatar|Malaysia,"Maple Leaf North-West Ground, King City",Qatar,358,328,30,179,179
+2022-08-06,Vanuatu|Singapore,"Maple Leaf North-East Ground, King City",Singapore,224,189,35,112,112
+2022-08-07,Australia|India,"Edgbaston, Birmingham",Australia,313,295,18,156,157
+2022-08-07,Bangladesh|Zimbabwe,Harare Sports Club,Zimbabwe,581,560,21,290,291
+2022-08-07,Durham|Middlesex,"Riverside Ground, Chester-le-Street",Middlesex,539,507,32,269,270
+2022-08-07,England|New Zealand,"Edgbaston, Birmingham",New Zealand,221,201,20,110,111
+2022-08-07,Essex|Northamptonshire,"County Ground, Northampton",Northamptonshire,687,661,26,343,344
+2022-08-07,Hampshire|Kent,"Kent County Cricket Ground, Beckenham",Hampshire,629,589,40,314,315
+2022-08-07,India|West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",India,288,270,18,144,144
+2022-08-07,Italy|Uganda,"Grainville, St Saviour",Uganda,241,208,33,120,121
+2022-08-07,Lancashire|Derbyshire,"Old Trafford, Manchester",Lancashire,403,390,13,201,202
+2022-08-07,Leicestershire|Sussex,"County Ground, Hove",Sussex,243,236,7,121,122
+2022-08-07,Oval Invincibles|Welsh Fire,"Sophia Gardens, Cardiff",Oval Invincibles,277,257,20,138,139
+2022-08-07,Somerset|Gloucestershire,"County Ground, Bristol",Gloucestershire,404,378,26,202,202
+2022-08-07,Worcestershire|Yorkshire,"North Marine Road Ground, Scarborough",Yorkshire,493,482,11,246,247
+2022-08-08,Kenya|Italy,"Farmers Cricket Club Ground, St Martin",Kenya,566,522,44,283,283
+2022-08-08,London Spirit|Manchester Originals,"Lord's, London",London Spirit,268,245,23,134,134
+2022-08-09,Hampshire|Northamptonshire,"New Close County Cricket Ground, Newport, Isle-of-Wight",Hampshire,387,353,34,193,194
+2022-08-09,Northern Superchargers|Trent Rockets,"Headingley, Leeds",Trent Rockets,307,287,20,153,154
+2022-08-10,Bangladesh|Zimbabwe,Harare Sports Club,Bangladesh,407,364,43,203,204
+2022-08-10,Birmingham Phoenix|Southern Brave,"Edgbaston, Birmingham",Birmingham Phoenix,299,286,13,149,150
+2022-08-10,Durham|Somerset,"The Cooper Associates County Ground, Taunton",Durham,675,634,41,337,338
+2022-08-10,Hong Kong|Jersey,"Farmers Cricket Club Ground, St Martin",Jersey,569,544,25,284,285
+2022-08-10,Kenya|Uganda,"Grainville, St Saviour",Kenya,308,281,27,154,154
+2022-08-10,Middlesex|Surrey,"Radlett Cricket Club, Radlett",Middlesex,600,563,37,300,300
+2022-08-10,New Zealand|West Indies,"Sabina Park, Kingston, Jamaica",New Zealand,357,338,19,178,179
+2022-08-10,Nottinghamshire|Gloucestershire,"County Ground, Bristol",Gloucestershire,592,571,21,296,296
+2022-08-10,Scotland|United Arab Emirates,"Mannofield Park, Aberdeen",Scotland,460,428,32,230,230
+2022-08-10,Worcestershire|Lancashire,"Old Trafford, Manchester",Lancashire,497,476,21,248,249
+2022-08-10,Yorkshire|Glamorgan,"Sophia Gardens, Cardiff",Yorkshire,491,460,31,245,246
+2022-08-11,Bermuda|Kenya,"Farmers Cricket Club Ground, St Martin",Kenya,472,422,50,236,236
+2022-08-11,Essex|Kent,"County Ground, Chelmsford",Essex,480,457,23,240,240
+2022-08-11,Northern Superchargers|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,604,578,26,302,302
+2022-08-11,United Arab Emirates|United States of America,"Mannofield Park, Aberdeen",United States of America,509,486,23,254,255
+2022-08-12,Derbyshire|Hampshire,"County Ground, Derby",Hampshire,493,455,38,246,247
+2022-08-12,Glamorgan|Northamptonshire,"County Ground, Northampton",Northamptonshire,446,428,18,223,223
+2022-08-12,Gloucestershire|Durham,"Riverside Ground, Chester-le-Street",Gloucestershire,728,688,40,364,364
+2022-08-12,Leicestershire|Somerset,"Grace Road, Leicester",Leicestershire,493,461,32,246,247
+2022-08-12,London Spirit|Southern Brave,"The Rose Bowl, Southampton",London Spirit,285,271,14,142,143
+2022-08-12,London Spirit|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,314,293,21,157,157
+2022-08-12,Middlesex|Nottinghamshire,"Gorse Lane, Grantham",Middlesex,683,637,46,341,342
+2022-08-12,New Zealand|West Indies,"Sabina Park, Kingston, Jamaica",New Zealand,340,322,18,170,170
+2022-08-12,Warwickshire|Sussex,"Mitchells and Butlers' Ground, Birmingham",Warwickshire,616,577,39,308,308
+2022-08-13,Birmingham Phoenix|Welsh Fire,"Sophia Gardens, Cardiff",Birmingham Phoenix,559,530,29,279,280
+2022-08-13,Jersey|Italy,"Farmers Cricket Club Ground, St Martin",Jersey,553,536,17,276,277
+2022-08-13,Kuwait|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,398,380,18,199,199
+2022-08-13,Manchester Originals|Trent Rockets,"Old Trafford, Manchester",Trent Rockets,382,366,16,191,191
+2022-08-13,Trent Rockets|Manchester Originals,"Old Trafford, Manchester",Trent Rockets,195,179,16,97,98
+2022-08-13,United States of America|Scotland,"Mannofield Park, Aberdeen",Scotland,596,566,30,298,298
+2022-08-14,Bahrain|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,307,295,12,153,154
+2022-08-14,Derbyshire|Worcestershire,"County Ground, New Road, Worcester",Derbyshire,577,556,21,288,289
+2022-08-14,Durham|Nottinghamshire,"Gorse Lane, Grantham",Nottinghamshire,453,432,21,226,227
+2022-08-14,Essex|Glamorgan,"County Ground, Chelmsford",Essex,579,533,46,289,290
+2022-08-14,Jersey|Kenya,"Grainville, St Saviour",Kenya,348,316,32,174,174
+2022-08-14,Lancashire|Hampshire,"The Rose Bowl, Southampton",Hampshire,369,342,27,184,185
+2022-08-14,Leicestershire|Warwickshire,"Grace Road, Leicester",Leicestershire,545,501,44,272,273
+2022-08-14,New Zealand|West Indies,"Sabina Park, Kingston, Jamaica",West Indies,295,284,11,147,148
+2022-08-14,Northamptonshire|Kent,"St Lawrence Ground, Canterbury",Kent,423,394,29,211,212
+2022-08-14,Northern Superchargers|London Spirit,"Headingley, Leeds",London Spirit,290,282,8,145,145
+2022-08-14,Northern Superchargers|London Spirit,"Headingley, Leeds",Northern Superchargers,249,241,8,124,125
+2022-08-14,Scotland|United Arab Emirates,"Mannofield Park, Aberdeen",Scotland,422,394,28,211,211
+2022-08-14,Somerset|Middlesex,"The Cooper Associates County Ground, Taunton",Middlesex,671,623,48,335,336
+2022-08-14,Southern Brave|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,279,252,27,139,140
+2022-08-14,Southern Brave|Oval Invincibles,"Kennington Oval, London",Southern Brave,294,264,30,147,147
+2022-08-14,Sussex|Surrey,"County Ground, Hove",Sussex,540,494,46,270,270
+2022-08-15,Trent Rockets|Birmingham Phoenix,"Edgbaston, Birmingham",Birmingham Phoenix,527,496,31,263,264
+2022-08-16,Manchester Originals|Welsh Fire,"Old Trafford, Manchester",Manchester Originals,552,512,40,276,276
+2022-08-16,Pakistan|Netherlands,"Hazelaarweg, Rotterdam",Pakistan,612,568,44,306,306
+2022-08-17,Durham|Sussex,"Riverside Ground, Chester-le-Street",Sussex,457,441,16,228,229
+2022-08-17,England|South Africa,"Lord's, London",South Africa,640,601,39,320,320
+2022-08-17,Essex|Yorkshire,"County Ground, Chelmsford",Essex,316,288,28,158,158
+2022-08-17,Glamorgan|Lancashire,"The Gnoll, Neath",Lancashire,357,340,17,178,179
+2022-08-17,Gloucestershire|Leicestershire,"County Ground, Bristol",Leicestershire,525,499,26,262,263
+2022-08-17,Kuwait|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,270,262,8,135,135
+2022-08-17,New Zealand|West Indies,"Kensington Oval, Bridgetown, Barbados",West Indies,383,363,20,191,192
+2022-08-17,Northamptonshire|Worcestershire,"County Ground, Northampton",Worcestershire,505,481,24,252,253
+2022-08-17,Scotland|United States of America,"Mannofield Park, Aberdeen",United States of America,499,476,23,249,250
+2022-08-17,Surrey|Somerset,"Kennington Oval, London",Surrey,370,334,36,185,185
+2022-08-17,Trent Rockets|Oval Invincibles,"Trent Bridge, Nottingham",Oval Invincibles,227,217,10,113,114
+2022-08-17,Trent Rockets|Oval Invincibles,"Trent Bridge, Nottingham",Trent Rockets,337,303,34,168,169
+2022-08-17,Warwickshire|Nottinghamshire,"Mitchells and Butlers' Ground, Birmingham",Warwickshire,528,503,25,264,264
+2022-08-18,Manchester Originals|Southern Brave,"The Rose Bowl, Southampton",Manchester Originals,308,293,15,154,154
+2022-08-18,Netherlands|Pakistan,"Hazelaarweg, Rotterdam",Pakistan,377,364,13,188,189
+2022-08-18,Southern Brave|Manchester Originals,"The Rose Bowl, Southampton",Southern Brave,263,250,13,131,132
+2022-08-18,Zimbabwe|India,Harare Sports Club,India,381,327,54,190,191
+2022-08-19,Birmingham Phoenix|Northern Superchargers,"Edgbaston, Birmingham",Birmingham Phoenix,301,291,10,150,151
+2022-08-19,Essex|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,559,535,24,279,280
+2022-08-19,Hampshire|Glamorgan,"The Gnoll, Neath",Glamorgan,457,437,20,228,229
+2022-08-19,Middlesex|Warwickshire,"Radlett Cricket Club, Radlett",Middlesex,620,579,41,310,310
+2022-08-19,New Zealand|West Indies,"Kensington Oval, Bridgetown, Barbados",New Zealand,373,359,14,186,187
+2022-08-19,Northamptonshire|Lancashire,"Stanley Park, Blackpool",Lancashire,742,708,34,371,371
+2022-08-19,Northern Superchargers|Birmingham Phoenix,"Edgbaston, Birmingham",Northern Superchargers,306,285,21,153,153
+2022-08-19,Surrey|Gloucestershire,"Kennington Oval, London",Gloucestershire,586,550,36,293,293
+2022-08-19,Sussex|Somerset,"The Cooper Associates County Ground, Taunton",Sussex,593,560,33,296,297
+2022-08-19,Yorkshire|Kent,"St Lawrence Ground, Canterbury",Kent,579,550,29,289,290
+2022-08-20,Hong Kong|Singapore,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Hong Kong,288,266,22,144,144
+2022-08-20,London Spirit|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,249,239,10,124,125
+2022-08-20,Nottinghamshire|Leicestershire,"Grace Road, Leicester",Nottinghamshire,409,376,33,204,205
+2022-08-20,Trent Rockets|London Spirit,"Trent Bridge, Nottingham",Trent Rockets,266,245,21,133,133
+2022-08-20,Zimbabwe|India,Harare Sports Club,India,328,290,38,164,164
+2022-08-21,Derbyshire|Yorkshire,"Queen's Park, Chesterfield",Yorkshire,219,201,18,109,110
+2022-08-21,Essex|Hampshire,"The Rose Bowl, Southampton",Hampshire,517,480,37,258,259
+2022-08-21,Manchester Originals|Northern Superchargers,"Headingley, Leeds",Manchester Originals,393,365,28,196,197
+2022-08-21,Manchester Originals|Northern Superchargers,"Headingley, Leeds",Northern Superchargers,321,306,15,160,161
+2022-08-21,Middlesex|Gloucestershire,"Radlett Cricket Club, Radlett",Gloucestershire,513,490,23,256,257
+2022-08-21,Pakistan|Netherlands,"Hazelaarweg, Rotterdam",Pakistan,403,379,24,201,202
+2022-08-21,United Arab Emirates|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,350,327,23,175,175
+2022-08-21,Warwickshire|Durham,"Mitchells and Butlers' Ground, Birmingham",Warwickshire,502,474,28,251,251
+2022-08-21,West Indies|New Zealand,"Kensington Oval, Bridgetown, Barbados",New Zealand,608,576,32,304,304
+2022-08-22,India|Zimbabwe,Harare Sports Club,India,565,541,24,282,283
+2022-08-22,Netherlands|Ireland,"VRA Ground, Amstelveen",Ireland,171,145,26,85,86
+2022-08-22,Southern Brave|Welsh Fire,"Sophia Gardens, Cardiff",Southern Brave,230,213,17,115,115
+2022-08-22,United Arab Emirates|Singapore,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,273,264,9,136,137
+2022-08-22,Welsh Fire|Southern Brave,"Sophia Gardens, Cardiff",Southern Brave,261,243,18,130,131
+2022-08-23,Birmingham Phoenix|Oval Invincibles,"Kennington Oval, London",Birmingham Phoenix,322,298,24,161,161
+2022-08-23,Birmingham Phoenix|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,213,202,11,106,107
+2022-08-23,Durham|Leicestershire,"Grace Road, Leicester",Leicestershire,395,350,45,197,198
+2022-08-23,Glamorgan|Worcestershire,"County Ground, New Road, Worcester",Glamorgan,693,669,24,346,347
+2022-08-23,Hampshire|Yorkshire,"North Marine Road Ground, Scarborough",Hampshire,554,518,36,277,277
+2022-08-23,Kuwait|Hong Kong,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Hong Kong,304,287,17,152,152
+2022-08-23,Lancashire|Kent,"St Lawrence Ground, Canterbury",Kent,593,554,39,296,297
+2022-08-23,Northamptonshire|Derbyshire,"County Ground, Northampton",Derbyshire,623,590,33,311,312
+2022-08-23,Somerset|Warwickshire,"Mitchells and Butlers' Ground, Birmingham",Somerset,518,503,15,259,259
+2022-08-23,Surrey|Nottinghamshire,Welbeck Abbey Cricket Ground,Nottinghamshire,363,347,16,181,182
+2022-08-23,Sussex|Middlesex,"County Ground, Hove",Sussex,643,604,39,321,322
+2022-08-24,Ireland|Netherlands,"VRA Ground, Amstelveen",Ireland,464,414,50,232,232
+2022-08-24,London Spirit|Welsh Fire,"Lord's, London",London Spirit,295,287,8,147,148
+2022-08-24,Singapore|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,209,204,5,104,105
+2022-08-24,United Arab Emirates|Hong Kong,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Hong Kong,296,283,13,148,148
+2022-08-24,Welsh Fire|London Spirit,"Lord's, London",London Spirit,241,229,12,120,121
+2022-08-25,Kenya|Nepal,"Gymkhana Club Ground, Nairobi",Nepal,263,243,20,131,132
+2022-08-25,South Africa|England,"Old Trafford, Manchester",England,745,689,56,372,373
+2022-08-25,Trent Rockets|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,462,427,35,231,231
+2022-08-26,Kent|Leicestershire,"Grace Road, Leicester",Kent,569,549,20,284,285
+2022-08-26,Netherlands|Ireland,"Sportpark Westvliet, The Hague",Ireland,373,336,37,186,187
+2022-08-26,Nottinghamshire|Lancashire,"Stanley Park, Blackpool",Lancashire,679,657,22,339,340
+2022-08-26,Welsh Fire|Northern Superchargers,"Sophia Gardens, Cardiff",Northern Superchargers,230,220,10,115,115
+2022-08-26,Welsh Fire|Northern Superchargers,"Sophia Gardens, Cardiff",Welsh Fire,235,208,27,117,118
+2022-08-27,London Spirit|Oval Invincibles,"Lord's, London",Oval Invincibles,408,382,26,204,204
+2022-08-28,Kenya|Nepal,"Gymkhana Club Ground, Nairobi",Nepal,316,306,10,158,158
+2022-08-28,Manchester Originals|Birmingham Phoenix,"Edgbaston, Birmingham",Manchester Originals,455,429,26,227,228
+2022-08-28,Pakistan|India,Dubai International Cricket Stadium,India,295,276,19,147,148
+2022-08-28,Zimbabwe|Australia,"Tony Ireland Stadium, Townsville",Australia,401,372,29,200,201
+2022-08-29,Kenya|Nepal,"Gymkhana Club Ground, Nairobi",Kenya,195,179,16,97,98
+2022-08-29,Trent Rockets|Welsh Fire,"Trent Bridge, Nottingham",Trent Rockets,315,290,25,157,158
+2022-08-29,Welsh Fire|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,202,192,10,101,101
+2022-08-30,Birmingham Phoenix|London Spirit,"Lord's, London",London Spirit,165,148,17,82,83
+2022-08-30,Hampshire|Kent,"The Rose Bowl, Southampton",Kent,623,582,41,311,312
+2022-08-30,Lancashire|Sussex,"County Ground, Hove",Lancashire,573,549,24,286,287
+2022-08-30,London Spirit|Birmingham Phoenix,"Lord's, London",Birmingham Phoenix,279,266,13,139,140
+2022-08-30,Nepal|Kenya,"Gymkhana Club Ground, Nairobi",Nepal,319,309,10,159,160
+2022-08-31,India|Hong Kong,Dubai International Cricket Stadium,India,344,330,14,172,172
+2022-08-31,Jamaica Tallawahs|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",Jamaica Tallawahs,319,296,23,159,160
+2022-08-31,Northern Superchargers|Southern Brave,"Headingley, Leeds",Northern Superchargers,524,493,31,262,262
+2022-08-31,Oval Invincibles|Manchester Originals,"Old Trafford, Manchester",Manchester Originals,287,273,14,143,144
+2022-08-31,Oval Invincibles|Manchester Originals,"Old Trafford, Manchester",Oval Invincibles,294,277,17,147,147
+2022-08-31,Trinbago Knight Riders|Barbados Royals,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,227,214,13,113,114
+2022-08-31,Zimbabwe|Australia,"Tony Ireland Stadium, Townsville",Australia,196,173,23,98,98
+2022-09-01,Bangladesh|Sri Lanka,Dubai International Cricket Stadium,Sri Lanka,367,340,27,183,184
+2022-09-01,St Kitts and Nevis Patriots|Barbados Royals,"Warner Park, Basseterre, St Kitts",Barbados Royals,299,268,31,149,150
+2022-09-01,St Lucia Kings|Trinbago Knight Riders,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,291,266,25,145,146
+2022-09-02,London Spirit|Manchester Originals,"The Rose Bowl, Southampton",Manchester Originals,301,294,7,150,151
+2022-09-02,Pakistan|Hong Kong,Sharjah Cricket Stadium,Pakistan,231,203,28,115,116
+2022-09-02,Southern Brave|Trent Rockets,"The Rose Bowl, Southampton",Southern Brave,266,256,10,133,133
+2022-09-03,Australia|Zimbabwe,"Riverway Stadium, Townsville",Zimbabwe,283,263,20,141,142
+2022-09-03,Guyana Amazon Warriors|Barbados Royals,"Warner Park, Basseterre, St Kitts",Barbados Royals,203,190,13,101,102
+2022-09-03,Guyana Amazon Warriors|Jamaica Tallawahs,"Warner Park, Basseterre, St Kitts",Jamaica Tallawahs,285,270,15,142,143
+2022-09-03,Manchester Originals|Trent Rockets,"Lord's, London",Trent Rockets,241,227,14,120,121
+2022-09-03,Southern Brave|Oval Invincibles,"Lord's, London",Oval Invincibles,206,188,18,103,103
+2022-09-04,Barbados Royals|St Lucia Kings,"Warner Park, Basseterre, St Kitts",Barbados Royals,253,240,13,126,127
+2022-09-04,India|Pakistan,Dubai International Cricket Stadium,Pakistan,363,341,22,181,182
+2022-09-04,Trinbago Knight Riders|Barbados Royals,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,190,171,19,95,95
+2022-09-05,Essex|Kent,"St Lawrence Ground, Canterbury",Essex,886,837,49,443,443
+2022-09-05,Hampshire|Northamptonshire,"The Rose Bowl, Southampton",Hampshire,796,705,91,398,398
+2022-09-05,Nottinghamshire|Leicestershire,"Trent Bridge, Nottingham",Nottinghamshire,941,838,103,470,471
+2022-09-05,Scotland|Ireland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Ireland,270,255,15,135,135
+2022-09-06,India|Sri Lanka,Dubai International Cricket Stadium,Sri Lanka,347,333,14,173,174
+2022-09-06,New Zealand|Australia,"Cazaly's Stadium, Cairns",Australia,465,438,27,232,233
+2022-09-06,Scotland|Ireland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Ireland,170,164,6,85,85
+2022-09-07,Barbados Royals|Trinbago Knight Riders,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Barbados Royals,245,237,8,122,123
+2022-09-07,Jamaica Tallawahs|St Lucia Kings,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,327,301,26,163,164
+2022-09-08,Australia|New Zealand,"Cazaly's Stadium, Cairns",Australia,277,272,5,138,139
+2022-09-08,Guyana Amazon Warriors|St Kitts and Nevis Patriots,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Kitts and Nevis Patriots,325,286,39,162,163
+2022-09-08,South Africa|England,"Kennington Oval, London",England,575,537,38,287,288
+2022-09-08,St Lucia Kings|Barbados Royals,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Barbados Royals,344,316,28,172,172
+2022-09-09,Pakistan|Sri Lanka,Dubai International Cricket Stadium,Sri Lanka,245,223,22,122,123
+2022-09-10,Cook Islands|Fiji,"Independence Park, Port Vila",Fiji,285,250,35,142,143
+2022-09-10,India|England,"Riverside Ground, Chester-le-Street",England,266,241,25,133,133
+2022-09-10,Jamaica Tallawahs|Trinbago Knight Riders,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Jamaica Tallawahs,272,246,26,136,136
+2022-09-10,Samoa|Vanuatu,"Independence Park, Port Vila",Vanuatu,245,231,14,122,123
+2022-09-10,St Lucia Kings|Guyana Amazon Warriors,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Guyana Amazon Warriors,323,303,20,161,162
+2022-09-11,Australia|New Zealand,"Cazaly's Stadium, Cairns",Australia,509,487,22,254,255
+2022-09-11,Jamaica Tallawahs|Barbados Royals,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Barbados Royals,313,298,15,156,157
+2022-09-11,Lightning|Sunrisers,"County Ground, Chelmsford",Lightning,390,366,24,195,195
+2022-09-11,Northern Diamonds|Western Storm,"The Cooper Associates County Ground, Taunton",Northern Diamonds,564,521,43,282,282
+2022-09-11,Samoa|Fiji,"Independence Park, Port Vila",Fiji,287,257,30,143,144
+2022-09-11,South East Stars|Central Sparks,"Kent County Cricket Ground, Beckenham",South East Stars,449,402,47,224,225
+2022-09-11,Sri Lanka|Pakistan,Dubai International Cricket Stadium,Sri Lanka,317,293,24,158,159
+2022-09-11,St Lucia Kings|St Kitts and Nevis Patriots,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,261,240,21,130,131
+2022-09-11,Thunder|Southern Vipers,"The Rose Bowl, Southampton",Southern Vipers,407,382,25,203,204
+2022-09-11,Vanuatu|Cook Islands,"Independence Park, Port Vila",Cook Islands,255,234,21,127,128
+2022-09-12,Glamorgan|Middlesex,"Lord's, London",Middlesex,869,826,43,434,435
+2022-09-12,Leicestershire|Durham,"Grace Road, Leicester",Durham,804,703,101,402,402
+2022-09-12,Yorkshire|Essex,"Headingley, Leeds",Essex,773,708,65,386,387
+2022-09-12,Zimbabwe|United Arab Emirates,"ICC Academy, Dubai",Zimbabwe,257,230,27,128,129
+2022-09-13,England|India,"County Ground, Derby",India,288,277,11,144,144
+2022-09-13,Papua New Guinea|United States of America,"Amini Park, Port Moresby",Papua New Guinea,396,361,35,198,198
+2022-09-13,Samoa|Cook Islands,"Independence Park, Port Vila",Cook Islands,315,296,19,157,158
+2022-09-13,Trinbago Knight Riders|Barbados Royals,"Queen's Park Oval, Port of Spain, Trinidad",Barbados Royals,268,249,19,134,134
+2022-09-13,United States of America|United Arab Emirates,"ICC Academy, Dubai",United States of America,183,165,18,91,92
+2022-09-13,Vanuatu|Fiji,"Independence Park, Port Vila",Vanuatu,316,303,13,158,158
+2022-09-14,Fiji|Cook Islands,"Independence Park, Port Vila",Cook Islands,297,274,23,148,149
+2022-09-14,Jamaica Tallawahs|St Kitts and Nevis Patriots,"Queen's Park Oval, Port of Spain, Trinidad",St Kitts and Nevis Patriots,252,238,14,126,126
+2022-09-14,Samoa|Vanuatu,"Independence Park, Port Vila",Vanuatu,242,229,13,121,121
+2022-09-14,Trinbago Knight Riders|Guyana Amazon Warriors,"Queen's Park Oval, Port of Spain, Trinidad",Trinbago Knight Riders,274,253,21,137,137
+2022-09-15,Barbados Royals|Jamaica Tallawahs,"Queen's Park Oval, Port of Spain, Trinidad",Jamaica Tallawahs,272,250,22,136,136
+2022-09-15,Botswana|Uganda,"Willowmoore Park, Benoni",Uganda,210,203,7,105,105
+2022-09-15,Fiji|Samoa,"Independence Park, Port Vila",Fiji,264,245,19,132,132
+2022-09-15,India|England,"County Ground, Bristol",England,248,233,15,124,124
+2022-09-15,Namibia|United States of America,"Amini Park, Port Moresby",Namibia,273,262,11,136,137
+2022-09-15,Vanuatu|Cook Islands,"Independence Park, Port Vila",Vanuatu,283,267,16,141,142
+2022-09-16,Ghana|Mozambique,"Willowmoore Park, Benoni",Ghana,280,259,21,140,140
+2022-09-17,Central Sparks|Sunrisers,"County Ground, New Road, Worcester",Central Sparks,381,350,31,190,191
+2022-09-17,Jamaica Tallawahs|Trinbago Knight Riders,"Brian Lara Stadium, Tarouba, Trinidad",Trinbago Knight Riders,235,223,12,117,118
+2022-09-17,Kenya|Tanzania,"Willowmoore Park, Benoni",Tanzania,314,305,9,157,157
+2022-09-17,Namibia|United States of America,"Amini Park, Port Moresby",Namibia,440,424,16,220,220
+2022-09-17,South East Stars|Lightning,"Grace Road, Leicester",South East Stars,450,403,47,225,225
+2022-09-17,Southern Vipers|Northern Diamonds,"Headingley, Leeds",Northern Diamonds,457,407,50,228,229
+2022-09-17,St Lucia Kings|St Kitts and Nevis Patriots,"Brian Lara Stadium, Tarouba, Trinidad",St Lucia Kings,329,311,18,164,165
+2022-09-18,Bangladesh|Ireland,"Sheikh Zayed Stadium, Abu Dhabi",Bangladesh,272,265,7,136,136
+2022-09-18,Barbados Royals|Guyana Amazon Warriors,"Brian Lara Stadium, Tarouba, Trinidad",Barbados Royals,188,178,10,94,94
+2022-09-18,Botswana|Ghana,"Willowmoore Park, Benoni",Botswana,281,266,15,140,141
+2022-09-18,England|India,"County Ground, Hove",India,459,440,19,229,230
+2022-09-18,Papua New Guinea|Zimbabwe,"Tolerance Oval, Abu Dhabi",Zimbabwe,170,158,12,85,85
+2022-09-18,Scotland|United States of America,"Tolerance Oval, Abu Dhabi",Scotland,181,166,15,90,91
+2022-09-18,St Lucia Kings|Trinbago Knight Riders,"Brian Lara Stadium, Tarouba, Trinidad",St Lucia Kings,293,282,11,146,147
+2022-09-18,Thunder|Western Storm,"Old Trafford, Manchester",Western Storm,481,423,58,240,241
+2022-09-18,Uganda|Mozambique,"Willowmoore Park, Benoni",Uganda,286,253,33,143,143
+2022-09-18,United Arab Emirates|Thailand,"Sheikh Zayed Stadium, Abu Dhabi",Thailand,188,176,12,94,94
+2022-09-19,Botswana|Mozambique,"Willowmoore Park, Benoni",Botswana,278,256,22,139,139
+2022-09-19,Cameroon|Kenya,"Willowmoore Park, Benoni",Kenya,98,83,15,49,49
+2022-09-19,Papua New Guinea|United Arab Emirates,"Tolerance Oval, Abu Dhabi",Papua New Guinea,267,250,17,133,134
+2022-09-19,Scotland|Bangladesh,"Sheikh Zayed Stadium, Abu Dhabi",Bangladesh,155,150,5,77,78
+2022-09-19,Thailand|Zimbabwe,"Sheikh Zayed Stadium, Abu Dhabi",Zimbabwe,173,166,7,86,87
+2022-09-19,United States of America|Ireland,"Tolerance Oval, Abu Dhabi",Ireland,183,168,15,91,92
+2022-09-19,West Indies|New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",New Zealand,327,301,26,163,164
+2022-09-20,Ghana|Uganda,"Willowmoore Park, Benoni",Uganda,268,239,29,134,134
+2022-09-20,Glamorgan|Derbyshire,"Sophia Gardens, Cardiff",Glamorgan,1076,1031,45,538,538
+2022-09-20,India|Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Australia,419,407,12,209,210
+2022-09-20,Kent|Hampshire,"The Rose Bowl, Southampton",Kent,791,741,50,395,396
+2022-09-20,Lancashire|Essex,"County Ground, Chelmsford",Lancashire,370,352,18,185,185
+2022-09-20,Middlesex|Leicestershire,"Grace Road, Leicester",Middlesex,1056,958,98,528,528
+2022-09-20,Namibia|Papua New Guinea,"Amini Park, Port Moresby",Namibia,401,378,23,200,201
+2022-09-20,Pakistan|England,"National Stadium, Karachi",England,318,307,11,159,159
+2022-09-20,Somerset|Northamptonshire,"The Cooper Associates County Ground, Taunton",Somerset,1100,1049,51,550,550
+2022-09-20,Surrey|Yorkshire,"Kennington Oval, London",Surrey,775,728,47,387,388
+2022-09-20,Sussex|Durham,"Riverside Ground, Chester-le-Street",Durham,778,718,60,389,389
+2022-09-20,Tanzania|Malawi,"Willowmoore Park, Benoni",Tanzania,296,280,16,148,148
+2022-09-20,Warwickshire|Gloucestershire,"County Ground, Bristol",Gloucestershire,806,766,40,403,403
+2022-09-20,Worcestershire|Nottinghamshire,"County Ground, New Road, Worcester",Worcestershire,701,639,62,350,351
+2022-09-21,Bangladesh|United States of America,"Sheikh Zayed Stadium, Abu Dhabi",Bangladesh,261,244,17,130,131
+2022-09-21,Barbados Royals|St Kitts and Nevis Patriots,"Providence Stadium, Guyana",Barbados Royals,276,253,23,138,138
+2022-09-21,Botswana|Tanzania,"Willowmoore Park, Benoni",Tanzania,295,278,17,147,148
+2022-09-21,Guyana Amazon Warriors|Jamaica Tallawahs,"Providence Stadium, Guyana",Guyana Amazon Warriors,344,321,23,172,172
+2022-09-21,India|England,"St Lawrence Ground, Canterbury",India,578,548,30,289,289
+2022-09-21,Ireland|Scotland,"Tolerance Oval, Abu Dhabi",Ireland,309,298,11,154,155
+2022-09-21,Kenya|Uganda,"Willowmoore Park, Benoni",Uganda,212,199,13,106,106
+2022-09-21,Namibia|Papua New Guinea,"Amini Park, Port Moresby",Namibia,367,319,48,183,184
+2022-09-21,South East Stars|Southern Vipers,"Kent County Cricket Ground, Beckenham",Southern Vipers,282,236,46,141,141
+2022-09-21,Zimbabwe|United Arab Emirates,"Tolerance Oval, Abu Dhabi",United Arab Emirates,241,220,21,120,121
+2022-09-22,England|Pakistan,"National Stadium, Karachi",Pakistan,402,393,9,201,201
+2022-09-22,St Kitts and Nevis Patriots|Trinbago Knight Riders,"Providence Stadium, Guyana",St Kitts and Nevis Patriots,319,296,23,159,160
+2022-09-22,St Lucia Kings|Guyana Amazon Warriors,"Providence Stadium, Guyana",Guyana Amazon Warriors,389,366,23,194,195
+2022-09-22,Tanzania|Uganda,"Willowmoore Park, Benoni",Uganda,349,320,29,174,175
+2022-09-22,West Indies|New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",New Zealand,340,306,34,170,170
+2022-09-23,Australia|India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,182,175,7,91,91
+2022-09-23,Bangladesh|Thailand,"Sheikh Zayed Stadium, Abu Dhabi",Bangladesh,215,206,9,107,108
+2022-09-23,England|Pakistan,"National Stadium, Karachi",England,379,361,18,189,190
+2022-09-23,Ireland|Zimbabwe,"Sheikh Zayed Stadium, Abu Dhabi",Ireland,270,259,11,135,135
+2022-09-23,New South Wales|Victoria,"Junction Oval, Melbourne",Victoria,435,428,7,217,218
+2022-09-23,Scotland|United Arab Emirates,"Tolerance Oval, Abu Dhabi",Scotland,259,246,13,129,130
+2022-09-23,United States of America|Papua New Guinea,"Tolerance Oval, Abu Dhabi",Papua New Guinea,153,135,18,76,77
+2022-09-24,Guyana Amazon Warriors|Trinbago Knight Riders,"Providence Stadium, Guyana",Guyana Amazon Warriors,309,291,18,154,155
+2022-09-24,India|England,"Lord's, London",India,322,298,24,161,161
+2022-09-25,Australia|India,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,373,357,16,186,187
+2022-09-25,Bangladesh|Ireland,"Sheikh Zayed Stadium, Abu Dhabi",Bangladesh,233,227,6,116,117
+2022-09-25,Bangladesh|United Arab Emirates,Dubai International Cricket Stadium,Bangladesh,309,290,19,154,155
+2022-09-25,Barbados Royals|Guyana Amazon Warriors,"Providence Stadium, Guyana",Guyana Amazon Warriors,251,226,25,125,126
+2022-09-25,New Zealand|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,337,300,37,168,169
+2022-09-25,Northern Diamonds|Southern Vipers,"Lord's, London",Northern Diamonds,428,386,42,214,214
+2022-09-25,Pakistan|England,"National Stadium, Karachi",Pakistan,329,318,11,164,165
+2022-09-25,Scotland|Papua New Guinea,"Tolerance Oval, Abu Dhabi",Papua New Guinea,337,311,26,168,169
+2022-09-25,United States of America|United Arab Emirates,"Tolerance Oval, Abu Dhabi",United Arab Emirates,235,219,16,117,118
+2022-09-25,Victoria|Western Australia,"Junction Oval, Melbourne",Western Australia,551,532,19,275,276
+2022-09-25,Zimbabwe|Thailand,"Sheikh Zayed Stadium, Abu Dhabi",Zimbabwe,229,219,10,114,115
+2022-09-26,Essex|Northamptonshire,"County Ground, Northampton",Essex,699,662,37,349,350
+2022-09-26,Gloucestershire|Yorkshire,"Headingley, Leeds",Gloucestershire,828,793,35,414,414
+2022-09-26,Lancashire|Surrey,"Old Trafford, Manchester",Lancashire,894,830,64,447,447
+2022-09-26,Nottinghamshire|Durham,"Trent Bridge, Nottingham",Nottinghamshire,1104,1063,41,552,552
+2022-09-26,Somerset|Kent,"St Lawrence Ground, Canterbury",Kent,833,782,51,416,417
+2022-09-26,South Australia|Queensland,"Allan Border Field, Brisbane",South Australia,495,454,41,247,248
+2022-09-26,Warwickshire|Hampshire,"Edgbaston, Birmingham",Warwickshire,893,843,50,446,447
+2022-09-27,Bangladesh|United Arab Emirates,Dubai International Cricket Stadium,Bangladesh,306,298,8,153,153
+2022-09-27,Barbados Royals|Guyana Amazon Warriors,"Providence Stadium, Guyana",Barbados Royals,303,283,20,151,152
+2022-09-27,Jamaica Tallawahs|St Lucia Kings,"Providence Stadium, Guyana",Jamaica Tallawahs,263,253,10,131,132
+2022-09-28,Jamaica Tallawahs|Guyana Amazon Warriors,"Providence Stadium, Guyana",Jamaica Tallawahs,415,394,21,207,208
+2022-09-28,Pakistan|England,"Gaddafi Stadium, Lahore",Pakistan,284,266,18,142,142
+2022-09-28,South Africa|India,"Greenfield International Stadium, Thiruvananthapuram",India,216,204,12,108,108
+2022-09-28,South Australia|Tasmania,"Allan Border Field, Brisbane",Tasmania,441,407,34,220,221
+2022-09-28,West Indies|New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,229,217,12,114,115
+2022-09-30,Barbados Royals|Jamaica Tallawahs,"Providence Stadium, Guyana",Jamaica Tallawahs,323,298,25,161,162
+2022-09-30,Pakistan|England,"Gaddafi Stadium, Lahore",England,339,331,8,169,170
+2022-09-30,Queensland|Tasmania,"Allan Border Field, Brisbane",Tasmania,332,321,11,166,166
+2022-10-01,India|Sri Lanka,"Sylhet International Cricket Stadium, Academy Ground",India,259,245,14,129,130
+2022-10-01,New South Wales|Western Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,153,131,22,76,77
+2022-10-01,Thailand|Bangladesh,"Sylhet International Cricket Stadium, Academy Ground",Bangladesh,170,164,6,85,85
+2022-10-01,West Indies|New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",New Zealand,215,196,19,107,108
+2022-10-02,England|Pakistan,"Gaddafi Stadium, Lahore",England,351,326,25,175,176
+2022-10-02,India|South Africa,"Barsapara Cricket Stadium, Guwahati",India,458,435,23,229,229
+2022-10-02,Malaysia|Pakistan,"Sylhet International Cricket Stadium, Academy Ground",Pakistan,118,110,8,59,59
+2022-10-02,Sri Lanka|United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",Sri Lanka,163,155,8,81,82
+2022-10-02,West Indies|New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",New Zealand,187,177,10,93,94
+2022-10-03,Bangladesh|Pakistan,"Sylhet International Cricket Stadium, Academy Ground",Pakistan,142,131,11,71,71
+2022-10-03,India|Malaysia,"Sylhet International Cricket Stadium, Academy Ground",India,197,182,15,98,99
+2022-10-03,New South Wales|Western Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,685,631,54,342,343
+2022-10-04,India|United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",India,252,244,8,126,126
+2022-10-04,South Africa|India,"Holkar Cricket Stadium, Indore",South Africa,405,379,26,202,203
+2022-10-04,Sri Lanka|Thailand,"Sylhet International Cricket Stadium, Academy Ground",Sri Lanka,263,239,24,131,132
+2022-10-05,Malaysia|United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",United Arab Emirates,179,161,18,89,90
+2022-10-05,West Indies|Australia,Carrara Oval,Australia,291,268,23,145,146
+2022-10-06,Bangladesh|Malaysia,Sylhet International Cricket Stadium,Bangladesh,170,167,3,85,85
+2022-10-06,Pakistan|Thailand,Sylhet International Cricket Stadium,Thailand,233,213,20,116,117
+2022-10-06,South Africa|India,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",South Africa,489,449,40,244,245
+2022-10-06,Tasmania|Queensland,"Allan Border Field, Brisbane",Queensland,744,717,27,372,372
+2022-10-06,West Indies|New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",New Zealand,203,189,14,101,102
+2022-10-07,Australia|West Indies,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,325,304,21,162,163
+2022-10-07,Pakistan|Bangladesh,"Hagley Oval, Christchurch",Pakistan,313,299,14,156,157
+2022-10-07,Pakistan|India,Sylhet International Cricket Stadium,Pakistan,261,252,9,130,131
+2022-10-07,Thailand|United Arab Emirates,Sylhet International Cricket Stadium,Thailand,197,182,15,98,99
+2022-10-08,India|Bangladesh,Sylhet International Cricket Stadium,India,259,250,9,129,130
+2022-10-08,New Zealand|Pakistan,"Hagley Oval, Christchurch",Pakistan,296,283,13,148,148
+2022-10-08,Sri Lanka|Malaysia,Sylhet International Cricket Stadium,Sri Lanka,138,126,12,69,69
+2022-10-09,Bangladesh|New Zealand,"Hagley Oval, Christchurch",New Zealand,279,270,9,139,140
+2022-10-09,England|Australia,Perth Stadium,England,408,386,22,204,204
+2022-10-09,Pakistan|United Arab Emirates,Sylhet International Cricket Stadium,Pakistan,219,199,20,109,110
+2022-10-09,South Africa|India,"JSCA International Stadium Complex, Ranchi",India,560,546,14,280,280
+2022-10-09,Thailand|Malaysia,Sylhet International Cricket Stadium,Thailand,180,168,12,90,90
+2022-10-10,Japan|Indonesia,Sano International Cricket Ground,Japan,283,264,19,141,142
+2022-10-10,Sri Lanka|Bangladesh,Sylhet International Cricket Stadium,Sri Lanka,120,112,8,60,60
+2022-10-10,Thailand|India,Sylhet International Cricket Stadium,India,77,76,1,38,39
+2022-10-11,Japan|Indonesia,Sano International Cricket Ground,Indonesia,161,130,31,80,81
+2022-10-11,Nagaland|Baroda,"Holkar Cricket Stadium, Indore",Baroda,181,167,14,90,91
+2022-10-11,Pakistan|New Zealand,"Hagley Oval, Christchurch",New Zealand,261,240,21,130,131
+2022-10-11,Punjab|Hyderabad (India),"Sawai Mansingh Stadium, Jaipur",Punjab,289,277,12,144,145
+2022-10-11,Railways|Uttarakhand,"Saurashtra Cricket Association Stadium, Rajkot",Uttarakhand,304,289,15,152,152
+2022-10-11,South Africa|India,"Arun Jaitley Stadium, Delhi",India,204,191,13,102,102
+2022-10-11,Sri Lanka|Pakistan,Sylhet International Cricket Stadium,Pakistan,225,207,18,112,113
+2022-10-12,Baroda|Saurashtra,"Holkar Cricket Stadium, Indore",Saurashtra,353,337,16,176,177
+2022-10-12,Delhi|Punjab,"Sawai Mansingh Stadium, Jaipur",Delhi,370,359,11,185,185
+2022-10-12,England|Australia,"Manuka Oval, Canberra",England,348,330,18,174,174
+2022-10-12,Hyderabad (India)|Puducherry,"Sawai Mansingh Stadium, Jaipur",Hyderabad (India),290,280,10,145,145
+2022-10-12,Madhya Pradesh|Mumbai,"Saurashtra Cricket Association Stadium, Rajkot",Mumbai,363,346,17,181,182
+2022-10-12,Nagaland|Bihar,"Holkar Cricket Stadium, Indore",Bihar,293,280,13,146,147
+2022-10-12,New Zealand|Bangladesh,"Hagley Oval, Christchurch",New Zealand,368,349,19,184,184
+2022-10-13,Bangladesh|Pakistan,"Hagley Oval, Christchurch",Pakistan,350,339,11,175,175
+2022-10-13,Brisbane Heat|Sydney Sixers,"Ray Mitchell Oval, Harrup Park, Mackay",Sydney Sixers,284,269,15,142,142
+2022-10-13,India|Thailand,Sylhet International Cricket Stadium,India,222,204,18,111,111
+2022-10-13,Sri Lanka|Pakistan,Sylhet International Cricket Stadium,Sri Lanka,243,222,21,121,122
+2022-10-14,Baroda|Gujarat,"Holkar Cricket Stadium, Indore",Gujarat,309,302,7,154,155
+2022-10-14,Delhi|Uttar Pradesh,"Sawai Mansingh Stadium, Jaipur",Uttar Pradesh,201,195,6,100,101
+2022-10-14,Hobart Hurricanes|Sydney Thunder,"Blacktown International Sportspark, Sydney",Hobart Hurricanes,231,207,24,115,116
+2022-10-14,Hyderabad (India)|Goa,"Sawai Mansingh Stadium, Jaipur",Hyderabad (India),317,285,32,158,159
+2022-10-14,Mumbai|Assam,"Saurashtra Cricket Association Stadium, Rajkot",Mumbai,399,386,13,199,200
+2022-10-14,New Zealand|Pakistan,"Hagley Oval, Christchurch",Pakistan,331,322,9,165,166
+2022-10-14,Rajasthan|Railways,"Saurashtra Cricket Association Stadium, Rajkot",Rajasthan,326,313,13,163,163
+2022-10-15,Brisbane Heat|Melbourne Stars,"Great Barrier Reef Arena, Mackay",Brisbane Heat,349,330,19,174,175
+2022-10-15,Indonesia|South Korea,Sano International Cricket Ground,Indonesia,196,184,12,98,98
+2022-10-15,Japan|South Korea,Sano International Cricket Ground,Japan,388,380,8,194,194
+2022-10-15,Sri Lanka|India,Sylhet International Cricket Stadium,India,136,128,8,68,68
+2022-10-15,Sydney Sixers|Adelaide Strikers,"Great Barrier Reef Arena, Mackay",Sydney Sixers,285,277,8,142,143
+2022-10-16,Adelaide Strikers|Melbourne Renegades,"Great Barrier Reef Arena, Mackay",Melbourne Renegades,254,243,11,127,127
+2022-10-16,Gujarat|Saurashtra,"Holkar Cricket Stadium, Indore",Saurashtra,326,316,10,163,163
+2022-10-16,Indonesia|Japan,Sano International Cricket Ground,Japan,167,161,6,83,84
+2022-10-16,Mizoram|Assam,"Saurashtra Cricket Association Stadium, Rajkot",Assam,233,223,10,116,117
+2022-10-16,Nagaland|Andhra,"Holkar Cricket Stadium, Indore",Andhra,342,336,6,171,171
+2022-10-16,Namibia|Sri Lanka,"GMHBA Stadium, South Geelong, Victoria",Namibia,271,257,14,135,136
+2022-10-16,Rajasthan|Uttarakhand,"Saurashtra Cricket Association Stadium, Rajkot",Uttarakhand,290,262,28,145,145
+2022-10-16,South Australia|Tasmania,Adelaide Oval,Tasmania,959,929,30,479,480
+2022-10-16,Sydney Sixers|Melbourne Stars,"Great Barrier Reef Arena, Mackay",Sydney Sixers,267,250,17,133,134
+2022-10-16,Sydney Thunder|Perth Scorchers,"Blacktown International Sportspark, Sydney",Perth Scorchers,177,159,18,88,89
+2022-10-16,United Arab Emirates|Netherlands,"GMHBA Stadium, South Geelong, Victoria",Netherlands,223,205,18,111,112
+2022-10-17,Hobart Hurricanes|Perth Scorchers,"Blacktown International Sportspark, Sydney",Perth Scorchers,219,203,16,109,110
+2022-10-17,Lions|North West,"Senwes Park, Potchefstroom",North West,349,333,16,174,175
+2022-10-17,Scotland|West Indies,"Bellerive Oval, Hobart",Scotland,278,259,19,139,139
+2022-10-17,Titans|Dolphins,"Senwes Park, Potchefstroom",Titans,302,286,16,151,151
+2022-10-17,Zimbabwe|Ireland,"Bellerive Oval, Hobart",Zimbabwe,317,290,27,158,159
+2022-10-18,Auckland Aces|Otago Volts,Kennards Hire Community Oval,Otago Volts,792,741,51,396,396
+2022-10-18,Bihar|Andhra,"Holkar Cricket Stadium, Indore",Andhra,367,354,13,183,184
+2022-10-18,Brisbane Heat|Melbourne Renegades,"Ray Mitchell Oval, Harrup Park, Mackay",Brisbane Heat,339,327,12,169,170
+2022-10-18,Himachal Pradesh|Saurashtra,"Holkar Cricket Stadium, Indore",Himachal Pradesh,301,290,11,150,151
+2022-10-18,Hobart Hurricanes|Sydney Thunder,"Blacktown International Sportspark, Sydney",Hobart Hurricanes,239,214,25,119,120
+2022-10-18,Japan|Indonesia,Sano International Cricket Ground,Indonesia,207,194,13,103,104
+2022-10-18,Manipur|Punjab,"Sawai Mansingh Stadium, Jaipur",Punjab,83,81,2,41,42
+2022-10-18,Mizoram|Madhya Pradesh,"Saurashtra Cricket Association Stadium, Rajkot",Madhya Pradesh,192,186,6,96,96
+2022-10-18,Namibia|Netherlands,"GMHBA Stadium, South Geelong, Victoria",Netherlands,243,233,10,121,122
+2022-10-18,South Korea|Indonesia,Sano International Cricket Ground,Indonesia,197,186,11,98,99
+2022-10-18,Sri Lanka|United Arab Emirates,"GMHBA Stadium, South Geelong, Victoria",Sri Lanka,225,213,12,112,113
+2022-10-18,Tripura|Puducherry,"Sawai Mansingh Stadium, Jaipur",Tripura,295,288,7,147,148
+2022-10-18,Vidarbha|Uttarakhand,"Saurashtra Cricket Association Stadium, Rajkot",Vidarbha,312,289,23,156,156
+2022-10-18,Wellington Firebirds|Northern Districts,Cello Basin Reserve,Wellington Firebirds,1241,1152,89,620,621
+2022-10-18,Western Province|Boland,"Senwes Park, Potchefstroom",Boland,314,282,32,157,157
+2022-10-19,Dolphins|North West,"Senwes Park, Potchefstroom",Dolphins,296,272,24,148,148
+2022-10-19,Scotland|Ireland,"Bellerive Oval, Hobart",Ireland,356,336,20,178,178
+2022-10-19,Titans|Lions,"Senwes Park, Potchefstroom",Titans,309,289,20,154,155
+2022-10-19,West Indies|Zimbabwe,"Bellerive Oval, Hobart",West Indies,275,247,28,137,138
+2022-10-20,Andhra|Gujarat,"Holkar Cricket Stadium, Indore",Gujarat,261,253,8,130,131
+2022-10-20,Baroda|Himachal Pradesh,"Holkar Cricket Stadium, Indore",Himachal Pradesh,259,249,10,129,130
+2022-10-20,Goa|Delhi,"Sawai Mansingh Stadium, Jaipur",Delhi,264,252,12,132,132
+2022-10-20,Manipur|Tripura,"Sawai Mansingh Stadium, Jaipur",Tripura,219,208,11,109,110
+2022-10-20,Melbourne Stars|Perth Scorchers,"Western Australia Cricket Association Ground, Perth",Perth Scorchers,221,204,17,110,111
+2022-10-20,Mumbai|Railways,"Saurashtra Cricket Association Stadium, Rajkot",Railways,218,210,8,109,109
+2022-10-20,Sri Lanka|Netherlands,"GMHBA Stadium, South Geelong, Victoria",Sri Lanka,308,292,16,154,154
+2022-10-20,United Arab Emirates|Namibia,"GMHBA Stadium, South Geelong, Victoria",United Arab Emirates,289,274,15,144,145
+2022-10-20,Uttarakhand|Mizoram,"Saurashtra Cricket Association Stadium, Rajkot",Uttarakhand,229,219,10,114,115
+2022-10-20,Warriors|Boland,"Senwes Park, Potchefstroom",Warriors,327,304,23,163,164
+2022-10-20,Western Province|Knights,"Senwes Park, Potchefstroom",Knights,235,225,10,117,118
+2022-10-21,Adelaide Strikers|Sydney Sixers,"Karen Rolton Oval, Adelaide",Adelaide Strikers,281,275,6,140,141
+2022-10-21,Brisbane Heat|Melbourne Renegades,"Karen Rolton Oval, Adelaide",Brisbane Heat,300,286,14,150,150
+2022-10-21,Scotland|Zimbabwe,"Bellerive Oval, Hobart",Zimbabwe,265,245,20,132,133
+2022-10-21,Tasmania|South Australia,Adelaide Oval,South Australia,507,495,12,253,254
+2022-10-21,Titans|Western Province,"Senwes Park, Potchefstroom",Titans,203,185,18,101,102
+2022-10-21,Warriors|Lions,"Senwes Park, Potchefstroom",Lions,206,194,12,103,103
+2022-10-21,West Indies|Ireland,"Bellerive Oval, Hobart",Ireland,296,286,10,148,148
+2022-10-22,Bihar|Gujarat,"Holkar Cricket Stadium, Indore",Gujarat,326,314,12,163,163
+2022-10-22,Dolphins|Boland,"Senwes Park, Potchefstroom",Boland,223,198,25,111,112
+2022-10-22,Madhya Pradesh|Assam,"Saurashtra Cricket Association Stadium, Rajkot",Assam,386,368,18,193,193
+2022-10-22,Nagaland|Himachal Pradesh,"Holkar Cricket Stadium, Indore",Himachal Pradesh,174,165,9,87,87
+2022-10-22,New Zealand|Australia,Sydney Cricket Ground,New Zealand,311,303,8,155,156
+2022-10-22,North West|Titans,"Senwes Park, Potchefstroom",Titans,269,253,16,134,135
+2022-10-22,Puducherry|Goa,"Sawai Mansingh Stadium, Jaipur",Goa,177,163,14,88,89
+2022-10-22,Railways|Vidarbha,"Saurashtra Cricket Association Stadium, Rajkot",Vidarbha,303,296,7,151,152
+2022-10-22,Sydney Thunder|Perth Scorchers,"Western Australia Cricket Association Ground, Perth",Sydney Thunder,307,288,19,153,154
+2022-10-22,Uttar Pradesh|Punjab,"Sawai Mansingh Stadium, Jaipur",Punjab,295,284,11,147,148
+2022-10-22,Victoria|Western Australia,"Junction Oval, Melbourne",Western Australia,491,478,13,245,246
+2022-10-23,Ireland|Sri Lanka,"Bellerive Oval, Hobart",Sri Lanka,261,254,7,130,131
+2022-10-23,Pakistan|India,Melbourne Cricket Ground,India,319,296,23,159,160
+2022-10-24,Bangladesh|Netherlands,"Bellerive Oval, Hobart",Bangladesh,279,258,21,139,140
+2022-10-24,Melbourne Renegades|Adelaide Strikers,"Karen Rolton Oval, Adelaide",Adelaide Strikers,203,194,9,101,102
+2022-10-25,Auckland Aces|Central Stags,Kennards Hire Community Oval,Central Stags,623,602,21,311,312
+2022-10-25,Boland|Titans,"Senwes Park, Potchefstroom",Boland,224,216,8,112,112
+2022-10-25,Sri Lanka|Australia,Perth Stadium,Australia,315,275,40,157,158
+2022-10-25,Sydney Thunder|Brisbane Heat,"Allan Border Field, Brisbane",Brisbane Heat,259,240,19,129,130
+2022-10-26,Ireland|England,Melbourne Cricket Ground,Ireland,262,239,23,131,131
+2022-10-26,Knights|Boland,"Senwes Park, Potchefstroom",Knights,354,336,18,177,177
+2022-10-26,Lions|Dolphins,"Senwes Park, Potchefstroom",Dolphins,330,315,15,165,165
+2022-10-26,Victoria|Tasmania,"University of Tasmania Stadium, Launceston",Victoria,513,484,29,256,257
+2022-10-26,Wellington Firebirds|Canterbury,Cello Basin Reserve,Canterbury,624,588,36,312,312
+2022-10-27,Adelaide Strikers|Brisbane Heat,"Allan Border Field, Brisbane",Adelaide Strikers,249,232,17,124,125
+2022-10-27,India|Netherlands,Sydney Cricket Ground,India,302,292,10,151,151
+2022-10-27,Japan|Hong Kong,Kaizuka Cricket Ground,Hong Kong,181,159,22,90,91
+2022-10-27,South Africa|Bangladesh,Sydney Cricket Ground,South Africa,306,285,21,153,153
+2022-10-27,Western Province|North West,"Senwes Park, Potchefstroom",Western Province,301,287,14,150,151
+2022-10-27,Zimbabwe|Pakistan,Perth Stadium,Zimbabwe,259,235,24,129,130
+2022-10-28,Japan|Hong Kong,Kaizuka Cricket Ground,Hong Kong,184,162,22,92,92
+2022-10-28,Perth Scorchers|Adelaide Strikers,"Allan Border Field, Brisbane",Adelaide Strikers,223,211,12,111,112
+2022-10-28,Warriors|Titans,"Senwes Park, Potchefstroom",Titans,239,222,17,119,120
+2022-10-29,Hobart Hurricanes|Sydney Sixers,"Eastern Oval, Ballarat",Sydney Sixers,191,183,8,95,96
+2022-10-29,Hong Kong|Japan,Kaizuka Cricket Ground,Hong Kong,281,253,28,140,141
+2022-10-29,Melbourne Renegades|Melbourne Stars,"Eastern Oval, Ballarat",Melbourne Stars,183,173,10,91,92
+2022-10-29,New Zealand|Sri Lanka,Sydney Cricket Ground,New Zealand,269,253,16,134,135
+2022-10-29,North West|Boland,"Senwes Park, Potchefstroom",Boland,284,262,22,142,142
+2022-10-29,Perth Scorchers|Brisbane Heat,"Allan Border Field, Brisbane",Perth Scorchers,277,262,15,138,139
+2022-10-29,Western Province|Dolphins,"Senwes Park, Potchefstroom",Dolphins,149,126,23,74,75
+2022-10-30,Bangladesh|Zimbabwe,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Bangladesh,297,280,17,148,149
+2022-10-30,Chhattisgarh|Vidarbha,"Jadavpur University Campus 2nd Ground, Kolkata",Vidarbha,223,197,26,111,112
+2022-10-30,India|South Africa,Perth Stadium,South Africa,270,255,15,135,135
+2022-10-30,Netherlands|Pakistan,Perth Stadium,Pakistan,186,181,5,93,93
+2022-10-30,Punjab|Haryana,"Eden Gardens, Kolkata",Punjab,303,297,6,151,152
+2022-10-30,Saurashtra|Kerala,"Eden Gardens, Kolkata",Saurashtra,357,339,18,178,179
+2022-10-30,Sydney Sixers|Melbourne Renegades,"Eastern Oval, Ballarat",Sydney Sixers,339,314,25,169,170
+2022-10-30,Warriors|North West,"Senwes Park, Potchefstroom",Warriors,322,296,26,161,161
+2022-10-31,Australia|Ireland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,316,293,23,158,158
+2022-10-31,Lions|Western Province,"Senwes Park, Potchefstroom",Lions,288,273,15,144,144
+2022-10-31,Queensland|Western Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,619,584,35,309,310
+2022-10-31,Titans|Knights,"Senwes Park, Potchefstroom",Titans,501,482,19,250,251
+2022-11-01,England|New Zealand,"Brisbane Cricket Ground, Woolloongabba, Brisbane",England,338,326,12,169,169
+2022-11-01,North West|Knights,"Senwes Park, Potchefstroom",North West,286,274,12,143,143
+2022-11-01,Punjab|Karnataka,"Eden Gardens, Kolkata",Punjab,441,432,9,220,221
+2022-11-01,Saurashtra|Mumbai,"Eden Gardens, Kolkata",Mumbai,334,309,25,167,167
+2022-11-01,Vidarbha|Delhi,"Jadavpur University Campus 2nd Ground, Kolkata",Vidarbha,313,300,13,156,157
+2022-11-02,Dolphins|Boland,"Senwes Park, Potchefstroom",Dolphins,272,248,24,136,136
+2022-11-02,India|Bangladesh,Adelaide Oval,India,329,319,10,164,165
+2022-11-02,Melbourne Stars|Adelaide Strikers,"North Sydney Oval, Sydney",Melbourne Stars,350,331,19,175,175
+2022-11-02,Sydney Sixers|Sydney Thunder,"North Sydney Oval, Sydney",Sydney Sixers,311,294,17,155,156
+2022-11-02,Titans|Knights,"Senwes Park, Potchefstroom",Titans,278,252,26,139,139
+2022-11-02,Zimbabwe|Netherlands,Adelaide Oval,Netherlands,237,213,24,118,119
+2022-11-03,Himachal Pradesh|Punjab,"Eden Gardens, Kolkata",Himachal Pradesh,339,333,6,169,170
+2022-11-03,Melbourne Renegades|Hobart Hurricanes,"Bellerive Oval, Hobart",Hobart Hurricanes,270,255,15,135,135
+2022-11-03,Pakistan|South Africa,Sydney Cricket Ground,Pakistan,293,285,8,146,147
+2022-11-03,Vidarbha|Mumbai,"Eden Gardens, Kolkata",Mumbai,333,317,16,166,167
+2022-11-04,Brisbane Heat|Sydney Thunder,"Bellerive Oval, Hobart",Brisbane Heat,312,295,17,156,156
+2022-11-04,Italy|Germany,"Desert Springs Cricket Ground, Almeria",Germany,511,475,36,255,256
+2022-11-04,New Zealand|Ireland,Adelaide Oval,New Zealand,335,315,20,167,168
+2022-11-04,Pakistan|Ireland,"Gaddafi Stadium, Lahore",Pakistan,542,512,30,271,271
+2022-11-05,Canterbury|Otago Volts,Hagley Oval,Canterbury,993,940,53,496,497
+2022-11-05,Central Stags|Northern Districts,Saxton Oval,Central Stags,1009,971,38,504,505
+2022-11-05,Dolphins|Titans,"Senwes Park, Potchefstroom",Titans,327,316,11,163,164
+2022-11-05,Germany|Spain,"Desert Springs Cricket Ground, Almeria",Germany,226,203,23,113,113
+2022-11-05,Himachal Pradesh|Mumbai,"Eden Gardens, Kolkata",Mumbai,289,272,17,144,145
+2022-11-05,Italy|Spain,"Desert Springs Cricket Ground, Almeria",Spain,326,299,27,163,163
+2022-11-05,Melbourne Stars|Adelaide Strikers,"Lilac Hill Park, Perth",Adelaide Strikers,225,211,14,112,113
+2022-11-05,South Australia|New South Wales,"North Sydney Oval, Sydney",South Australia,652,633,19,326,326
+2022-11-05,Sri Lanka|England,Sydney Cricket Ground,England,285,273,12,142,143
+2022-11-05,Sydney Sixers|Perth Scorchers,"Lilac Hill Park, Perth",Perth Scorchers,313,299,14,156,157
+2022-11-05,Wellington Firebirds|Auckland Aces,Cello Basin Reserve,Auckland Aces,661,611,50,330,331
+2022-11-05,Western Australia|Queensland,"Western Australia Cricket Association Ground, Perth",Western Australia,467,446,21,233,234
+2022-11-06,Bangladesh|Pakistan,Adelaide Oval,Pakistan,255,238,17,127,128
+2022-11-06,Hobart Hurricanes|Brisbane Heat,"Bellerive Oval, Hobart",Brisbane Heat,332,308,24,166,166
+2022-11-06,India|Zimbabwe,Melbourne Cricket Ground,India,301,278,23,150,151
+2022-11-06,Ireland|Pakistan,"Gaddafi Stadium, Lahore",Pakistan,389,371,18,194,195
+2022-11-06,Italy|Spain,"Desert Springs Cricket Ground, Almeria",Italy,287,263,24,143,144
+2022-11-06,Netherlands|South Africa,Adelaide Oval,Netherlands,303,294,9,151,152
+2022-11-06,Perth Scorchers|Adelaide Strikers,"Lilac Hill Park, Perth",Adelaide Strikers,239,222,17,119,120
+2022-11-06,Spain|Germany,"Desert Springs Cricket Ground, Almeria",Spain,259,240,19,129,130
+2022-11-06,Sydney Thunder|Melbourne Renegades,"Bellerive Oval, Hobart",Melbourne Renegades,243,233,10,121,122
+2022-11-07,Melbourne Renegades|Hobart Hurricanes,"Bellerive Oval, Hobart",Hobart Hurricanes,162,158,4,81,81
+2022-11-09,Brisbane Heat|Perth Scorchers,"Lilac Hill Park, Perth",Brisbane Heat,273,246,27,136,137
+2022-11-09,Ireland|Pakistan,"Gaddafi Stadium, Lahore",Pakistan,451,437,14,225,226
+2022-11-09,New Zealand|Pakistan,Sydney Cricket Ground,Pakistan,305,289,16,152,153
+2022-11-10,India|England,Adelaide Oval,England,338,331,7,169,169
+2022-11-10,Victoria|Queensland,"Allan Border Field, Brisbane",Queensland,400,375,25,200,200
+2022-11-11,Hobart Hurricanes|Adelaide Strikers,"Karen Rolton Oval, Adelaide",Hobart Hurricanes,281,270,11,140,141
+2022-11-11,South Australia|Western Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,860,812,48,430,430
+2022-11-12,Brisbane Heat|Hobart Hurricanes,"Karen Rolton Oval, Adelaide",Hobart Hurricanes,201,183,18,100,101
+2022-11-12,Pakistan|Ireland,"Gaddafi Stadium, Lahore",Ireland,274,262,12,137,137
+2022-11-12,Perth Scorchers|Melbourne Renegades,"Junction Oval, Melbourne",Perth Scorchers,280,262,18,140,140
+2022-11-12,Sydney Sixers|Melbourne Stars,"Junction Oval, Melbourne",Sydney Sixers,275,256,19,137,138
+2022-11-13,Melbourne Renegades|Melbourne Stars,"Junction Oval, Melbourne",Melbourne Stars,297,285,12,148,149
+2022-11-13,Pakistan|England,Melbourne Cricket Ground,England,275,257,18,137,138
+2022-11-13,Perth Scorchers|Sydney Sixers,"Junction Oval, Melbourne",Sydney Sixers,356,342,14,178,178
+2022-11-13,Spain|Norway,"Desert Springs Cricket Ground, Almeria",Spain,195,145,50,97,98
+2022-11-14,Bahrain|Canada,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,394,372,22,197,197
+2022-11-14,Brisbane Heat|Adelaide Strikers,"Karen Rolton Oval, Adelaide",Brisbane Heat,229,212,17,114,115
+2022-11-14,Central Stags|Wellington Firebirds,Fitzherbert Park,Wellington Firebirds,994,932,62,497,497
+2022-11-14,Ireland|Pakistan,"Gaddafi Stadium, Lahore",Pakistan,239,216,23,119,120
+2022-11-14,Otago Volts|Northern Districts,University of Otago Oval,Northern Districts,1057,1024,33,528,529
+2022-11-14,Saudi Arabia|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,176,167,9,88,88
+2022-11-14,Spain|Sweden,"Desert Springs Cricket Ground, Almeria",Spain,205,149,56,102,103
+2022-11-14,United Arab Emirates|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",United Arab Emirates,442,399,43,221,221
+2022-11-15,Canada|Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,322,308,14,161,161
+2022-11-15,Hobart Hurricanes|Melbourne Stars,"Latrobe Recreation Ground, Latrobe",Melbourne Stars,262,245,17,131,131
+2022-11-15,Oman|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,273,264,9,136,137
+2022-11-15,Sydney Thunder|Melbourne Renegades,"Manuka Oval, Canberra",Melbourne Renegades,193,171,22,96,97
+2022-11-15,Victoria|Queensland,"Allan Border Field, Brisbane",Queensland,344,315,29,172,172
+2022-11-16,Bahrain|Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,287,273,14,143,144
+2022-11-16,Brisbane Heat|Sydney Sixers,"North Sydney Oval, Sydney",Sydney Sixers,327,306,21,163,164
+2022-11-16,Canada|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,381,363,18,190,191
+2022-11-16,Hobart Hurricanes|Melbourne Stars,"Latrobe Recreation Ground, Latrobe",Hobart Hurricanes,266,246,20,133,133
+2022-11-16,Ireland|Pakistan,"Gaddafi Stadium, Lahore",Ireland,300,288,12,150,150
+2022-11-16,South Australia|Western Australia,"Western Australia Cricket Association Ground, Perth",Western Australia,536,516,20,268,268
+2022-11-16,United Arab Emirates|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,384,359,25,192,192
+2022-11-17,Botswana|Rwanda,Gahanga International Cricket Stadium. Rwanda,Rwanda,214,190,24,107,107
+2022-11-17,Canada|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,324,314,10,162,162
+2022-11-17,England|Australia,Adelaide Oval,Australia,578,554,24,289,289
+2022-11-17,Lesotho|Mali,Integrated Polytechnic Regional Centre,Lesotho,245,191,54,122,123
+2022-11-17,New South Wales|Tasmania,"Bellerive Oval, Hobart",New South Wales,440,406,34,220,220
+2022-11-17,Saudi Arabia|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,232,220,12,116,116
+2022-11-18,Hobart Hurricanes|Adelaide Strikers,"North Sydney Oval, Sydney",Adelaide Strikers,309,286,23,154,155
+2022-11-18,Lesotho|Botswana,Integrated Polytechnic Regional Centre,Botswana,188,172,16,94,94
+2022-11-18,Rwanda|St Helena,Gahanga International Cricket Stadium. Rwanda,Rwanda,206,189,17,103,103
+2022-11-18,Sydney Sixers|Sydney Thunder,"North Sydney Oval, Sydney",Sydney Sixers,338,324,14,169,169
+2022-11-18,United Arab Emirates|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,356,327,29,178,178
+2022-11-19,Australia|England,Sydney Cricket Ground,Australia,488,468,20,244,244
+2022-11-19,Canada|Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,297,281,16,148,149
+2022-11-19,Melbourne Stars|Perth Scorchers,"Ted Summerton Reserve, Moe",Melbourne Stars,352,334,18,176,176
+2022-11-19,Oman|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,334,322,12,167,167
+2022-11-19,Papua New Guinea|Namibia,"Wanderers Cricket Ground, Windhoek",Namibia,215,205,10,107,108
+2022-11-20,Adelaide Strikers|Sydney Thunder,"North Sydney Oval, Sydney",Adelaide Strikers,262,240,22,131,131
+2022-11-20,Bahrain|Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Saudi Arabia,227,212,15,113,114
+2022-11-20,Hobart Hurricanes|Sydney Sixers,"North Sydney Oval, Sydney",Sydney Sixers,313,304,9,156,157
+2022-11-20,India|New Zealand,"Bay Oval, Mount Maunganui",India,317,298,19,158,159
+2022-11-20,Mali|Kenya,Integrated Polytechnic Regional Centre,Kenya,64,59,5,32,32
+2022-11-20,Oman|Canada,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,339,321,18,169,170
+2022-11-20,Perth Scorchers|Melbourne Renegades,"Ted Summerton Reserve, Moe",Melbourne Renegades,104,103,1,52,52
+2022-11-20,Rwanda|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,177,160,17,88,89
+2022-11-20,Thailand|Netherlands,Royal Chiangmai Golf Club,Thailand,377,340,37,188,189
+2022-11-20,United States of America|Namibia,"Wanderers Cricket Ground, Windhoek",United States of America,417,387,30,208,209
+2022-11-21,Kenya|Lesotho,Integrated Polytechnic Regional Centre,Kenya,307,296,11,153,154
+2022-11-21,Oman|Canada,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,276,246,30,138,138
+2022-11-21,Saudi Arabia|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Saudi Arabia,278,251,27,139,139
+2022-11-22,Australia|England,Melbourne Cricket Ground,Australia,497,470,27,248,249
+2022-11-22,Mali|Botswana,Gahanga International Cricket Stadium. Rwanda,Botswana,75,61,14,37,38
+2022-11-22,Papua New Guinea|United States of America,"Wanderers Cricket Ground, Windhoek",United States of America,301,281,20,150,151
+2022-11-22,St Helena|Lesotho,Integrated Polytechnic Regional Centre,St Helena,207,185,22,103,104
+2022-11-22,Thailand|Netherlands,Royal Chiangmai Golf Club,Thailand,344,277,67,172,172
+2022-11-22,Western Australia|New South Wales,Sydney Cricket Ground,Western Australia,587,558,29,293,294
+2022-11-23,Brisbane Heat|Hobart Hurricanes,"Karen Rolton Oval, Adelaide",Brisbane Heat,314,308,6,157,157
+2022-11-23,Papua New Guinea|Namibia,"Wanderers Cricket Ground, Windhoek",Namibia,477,431,46,238,239
+2022-11-24,Botswana|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,238,234,4,119,119
+2022-11-24,Brisbane Heat|Adelaide Strikers,"Karen Rolton Oval, Adelaide",Adelaide Strikers,310,296,14,155,155
+2022-11-24,Mali|Rwanda,Integrated Polytechnic Regional Centre,Rwanda,64,55,9,32,32
+2022-11-24,Rwanda|Seychelles,Integrated Polytechnic Regional Centre,Rwanda,169,153,16,84,85
+2022-11-24,St Helena|Malawi,Gahanga International Cricket Stadium. Rwanda,Malawi,76,75,1,38,38
+2022-11-24,Thailand|Netherlands,Royal Chiangmai Golf Club,Thailand,355,314,41,177,178
+2022-11-24,Victoria|Tasmania,Melbourne Cricket Ground,Tasmania,918,889,29,459,459
+2022-11-25,India|New Zealand,"Eden Park, Auckland",New Zealand,615,591,24,307,308
+2022-11-25,Seychelles|Kenya,Gahanga International Cricket Stadium. Rwanda,Kenya,176,171,5,88,88
+2022-11-25,United States of America|Papua New Guinea,"Wanderers Cricket Ground, Windhoek",United States of America,497,471,26,248,249
+2022-11-26,Adelaide Strikers|Sydney Sixers,"North Sydney Oval, Sydney",Adelaide Strikers,284,270,14,142,142
+2022-11-26,Netherlands|Thailand,Royal Chiangmai Golf Club,Thailand,291,273,18,145,146
+2022-11-26,United States of America|Namibia,"Wanderers Cricket Ground, Windhoek",Namibia,423,416,7,211,212
+2022-11-27,Queensland|New South Wales,"North Sydney Oval, Sydney",Queensland,463,439,24,231,232
+2022-11-29,Netherlands|Thailand,Royal Chiangmai Golf Club,Thailand,179,165,14,89,90
+2022-11-30,Australia|West Indies,Perth Stadium,Australia,1396,1314,82,698,698
+2022-11-30,Thailand|Netherlands,Royal Chiangmai Golf Club,Netherlands,229,211,18,114,115
+2022-12-01,England|Pakistan,Rawalpindi Cricket Stadium,England,1768,1716,52,884,884
+2022-12-01,Gambia|Eswatini,Integrated Polytechnic Regional Centre,Eswatini,245,193,52,122,123
+2022-12-01,Mozambique|Nigeria,Gahanga International Cricket Stadium. Rwanda,Nigeria,173,151,22,86,87
+2022-12-01,Namibia|Scotland,"United Cricket Club Ground, Windhoek",Scotland,424,402,22,212,212
+2022-12-01,Sierra Leone|Tanzania,Gahanga International Cricket Stadium. Rwanda,Tanzania,104,94,10,52,52
+2022-12-01,South Australia|Tasmania,"Bellerive Oval, Hobart",South Australia,922,881,41,461,461
+2022-12-01,Victoria|New South Wales,"Junction Oval, Melbourne",Victoria,915,881,34,457,458
+2022-12-02,Cameroon|Sierra Leone,Gahanga International Cricket Stadium. Rwanda,Sierra Leone,296,267,29,148,148
+2022-12-02,Eswatini|Mozambique,Integrated Polytechnic Regional Centre,Mozambique,301,281,20,150,151
+2022-12-02,Ghana|Mozambique,Integrated Polytechnic Regional Centre,Mozambique,226,207,19,113,113
+2022-12-02,Netherlands|Thailand,Royal Chiangmai Golf Club,Thailand,147,136,11,73,74
+2022-12-02,New Zealand|Bangladesh,"Hagley Oval, Christchurch",New Zealand,196,188,8,98,98
+2022-12-02,Sierra Leone|Nigeria,Gahanga International Cricket Stadium. Rwanda,Nigeria,125,109,16,62,63
+2022-12-03,Thailand|Netherlands,Royal Chiangmai Golf Club,Thailand,221,207,14,110,111
+2022-12-03,Vanuatu|Singapore,"Bayuemas Oval, Kuala Lumpur",Vanuatu,267,220,47,133,134
+2022-12-04,Cameroon|Mozambique,Gahanga International Cricket Stadium. Rwanda,Mozambique,193,168,25,96,97
+2022-12-04,Denmark|Malaysia,"Bayuemas Oval, Kuala Lumpur",Malaysia,319,300,19,159,160
+2022-12-04,England|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",England,472,430,42,236,236
+2022-12-04,Ghana|Tanzania,Gahanga International Cricket Stadium. Rwanda,Tanzania,243,233,10,121,122
+2022-12-04,India|Bangladesh,"Shere Bangla National Stadium, Mirpur",Bangladesh,373,342,31,186,187
+2022-12-04,Nepal|Scotland,"United Cricket Club Ground, Windhoek",Scotland,280,269,11,140,140
+2022-12-04,New Zealand|Bangladesh,"University Oval, Dunedin",New Zealand,259,243,16,129,130
+2022-12-04,Nigeria|Eswatini,Integrated Polytechnic Regional Centre,Nigeria,324,284,40,162,162
+2022-12-04,Qatar|Canada,"UKM-YSD Cricket Oval, Bangi",Canada,293,280,13,146,147
+2022-12-05,Cameroon|Nigeria,Gahanga International Cricket Stadium. Rwanda,Nigeria,103,90,13,51,52
+2022-12-05,Ghana|Sierra Leone,Integrated Polytechnic Regional Centre,Sierra Leone,196,175,21,98,98
+2022-12-05,Mozambique|Tanzania,Gahanga International Cricket Stadium. Rwanda,Tanzania,163,160,3,81,82
+2022-12-05,Scotland|Namibia,"United Cricket Club Ground, Windhoek",Namibia,418,395,23,209,209
+2022-12-05,Sierra Leone|Eswatini,Integrated Polytechnic Regional Centre,Sierra Leone,100,89,11,50,50
+2022-12-06,Canada|Singapore,"Bayuemas Oval, Kuala Lumpur",Canada,401,361,40,200,201
+2022-12-06,England|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",England,378,343,35,189,189
+2022-12-06,Gambia|Sierra Leone,Integrated Polytechnic Regional Centre,Sierra Leone,165,145,20,82,83
+2022-12-06,Gambia|Tanzania,Gahanga International Cricket Stadium. Rwanda,Tanzania,120,100,20,60,60
+2022-12-06,Jaffna Kings|Galle Gladiators,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Kings,250,232,18,125,125
+2022-12-06,Kandy Falcons|Colombo Stars,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Falcons,289,282,7,144,145
+2022-12-06,Tanzania|Eswatini,Gahanga International Cricket Stadium. Rwanda,Tanzania,306,277,29,153,153
+2022-12-06,Vanuatu|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,380,344,36,190,190
+2022-12-07,Bangladesh|India,"Shere Bangla National Stadium, Mirpur",Bangladesh,537,501,36,268,269
+2022-12-07,Dambulla Aura|Jaffna Kings,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Jaffna Kings,243,234,9,121,122
+2022-12-07,Galle Gladiators|Kandy Falcons,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Kandy Falcons,244,230,14,122,122
+2022-12-07,Namibia|Nepal,"United Cricket Club Ground, Windhoek",Namibia,464,446,18,232,232
+2022-12-07,New Zealand|Bangladesh,"John Davies Oval, Queenstown",New Zealand,241,231,10,120,121
+2022-12-07,Singapore|Denmark,"UKM-YSD Cricket Oval, Bangi",Denmark,435,414,21,217,218
+2022-12-08,Australia|West Indies,Adelaide Oval,Australia,1001,966,35,500,501
+2022-12-08,Colombo Stars|Dambulla Aura,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Colombo Stars,321,312,9,160,161
+2022-12-08,Ghana|Gambia,Gahanga International Cricket Stadium. Rwanda,Ghana,284,253,31,142,142
+2022-12-08,Mozambique|Gambia,Integrated Polytechnic Regional Centre,Mozambique,197,172,25,98,99
+2022-12-08,Nepal|Scotland,"United Cricket Club Ground, Windhoek",Scotland,240,230,10,120,120
+2022-12-09,Denmark|Canada,"Bayuemas Oval, Kuala Lumpur",Canada,290,280,10,145,145
+2022-12-09,England|Pakistan,Multan Cricket Stadium,England,1086,1059,27,543,543
+2022-12-09,England|West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",England,361,320,41,180,181
+2022-12-09,Gambia|Cameroon,Integrated Polytechnic Regional Centre,Gambia,219,183,36,109,110
+2022-12-09,Ghana|Nigeria,Gahanga International Cricket Stadium. Rwanda,Nigeria,258,239,19,129,129
+2022-12-09,India|Australia,"Dr DY Patil Sports Academy, Mumbai",Australia,345,333,12,172,173
+2022-12-09,Qatar|Malaysia,"UKM-YSD Cricket Oval, Bangi",Qatar,349,331,18,174,175
+2022-12-09,Tanzania|Cameroon,Integrated Polytechnic Regional Centre,Tanzania,252,236,16,126,126
+2022-12-10,Denmark|Vanuatu,"UKM-YSD Cricket Oval, Bangi",Denmark,387,354,33,193,194
+2022-12-10,India|Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",India,591,573,18,295,296
+2022-12-10,Jaffna Kings|Kandy Falcons,Pallekele International Cricket Stadium,Kandy Falcons,295,273,22,147,148
+2022-12-10,Singapore|Malaysia,"Bayuemas Oval, Kuala Lumpur",Malaysia,340,301,39,170,170
+2022-12-11,Bangladesh|New Zealand,"Basin Reserve, Wellington",New Zealand,361,332,29,180,181
+2022-12-11,Galle Gladiators|Colombo Stars,Pallekele International Cricket Stadium,Galle Gladiators,323,309,14,161,162
+2022-12-11,Jaffna Kings|Dambulla Aura,Pallekele International Cricket Stadium,Jaffna Kings,429,393,36,214,215
+2022-12-11,West Indies|England,"Sir Vivian Richards Stadium, North Sound, Antigua",England,211,194,17,105,106
+2022-12-12,Galle Gladiators|Kandy Falcons,Pallekele International Cricket Stadium,Galle Gladiators,294,281,13,147,147
+2022-12-12,Jaffna Kings|Colombo Stars,Pallekele International Cricket Stadium,Jaffna Kings,350,338,12,175,175
+2022-12-12,Qatar|Singapore,"UKM-YSD Cricket Oval, Bangi",Qatar,356,337,19,178,178
+2022-12-13,Canada|Malaysia,"UKM-YSD Cricket Oval, Bangi",Canada,291,270,21,145,146
+2022-12-13,Galle Gladiators|Colombo Stars,Pallekele International Cricket Stadium,Colombo Stars,390,374,16,195,195
+2022-12-13,Kandy Falcons|Dambulla Aura,Pallekele International Cricket Stadium,Kandy Falcons,309,292,17,154,155
+2022-12-13,Melbourne Stars|Sydney Thunder,"Manuka Oval, Canberra",Sydney Thunder,245,233,12,122,123
+2022-12-13,Tanzania|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Tanzania,228,205,23,114,114
+2022-12-14,Adelaide Strikers|Sydney Sixers,Adelaide Oval,Adelaide Strikers,317,299,18,158,159
+2022-12-14,Australia|India,"Brabourne Stadium, Mumbai",Australia,323,309,14,161,162
+2022-12-14,Dambulla Aura|Colombo Stars,Pallekele International Cricket Stadium,Colombo Stars,179,166,13,89,90
+2022-12-14,England|West Indies,"Kensington Oval, Bridgetown, Barbados",England,266,242,24,133,133
+2022-12-14,India|Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",India,1136,1105,31,568,568
+2022-12-14,Kandy Falcons|Jaffna Kings,Pallekele International Cricket Stadium,Kandy Falcons,310,293,17,155,155
+2022-12-14,Uganda|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Uganda,285,260,25,142,143
+2022-12-15,Melbourne Renegades|Brisbane Heat,"Cazaly's Stadium, Cairns",Melbourne Renegades,310,296,14,155,155
+2022-12-15,Qatar|Kenya,"Gymkhana Club Ground, Nairobi",Kenya,81,75,6,40,41
+2022-12-15,Singapore|Qatar,"UKM-YSD Cricket Oval, Bangi",Qatar,264,250,14,132,132
+2022-12-15,Uganda|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Uganda,203,190,13,101,102
+2022-12-15,Uganda|Tanzania,"Gahanga International Cricket Stadium, Rwanda",Uganda,325,308,17,162,163
+2022-12-16,Adelaide Strikers|Sydney Thunder,Sydney Showground Stadium,Adelaide Strikers,154,143,11,77,77
+2022-12-16,Melbourne Stars|Hobart Hurricanes,Melbourne Cricket Ground,Melbourne Stars,328,301,27,164,164
+2022-12-16,Qatar|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,253,236,17,126,127
+2022-12-16,Rwanda|Tanzania,"Gahanga International Cricket Stadium, Rwanda",Rwanda,259,239,20,129,130
+2022-12-17,Australia|India,"Brabourne Stadium, Mumbai",Australia,369,356,13,184,185
+2022-12-17,Colombo Stars|Kandy Falcons,"R Premadasa Stadium, Colombo",Kandy Falcons,214,198,16,107,107
+2022-12-17,Dambulla Aura|Galle Gladiators,"R Premadasa Stadium, Colombo",Dambulla Aura,308,290,18,154,154
+2022-12-17,England|West Indies,"Kensington Oval, Bridgetown, Barbados",England,297,270,27,148,149
+2022-12-17,Pakistan|England,"National Stadium, Karachi",England,1044,1019,25,522,522
+2022-12-17,Perth Scorchers|Sydney Sixers,Perth Stadium,Perth Scorchers,272,263,9,136,136
+2022-12-17,South Africa|Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,504,456,48,252,252
+2022-12-18,Bahrain|Qatar,"UKM-YSD Cricket Oval, Bangi",Bahrain,315,293,22,157,158
+2022-12-18,England|West Indies,"Kensington Oval, Bridgetown, Barbados",England,213,195,18,106,107
+2022-12-18,Jaffna Kings|Galle Gladiators,"R Premadasa Stadium, Colombo",Jaffna Kings,324,307,17,162,162
+2022-12-18,Kandy Falcons|Dambulla Aura,"R Premadasa Stadium, Colombo",Kandy Falcons,281,271,10,140,141
+2022-12-18,Kenya|Uganda,"Gymkhana Club Ground, Nairobi",Uganda,219,208,11,109,110
+2022-12-18,Malaysia|Singapore,"UKM-YSD Cricket Oval, Bangi",Malaysia,294,271,23,147,147
+2022-12-18,Rwanda|Tanzania,"Gahanga International Cricket Stadium, Rwanda",Tanzania,241,222,19,120,121
+2022-12-18,Sydney Thunder|Melbourne Renegades,"Docklands Stadium, Melbourne",Melbourne Renegades,349,331,18,174,175
+2022-12-18,Tanzania|Qatar,"Gymkhana Club Ground, Nairobi",Tanzania,306,278,28,153,153
+2022-12-18,Uganda|Tanzania,"Gahanga International Cricket Stadium, Rwanda",Uganda,212,197,15,106,106
+2022-12-19,Bahrain|Malaysia,"UKM-YSD Cricket Oval, Bangi",Malaysia,361,349,12,180,181
+2022-12-19,Colombo Stars|Jaffna Kings,"R Premadasa Stadium, Colombo",Jaffna Kings,259,238,21,129,130
+2022-12-19,Galle Gladiators|Dambulla Aura,"R Premadasa Stadium, Colombo",Dambulla Aura,263,250,13,131,132
+2022-12-19,Hobart Hurricanes|Perth Scorchers,"University of Tasmania Stadium, Launceston",Hobart Hurricanes,336,321,15,168,168
+2022-12-19,Singapore|Qatar,"UKM-YSD Cricket Oval, Bangi",Qatar,281,271,10,140,141
+2022-12-19,Tanzania|Kenya,"Gymkhana Club Ground, Nairobi",Kenya,263,239,24,131,132
+2022-12-19,Uganda|Tanzania,"Gahanga International Cricket Stadium, Rwanda",Tanzania,269,248,21,134,135
+2022-12-20,Australia|India,"Brabourne Stadium, Mumbai",Australia,338,321,17,169,169
+2022-12-20,Rwanda|Uganda,"Gahanga International Cricket Stadium, Rwanda",Uganda,135,127,8,67,68
+2022-12-20,Sydney Thunder|Adelaide Strikers,Adelaide Oval,Adelaide Strikers,301,288,13,150,151
+2022-12-20,Tanzania|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Tanzania,237,219,18,118,119
+2022-12-21,Brisbane Heat|Melbourne Renegades,"GMHBA Stadium, South Geelong, Victoria",Melbourne Renegades,276,260,16,138,138
+2022-12-21,Galle Gladiators|Colombo Stars,"R Premadasa Stadium, Colombo",Colombo Stars,217,201,16,108,109
+2022-12-21,Kandy Falcons|Jaffna Kings,"R Premadasa Stadium, Colombo",Jaffna Kings,241,214,27,120,121
+2022-12-21,Kenya|Uganda,"Gymkhana Club Ground, Nairobi",Uganda,161,149,12,80,81
+2022-12-21,Singapore|Bahrain,"UKM-YSD Cricket Oval, Bangi",Bahrain,340,316,24,170,170
+2022-12-21,Tanzania|Qatar,"Gymkhana Club Ground, Nairobi",Tanzania,230,206,24,115,115
+2022-12-22,Bangladesh|India,"Shere Bangla National Stadium, Mirpur",India,917,891,26,458,459
+2022-12-22,Kandy Falcons|Colombo Stars,"R Premadasa Stadium, Colombo",Colombo Stars,337,328,9,168,169
+2022-12-22,Malaysia|Singapore,"UKM-YSD Cricket Oval, Bangi",Malaysia,303,284,19,151,152
+2022-12-22,Sydney Sixers|Hobart Hurricanes,Sydney Cricket Ground,Sydney Sixers,268,255,13,134,134
+2022-12-22,Tanzania|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Tanzania,244,224,20,122,122
+2022-12-22,Uganda|Tanzania,"Gahanga International Cricket Stadium, Rwanda",Uganda,359,329,30,179,180
+2022-12-22,West Indies|England,"Kensington Oval, Bridgetown, Barbados",England,87,74,13,43,44
+2022-12-23,Brisbane Heat|Adelaide Strikers,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,326,310,16,163,163
+2022-12-23,Canterbury|Northern Districts,"Bay Oval, Mount Maunganui",Canterbury,278,269,9,139,139
+2022-12-23,Colombo Stars|Jaffna Kings,"R Premadasa Stadium, Colombo",Jaffna Kings,327,312,15,163,164
+2022-12-23,Malaysia|Bahrain,"UKM-YSD Cricket Oval, Bangi",Bahrain,309,288,21,154,155
+2022-12-23,Northern Districts|Canterbury,"Bay Oval, Mount Maunganui",Canterbury,194,178,16,97,97
+2022-12-23,Perth Scorchers|Melbourne Stars,"Junction Oval, Melbourne",Perth Scorchers,397,387,10,198,199
+2022-12-23,Singapore|Qatar,"UKM-YSD Cricket Oval, Bangi",Qatar,329,313,16,164,165
+2022-12-23,Uganda|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Uganda,213,187,26,106,107
+2022-12-24,Hobart Hurricanes|Melbourne Renegades,"Bellerive Oval, Hobart",Hobart Hurricanes,236,219,17,118,118
+2022-12-24,Wellington|Otago,"Basin Reserve, Wellington",Wellington,569,538,31,284,285
+2022-12-26,Adelaide Strikers|Perth Scorchers,Perth Stadium,Perth Scorchers,269,253,16,134,135
+2022-12-26,Auckland|Canterbury,"Hagley Oval, Christchurch",Canterbury,289,258,31,144,145
+2022-12-26,Canterbury|Auckland,"Hagley Oval, Christchurch",Auckland,296,286,10,148,148
+2022-12-26,Melbourne Stars|Sydney Sixers,Sydney Cricket Ground,Sydney Sixers,301,284,17,150,151
+2022-12-26,South Africa|Australia,Melbourne Cricket Ground,Australia,968,930,38,484,484
+2022-12-27,Brisbane Heat|Sydney Thunder,Sydney Showground Stadium,Sydney Thunder,245,232,13,122,123
+2022-12-27,Wellington|Central Districts,"Fitzherbert Park, Palmerston North",Wellington,690,649,41,345,345
+2022-12-28,Otago|Northern Districts,"John Davies Oval, Queenstown",Northern Districts,249,245,4,124,125
+2022-12-28,Otago|Northern Districts,"John Davies Oval, Queenstown",Otago,310,292,18,155,155
+2022-12-28,Sydney Sixers|Melbourne Renegades,Sydney Cricket Ground,Sydney Sixers,264,253,11,132,132
+2022-12-29,Melbourne Stars|Perth Scorchers,Perth Stadium,Perth Scorchers,271,259,12,135,136
+2022-12-29,Otago|Auckland,"John Davies Oval, Queenstown",Auckland,263,241,22,131,132
+2022-12-29,Otago|Auckland,"John Davies Oval, Queenstown",Otago,293,278,15,146,147
+2022-12-29,Sydney Thunder|Brisbane Heat,Carrara Oval,Sydney Thunder,353,325,28,176,177
+2022-12-30,Canterbury|Central Districts,"Pukekura Park, New Plymouth",Central Districts,373,353,20,186,187
+2022-12-30,Central Districts|Canterbury,"Pukekura Park, New Plymouth",Canterbury,177,161,16,88,89
+2022-12-30,Melbourne Renegades|Sydney Sixers,"GMHBA Stadium, South Geelong, Victoria",Sydney Sixers,250,237,13,125,125
+2022-12-31,Melbourne Stars|Adelaide Strikers,Adelaide Oval,Melbourne Stars,364,347,17,182,182
+2022-12-31,Northern Districts|Central Districts,"Pukekura Park, New Plymouth",Central Districts,436,411,25,218,218
+2022-12-31,Northern Districts|Central Districts,"Pukekura Park, New Plymouth",Northern Districts,288,267,21,144,144
+2022-12-31,Sydney Thunder|Hobart Hurricanes,"Lavington Sports Oval, Albury",Sydney Thunder,394,375,19,197,197

@@ -1,0 +1,201 @@
+id,sport,match_id,bet_type,selection,odds,stake,potential_return,bookmaker,status,placed_at,settled_at,result
+bet_1744482600_0,Football,match_0,both_teams_score,Draw,4.23,31.86,134.73,Bookmaker_1,won,2025-04-13T00:00:00,2025-04-13T23:00:00,Won
+bet_1742063400_1,Cricket,match_1,match_winner,Under 300 Runs,2.0,34.29,68.58,Bookmaker_2,won,2025-03-16T00:00:00,2025-03-17T00:00:00,Won
+bet_1749234600_2,Tennis,match_2,over_under,Under 2.5 Sets,4.97,32.79,0.0,Bookmaker_3,lost,2025-06-07T00:00:00,2025-06-08T20:00:00,Lost
+bet_1743273000_3,Football,match_3,both_teams_score,Draw,2.9,7.1,0.0,Bookmaker_4,lost,2025-03-30T00:00:00,2025-03-30T15:00:00,Lost
+bet_1750703400_4,Tennis,match_4,both_teams_score,Under 2.5 Sets,3.3,31.66,104.47,Bookmaker_5,won,2025-06-24T00:00:00,2025-06-24T07:00:00,Won
+bet_1737397800_5,Football,match_5,both_teams_score,Away Win,4.82,48.45,0.0,Bookmaker_1,lost,2025-01-21T00:00:00,2025-01-21T09:00:00,Lost
+bet_1743359400_6,Football,match_6,over_under,Over 2.5 Goals,2.34,35.75,0.0,Bookmaker_2,lost,2025-03-31T00:00:00,2025-03-31T08:00:00,Lost
+bet_1750703400_7,Cricket,match_7,over_under,Team 1 Win,2.41,34.81,83.75,Bookmaker_3,won,2025-06-24T00:00:00,2025-06-24T06:00:00,Won
+bet_1740249000_8,Tennis,match_8,over_under,Player 1 Win,4.89,39.88,0.0,Bookmaker_4,lost,2025-02-23T00:00:00,2025-02-24T12:00:00,Lost
+bet_1736793000_9,Cricket,match_9,both_teams_score,Under 300 Runs,1.66,19.64,32.57,Bookmaker_5,won,2025-01-14T00:00:00,2025-01-14T18:00:00,Won
+bet_1745173800_10,Football,match_10,over_under,Home Win,2.48,29.42,73.06,Bookmaker_1,won,2025-04-21T00:00:00,2025-04-21T15:00:00,Won
+bet_1739471400_11,Football,match_11,match_winner,Clean Sheet,2.98,22.77,67.9,Bookmaker_2,won,2025-02-14T00:00:00,2025-02-14T11:00:00,Won
+bet_1742581800_12,Cricket,match_12,both_teams_score,Team 1 Win,3.62,46.68,0.0,Bookmaker_3,lost,2025-03-22T00:00:00,2025-03-23T04:00:00,Lost
+bet_1747247400_13,Football,match_13,over_under,Home Win,1.72,18.99,32.72,Bookmaker_4,won,2025-05-15T00:00:00,2025-05-16T11:00:00,Won
+bet_1750444200_14,Tennis,match_14,both_teams_score,Over 2.5 Sets,3.15,10.38,0.0,Bookmaker_5,lost,2025-06-21T00:00:00,2025-06-21T01:00:00,Lost
+bet_1736015400_15,Tennis,match_15,both_teams_score,Over 2.5 Sets,2.4,6.82,0.0,Bookmaker_1,lost,2025-01-05T00:00:00,2025-01-06T02:00:00,Lost
+bet_1739212200_16,Football,match_16,both_teams_score,Clean Sheet,4.64,26.39,0.0,Bookmaker_2,lost,2025-02-11T00:00:00,2025-02-11T04:00:00,Lost
+bet_1748629800_17,Cricket,match_17,match_winner,Over 300 Runs,2.21,47.43,0.0,Bookmaker_3,lost,2025-05-31T00:00:00,2025-05-31T22:00:00,Lost
+bet_1738002600_18,Tennis,match_18,over_under,Player 1 Win,2.53,9.75,0.0,Bookmaker_4,lost,2025-01-28T00:00:00,2025-01-29T20:00:00,Lost
+bet_1739385000_19,Tennis,match_19,over_under,Over 2.5 Sets,2.64,10.49,27.65,Bookmaker_5,won,2025-02-13T00:00:00,2025-02-14T09:00:00,Won
+bet_1746729000_20,Football,match_20,both_teams_score,Both Teams Score,1.5,20.87,31.34,Bookmaker_1,won,2025-05-09T00:00:00,2025-05-09T06:00:00,Won
+bet_1748975400_21,Football,match_21,over_under,Under 2.5 Goals,3.92,17.12,67.18,Bookmaker_2,won,2025-06-04T00:00:00,2025-06-05T08:00:00,Won
+bet_1743877800_22,Football,match_22,match_winner,Both Teams Score,4.9,48.31,236.78,Bookmaker_3,won,2025-04-06T00:00:00,2025-04-06T02:00:00,Won
+bet_1746901800_23,Football,match_23,match_winner,Home Win,4.99,17.01,0.0,Bookmaker_4,lost,2025-05-11T00:00:00,2025-05-12T04:00:00,Lost
+bet_1740249000_24,Cricket,match_24,match_winner,Team 1 Win,3.72,35.63,0.0,Bookmaker_5,lost,2025-02-23T00:00:00,2025-02-24T02:00:00,Lost
+bet_1749407400_25,Tennis,match_25,both_teams_score,Under 2.5 Sets,1.78,21.63,38.57,Bookmaker_1,won,2025-06-09T00:00:00,2025-06-10T14:00:00,Won
+bet_1737657000_26,Football,match_26,over_under,Both Teams Score,2.9,41.74,0.0,Bookmaker_2,lost,2025-01-24T00:00:00,2025-01-24T09:00:00,Lost
+bet_1746297000_27,Cricket,match_27,over_under,High Scoring Match,4.5,19.67,88.59,Bookmaker_3,won,2025-05-04T00:00:00,2025-05-05T02:00:00,Won
+bet_1748284200_28,Cricket,match_28,match_winner,Team 1 Win,2.89,28.3,0.0,Bookmaker_4,lost,2025-05-27T00:00:00,2025-05-27T11:00:00,Lost
+bet_1750962600_29,Cricket,match_29,both_teams_score,Team 2 Win,2.4,34.7,0.0,Bookmaker_5,lost,2025-06-27T00:00:00,2025-06-27T02:00:00,Lost
+bet_1746729000_30,Tennis,match_30,match_winner,Player 1 Win,4.59,13.49,61.92,Bookmaker_1,won,2025-05-09T00:00:00,2025-05-09T19:00:00,Won
+bet_1739730600_31,Cricket,match_31,over_under,Team 1 Win,3.75,8.79,32.92,Bookmaker_2,won,2025-02-17T00:00:00,2025-02-18T14:00:00,Won
+bet_1744569000_32,Tennis,match_32,both_teams_score,Under 2.5 Sets,1.86,34.86,64.67,Bookmaker_3,won,2025-04-14T00:00:00,2025-04-15T22:00:00,Won
+bet_1742668200_33,Tennis,match_33,over_under,Over 2.5 Sets,3.78,15.09,0.0,Bookmaker_4,lost,2025-03-23T00:00:00,2025-03-24T09:00:00,Lost
+bet_1747852200_34,Football,match_34,both_teams_score,Draw,3.8,30.57,116.23,Bookmaker_5,won,2025-05-22T00:00:00,2025-05-22T22:00:00,Won
+bet_1745865000_35,Tennis,match_35,over_under,Player 2 Win,4.91,22.69,0.0,Bookmaker_1,lost,2025-04-29T00:00:00,2025-04-30T03:00:00,Lost
+bet_1737916200_36,Tennis,match_36,match_winner,Player 2 Win,3.76,35.1,0.0,Bookmaker_2,lost,2025-01-27T00:00:00,2025-01-27T19:00:00,Lost
+bet_1735929000_37,Cricket,match_37,match_winner,Team 1 Win,4.98,26.15,130.24,Bookmaker_3,won,2025-01-04T00:00:00,2025-01-04T06:00:00,Won
+bet_1744137000_38,Football,match_38,match_winner,Under 2.5 Goals,3.0,48.5,0.0,Bookmaker_4,lost,2025-04-09T00:00:00,2025-04-10T09:00:00,Lost
+bet_1745605800_39,Cricket,match_39,match_winner,High Scoring Match,2.17,17.08,0.0,Bookmaker_5,lost,2025-04-26T00:00:00,2025-04-26T18:00:00,Lost
+bet_1737743400_40,Tennis,match_40,both_teams_score,Player 2 Win,3.94,30.65,120.65,Bookmaker_1,won,2025-01-25T00:00:00,2025-01-26T08:00:00,Won
+bet_1750703400_41,Tennis,match_41,both_teams_score,Player 2 Win,2.39,18.29,43.7,Bookmaker_2,won,2025-06-24T00:00:00,2025-06-25T16:00:00,Won
+bet_1749493800_42,Football,match_42,both_teams_score,Both Teams Score,2.76,18.21,0.0,Bookmaker_3,lost,2025-06-10T00:00:00,2025-06-11T11:00:00,Lost
+bet_1739903400_43,Football,match_43,match_winner,Over 2.5 Goals,3.29,27.57,0.0,Bookmaker_4,lost,2025-02-19T00:00:00,2025-02-19T01:00:00,Lost
+bet_1736274600_44,Tennis,match_44,over_under,Under 2.5 Sets,4.6,6.24,0.0,Bookmaker_5,lost,2025-01-08T00:00:00,2025-01-09T08:00:00,Lost
+bet_1743013800_45,Cricket,match_45,match_winner,Team 2 Win,3.4,17.89,0.0,Bookmaker_1,lost,2025-03-27T00:00:00,2025-03-27T22:00:00,Lost
+bet_1739817000_46,Tennis,match_46,over_under,Over 2.5 Sets,2.76,10.72,0.0,Bookmaker_2,lost,2025-02-18T00:00:00,2025-02-19T20:00:00,Lost
+bet_1744914600_47,Football,match_47,both_teams_score,Over 2.5 Goals,4.45,13.75,61.13,Bookmaker_3,won,2025-04-18T00:00:00,2025-04-19T11:00:00,Won
+bet_1740335400_48,Football,match_48,over_under,Over 2.5 Goals,4.0,6.85,27.4,Bookmaker_4,won,2025-02-24T00:00:00,2025-02-24T19:00:00,Won
+bet_1743532200_49,Tennis,match_49,both_teams_score,Player 2 Win,1.59,48.32,0.0,Bookmaker_5,lost,2025-04-02T00:00:00,2025-04-02T09:00:00,Lost
+bet_1747679400_50,Football,match_50,match_winner,Away Win,4.7,24.91,117.14,Bookmaker_1,won,2025-05-20T00:00:00,2025-05-21T01:00:00,Won
+bet_1745692200_51,Football,match_51,match_winner,Clean Sheet,3.8,24.61,0.0,Bookmaker_2,lost,2025-04-27T00:00:00,2025-04-27T03:00:00,Lost
+bet_1742149800_52,Tennis,match_52,both_teams_score,Player 1 Win,1.92,20.38,39.15,Bookmaker_3,won,2025-03-17T00:00:00,2025-03-18T23:00:00,Won
+bet_1743705000_53,Tennis,match_53,over_under,Under 2.5 Sets,2.11,5.77,0.0,Bookmaker_4,lost,2025-04-04T00:00:00,2025-04-04T21:00:00,Lost
+bet_1738953000_54,Football,match_54,over_under,Both Teams Score,3.77,7.16,0.0,Bookmaker_5,lost,2025-02-08T00:00:00,2025-02-09T12:00:00,Lost
+bet_1738521000_55,Cricket,match_55,over_under,Team 2 Win,4.77,27.55,0.0,Bookmaker_1,lost,2025-02-03T00:00:00,2025-02-04T21:00:00,Lost
+bet_1735929000_56,Cricket,match_56,over_under,Team 1 Win,4.54,33.64,0.0,Bookmaker_2,lost,2025-01-04T00:00:00,2025-01-04T12:00:00,Lost
+bet_1750962600_57,Cricket,match_57,match_winner,Team 1 Win,4.34,41.93,0.0,Bookmaker_3,lost,2025-06-27T00:00:00,2025-06-27T01:00:00,Lost
+bet_1749493800_58,Tennis,match_58,both_teams_score,Under 2.5 Sets,2.46,14.66,36.04,Bookmaker_4,won,2025-06-10T00:00:00,2025-06-11T11:00:00,Won
+bet_1742581800_59,Tennis,match_59,match_winner,Player 2 Win,3.89,20.33,78.99,Bookmaker_5,won,2025-03-22T00:00:00,2025-03-22T07:00:00,Won
+bet_1740594600_60,Football,match_60,over_under,Under 2.5 Goals,4.78,6.76,32.32,Bookmaker_1,won,2025-02-27T00:00:00,2025-02-28T12:00:00,Won
+bet_1747506600_61,Football,match_61,match_winner,Draw,4.97,23.57,117.06,Bookmaker_2,won,2025-05-18T00:00:00,2025-05-19T15:00:00,Won
+bet_1743877800_62,Cricket,match_62,over_under,High Scoring Match,2.34,35.59,0.0,Bookmaker_3,lost,2025-04-06T00:00:00,2025-04-07T11:00:00,Lost
+bet_1744655400_63,Tennis,match_63,match_winner,Player 1 Win,3.27,42.19,137.9,Bookmaker_4,won,2025-04-15T00:00:00,2025-04-15T19:00:00,Won
+bet_1750876200_64,Football,match_64,match_winner,Draw,1.82,19.37,0.0,Bookmaker_5,lost,2025-06-26T00:00:00,2025-06-26T19:00:00,Lost
+bet_1745173800_65,Football,match_65,match_winner,Draw,3.61,29.92,107.96,Bookmaker_1,won,2025-04-21T00:00:00,2025-04-21T23:00:00,Won
+bet_1748025000_66,Football,match_66,both_teams_score,Under 2.5 Goals,4.76,48.84,0.0,Bookmaker_2,lost,2025-05-24T00:00:00,2025-05-24T05:00:00,Lost
+bet_1749666600_67,Cricket,match_67,match_winner,Over 300 Runs,3.97,48.59,0.0,Bookmaker_3,lost,2025-06-12T00:00:00,2025-06-13T20:00:00,Lost
+bet_1748111400_68,Football,match_68,over_under,Clean Sheet,2.99,15.02,44.92,Bookmaker_4,won,2025-05-25T00:00:00,2025-05-26T03:00:00,Won
+bet_1746124200_69,Tennis,match_69,match_winner,Player 1 Win,1.8,49.4,88.77,Bookmaker_5,won,2025-05-02T00:00:00,2025-05-02T01:00:00,Won
+bet_1743013800_70,Football,match_70,both_teams_score,Clean Sheet,4.95,38.9,192.6,Bookmaker_1,won,2025-03-27T00:00:00,2025-03-28T07:00:00,Won
+bet_1737225000_71,Football,match_71,over_under,Clean Sheet,2.98,45.79,136.66,Bookmaker_2,won,2025-01-19T00:00:00,2025-01-19T03:00:00,Won
+bet_1750530600_72,Football,match_72,over_under,Over 2.5 Goals,3.5,38.34,0.0,Bookmaker_3,lost,2025-06-22T00:00:00,2025-06-23T17:00:00,Lost
+bet_1750012200_73,Football,match_73,both_teams_score,Under 2.5 Goals,2.33,23.01,0.0,Bookmaker_4,lost,2025-06-16T00:00:00,2025-06-17T01:00:00,Lost
+bet_1740421800_74,Football,match_74,over_under,Under 2.5 Goals,4.87,5.55,0.0,Bookmaker_5,lost,2025-02-25T00:00:00,2025-02-26T23:00:00,Lost
+bet_1748457000_75,Tennis,match_75,match_winner,Over 2.5 Sets,4.72,16.38,0.0,Bookmaker_1,lost,2025-05-29T00:00:00,2025-05-29T18:00:00,Lost
+bet_1739644200_76,Football,match_76,match_winner,Both Teams Score,2.53,49.81,0.0,Bookmaker_2,lost,2025-02-16T00:00:00,2025-02-16T03:00:00,Lost
+bet_1748025000_77,Cricket,match_77,match_winner,Over 300 Runs,2.48,47.77,0.0,Bookmaker_3,lost,2025-05-24T00:00:00,2025-05-24T12:00:00,Lost
+bet_1748716200_78,Football,match_78,over_under,Over 2.5 Goals,3.76,22.47,84.58,Bookmaker_4,won,2025-06-01T00:00:00,2025-06-02T04:00:00,Won
+bet_1744309800_79,Football,match_79,both_teams_score,Both Teams Score,1.61,17.59,28.37,Bookmaker_5,won,2025-04-11T00:00:00,2025-04-11T13:00:00,Won
+bet_1749148200_80,Football,match_80,over_under,Draw,4.38,47.74,0.0,Bookmaker_1,lost,2025-06-06T00:00:00,2025-06-07T23:00:00,Lost
+bet_1748802600_81,Tennis,match_81,over_under,Under 2.5 Sets,4.57,29.82,136.23,Bookmaker_2,won,2025-06-02T00:00:00,2025-06-03T09:00:00,Won
+bet_1745778600_82,Football,match_82,over_under,Clean Sheet,2.03,31.74,64.31,Bookmaker_3,won,2025-04-28T00:00:00,2025-04-28T22:00:00,Won
+bet_1740681000_83,Cricket,match_83,match_winner,High Scoring Match,1.72,6.66,11.47,Bookmaker_4,won,2025-02-28T00:00:00,2025-02-28T21:00:00,Won
+bet_1740335400_84,Tennis,match_84,match_winner,Player 1 Win,5.0,49.85,0.0,Bookmaker_5,lost,2025-02-24T00:00:00,2025-02-25T13:00:00,Lost
+bet_1740162600_85,Football,match_85,over_under,Away Win,2.82,15.85,44.73,Bookmaker_1,won,2025-02-22T00:00:00,2025-02-22T01:00:00,Won
+bet_1739989800_86,Football,match_86,match_winner,Over 2.5 Goals,2.3,35.23,0.0,Bookmaker_2,lost,2025-02-20T00:00:00,2025-02-21T04:00:00,Lost
+bet_1743791400_87,Cricket,match_87,over_under,Team 2 Win,3.32,39.75,0.0,Bookmaker_3,lost,2025-04-05T00:00:00,2025-04-05T12:00:00,Lost
+bet_1740249000_88,Football,match_88,over_under,Both Teams Score,4.27,31.55,0.0,Bookmaker_4,lost,2025-02-23T00:00:00,2025-02-23T23:00:00,Lost
+bet_1742927400_89,Tennis,match_89,over_under,Over 2.5 Sets,2.25,11.14,25.01,Bookmaker_5,won,2025-03-26T00:00:00,2025-03-27T14:00:00,Won
+bet_1739903400_90,Tennis,match_90,over_under,Player 2 Win,3.44,9.1,0.0,Bookmaker_1,lost,2025-02-19T00:00:00,2025-02-20T14:00:00,Lost
+bet_1742409000_91,Tennis,match_91,both_teams_score,Player 2 Win,4.52,47.73,215.65,Bookmaker_2,won,2025-03-20T00:00:00,2025-03-20T17:00:00,Won
+bet_1741977000_92,Football,match_92,match_winner,Away Win,3.67,20.63,75.78,Bookmaker_3,won,2025-03-15T00:00:00,2025-03-16T19:00:00,Won
+bet_1745519400_93,Cricket,match_93,match_winner,Over 300 Runs,1.99,33.84,67.2,Bookmaker_4,won,2025-04-25T00:00:00,2025-04-26T01:00:00,Won
+bet_1743877800_94,Cricket,match_94,both_teams_score,High Scoring Match,4.91,32.09,157.42,Bookmaker_5,won,2025-04-06T00:00:00,2025-04-06T21:00:00,Won
+bet_1736015400_95,Tennis,match_95,over_under,Player 1 Win,1.61,29.69,0.0,Bookmaker_1,lost,2025-01-05T00:00:00,2025-01-05T12:00:00,Lost
+bet_1743359400_96,Tennis,match_96,over_under,Player 1 Win,3.26,36.07,117.65,Bookmaker_2,won,2025-03-31T00:00:00,2025-04-01T23:00:00,Won
+bet_1746037800_97,Tennis,match_97,both_teams_score,Under 2.5 Sets,4.56,46.44,211.65,Bookmaker_3,won,2025-05-01T00:00:00,2025-05-02T02:00:00,Won
+bet_1738693800_98,Football,match_98,match_winner,Draw,2.15,14.42,30.94,Bookmaker_4,won,2025-02-05T00:00:00,2025-02-05T22:00:00,Won
+bet_1736793000_99,Tennis,match_99,both_teams_score,Player 2 Win,3.12,38.64,120.5,Bookmaker_5,won,2025-01-14T00:00:00,2025-01-14T07:00:00,Won
+bet_1735842600_100,Cricket,match_100,both_teams_score,Over 300 Runs,3.36,9.82,33.03,Bookmaker_1,won,2025-01-03T00:00:00,2025-01-04T11:00:00,Won
+bet_1745519400_101,Cricket,match_101,match_winner,High Scoring Match,2.14,30.38,0.0,Bookmaker_2,lost,2025-04-25T00:00:00,2025-04-25T22:00:00,Lost
+bet_1746469800_102,Football,match_102,match_winner,Under 2.5 Goals,3.58,35.56,0.0,Bookmaker_3,lost,2025-05-06T00:00:00,2025-05-07T21:00:00,Lost
+bet_1748197800_103,Cricket,match_103,both_teams_score,Team 2 Win,3.45,31.39,0.0,Bookmaker_4,lost,2025-05-26T00:00:00,2025-05-27T18:00:00,Lost
+bet_1750185000_104,Football,match_104,over_under,Over 2.5 Goals,3.76,30.69,115.4,Bookmaker_5,won,2025-06-18T00:00:00,2025-06-19T21:00:00,Won
+bet_1746037800_105,Football,match_105,match_winner,Both Teams Score,2.29,21.44,0.0,Bookmaker_1,lost,2025-05-01T00:00:00,2025-05-02T06:00:00,Lost
+bet_1742063400_106,Tennis,match_106,over_under,Player 2 Win,2.11,45.35,95.55,Bookmaker_2,won,2025-03-16T00:00:00,2025-03-17T07:00:00,Won
+bet_1739039400_107,Football,match_107,both_teams_score,Both Teams Score,2.89,48.63,0.0,Bookmaker_3,lost,2025-02-09T00:00:00,2025-02-09T06:00:00,Lost
+bet_1745778600_108,Football,match_108,over_under,Both Teams Score,3.84,46.82,0.0,Bookmaker_4,lost,2025-04-28T00:00:00,2025-04-28T08:00:00,Lost
+bet_1737829800_109,Cricket,match_109,match_winner,Under 300 Runs,2.22,48.56,0.0,Bookmaker_5,lost,2025-01-26T00:00:00,2025-01-26T20:00:00,Lost
+bet_1737311400_110,Football,match_110,both_teams_score,Home Win,3.64,17.99,0.0,Bookmaker_1,lost,2025-01-20T00:00:00,2025-01-20T11:00:00,Lost
+bet_1744223400_111,Football,match_111,both_teams_score,Draw,1.68,20.15,33.88,Bookmaker_2,won,2025-04-10T00:00:00,2025-04-10T23:00:00,Won
+bet_1747506600_112,Tennis,match_112,match_winner,Under 2.5 Sets,4.33,16.46,0.0,Bookmaker_3,lost,2025-05-18T00:00:00,2025-05-18T17:00:00,Lost
+bet_1736361000_113,Cricket,match_113,both_teams_score,Over 300 Runs,2.72,46.83,0.0,Bookmaker_4,lost,2025-01-09T00:00:00,2025-01-10T20:00:00,Lost
+bet_1750962600_114,Tennis,match_114,match_winner,Under 2.5 Sets,4.97,14.23,70.67,Bookmaker_5,won,2025-06-27T00:00:00,2025-06-27T01:00:00,Won
+bet_1739039400_115,Tennis,match_115,match_winner,Under 2.5 Sets,4.4,38.77,0.0,Bookmaker_1,lost,2025-02-09T00:00:00,2025-02-10T11:00:00,Lost
+bet_1749839400_116,Football,match_116,both_teams_score,Draw,3.72,45.85,170.49,Bookmaker_2,won,2025-06-14T00:00:00,2025-06-15T18:00:00,Won
+bet_1743273000_117,Tennis,match_117,both_teams_score,Under 2.5 Sets,2.82,25.82,72.8,Bookmaker_3,won,2025-03-30T00:00:00,2025-03-30T23:00:00,Won
+bet_1741026600_118,Cricket,match_118,match_winner,Team 1 Win,2.74,22.62,0.0,Bookmaker_4,lost,2025-03-04T00:00:00,2025-03-05T16:00:00,Lost
+bet_1744569000_119,Cricket,match_119,both_teams_score,Over 300 Runs,3.01,19.98,0.0,Bookmaker_5,lost,2025-04-14T00:00:00,2025-04-15T18:00:00,Lost
+bet_1736879400_120,Cricket,match_120,match_winner,Team 1 Win,3.37,45.23,0.0,Bookmaker_1,lost,2025-01-15T00:00:00,2025-01-16T14:00:00,Lost
+bet_1743964200_121,Football,match_121,match_winner,Draw,4.1,6.51,0.0,Bookmaker_2,lost,2025-04-07T00:00:00,2025-04-07T10:00:00,Lost
+bet_1736015400_122,Cricket,match_122,over_under,Team 1 Win,1.86,29.14,54.21,Bookmaker_3,won,2025-01-05T00:00:00,2025-01-06T21:00:00,Won
+bet_1751135400_123,Cricket,match_123,match_winner,High Scoring Match,3.2,23.4,0.0,Bookmaker_4,lost,2025-06-29T00:00:00,2025-06-30T03:00:00,Lost
+bet_1743791400_124,Cricket,match_124,both_teams_score,Under 300 Runs,3.4,16.33,55.52,Bookmaker_5,won,2025-04-05T00:00:00,2025-04-05T11:00:00,Won
+bet_1741977000_125,Tennis,match_125,over_under,Under 2.5 Sets,2.98,17.96,0.0,Bookmaker_1,lost,2025-03-15T00:00:00,2025-03-16T02:00:00,Lost
+bet_1747765800_126,Tennis,match_126,over_under,Player 1 Win,2.4,37.67,0.0,Bookmaker_2,lost,2025-05-21T00:00:00,2025-05-22T20:00:00,Lost
+bet_1744223400_127,Football,match_127,match_winner,Clean Sheet,2.03,30.93,0.0,Bookmaker_3,lost,2025-04-10T00:00:00,2025-04-11T05:00:00,Lost
+bet_1739039400_128,Football,match_128,over_under,Draw,3.08,10.1,0.0,Bookmaker_4,lost,2025-02-09T00:00:00,2025-02-10T22:00:00,Lost
+bet_1749753000_129,Tennis,match_129,both_teams_score,Player 1 Win,2.66,19.01,50.63,Bookmaker_5,won,2025-06-13T00:00:00,2025-06-13T15:00:00,Won
+bet_1748457000_130,Cricket,match_130,match_winner,High Scoring Match,2.67,41.13,109.94,Bookmaker_1,won,2025-05-29T00:00:00,2025-05-30T17:00:00,Won
+bet_1738607400_131,Cricket,match_131,match_winner,Team 2 Win,4.72,20.59,97.15,Bookmaker_2,won,2025-02-04T00:00:00,2025-02-05T10:00:00,Won
+bet_1743445800_132,Football,match_132,both_teams_score,Draw,3.08,11.34,34.96,Bookmaker_3,won,2025-04-01T00:00:00,2025-04-01T07:00:00,Won
+bet_1751135400_133,Tennis,match_133,match_winner,Under 2.5 Sets,2.59,40.12,103.92,Bookmaker_4,won,2025-06-29T00:00:00,2025-06-30T02:00:00,Won
+bet_1749061800_134,Tennis,match_134,match_winner,Player 1 Win,2.12,48.25,102.44,Bookmaker_5,won,2025-06-05T00:00:00,2025-06-05T22:00:00,Won
+bet_1741026600_135,Football,match_135,match_winner,Clean Sheet,3.58,8.02,0.0,Bookmaker_1,lost,2025-03-04T00:00:00,2025-03-04T19:00:00,Lost
+bet_1740940200_136,Tennis,match_136,match_winner,Player 1 Win,1.63,26.24,0.0,Bookmaker_2,lost,2025-03-03T00:00:00,2025-03-03T18:00:00,Lost
+bet_1735669800_137,Tennis,match_137,both_teams_score,Over 2.5 Sets,3.35,29.05,0.0,Bookmaker_3,lost,2025-01-01T00:00:00,2025-01-02T06:00:00,Lost
+bet_1749925800_138,Cricket,match_138,both_teams_score,Under 300 Runs,2.14,43.78,0.0,Bookmaker_4,lost,2025-06-15T00:00:00,2025-06-16T08:00:00,Lost
+bet_1736447400_139,Tennis,match_139,both_teams_score,Player 2 Win,3.34,41.03,0.0,Bookmaker_5,lost,2025-01-10T00:00:00,2025-01-11T08:00:00,Lost
+bet_1750962600_140,Cricket,match_140,match_winner,Team 1 Win,3.43,16.42,56.35,Bookmaker_1,won,2025-06-27T00:00:00,2025-06-27T08:00:00,Won
+bet_1740249000_141,Football,match_141,both_teams_score,Under 2.5 Goals,2.12,34.37,73.04,Bookmaker_2,won,2025-02-23T00:00:00,2025-02-24T10:00:00,Won
+bet_1738607400_142,Tennis,match_142,over_under,Over 2.5 Sets,4.87,47.5,231.28,Bookmaker_3,won,2025-02-04T00:00:00,2025-02-04T14:00:00,Won
+bet_1740335400_143,Tennis,match_143,both_teams_score,Player 2 Win,1.8,14.35,25.83,Bookmaker_4,won,2025-02-24T00:00:00,2025-02-24T19:00:00,Won
+bet_1738693800_144,Football,match_144,over_under,Away Win,4.69,33.11,155.21,Bookmaker_5,won,2025-02-05T00:00:00,2025-02-05T02:00:00,Won
+bet_1745865000_145,Football,match_145,match_winner,Both Teams Score,4.21,21.32,0.0,Bookmaker_1,lost,2025-04-29T00:00:00,2025-04-30T11:00:00,Lost
+bet_1743013800_146,Football,match_146,over_under,Both Teams Score,3.21,45.25,0.0,Bookmaker_2,lost,2025-03-27T00:00:00,2025-03-27T17:00:00,Lost
+bet_1745433000_147,Cricket,match_147,match_winner,Team 1 Win,3.4,33.51,113.78,Bookmaker_3,won,2025-04-24T00:00:00,2025-04-24T22:00:00,Won
+bet_1735929000_148,Tennis,match_148,over_under,Player 1 Win,2.1,17.25,36.25,Bookmaker_4,won,2025-01-04T00:00:00,2025-01-04T18:00:00,Won
+bet_1746642600_149,Football,match_149,over_under,Over 2.5 Goals,3.24,8.02,26.02,Bookmaker_5,won,2025-05-08T00:00:00,2025-05-09T14:00:00,Won
+bet_1746124200_150,Cricket,match_150,match_winner,Team 2 Win,1.99,16.87,33.56,Bookmaker_1,won,2025-05-02T00:00:00,2025-05-03T03:00:00,Won
+bet_1750098600_151,Tennis,match_151,match_winner,Player 1 Win,3.23,30.8,0.0,Bookmaker_2,lost,2025-06-17T00:00:00,2025-06-17T21:00:00,Lost
+bet_1746124200_152,Tennis,match_152,over_under,Under 2.5 Sets,4.86,13.3,64.56,Bookmaker_3,won,2025-05-02T00:00:00,2025-05-03T02:00:00,Won
+bet_1738089000_153,Football,match_153,both_teams_score,Draw,2.74,37.36,102.54,Bookmaker_4,won,2025-01-29T00:00:00,2025-01-30T11:00:00,Won
+bet_1740249000_154,Tennis,match_154,both_teams_score,Over 2.5 Sets,4.84,11.08,0.0,Bookmaker_5,lost,2025-02-23T00:00:00,2025-02-24T12:00:00,Lost
+bet_1748370600_155,Cricket,match_155,both_teams_score,Under 300 Runs,1.68,27.34,0.0,Bookmaker_1,lost,2025-05-28T00:00:00,2025-05-29T10:00:00,Lost
+bet_1748889000_156,Tennis,match_156,match_winner,Player 1 Win,1.76,37.77,0.0,Bookmaker_2,lost,2025-06-03T00:00:00,2025-06-04T19:00:00,Lost
+bet_1744569000_157,Tennis,match_157,match_winner,Over 2.5 Sets,1.77,8.5,15.01,Bookmaker_3,won,2025-04-14T00:00:00,2025-04-15T06:00:00,Won
+bet_1744396200_158,Tennis,match_158,both_teams_score,Player 1 Win,1.82,46.28,84.25,Bookmaker_4,won,2025-04-12T00:00:00,2025-04-12T10:00:00,Won
+bet_1740508200_159,Cricket,match_159,match_winner,Under 300 Runs,3.4,44.28,0.0,Bookmaker_5,lost,2025-02-26T00:00:00,2025-02-26T21:00:00,Lost
+bet_1742581800_160,Cricket,match_160,match_winner,Team 1 Win,4.66,34.1,0.0,Bookmaker_1,lost,2025-03-22T00:00:00,2025-03-23T17:00:00,Lost
+bet_1745001000_161,Tennis,match_161,both_teams_score,Under 2.5 Sets,3.97,46.64,185.12,Bookmaker_2,won,2025-04-19T00:00:00,2025-04-19T21:00:00,Won
+bet_1743013800_162,Tennis,match_162,both_teams_score,Player 2 Win,1.92,37.9,72.83,Bookmaker_3,won,2025-03-27T00:00:00,2025-03-27T08:00:00,Won
+bet_1740681000_163,Cricket,match_163,match_winner,Team 2 Win,4.11,7.47,0.0,Bookmaker_4,lost,2025-02-28T00:00:00,2025-03-01T18:00:00,Lost
+bet_1744482600_164,Football,match_164,over_under,Clean Sheet,2.78,30.23,0.0,Bookmaker_5,lost,2025-04-13T00:00:00,2025-04-13T03:00:00,Lost
+bet_1738780200_165,Cricket,match_165,over_under,Under 300 Runs,3.5,41.18,0.0,Bookmaker_1,lost,2025-02-06T00:00:00,2025-02-06T22:00:00,Lost
+bet_1748802600_166,Football,match_166,over_under,Home Win,4.6,32.71,150.51,Bookmaker_2,won,2025-06-02T00:00:00,2025-06-03T11:00:00,Won
+bet_1750271400_167,Tennis,match_167,over_under,Over 2.5 Sets,4.56,28.8,0.0,Bookmaker_3,lost,2025-06-19T00:00:00,2025-06-20T11:00:00,Lost
+bet_1746210600_168,Cricket,match_168,over_under,Under 300 Runs,1.68,8.98,15.13,Bookmaker_4,won,2025-05-03T00:00:00,2025-05-04T20:00:00,Won
+bet_1736965800_169,Cricket,match_169,match_winner,Team 2 Win,1.82,20.14,0.0,Bookmaker_5,lost,2025-01-16T00:00:00,2025-01-16T01:00:00,Lost
+bet_1750876200_170,Cricket,match_170,match_winner,Team 2 Win,2.54,15.51,39.36,Bookmaker_1,won,2025-06-26T00:00:00,2025-06-26T01:00:00,Won
+bet_1741890600_171,Cricket,match_171,match_winner,Team 1 Win,3.88,14.82,0.0,Bookmaker_2,lost,2025-03-14T00:00:00,2025-03-15T13:00:00,Lost
+bet_1750357800_172,Tennis,match_172,both_teams_score,Under 2.5 Sets,4.59,32.04,0.0,Bookmaker_3,lost,2025-06-20T00:00:00,2025-06-21T10:00:00,Lost
+bet_1748802600_173,Cricket,match_173,both_teams_score,Under 300 Runs,4.43,15.38,0.0,Bookmaker_4,lost,2025-06-02T00:00:00,2025-06-03T22:00:00,Lost
+bet_1741977000_174,Cricket,match_174,over_under,Team 1 Win,2.27,13.39,0.0,Bookmaker_5,lost,2025-03-15T00:00:00,2025-03-15T06:00:00,Lost
+bet_1736015400_175,Football,match_175,over_under,Clean Sheet,2.26,28.32,0.0,Bookmaker_1,lost,2025-01-05T00:00:00,2025-01-06T18:00:00,Lost
+bet_1749666600_176,Tennis,match_176,over_under,Player 2 Win,4.99,45.38,0.0,Bookmaker_2,lost,2025-06-12T00:00:00,2025-06-12T13:00:00,Lost
+bet_1745951400_177,Football,match_177,both_teams_score,Home Win,3.58,31.1,111.21,Bookmaker_3,won,2025-04-30T00:00:00,2025-05-01T17:00:00,Won
+bet_1741372200_178,Cricket,match_178,match_winner,Team 1 Win,1.66,43.35,71.76,Bookmaker_4,won,2025-03-08T00:00:00,2025-03-08T15:00:00,Won
+bet_1739039400_179,Football,match_179,match_winner,Draw,1.8,23.38,42.19,Bookmaker_5,won,2025-02-09T00:00:00,2025-02-09T08:00:00,Won
+bet_1747074600_180,Tennis,match_180,over_under,Player 2 Win,4.87,9.93,0.0,Bookmaker_1,lost,2025-05-13T00:00:00,2025-05-13T13:00:00,Lost
+bet_1742581800_181,Tennis,match_181,match_winner,Under 2.5 Sets,3.31,45.79,0.0,Bookmaker_2,lost,2025-03-22T00:00:00,2025-03-23T16:00:00,Lost
+bet_1744050600_182,Cricket,match_182,match_winner,High Scoring Match,4.07,28.46,0.0,Bookmaker_3,lost,2025-04-08T00:00:00,2025-04-09T04:00:00,Lost
+bet_1743964200_183,Cricket,match_183,both_teams_score,Team 1 Win,2.67,15.74,0.0,Bookmaker_4,lost,2025-04-07T00:00:00,2025-04-08T12:00:00,Lost
+bet_1748975400_184,Tennis,match_184,both_teams_score,Player 1 Win,4.58,44.23,202.72,Bookmaker_5,won,2025-06-04T00:00:00,2025-06-04T23:00:00,Won
+bet_1750271400_185,Tennis,match_185,both_teams_score,Player 1 Win,4.1,12.23,0.0,Bookmaker_1,lost,2025-06-19T00:00:00,2025-06-19T14:00:00,Lost
+bet_1742236200_186,Football,match_186,both_teams_score,Away Win,2.5,32.76,0.0,Bookmaker_2,lost,2025-03-18T00:00:00,2025-03-18T17:00:00,Lost
+bet_1744569000_187,Cricket,match_187,over_under,Under 300 Runs,1.53,41.84,64.09,Bookmaker_3,won,2025-04-14T00:00:00,2025-04-14T19:00:00,Won
+bet_1749234600_188,Cricket,match_188,over_under,Team 1 Win,4.87,20.38,0.0,Bookmaker_4,lost,2025-06-07T00:00:00,2025-06-08T06:00:00,Lost
+bet_1738780200_189,Football,match_189,over_under,Over 2.5 Goals,2.11,39.69,0.0,Bookmaker_5,lost,2025-02-06T00:00:00,2025-02-06T17:00:00,Lost
+bet_1736620200_190,Tennis,match_190,match_winner,Player 2 Win,3.16,7.61,24.02,Bookmaker_1,won,2025-01-12T00:00:00,2025-01-12T18:00:00,Won
+bet_1739903400_191,Tennis,match_191,both_teams_score,Player 1 Win,3.06,34.14,0.0,Bookmaker_2,lost,2025-02-19T00:00:00,2025-02-19T12:00:00,Lost
+bet_1736188200_192,Football,match_192,both_teams_score,Home Win,2.63,26.99,0.0,Bookmaker_3,lost,2025-01-07T00:00:00,2025-01-07T23:00:00,Lost
+bet_1737829800_193,Tennis,match_193,over_under,Player 2 Win,4.99,24.18,0.0,Bookmaker_4,lost,2025-01-26T00:00:00,2025-01-27T15:00:00,Lost
+bet_1736879400_194,Cricket,match_194,match_winner,High Scoring Match,2.54,42.8,0.0,Bookmaker_5,lost,2025-01-15T00:00:00,2025-01-15T20:00:00,Lost
+bet_1737484200_195,Cricket,match_195,both_teams_score,Over 300 Runs,4.83,11.8,56.96,Bookmaker_1,won,2025-01-22T00:00:00,2025-01-22T21:00:00,Won
+bet_1739644200_196,Football,match_196,both_teams_score,Over 2.5 Goals,2.89,17.34,0.0,Bookmaker_2,lost,2025-02-16T00:00:00,2025-02-16T01:00:00,Lost
+bet_1740594600_197,Tennis,match_197,both_teams_score,Player 2 Win,2.25,6.4,0.0,Bookmaker_3,lost,2025-02-27T00:00:00,2025-02-27T12:00:00,Lost
+bet_1737138600_198,Cricket,match_198,both_teams_score,Under 300 Runs,2.15,44.09,0.0,Bookmaker_4,lost,2025-01-18T00:00:00,2025-01-18T15:00:00,Lost
+bet_1737916200_199,Tennis,match_199,over_under,Under 2.5 Sets,1.56,40.86,63.84,Bookmaker_5,won,2025-01-27T00:00:00,2025-01-28T00:00:00,Won

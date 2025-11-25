@@ -1,0 +1,1922 @@
+match_date,teams,venue,winner,runs_total,runs_batsman,runs_extras,team1_runs,team2_runs
+2025-01-01,Brisbane Heat|Melbourne Stars,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Melbourne Stars,302,281,21,151,151
+2025-01-01,Hobart Hurricanes|Sydney Sixers,"Bellerive Oval, Hobart",Hobart Hurricanes,272,257,15,136,136
+2025-01-01,Wellington|Northern Districts,"Seddon Park, Hamilton",Northern Districts,326,298,28,163,163
+2025-01-01,Wellington|Northern Districts,"Seddon Park, Hamilton",Wellington,296,286,10,148,148
+2025-01-02,Dhaka Capital|Durbar Rajshahi,"Shere Bangla National Stadium, Mirpur",Durbar Rajshahi,353,328,25,176,177
+2025-01-02,Fortune Barishal|Rangpur Riders,"Shere Bangla National Stadium, Mirpur",Rangpur Riders,252,226,26,126,126
+2025-01-02,Melbourne Renegades|Adelaide Strikers,"Docklands Stadium, Melbourne",Adelaide Strikers,285,276,9,142,143
+2025-01-02,Sri Lanka|New Zealand,"Saxton Oval, Nelson",Sri Lanka,429,412,17,214,215
+2025-01-03,Ace Capital Cricket Club|Ragama Cricket Club,"Surrey Village, Maggona",Ace Capital Cricket Club,860,815,45,430,430
+2025-01-03,Auckland|Canterbury,"Eden Park Outer Oval, Auckland",Auckland,590,564,26,295,295
+2025-01-03,Badureliya Sports Club|Panadura Sports Club,Panadura Esplanade,Panadura Sports Club,607,588,19,303,304
+2025-01-03,Burgher Recreation Club|Nondescripts Cricket Club,"Nondescripts Cricket Club Ground, Colombo",Nondescripts Cricket Club,763,727,36,381,382
+2025-01-03,Chittagong Kings|Durbar Rajshahi,"Shere Bangla National Stadium, Mirpur",Chittagong Kings,333,326,7,166,167
+2025-01-03,India|Australia,Sydney Cricket Ground,Australia,685,623,62,342,343
+2025-01-03,Khulna Tigers|Dhaka Capital,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,326,303,23,163,163
+2025-01-03,Perth Scorchers|Sydney Thunder,Perth Stadium,Sydney Thunder,356,333,23,178,178
+2025-01-03,South Africa|Pakistan,"Newlands, Cape Town",South Africa,1345,1271,74,672,673
+2025-01-04,Melbourne Renegades|Melbourne Stars,Melbourne Cricket Ground,Melbourne Stars,339,326,13,169,170
+2025-01-04,Wellington|Central Districts,"Saxton Oval, Nelson",Wellington,572,549,23,286,286
+2025-01-05,Adelaide Strikers|Hobart Hurricanes,"Bellerive Oval, Hobart",Hobart Hurricanes,373,358,15,186,187
+2025-01-05,Sri Lanka|New Zealand,"Basin Reserve, Wellington",New Zealand,358,334,24,179,179
+2025-01-06,Central Districts|Northern Districts,"Saxton Oval, Nelson",Central Districts,326,313,13,163,163
+2025-01-06,Central Districts|Northern Districts,"Saxton Oval, Nelson",Northern Districts,227,223,4,113,114
+2025-01-06,Durbar Rajshahi|Fortune Barishal,Sylhet International Cricket Stadium,Fortune Barishal,337,321,16,168,169
+2025-01-06,Sydney Thunder|Brisbane Heat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,347,328,19,173,174
+2025-01-06,Sylhet Strikers|Rangpur Riders,Sylhet International Cricket Stadium,Rangpur Riders,415,397,18,207,208
+2025-01-07,Canterbury|Otago,"Hagley Oval, Christchurch",Otago,339,327,12,169,170
+2025-01-07,Dhaka Capital|Rangpur Riders,Sylhet International Cricket Stadium,Rangpur Riders,224,192,32,112,112
+2025-01-07,Otago|Canterbury,"Hagley Oval, Christchurch",Otago,285,264,21,142,143
+2025-01-07,Perth Scorchers|Melbourne Renegades,Perth Stadium,Melbourne Renegades,297,282,15,148,149
+2025-01-07,Sylhet Strikers|Fortune Barishal,Sylhet International Cricket Stadium,Fortune Barishal,251,230,21,125,126
+2025-01-08,New Zealand|Sri Lanka,"Seddon Park, Hamilton",New Zealand,397,373,24,198,199
+2025-01-09,Central Districts|Wellington,"Basin Reserve, Wellington",Wellington,227,215,12,113,114
+2025-01-09,Dhaka Capital|Chittagong Kings,Sylhet International Cricket Stadium,Chittagong Kings,357,336,21,178,179
+2025-01-09,Fortune Barishal|Rangpur Riders,Sylhet International Cricket Stadium,Rangpur Riders,399,377,22,199,200
+2025-01-09,MI Cape Town|Sunrisers Eastern Cape,"St George's Park, Gqeberha",MI Cape Town,251,242,9,125,126
+2025-01-09,Melbourne Stars|Sydney Sixers,Melbourne Cricket Ground,Melbourne Stars,296,283,13,148,148
+2025-01-09,Wellington|Central Districts,"Basin Reserve, Wellington",Central Districts,388,364,24,194,194
+2025-01-10,Auckland|Canterbury,"Hagley Oval, Christchurch",Canterbury,277,258,19,138,139
+2025-01-10,Badureliya Sports Club|Police Sports Club,"Surrey Village, Maggona",Police Sports Club,449,438,11,224,225
+2025-01-10,Canterbury|Auckland,"Hagley Oval, Christchurch",Canterbury,305,286,19,152,153
+2025-01-10,Dhaka Capital|Sylhet Strikers,Sylhet International Cricket Stadium,Sylhet Strikers,388,371,17,194,194
+2025-01-10,Durban's Super Giants|Pretoria Capitals,"Kingsmead, Durban",Durban's Super Giants,416,388,28,208,208
+2025-01-10,Durbar Rajshahi|Khulna Tigers,Sylhet International Cricket Stadium,Durbar Rajshahi,328,310,18,164,164
+2025-01-10,Ireland|India,"Saurashtra Cricket Association Stadium, Rajkot",India,479,443,36,239,240
+2025-01-10,Ragama Cricket Club|Panadura Sports Club,Panadura Esplanade,Panadura Sports Club,612,579,33,306,306
+2025-01-10,Sydney Thunder|Hobart Hurricanes,"Bellerive Oval, Hobart",Hobart Hurricanes,329,311,18,164,165
+2025-01-11,Adelaide Strikers|Brisbane Heat,Adelaide Oval,Adelaide Strikers,446,427,19,223,223
+2025-01-11,Dubai Capitals|MI Emirates,Dubai International Cricket Stadium,Dubai Capitals,265,254,11,132,133
+2025-01-11,MI Cape Town|Joburg Super Kings,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,222,211,11,111,111
+2025-01-11,Sri Lanka|New Zealand,"Eden Park, Auckland",Sri Lanka,440,411,29,220,220
+2025-01-11,Sunrisers Eastern Cape|Paarl Royals,"Boland Park, Paarl",Paarl Royals,351,347,4,175,176
+2025-01-11,Sydney Sixers|Perth Scorchers,Sydney Cricket Ground,Sydney Sixers,426,407,19,213,213
+2025-01-12,Abu Dhabi Knight Riders|Desert Vipers,"Zayed Cricket Stadium, Abu Dhabi",Desert Vipers,334,323,11,167,167
+2025-01-12,Central Districts|Otago,"Fitzherbert Park, Palmerston North",Otago,449,418,31,224,225
+2025-01-12,Dhaka Capital|Durbar Rajshahi,Sylhet International Cricket Stadium,Dhaka Capital,359,340,19,179,180
+2025-01-12,England|Australia,"North Sydney Oval, Sydney",Australia,410,360,50,205,205
+2025-01-12,Gulf Giants|Sharjah Warriorz,Dubai International Cricket Stadium,Sharjah Warriorz,349,339,10,174,175
+2025-01-12,India|Ireland,"Saurashtra Cricket Association Stadium, Rajkot",India,624,578,46,312,312
+2025-01-12,Melbourne Stars|Melbourne Renegades,"Docklands Stadium, Melbourne",Melbourne Stars,288,263,25,144,144
+2025-01-12,Sylhet Strikers|Khulna Tigers,Sylhet International Cricket Stadium,Sylhet Strikers,356,344,12,178,178
+2025-01-13,Auckland|Northern Districts,"Seddon Park, Hamilton",Northern Districts,380,360,20,190,190
+2025-01-13,Chittagong Kings|Sylhet Strikers,Sylhet International Cricket Stadium,Chittagong Kings,376,357,19,188,188
+2025-01-13,MI Cape Town|Paarl Royals,"Newlands, Cape Town",MI Cape Town,311,301,10,155,156
+2025-01-13,MI Emirates|Dubai Capitals,"Zayed Cricket Stadium, Abu Dhabi",MI Emirates,348,337,11,174,174
+2025-01-13,Northern Districts|Auckland,"Seddon Park, Hamilton",Northern Districts,291,276,15,145,146
+2025-01-13,Rangpur Riders|Khulna Tigers,Sylhet International Cricket Stadium,Rangpur Riders,364,341,23,182,182
+2025-01-13,Sydney Thunder|Perth Scorchers,Sydney Showground Stadium,Sydney Thunder,255,242,13,127,128
+2025-01-14,Australia|England,"Junction Oval, Melbourne",Australia,339,315,24,169,170
+2025-01-14,Gulf Giants|Desert Vipers,Dubai International Cricket Stadium,Desert Vipers,240,226,14,120,120
+2025-01-14,Joburg Super Kings|Durban's Super Giants,"Kingsmead, Durban",Joburg Super Kings,310,285,25,155,155
+2025-01-14,Melbourne Renegades|Hobart Hurricanes,"Bellerive Oval, Hobart",Hobart Hurricanes,309,293,16,154,155
+2025-01-14,Otago|Wellington,"Basin Reserve, Wellington",Otago,313,289,24,156,157
+2025-01-14,Sunrisers Eastern Cape|Pretoria Capitals,"SuperSport Park, Centurion",Pretoria Capitals,228,220,8,114,114
+2025-01-14,Wellington|Otago,"Basin Reserve, Wellington",Otago,220,208,12,110,110
+2025-01-15,Abu Dhabi Knight Riders|Sharjah Warriorz,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi Knight Riders,288,262,26,144,144
+2025-01-15,Adelaide Strikers|Sydney Sixers,Adelaide Oval,Sydney Sixers,365,350,15,182,183
+2025-01-15,Auckland|Central Districts,"McLean Park, Napier",Auckland,269,236,33,134,135
+2025-01-15,Auckland|Central Districts,"McLean Park, Napier",Central Districts,281,266,15,140,141
+2025-01-15,India|Ireland,"Saurashtra Cricket Association Stadium, Rajkot",India,566,519,47,283,283
+2025-01-15,MI Cape Town|Paarl Royals,"Boland Park, Paarl",Paarl Royals,317,309,8,158,159
+2025-01-16,Brisbane Heat|Hobart Hurricanes,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Hobart Hurricanes,408,382,26,204,204
+2025-01-16,Chittagong Kings|Khulna Tigers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chittagong Kings,355,339,16,177,178
+2025-01-16,Dhaka Capital|Fortune Barishal,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,284,254,30,142,142
+2025-01-16,MI Emirates|Desert Vipers,Dubai International Cricket Stadium,Desert Vipers,320,311,9,160,160
+2025-01-16,Northern Districts|Otago,"University Oval, Dunedin",Northern Districts,416,397,19,208,208
+2025-01-16,Otago|Northern Districts,"University Oval, Dunedin",Northern Districts,223,216,7,111,112
+2025-01-17,Australia|England,"Bellerive Oval, Hobart",Australia,530,511,19,265,265
+2025-01-17,Canterbury|Central Districts,"McLean Park, Napier",Central Districts,239,203,36,119,120
+2025-01-17,Central Districts|Canterbury,"McLean Park, Napier",Central Districts,365,338,27,182,183
+2025-01-17,Dubai Capitals|Sharjah Warriorz,Sharjah Cricket Stadium,Sharjah Warriorz,403,385,18,201,202
+2025-01-17,Durbar Rajshahi|Sylhet Strikers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Durbar Rajshahi,303,275,28,151,152
+2025-01-17,Pakistan|West Indies,Multan Cricket Stadium,Pakistan,647,591,56,323,324
+2025-01-17,Rangpur Riders|Chittagong Kings,"Zahur Ahmed Chowdhury Stadium, Chattogram",Rangpur Riders,295,284,11,147,148
+2025-01-17,Sunrisers Eastern Cape|Durban's Super Giants,"Kingsmead, Durban",Sunrisers Eastern Cape,272,263,9,136,136
+2025-01-18,Adelaide Strikers|Perth Scorchers,Perth Stadium,Perth Scorchers,324,307,17,162,162
+2025-01-18,Brisbane Heat|Melbourne Renegades,"Docklands Stadium, Melbourne",Melbourne Renegades,395,375,20,197,198
+2025-01-18,Desert Vipers|Abu Dhabi Knight Riders,Dubai International Cricket Stadium,Desert Vipers,333,320,13,166,167
+2025-01-18,Dubai Capitals|Gulf Giants,Sharjah Cricket Stadium,Gulf Giants,333,325,8,166,167
+2025-01-18,Joburg Super Kings|MI Cape Town,"Newlands, Cape Town",MI Cape Town,345,339,6,172,173
+2025-01-18,Moors Sports Club|Nugegoda Sports Welfare Club,"De Zoysa Stadium, Moratuwa",Moors Sports Club,577,547,30,288,289
+2025-01-18,Pretoria Capitals|Paarl Royals,"SuperSport Park, Centurion",Paarl Royals,425,394,31,212,213
+2025-01-18,Wellington|Otago,"University Oval, Dunedin",Otago,243,228,15,121,122
+2025-01-18,Wellington|Otago,"University Oval, Dunedin",Wellington,339,327,12,169,170
+2025-01-19,Abu Dhabi Knight Riders|Gulf Giants,Dubai International Cricket Stadium,Abu Dhabi Knight Riders,315,303,12,157,158
+2025-01-19,Bangladesh|West Indies,"Warner Park, Basseterre, St Kitts",West Indies,400,375,25,200,200
+2025-01-19,Canterbury|Northern Districts,"Seddon Park, Hamilton",Canterbury,307,282,25,153,154
+2025-01-19,Chilaw Marians Cricket Club|Bloomfield Cricket and Athletic Club,"Bloomfield Cricket and Athletic Club Ground, Colombo",Bloomfield Cricket and Athletic Club,376,366,10,188,188
+2025-01-19,Chittagong Kings|Fortune Barishal,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,243,228,15,121,122
+2025-01-19,Durban's Super Giants|Sunrisers Eastern Cape,"St George's Park, Gqeberha",Sunrisers Eastern Cape,232,219,13,116,116
+2025-01-19,Khulna Tigers|Durbar Rajshahi,"Zahur Ahmed Chowdhury Stadium, Chattogram",Khulna Tigers,411,385,26,205,206
+2025-01-19,Melbourne Stars|Hobart Hurricanes,Melbourne Cricket Ground,Melbourne Stars,398,377,21,199,199
+2025-01-19,Northern Districts|Canterbury,"Seddon Park, Hamilton",Canterbury,279,264,15,139,140
+2025-01-19,Sharjah Warriorz|MI Emirates,Sharjah Cricket Stadium,MI Emirates,353,335,18,176,177
+2025-01-20,Auckland|Wellington,"Basin Reserve, Wellington",Auckland,377,352,25,188,189
+2025-01-20,Australia|England,Sydney Cricket Ground,Australia,339,318,21,169,170
+2025-01-20,Chittagong Kings|Durbar Rajshahi,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chittagong Kings,271,261,10,135,136
+2025-01-20,Desert Vipers|Dubai Capitals,Dubai International Cricket Stadium,Dubai Capitals,279,272,7,139,140
+2025-01-20,Dhaka Capital|Sylhet Strikers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Dhaka Capital,386,359,27,193,193
+2025-01-20,Joburg Super Kings|Paarl Royals,"Boland Park, Paarl",Paarl Royals,296,280,16,148,148
+2025-01-20,Wellington|Auckland,"Basin Reserve, Wellington",Wellington,255,242,13,127,128
+2025-01-21,Bangladesh|West Indies,"Warner Park, Basseterre, St Kitts",Bangladesh,308,287,21,154,154
+2025-01-21,Hobart Hurricanes|Sydney Sixers,"Bellerive Oval, Hobart",Hobart Hurricanes,334,319,15,167,167
+2025-01-21,MI Emirates|Abu Dhabi Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",MI Emirates,344,303,41,172,172
+2025-01-22,Canterbury|Wellington,"Basin Reserve, Wellington",Canterbury,317,294,23,158,159
+2025-01-22,Chittagong Kings|Dhaka Capital,"Zahur Ahmed Chowdhury Stadium, Chattogram",Dhaka Capital,297,280,17,148,149
+2025-01-22,England|India,"Eden Gardens, Kolkata",India,265,248,17,132,133
+2025-01-22,Fortune Barishal|Khulna Tigers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,327,311,16,163,164
+2025-01-22,Sharjah Warriorz|Desert Vipers,Dubai International Cricket Stadium,Desert Vipers,186,182,4,93,93
+2025-01-22,Sunrisers Eastern Cape|Pretoria Capitals,"St George's Park, Gqeberha",Sunrisers Eastern Cape,246,239,7,123,123
+2025-01-22,Sydney Thunder|Melbourne Stars,Sydney Showground Stadium,Sydney Thunder,249,236,13,124,125
+2025-01-22,Wellington|Canterbury,"Basin Reserve, Wellington",Wellington,303,275,28,151,152
+2025-01-23,Auckland|Otago,"Eden Park Outer Oval, Auckland",Auckland,624,601,23,312,312
+2025-01-23,Australia|England,"Manuka Oval, Canberra",Australia,353,331,22,176,177
+2025-01-23,Durban's Super Giants|Paarl Royals,"Kingsmead, Durban",Paarl Royals,288,277,11,144,144
+2025-01-23,Durbar Rajshahi|Rangpur Riders,"Zahur Ahmed Chowdhury Stadium, Chattogram",Durbar Rajshahi,316,305,11,158,158
+2025-01-23,Gulf Giants|Dubai Capitals,Dubai International Cricket Stadium,Dubai Capitals,307,297,10,153,154
+2025-01-23,Sylhet Strikers|Khulna Tigers,"Zahur Ahmed Chowdhury Stadium, Chattogram",Khulna Tigers,308,297,11,154,154
+2025-01-24,Abu Dhabi Knight Riders|MI Emirates,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi Knight Riders,322,305,17,161,161
+2025-01-24,Badureliya Sports Club|Colts Cricket Club,"Surrey Village, Maggona",Colts Cricket Club,525,513,12,262,263
+2025-01-24,Bangladesh|West Indies,"Warner Park, Basseterre, St Kitts",West Indies,240,223,17,120,120
+2025-01-24,Canterbury|Wellington,"Hagley Oval, Christchurch",Wellington,205,192,13,102,103
+2025-01-24,Sinhalese Sports Club|Burgher Recreation Club,"Burgher Recreation Club Ground, Colombo",Burgher Recreation Club,632,575,57,316,316
+2025-01-24,Sunrisers Eastern Cape|Joburg Super Kings,"St George's Park, Gqeberha",Sunrisers Eastern Cape,316,294,22,158,158
+2025-01-24,Sydney Sixers|Sydney Thunder,Sydney Cricket Ground,Sydney Thunder,308,300,8,154,154
+2025-01-24,Wellington|Canterbury,"Hagley Oval, Christchurch",Wellington,303,284,19,151,152
+2025-01-25,Australia|England,Adelaide Oval,Australia,252,241,11,126,126
+2025-01-25,Durban's Super Giants|MI Cape Town,"Newlands, Cape Town",MI Cape Town,303,293,10,151,152
+2025-01-25,England|India,"MA Chidambaram Stadium, Chepauk, Chennai",India,331,318,13,165,166
+2025-01-25,Kandy Customs Cricket Club|Tamil Union Cricket and Athletic Club,"Thurstan College Ground, Colombo",Tamil Union Cricket and Athletic Club,559,532,27,279,280
+2025-01-25,MI Emirates|Gulf Giants,"Zayed Cricket Stadium, Abu Dhabi",Gulf Giants,303,287,16,151,152
+2025-01-25,Northern Districts|Otago,"Bay Oval, Mount Maunganui",Otago,255,243,12,127,128
+2025-01-25,Otago|Northern Districts,"Bay Oval, Mount Maunganui",Northern Districts,289,272,17,144,145
+2025-01-25,Paarl Royals|Pretoria Capitals,"Boland Park, Paarl",Paarl Royals,269,244,25,134,135
+2025-01-25,Sharjah Warriorz|Desert Vipers,Sharjah Cricket Stadium,Desert Vipers,303,282,21,151,152
+2025-01-25,West Indies|Pakistan,Multan Cricket Stadium,West Indies,694,644,50,347,347
+2025-01-26,Abu Dhabi Knight Riders|Dubai Capitals,"Zayed Cricket Stadium, Abu Dhabi",Dubai Capitals,410,388,22,205,205
+2025-01-26,Canterbury|Central Districts,"Hagley Oval, Christchurch",Canterbury,225,207,18,112,113
+2025-01-26,Durbar Rajshahi|Rangpur Riders,"Shere Bangla National Stadium, Mirpur",Durbar Rajshahi,236,223,13,118,118
+2025-01-26,Sharjah Warriorz|Gulf Giants,Sharjah Cricket Stadium,Gulf Giants,343,324,19,171,172
+2025-01-26,Sunrisers Eastern Cape|Joburg Super Kings,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,237,226,11,118,119
+2025-01-26,Sylhet Strikers|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,236,219,17,118,118
+2025-01-27,Auckland|Wellington,"Eden Park Outer Oval, Auckland",Auckland,275,252,23,137,138
+2025-01-27,Auckland|Wellington,"Eden Park Outer Oval, Auckland",Wellington,302,276,26,151,151
+2025-01-27,Bangladesh|West Indies,"Warner Park, Basseterre, St Kitts",West Indies,289,274,15,144,145
+2025-01-27,Durban's Super Giants|Paarl Royals,"Boland Park, Paarl",Paarl Royals,290,278,12,145,145
+2025-01-27,Khulna Tigers|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,375,363,12,187,188
+2025-01-27,MI Emirates|Desert Vipers,"Zayed Cricket Stadium, Abu Dhabi",MI Emirates,302,290,12,151,151
+2025-01-27,Sydney Thunder|Hobart Hurricanes,"Bellerive Oval, Hobart",Hobart Hurricanes,367,351,16,183,184
+2025-01-27,Sylhet Strikers|Durbar Rajshahi,"Shere Bangla National Stadium, Mirpur",Durbar Rajshahi,238,220,18,119,119
+2025-01-28,Canterbury|Northern Districts,"Hagley Oval, Christchurch",Canterbury,294,275,19,147,147
+2025-01-28,Canterbury|Northern Districts,"Hagley Oval, Christchurch",Northern Districts,235,224,11,117,118
+2025-01-28,Dubai Capitals|Sharjah Warriorz,Dubai International Cricket Stadium,Sharjah Warriorz,266,256,10,133,133
+2025-01-28,England|India,"Saurashtra Cricket Association Stadium, Rajkot",England,316,294,22,158,158
+2025-01-28,Joburg Super Kings|Pretoria Capitals,"SuperSport Park, Centurion",Pretoria Capitals,199,189,10,99,100
+2025-01-29,Auckland|Central Districts,"McLean Park, Napier",Auckland,258,243,15,129,129
+2025-01-29,Auckland|Central Districts,"McLean Park, Napier",Central Districts,296,282,14,148,148
+2025-01-29,Australia|Sri Lanka,Galle International Stadium,Australia,1066,1043,23,533,533
+2025-01-29,Dhaka Capital|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,150,135,15,75,75
+2025-01-29,Gulf Giants|Desert Vipers,Dubai International Cricket Stadium,Desert Vipers,259,255,4,129,130
+2025-01-29,Rangpur Riders|Chittagong Kings,"Shere Bangla National Stadium, Mirpur",Chittagong Kings,291,272,19,145,146
+2025-01-29,Sunrisers Eastern Cape|MI Cape Town,"Newlands, Cape Town",MI Cape Town,217,211,6,108,109
+2025-01-29,West Indies|Bangladesh,"Warner Park, Basseterre, St Kitts",West Indies,296,271,25,148,148
+2025-01-30,Abu Dhabi Knight Riders|Sharjah Warriorz,Sharjah Cricket Stadium,Sharjah Warriorz,323,305,18,161,162
+2025-01-30,Bloomfield Cricket and Athletic Club|Police Sports Club,"Police Park Ground, Colombo",Bloomfield Cricket and Athletic Club,625,594,31,312,313
+2025-01-30,Chittagong Kings|Sylhet Strikers,"Shere Bangla National Stadium, Mirpur",Chittagong Kings,296,271,25,148,148
+2025-01-30,England|Australia,Melbourne Cricket Ground,Australia,758,727,31,379,379
+2025-01-30,Khulna Tigers|Rangpur Riders,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,394,378,16,197,197
+2025-01-30,Netherlands|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,294,269,25,147,147
+2025-01-30,Paarl Royals|Joburg Super Kings,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,301,277,24,150,151
+2025-01-31,Ace Capital Cricket Club|Negombo Cricket Club,"FTZ Sports Complex (Board of Investment), Katunayake",Ace Capital Cricket Club,856,822,34,428,428
+2025-01-31,Bangladesh|West Indies,"Warner Park, Basseterre, St Kitts",West Indies,209,191,18,104,105
+2025-01-31,Chilaw Marians Cricket Club|Panadura Sports Club,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Chilaw Marians Cricket Club,642,606,36,321,321
+2025-01-31,Gulf Giants|MI Emirates,Dubai International Cricket Stadium,MI Emirates,347,334,13,173,174
+2025-01-31,India|England,"Maharashtra Cricket Association Stadium, Pune",India,347,331,16,173,174
+2025-01-31,MI Cape Town|Pretoria Capitals,"SuperSport Park, Centurion",MI Cape Town,417,406,11,208,209
+2025-01-31,Netherlands|Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",Thailand,247,226,21,123,124
+2025-01-31,Tamil Union Cricket and Athletic Club|Burgher Recreation Club,"Burgher Recreation Club Ground, Colombo",Tamil Union Cricket and Athletic Club,797,759,38,398,399
+2025-02-01,Abu Dhabi Knight Riders|Gulf Giants,"Zayed Cricket Stadium, Abu Dhabi",Gulf Giants,247,227,20,123,124
+2025-02-01,Chittagong Kings|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Chittagong Kings,388,367,21,194,194
+2025-02-01,Dhaka Capital|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,251,238,13,125,126
+2025-02-01,Durban's Super Giants|Joburg Super Kings,"The Wanderers Stadium, Johannesburg",Durban's Super Giants,308,296,12,154,154
+2025-02-01,Nepal|Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",Thailand,203,188,15,101,102
+2025-02-01,Northern Districts|Canterbury,"Basin Reserve, Wellington",Canterbury,221,214,7,110,111
+2025-02-01,Sunrisers Eastern Cape|Paarl Royals,"St George's Park, Gqeberha",Sunrisers Eastern Cape,248,239,9,124,124
+2025-02-01,Wellington|Northern Districts,"Basin Reserve, Wellington",Wellington,243,230,13,121,122
+2025-02-02,Canterbury|Central Districts,"Basin Reserve, Wellington",Central Districts,271,252,19,135,136
+2025-02-02,Dubai Capitals|Abu Dhabi Knight Riders,Dubai International Cricket Stadium,Dubai Capitals,408,399,9,204,204
+2025-02-02,India|England,"Wankhede Stadium, Mumbai",India,344,334,10,172,172
+2025-02-02,MI Cape Town|Pretoria Capitals,"Newlands, Cape Town",MI Cape Town,307,291,16,153,154
+2025-02-02,MI Emirates|Sharjah Warriorz,"Zayed Cricket Stadium, Abu Dhabi",Sharjah Warriorz,349,329,20,174,175
+2025-02-02,Netherlands|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,265,242,23,132,133
+2025-02-02,Wellington|Otago,"Basin Reserve, Wellington",Wellington,200,194,6,100,100
+2025-02-03,Chittagong Kings|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,299,285,14,149,150
+2025-02-03,Desert Vipers|Dubai Capitals,Sharjah Cricket Stadium,Dubai Capitals,275,264,11,137,138
+2025-02-03,Hungary|Malta,Marsa Sports Club,Hungary,210,189,21,105,105
+2025-02-03,Malta|Austria,Marsa Sports Club,Austria,301,283,18,150,151
+2025-02-03,Rangpur Riders|Khulna Tigers,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,174,158,16,87,87
+2025-02-03,Thailand|Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",Thailand,155,144,11,77,78
+2025-02-04,Hungary|Austria,Marsa Sports Club,Austria,373,350,23,186,187
+2025-02-04,MI Cape Town|Paarl Royals,"St George's Park, Gqeberha",MI Cape Town,359,335,24,179,180
+2025-02-04,Malta|Hungary,Marsa Sports Club,Hungary,357,334,23,178,179
+2025-02-04,Thailand|Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",Thailand,207,196,11,103,104
+2025-02-05,Austria|Hungary,Marsa Sports Club,Hungary,198,184,14,99,99
+2025-02-05,Desert Vipers|Dubai Capitals,Dubai International Cricket Stadium,Dubai Capitals,382,374,8,191,191
+2025-02-05,Khulna Tigers|Chittagong Kings,"Shere Bangla National Stadium, Mirpur",Chittagong Kings,327,306,21,163,164
+2025-02-05,Malta|Austria,Marsa Sports Club,Austria,338,321,17,169,169
+2025-02-05,Nepal|Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,296,281,15,148,148
+2025-02-05,Sunrisers Eastern Cape|Joburg Super Kings,"SuperSport Park, Centurion",Sunrisers Eastern Cape,336,319,17,168,168
+2025-02-05,Tasmania|New South Wales,"University of Tasmania Stadium, Launceston",New South Wales,414,393,21,207,207
+2025-02-06,England|India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,499,481,18,249,250
+2025-02-06,Ireland|Zimbabwe,"Queens Sports Club, Bulawayo",Ireland,1053,1000,53,526,527
+2025-02-06,MI Emirates|Sharjah Warriorz,"Zayed Cricket Stadium, Abu Dhabi",Sharjah Warriorz,295,285,10,147,148
+2025-02-06,Paarl Royals|Sunrisers Eastern Cape,"SuperSport Park, Centurion",Sunrisers Eastern Cape,352,337,15,176,176
+2025-02-06,Singapore|Hong Kong,"Mission Road Ground, Mong Kok, Hong Kong",Hong Kong,346,315,31,173,173
+2025-02-06,Sri Lanka|Australia,Galle International Stadium,Australia,977,938,39,488,489
+2025-02-06,Thailand|Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,219,204,15,109,110
+2025-02-07,Chilaw Marians Cricket Club|Badureliya Sports Club,"Surrey Village, Maggona",Badureliya Sports Club,624,601,23,312,312
+2025-02-07,Chittagong Kings|Fortune Barishal,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,389,368,21,194,195
+2025-02-07,Colombo Cricket Club|Kurunegala Youth Cricket Club,Colombo Cricket Club Ground,Colombo Cricket Club,902,878,24,451,451
+2025-02-07,Moors Sports Club|Nondescripts Cricket Club,"De Zoysa Stadium, Moratuwa",Nondescripts Cricket Club,928,875,53,464,464
+2025-02-07,Negombo Cricket Club|Panadura Sports Club,"FTZ Sports Complex (Board of Investment), Katunayake",Negombo Cricket Club,902,839,63,451,451
+2025-02-07,Nepal|Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",Thailand,163,148,15,81,82
+2025-02-07,Sharjah Warriorz|Desert Vipers,Sharjah Cricket Stadium,Desert Vipers,327,313,14,163,164
+2025-02-07,Tamil Union Cricket and Athletic Club|Sinhalese Sports Club,"Sinhalese Sports Club Ground, Colombo",Sinhalese Sports Club,1056,1024,32,528,528
+2025-02-07,Tanzania|Italy,Kowloon Cricket Club,Italy,189,171,18,94,95
+2025-02-07,Uganda|Bahrain,"Mission Road Ground, Mong Kok, Hong Kong",Uganda,446,418,28,223,223
+2025-02-08,MI Cape Town|Sunrisers Eastern Cape,"The Wanderers Stadium, Johannesburg",MI Cape Town,286,273,13,143,143
+2025-02-08,New Zealand|Pakistan,"Gaddafi Stadium, Lahore",New Zealand,582,559,23,291,291
+2025-02-08,Queensland|New South Wales,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Queensland,1164,1102,62,582,582
+2025-02-08,Tasmania|Victoria,"Bellerive Oval, Hobart",Tasmania,1034,1001,33,517,517
+2025-02-08,United States of America|Namibia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,472,457,15,236,236
+2025-02-08,Western Australia|South Australia,"Western Australia Cricket Association Ground, Perth",South Australia,376,351,25,188,188
+2025-02-09,Bahrain|Hong Kong,Kowloon Cricket Club,Hong Kong,369,347,22,184,185
+2025-02-09,Desert Vipers|Dubai Capitals,Dubai International Cricket Stadium,Dubai Capitals,380,361,19,190,190
+2025-02-09,England|India,"Barabati Stadium, Cuttack",India,612,589,23,306,306
+2025-02-09,Singapore|Italy,"Mission Road Ground, Mong Kok, Hong Kong",Italy,345,332,13,172,173
+2025-02-10,Namibia|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,315,292,23,157,158
+2025-02-10,Singapore|Uganda,Kowloon Cricket Club,Uganda,488,436,52,244,244
+2025-02-10,South Africa|New Zealand,"Gaddafi Stadium, Lahore",New Zealand,612,573,39,306,306
+2025-02-10,Tanzania|Bahrain,"Mission Road Ground, Mong Kok, Hong Kong",Bahrain,279,256,23,139,140
+2025-02-12,India|England,"Narendra Modi Stadium, Ahmedabad",India,570,545,25,285,285
+2025-02-12,South Africa|Pakistan,"National Stadium, Karachi",Pakistan,707,674,33,353,354
+2025-02-12,Sri Lanka|Australia,"R Premadasa Stadium, Colombo",Sri Lanka,379,352,27,189,190
+2025-02-12,United States of America|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,303,285,18,151,152
+2025-02-13,Chilaw Marians Cricket Club|Ragama Cricket Club,"Surrey Village, Maggona",Chilaw Marians Cricket Club,697,680,17,348,349
+2025-02-13,Queensland|New South Wales,"Allan Border Field, Brisbane",Queensland,566,530,36,283,283
+2025-02-13,Singapore|Bahrain,"Mission Road Ground, Mong Kok, Hong Kong",Bahrain,240,218,22,120,120
+2025-02-13,South Australia|Western Australia,"Western Australia Cricket Association Ground, Perth",South Australia,372,350,22,186,186
+2025-02-13,Uganda|Hong Kong,Kowloon Cricket Club,Uganda,476,434,42,238,238
+2025-02-13,Victoria|Tasmania,"Bellerive Oval, Hobart",Tasmania,536,519,17,268,268
+2025-02-14,Ace Capital Cricket Club|Police Sports Club,"Police Park Ground, Colombo",Police Sports Club,630,615,15,315,315
+2025-02-14,Gujarat Giants|Royal Challengers Bengaluru,"Kotambi Stadium, Vadodara",Royal Challengers Bengaluru,403,379,24,201,202
+2025-02-14,Kandy Customs Cricket Club|Colombo Cricket Club,Colombo Cricket Club Ground,Colombo Cricket Club,755,724,31,377,378
+2025-02-14,Kurunegala Youth Cricket Club|Moors Sports Club,"Welagedara Stadium, Kurunegala",Moors Sports Club,651,627,24,325,326
+2025-02-14,Pakistan|New Zealand,"National Stadium, Karachi",New Zealand,485,448,37,242,243
+2025-02-14,Sri Lanka|Australia,"R Premadasa Stadium, Colombo",Sri Lanka,388,377,11,194,194
+2025-02-14,United States of America|Namibia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,466,450,16,233,233
+2025-02-14,Zimbabwe|Ireland,Harare Sports Club,Zimbabwe,549,509,40,274,275
+2025-02-15,Bahrain|Italy,Kowloon Cricket Club,Italy,262,249,13,131,131
+2025-02-15,Mumbai Indians|Delhi Capitals,"Kotambi Stadium, Vadodara",Delhi Capitals,329,311,18,164,165
+2025-02-15,Uganda|Tanzania,"Mission Road Ground, Mong Kok, Hong Kong",Uganda,237,227,10,118,119
+2025-02-16,Hong Kong|Italy,"Mission Road Ground, Mong Kok, Hong Kong",Italy,293,275,18,146,147
+2025-02-16,Namibia|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,196,171,25,98,98
+2025-02-16,Tanzania|Singapore,Kowloon Cricket Club,Tanzania,287,264,23,143,144
+2025-02-16,UP Warriorz|Gujarat Giants,"Kotambi Stadium, Vadodara",Gujarat Giants,287,281,6,143,144
+2025-02-16,Zimbabwe|Ireland,Harare Sports Club,Ireland,494,453,41,247,247
+2025-02-17,Delhi Capitals|Royal Challengers Bengaluru,"Kotambi Stadium, Vadodara",Royal Challengers Bengaluru,287,270,17,143,144
+2025-02-18,Gujarat Giants|Mumbai Indians,"Kotambi Stadium, Vadodara",Mumbai Indians,242,233,9,121,121
+2025-02-18,Ireland|Zimbabwe,Harare Sports Club,Zimbabwe,486,466,20,243,243
+2025-02-18,New South Wales|Victoria,Sydney Cricket Ground,New South Wales,748,671,77,374,374
+2025-02-18,Queensland|Western Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Western Australia,612,572,40,306,306
+2025-02-18,South Australia|Tasmania,Adelaide Oval,South Australia,875,830,45,437,438
+2025-02-18,United States of America|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,187,172,15,93,94
+2025-02-19,Bahrain|Indonesia,Udayana Cricket Ground,Bahrain,249,242,7,124,125
+2025-02-19,New Zealand|Pakistan,"National Stadium, Karachi",New Zealand,580,562,18,290,290
+2025-02-19,UP Warriorz|Delhi Capitals,"Kotambi Stadium, Vadodara",Delhi Capitals,333,324,9,166,167
+2025-02-20,Bangladesh|India,Dubai International Cricket Stadium,India,459,447,12,229,230
+2025-02-20,Indonesia|Bahrain,Udayana Cricket Ground,Bahrain,55,49,6,27,28
+2025-02-20,Oman|United States of America,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,384,366,18,192,192
+2025-02-21,Kandy Customs Cricket Club|Moors Sports Club,"Police Park Ground, Colombo",Moors Sports Club,647,619,28,323,324
+2025-02-21,Nugegoda Sports Welfare Club|Tamil Union Cricket and Athletic Club,"Army Ground, Panagoda",Tamil Union Cricket and Athletic Club,664,640,24,332,332
+2025-02-21,Oman|United States of America,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,283,273,10,141,142
+2025-02-21,Royal Challengers Bengaluru|Mumbai Indians,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,337,326,11,168,169
+2025-02-22,Bahrain|Indonesia,Udayana Cricket Ground,Indonesia,257,242,15,128,129
+2025-02-22,England|Australia,"Gaddafi Stadium, Lahore",Australia,707,670,37,353,354
+2025-02-22,UP Warriorz|Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",UP Warriorz,321,294,27,160,161
+2025-02-23,Bahrain|Indonesia,Udayana Cricket Ground,Bahrain,320,308,12,160,160
+2025-02-23,Ireland|Zimbabwe,Harare Sports Club,Zimbabwe,278,268,10,139,139
+2025-02-23,New South Wales|Victoria,"Cricket Central, Sydney",Victoria,621,599,22,310,311
+2025-02-23,Oman|United States of America,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,250,247,3,125,125
+2025-02-23,Pakistan|India,Dubai International Cricket Stadium,India,485,457,28,242,243
+2025-02-23,Queensland|Western Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Western Australia,263,249,14,131,132
+2025-02-23,South Australia|Tasmania,Adelaide Oval,Tasmania,659,636,23,329,330
+2025-02-24,Bangladesh|New Zealand,Rawalpindi Cricket Stadium,New Zealand,476,445,31,238,238
+2025-02-24,Indonesia|Bahrain,Udayana Cricket Ground,Bahrain,244,230,14,122,122
+2025-02-25,Gujarat Giants|Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,258,229,29,129,129
+2025-02-26,UP Warriorz|Mumbai Indians,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,285,272,13,142,143
+2025-02-27,Royal Challengers Bengaluru|Gujarat Giants,"M Chinnaswamy Stadium, Bengaluru",Gujarat Giants,251,234,17,125,126
+2025-02-28,Badureliya Sports Club|Bloomfield Cricket and Athletic Club,"Bloomfield Cricket and Athletic Club Ground, Colombo",Bloomfield Cricket and Athletic Club,683,661,22,341,342
+2025-02-28,Bahrain|Singapore,Singapore National Cricket Ground,Bahrain,303,283,20,151,152
+2025-02-28,Mumbai Indians|Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,247,234,13,123,124
+2025-03-01,England|South Africa,"National Stadium, Karachi",South Africa,360,331,29,180,180
+2025-03-01,Royal Challengers Bengaluru|Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,298,284,14,149,149
+2025-03-01,Singapore|Bahrain,Singapore National Cricket Ground,Bahrain,215,199,16,107,108
+2025-03-01,South Australia|Victoria,Adelaide Oval,South Australia,472,432,40,236,236
+2025-03-02,India|New Zealand,Dubai International Cricket Stadium,India,454,433,21,227,227
+2025-03-02,Singapore|Bahrain,Singapore National Cricket Ground,Bahrain,288,269,19,144,144
+2025-03-03,Gujarat Giants|UP Warriorz,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Giants,291,277,14,145,146
+2025-03-04,Australia|India,Dubai International Cricket Stadium,India,531,521,10,265,266
+2025-03-05,New Zealand|South Africa,"Gaddafi Stadium, Lahore",New Zealand,674,656,18,337,337
+2025-03-05,Northern Districts|Canterbury,"Seddon Park, Hamilton",Northern Districts,1262,1174,88,631,631
+2025-03-05,Wellington Firebirds|Otago Volts,"Basin Reserve, Wellington",Wellington Firebirds,1171,1092,79,585,586
+2025-03-06,Queensland|Tasmania,"Bellerive Oval, Hobart",Queensland,1013,968,45,506,507
+2025-03-06,UP Warriorz|Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,303,285,18,151,152
+2025-03-06,Victoria|South Australia,"Junction Oval, Melbourne",South Australia,1165,1098,67,582,583
+2025-03-07,Delhi Capitals|Gujarat Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Giants,355,342,13,177,178
+2025-03-07,Netherlands|Namibia,"Wanderers Cricket Ground, Windhoek",Netherlands,265,250,15,132,133
+2025-03-07,New Zealand|Sri Lanka,"Saxton Oval, Nelson",New Zealand,412,387,25,206,206
+2025-03-08,Hong Kong|Uganda,Entebbe Cricket Oval,Uganda,153,140,13,76,77
+2025-03-08,Nepal|Namibia,Entebbe Cricket Oval,Namibia,163,142,21,81,82
+2025-03-08,UP Warriorz|Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",UP Warriorz,438,423,15,219,219
+2025-03-09,Namibia|Hong Kong,Entebbe Cricket Oval,Hong Kong,227,201,26,113,114
+2025-03-09,New Zealand|India,Dubai International Cricket Stadium,India,505,481,24,252,253
+2025-03-09,New Zealand|Sri Lanka,"Saxton Oval, Nelson",New Zealand,462,434,28,231,231
+2025-03-09,Uganda|Nepal,Entebbe Cricket Oval,Nepal,151,133,18,75,76
+2025-03-10,Brazil|Argentina,"St Albans Club, Buenos Aires",Brazil,113,87,26,56,57
+2025-03-10,Canada|United States of America,"St Albans Club, Buenos Aires",Canada,93,78,15,46,47
+2025-03-10,Hong Kong|Nepal,Entebbe Cricket Oval,Hong Kong,198,185,13,99,99
+2025-03-10,Malaysia|Bahrain,"Bayuemas Oval, Kuala Lumpur",Bahrain,255,249,6,127,128
+2025-03-10,Mumbai Indians|Gujarat Giants,"Brabourne Stadium, Mumbai",Mumbai Indians,349,339,10,174,175
+2025-03-10,Uganda|Namibia,Entebbe Cricket Oval,Uganda,141,131,10,70,71
+2025-03-10,Vanuatu|Samoa,"N'Du Stadium, Noumea, New Caledonia",Vanuatu,164,126,38,82,82
+2025-03-11,Argentina|Canada,"St Albans Club, Buenos Aires",Argentina,189,159,30,94,95
+2025-03-11,Hong Kong|Bahrain,"Bayuemas Oval, Kuala Lumpur",Bahrain,239,235,4,119,120
+2025-03-11,Royal Challengers Bengaluru|Mumbai Indians,"Brabourne Stadium, Mumbai",Royal Challengers Bengaluru,387,376,11,193,194
+2025-03-11,United States of America|Brazil,"St Albans Club, Buenos Aires",United States of America,134,121,13,67,67
+2025-03-11,Vanuatu|France,"N'Du Stadium, Noumea, New Caledonia",Vanuatu,168,140,28,84,84
+2025-03-12,France|Samoa,"N'Du Stadium, Noumea, New Caledonia",Samoa,65,55,10,32,33
+2025-03-12,Hong Kong|Malaysia,"Bayuemas Oval, Kuala Lumpur",Hong Kong,328,314,14,164,164
+2025-03-12,Namibia|Nepal,Entebbe Cricket Oval,Namibia,227,209,18,113,114
+2025-03-12,Uganda|Hong Kong,Entebbe Cricket Oval,Hong Kong,247,217,30,123,124
+2025-03-12,Vanuatu|Fiji,"N'Du Stadium, Noumea, New Caledonia",Vanuatu,204,167,37,102,102
+2025-03-13,Bahrain|Malaysia,"Bayuemas Oval, Kuala Lumpur",Bahrain,217,200,17,108,109
+2025-03-13,Brazil|Canada,"St Albans Club, Buenos Aires",Canada,114,101,13,57,57
+2025-03-13,Fiji|France,"N'Du Stadium, Noumea, New Caledonia",Fiji,174,125,49,87,87
+2025-03-13,Hong Kong|Namibia,Entebbe Cricket Oval,Namibia,161,144,17,80,81
+2025-03-13,Mumbai Indians|Gujarat Giants,"Brabourne Stadium, Mumbai",Mumbai Indians,379,365,14,189,190
+2025-03-13,Namibia|Netherlands,"Wanderers Cricket Ground, Windhoek",Netherlands,297,275,22,148,149
+2025-03-13,Otago Volts|Central Stags,"Molyneux Park, Alexandra",Otago Volts,1178,1124,54,589,589
+2025-03-13,Uganda|Nepal,Entebbe Cricket Oval,Uganda,142,131,11,71,71
+2025-03-13,United States of America|Argentina,"St Albans Club, Buenos Aires",United States of America,177,150,27,88,89
+2025-03-13,Wellington Firebirds|Canterbury,"Mainpower Oval, Rangiora",Wellington Firebirds,1121,1069,52,560,561
+2025-03-14,Canada|Argentina,"St Albans Club, Buenos Aires",Canada,184,162,22,92,92
+2025-03-14,Hong Kong|Nepal,Entebbe Cricket Oval,Nepal,209,190,19,104,105
+2025-03-14,New Zealand|Sri Lanka,"Hagley Oval, Christchurch",Sri Lanka,203,195,8,101,102
+2025-03-14,Uganda|Namibia,Entebbe Cricket Oval,Uganda,164,141,23,82,82
+2025-03-14,United States of America|Brazil,"St Albans Club, Buenos Aires",United States of America,216,198,18,108,108
+2025-03-14,Vanuatu|Samoa,"N'Du Stadium, Noumea, New Caledonia",Samoa,157,134,23,78,79
+2025-03-15,Malaysia|Hong Kong,"Bayuemas Oval, Kuala Lumpur",Hong Kong,189,167,22,94,95
+2025-03-15,Mumbai Indians|Delhi Capitals,"Brabourne Stadium, Mumbai",Mumbai Indians,290,280,10,145,145
+2025-03-15,Namibia|Canada,"Wanderers Cricket Ground, Windhoek",Namibia,340,312,28,170,170
+2025-03-15,Tasmania|New South Wales,"Bellerive Oval, Hobart",Tasmania,1102,1055,47,551,551
+2025-03-15,Victoria|Western Australia,"Western Australia Cricket Association Ground, Perth",Victoria,1100,1049,51,550,550
+2025-03-16,Argentina|United States of America,"St Albans Club, Buenos Aires",United States of America,127,109,18,63,64
+2025-03-16,Namibia|Uganda,Entebbe Cricket Oval,Uganda,143,121,22,71,72
+2025-03-16,Pakistan|New Zealand,"Hagley Oval, Christchurch",New Zealand,183,173,10,91,92
+2025-03-16,Sri Lanka|New Zealand,"Hagley Oval, Christchurch",New Zealand,230,221,9,115,115
+2025-03-17,Argentina|Brazil,"St Albans Club, Buenos Aires",Brazil,109,97,12,54,55
+2025-03-17,Hong Kong|Bahrain,"Bayuemas Oval, Kuala Lumpur",Bahrain,255,241,14,127,128
+2025-03-17,United States of America|Canada,"St Albans Club, Buenos Aires",United States of America,184,171,13,92,92
+2025-03-18,Pakistan|New Zealand,"University Oval, Dunedin",New Zealand,272,259,13,136,136
+2025-03-19,Canada|Namibia,"Namibia Cricket Ground, Windhoek",Namibia,291,272,19,145,146
+2025-03-21,Central Stags|Canterbury,"Hagley Oval, Christchurch",Canterbury,714,671,43,357,357
+2025-03-21,New Zealand|Australia,"Eden Park, Auckland",Australia,275,261,14,137,138
+2025-03-21,New Zealand|Pakistan,"Eden Park, Auckland",Pakistan,411,389,22,205,206
+2025-03-21,Northern Districts|Wellington Firebirds,"Basin Reserve, Wellington",Northern Districts,888,843,45,444,444
+2025-03-22,Canada|Namibia,"Namibia Cricket Ground, Windhoek",Namibia,84,75,9,42,42
+2025-03-22,Kolkata Knight Riders|Royal Challengers Bengaluru,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,351,342,9,175,176
+2025-03-23,Australia|New Zealand,"Bay Oval, Mount Maunganui",Australia,326,305,21,163,163
+2025-03-23,Canada|Namibia,"Namibia Cricket Ground, Windhoek",Namibia,285,269,16,142,143
+2025-03-23,Mumbai Indians|Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,313,298,15,156,157
+2025-03-23,New Zealand|Pakistan,"Bay Oval, Mount Maunganui",New Zealand,325,295,30,162,163
+2025-03-23,Sunrisers Hyderabad|Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,528,497,31,264,264
+2025-03-24,Lucknow Super Giants|Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,420,405,15,210,210
+2025-03-25,Punjab Kings|Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,475,449,26,237,238
+2025-03-26,Australia|New Zealand,"Sky Stadium, Wellington",Australia,352,345,7,176,176
+2025-03-26,Pakistan|New Zealand,"Sky Stadium, Wellington",New Zealand,259,244,15,129,130
+2025-03-26,Queensland|South Australia,"Karen Rolton Oval, Adelaide",South Australia,1081,1035,46,540,541
+2025-03-26,Rajasthan Royals|Kolkata Knight Riders,"Barsapara Cricket Stadium, Guwahati",Kolkata Knight Riders,304,289,15,152,152
+2025-03-27,Sunrisers Hyderabad|Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,383,362,21,191,192
+2025-03-28,Royal Challengers Bengaluru|Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,342,328,14,171,171
+2025-03-29,Auckland Aces|Central Stags,"Fitzherbert Park, Palmerston North",Central Stags,549,526,23,274,275
+2025-03-29,Gujarat Titans|Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,356,332,24,178,178
+2025-03-29,New Zealand|Pakistan,"McLean Park, Napier",New Zealand,615,545,70,307,308
+2025-03-29,Northern Districts|Otago Volts,"University Oval, Dunedin",Northern Districts,968,925,43,484,484
+2025-03-29,Wellington Firebirds|Canterbury,"Basin Reserve, Wellington",Wellington Firebirds,1036,959,77,518,518
+2025-03-30,Rajasthan Royals|Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,358,344,14,179,179
+2025-03-30,Sunrisers Hyderabad|Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,329,310,19,164,165
+2025-03-31,Kolkata Knight Riders|Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,237,227,10,118,119
+2025-04-01,Lucknow Super Giants|Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,348,336,12,174,174
+2025-04-02,New Zealand|Pakistan,"Seddon Park, Hamilton",New Zealand,500,441,59,250,250
+2025-04-02,Royal Challengers Bengaluru|Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,339,328,11,169,170
+2025-04-03,Kolkata Knight Riders|Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata Knight Riders,320,301,19,160,160
+2025-04-04,Durham|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,1335,1238,97,667,668
+2025-04-04,Glamorgan|Leicestershire,"Sophia Gardens, Cardiff",Leicestershire,957,880,77,478,479
+2025-04-04,Gloucestershire|Derbyshire,"County Ground, Derby",Derbyshire,965,906,59,482,483
+2025-04-04,Kent|Northamptonshire,"County Ground, Northampton",Kent,659,594,65,329,330
+2025-04-04,Lucknow Super Giants|Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,394,378,16,197,197
+2025-04-04,Yorkshire|Hampshire,"The Rose Bowl, Southampton",Hampshire,793,736,57,396,397
+2025-04-05,Delhi Capitals|Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,341,317,24,170,171
+2025-04-05,New Zealand|Pakistan,"Bay Oval, Mount Maunganui",New Zealand,485,444,41,242,243
+2025-04-05,Rajasthan Royals|Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan Royals,360,333,27,180,180
+2025-04-06,Sunrisers Hyderabad|Gujarat Titans,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Gujarat Titans,305,298,7,152,153
+2025-04-07,Norway|Portugal,Santarem Cricket Ground,Norway,269,244,25,134,135
+2025-04-07,Portugal|Norway,Santarem Cricket Ground,Portugal,202,133,69,101,101
+2025-04-07,Royal Challengers Bengaluru|Mumbai Indians,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,430,415,15,215,215
+2025-04-08,Lucknow Super Giants|Kolkata Knight Riders,"Eden Gardens, Kolkata",Lucknow Super Giants,472,437,35,236,236
+2025-04-08,Norway|Portugal,Santarem Cricket Ground,Portugal,275,256,19,137,138
+2025-04-08,Portugal|Norway,Santarem Cricket Ground,Norway,273,199,74,136,137
+2025-04-08,Punjab Kings|Chennai Super Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,420,398,22,210,210
+2025-04-08,Uganda|Namibia,"High Performance Oval, Windhoek",Uganda,194,181,13,97,97
+2025-04-09,Cook Islands|Indonesia,Udayana Cricket Ground,Indonesia,131,113,18,65,66
+2025-04-09,Gujarat Titans|Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,376,349,27,188,188
+2025-04-09,Hong Kong|Kuwait,"Mission Road Ground, Mong Kok, Hong Kong",Kuwait,355,342,13,177,178
+2025-04-09,Norway|Portugal,Santarem Cricket Ground,Portugal,251,214,37,125,126
+2025-04-09,Pakistan|Ireland,"Gaddafi Stadium, Lahore",Pakistan,396,356,40,198,198
+2025-04-09,Portugal|Norway,Santarem Cricket Ground,Portugal,324,304,20,162,162
+2025-04-09,Qatar|Nepal,"Mission Road Ground, Mong Kok, Hong Kong",Nepal,305,284,21,152,153
+2025-04-09,Scotland|West Indies,Lahore City Cricket Association Ground,Scotland,477,434,43,238,239
+2025-04-09,Uganda|Namibia,"High Performance Oval, Windhoek",Uganda,185,169,16,92,93
+2025-04-10,Bangladesh|Thailand,Lahore City Cricket Association Ground,Bangladesh,364,342,22,182,182
+2025-04-10,Hong Kong|Qatar,"Mission Road Ground, Mong Kok, Hong Kong",Hong Kong,326,300,26,163,163
+2025-04-10,Indonesia|Philippines,Udayana Cricket Ground,Indonesia,188,154,34,94,94
+2025-04-10,Kuwait|Nepal,"Mission Road Ground, Mong Kok, Hong Kong",Nepal,371,356,15,185,186
+2025-04-10,Royal Challengers Bengaluru|Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,332,310,22,166,166
+2025-04-11,Chennai Super Kings|Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,210,200,10,105,105
+2025-04-11,Cook Islands|Philippines,Udayana Cricket Ground,Cook Islands,212,181,31,106,106
+2025-04-11,Durham|Warwickshire,"Riverside Ground, Chester-le-Street",Warwickshire,1332,1265,67,666,666
+2025-04-11,Lahore Qalandars|Islamabad United,Rawalpindi Cricket Stadium,Islamabad United,282,254,28,141,141
+2025-04-11,Middlesex|Kent,"St Lawrence Ground, Canterbury",Kent,1067,1012,55,533,534
+2025-04-11,Namibia|Uganda,"High Performance Oval, Windhoek",Namibia,225,201,24,112,113
+2025-04-11,Scotland|Pakistan,Lahore City Cricket Association Ground,Pakistan,376,347,29,188,188
+2025-04-11,Sussex|Somerset,"County Ground, Hove",Sussex,1330,1255,75,665,665
+2025-04-11,West Indies|Ireland,"Gaddafi Stadium, Lahore",West Indies,356,332,24,178,178
+2025-04-11,Yorkshire|Worcestershire,"Headingley, Leeds",Yorkshire,1038,980,58,519,519
+2025-04-12,Cook Islands|Indonesia,Udayana Cricket Ground,Indonesia,115,96,19,57,58
+2025-04-12,Gujarat Titans|Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,366,348,18,183,183
+2025-04-12,Multan Sultans|Karachi Kings,"National Stadium, Karachi",Karachi Kings,470,441,29,235,235
+2025-04-12,Namibia|Uganda,"High Performance Oval, Windhoek",Namibia,207,190,17,103,104
+2025-04-12,Punjab Kings|Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,492,468,24,246,246
+2025-04-12,Qatar|Kuwait,"Mission Road Ground, Mong Kok, Hong Kong",Kuwait,251,235,16,125,126
+2025-04-12,Quetta Gladiators|Peshawar Zalmi,Rawalpindi Cricket Stadium,Quetta Gladiators,352,339,13,176,176
+2025-04-13,Hong Kong|Qatar,"Mission Road Ground, Mong Kok, Hong Kong",Hong Kong,375,333,42,187,188
+2025-04-13,Ireland|Bangladesh,"Gaddafi Stadium, Lahore",Bangladesh,475,450,25,237,238
+2025-04-13,Kuwait|Nepal,"Mission Road Ground, Mong Kok, Hong Kong",Kuwait,345,332,13,172,173
+2025-04-13,Lahore Qalandars|Quetta Gladiators,Rawalpindi Cricket Stadium,Lahore Qalandars,359,345,14,179,180
+2025-04-13,Mumbai Indians|Delhi Capitals,"Arun Jaitley Stadium, Delhi",Mumbai Indians,398,379,19,199,199
+2025-04-13,Rajasthan Royals|Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,348,335,13,174,174
+2025-04-13,Scotland|Thailand,Lahore City Cricket Association Ground,Scotland,354,335,19,177,177
+2025-04-14,Islamabad United|Peshawar Zalmi,Rawalpindi Cricket Stadium,Islamabad United,384,362,22,192,192
+2025-04-14,Lucknow Super Giants|Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,334,313,21,167,167
+2025-04-14,Namibia|Uganda,"High Performance Oval, Windhoek",Namibia,251,240,11,125,126
+2025-04-14,Pakistan|West Indies,"Gaddafi Stadium, Lahore",Pakistan,317,300,17,158,159
+2025-04-15,Bangladesh|Scotland,"Gaddafi Stadium, Lahore",Bangladesh,518,484,34,259,259
+2025-04-15,Ireland|Thailand,Lahore City Cricket Association Ground,Ireland,564,518,46,282,282
+2025-04-15,Lahore Qalandars|Karachi Kings,"National Stadium, Karachi",Lahore Qalandars,337,322,15,168,169
+2025-04-15,Namibia|Uganda,"High Performance Oval, Windhoek",Uganda,279,263,16,139,140
+2025-04-15,Punjab Kings|Kolkata Knight Riders,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,206,196,10,103,103
+2025-04-16,Islamabad United|Multan Sultans,Rawalpindi Cricket Stadium,Islamabad United,357,336,21,178,179
+2025-04-17,Bangladesh|West Indies,Lahore City Cricket Association Ground,West Indies,455,419,36,227,228
+2025-04-17,Mexico|Costa Rica,"Clayton Panama, Panama City",Mexico,224,198,26,112,112
+2025-04-17,Pakistan|Thailand,"Gaddafi Stadium, Lahore",Pakistan,323,302,21,161,162
+2025-04-17,Panama|Turks and Caicos Island,"Clayton Panama, Panama City",Panama,241,205,36,120,121
+2025-04-17,Sunrisers Hyderabad|Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,328,313,15,164,164
+2025-04-18,Costa Rica|Panama,"Clayton Panama, Panama City",Panama,183,158,25,91,92
+2025-04-18,Essex|Worcestershire,"County Ground, Chelmsford",Essex,964,897,67,482,482
+2025-04-18,Glamorgan|Middlesex,"Lord's, London",Middlesex,1057,1013,44,528,529
+2025-04-18,Karachi Kings|Quetta Gladiators,"National Stadium, Karachi",Karachi Kings,294,275,19,147,147
+2025-04-18,Royal Challengers Bengaluru|Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,193,185,8,96,97
+2025-04-18,Scotland|Ireland,"Gaddafi Stadium, Lahore",Ireland,537,507,30,268,269
+2025-04-18,Turks and Caicos Island|Mexico,"Clayton Panama, Panama City",Mexico,199,190,9,99,100
+2025-04-19,Bangladesh|Pakistan,Lahore City Cricket Association Ground,Pakistan,359,333,26,179,180
+2025-04-19,Bermuda|Canada,"Jimmy Powell Oval, Cayman Islands",Canada,213,204,9,106,107
+2025-04-19,Costa Rica|Turks and Caicos Island,"Clayton Panama, Panama City",Turks and Caicos Island,145,132,13,72,73
+2025-04-19,Delhi Capitals|Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,407,385,22,203,204
+2025-04-19,Lucknow Super Giants|Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,358,347,11,179,179
+2025-04-19,Panama|Mexico,"Clayton Panama, Panama City",Panama,224,204,20,112,112
+2025-04-19,Peshawar Zalmi|Multan Sultans,Rawalpindi Cricket Stadium,Peshawar Zalmi,334,324,10,167,167
+2025-04-19,Thailand|West Indies,"Gaddafi Stadium, Lahore",West Indies,334,319,15,167,167
+2025-04-19,United States of America|Cayman Islands,"Jimmy Powell Oval, Cayman Islands",United States of America,293,276,17,146,147
+2025-04-20,Bangladesh|Zimbabwe,Sylhet International Cricket Stadium,Zimbabwe,893,835,58,446,447
+2025-04-20,Bermuda|Cayman Islands,"Jimmy Powell Oval, Cayman Islands",Bermuda,244,236,8,122,122
+2025-04-20,Chennai Super Kings|Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,353,335,18,176,177
+2025-04-20,Karachi Kings|Islamabad United,"National Stadium, Karachi",Islamabad United,257,237,20,128,129
+2025-04-20,Punjab Kings|Royal Challengers Bengaluru,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bengaluru,316,310,6,158,158
+2025-04-20,Turks and Caicos Island|Costa Rica,"Clayton Panama, Panama City",Costa Rica,195,175,20,97,98
+2025-04-20,United States of America|Bahamas,"Jimmy Powell Oval, Cayman Islands",United States of America,285,266,19,142,143
+2025-04-21,Bahamas|Canada,"Jimmy Powell Oval, Cayman Islands",Canada,87,74,13,43,44
+2025-04-21,Bermuda|United States of America,"Jimmy Powell Oval, Cayman Islands",United States of America,141,125,16,70,71
+2025-04-21,Gujarat Titans|Kolkata Knight Riders,"Eden Gardens, Kolkata",Gujarat Titans,357,343,14,178,179
+2025-04-21,Peshawar Zalmi|Karachi Kings,"National Stadium, Karachi",Karachi Kings,295,273,22,147,148
+2025-04-22,Lucknow Super Giants|Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,320,315,5,160,160
+2025-04-22,Multan Sultans|Lahore Qalandars,Multan Cricket Stadium,Multan Sultans,423,408,15,211,212
+2025-04-23,Bahamas|Bermuda,"Jimmy Powell Oval, Cayman Islands",Bermuda,106,98,8,53,53
+2025-04-23,Canada|Cayman Islands,"Jimmy Powell Oval, Cayman Islands",Canada,236,227,9,118,118
+2025-04-23,Essex|Durham,"Riverside Ground, Chester-le-Street",Durham,355,326,29,177,178
+2025-04-23,Multan Sultans|Islamabad United,Multan Cricket Stadium,Islamabad United,339,332,7,169,170
+2025-04-23,Sunrisers Hyderabad|Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,289,284,5,144,145
+2025-04-23,Surrey|Somerset,"Kent County Cricket Ground, Beckenham",Somerset,484,441,43,242,242
+2025-04-23,The Blaze|Lancashire,"Trent Bridge, Nottingham",Lancashire,469,450,19,234,235
+2025-04-24,Canada|United States of America,"Jimmy Powell Oval, Cayman Islands",Canada,351,334,17,175,176
+2025-04-24,Cayman Islands|Bahamas,"Jimmy Powell Oval, Cayman Islands",Cayman Islands,271,236,35,135,136
+2025-04-24,Lahore Qalandars|Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,262,251,11,131,131
+2025-04-24,Malaysia|Singapore,"Bayuemas Oval, Kuala Lumpur",Malaysia,312,292,20,156,156
+2025-04-24,Royal Challengers Bengaluru|Rajasthan Royals,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,399,379,20,199,200
+2025-04-24,Saudi Arabia|Thailand,"Bayuemas Oval, Kuala Lumpur",Saudi Arabia,246,227,19,123,123
+2025-04-25,Chennai Super Kings|Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,309,287,22,154,155
+2025-04-25,Gloucestershire|Leicestershire,"County Ground, Bristol",Leicestershire,812,721,91,406,406
+2025-04-25,Quetta Gladiators|Karachi Kings,"Gaddafi Stadium, Lahore",Quetta Gladiators,279,270,9,139,140
+2025-04-25,Saudi Arabia|Singapore,"Bayuemas Oval, Kuala Lumpur",Saudi Arabia,260,241,19,130,130
+2025-04-25,Somerset|Surrey,"Kennington Oval, London",Surrey,805,733,72,402,403
+2025-04-25,Sussex|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,895,824,71,447,448
+2025-04-25,Thailand|Malaysia,"Bayuemas Oval, Kuala Lumpur",Malaysia,185,170,15,92,93
+2025-04-25,Worcestershire|Durham,"County Ground, New Road, Worcester",Durham,487,448,39,243,244
+2025-04-25,Zimbabwe|United States of America,"Grand Prairie Stadium, Dallas",Zimbabwe,220,203,17,110,110
+2025-04-26,Bermuda|United States of America,"Jimmy Powell Oval, Cayman Islands",United States of America,229,211,18,114,115
+2025-04-26,Botswana|Eswatini,"Botswana Cricket Association Oval 1, Gaborone",Botswana,182,142,40,91,91
+2025-04-26,Botswana|Mozambique,"Botswana Cricket Association Oval 2, Gaborone",Botswana,183,142,41,91,92
+2025-04-26,Cayman Islands|Canada,"Jimmy Powell Oval, Cayman Islands",Canada,247,244,3,123,124
+2025-04-26,Eswatini|Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,55,43,12,27,28
+2025-04-26,Mozambique|Sierra Leone,"Botswana Cricket Association Oval 2, Gaborone",Sierra Leone,76,64,12,38,38
+2025-04-26,Multan Sultans|Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,371,352,19,185,186
+2025-04-26,Saudi Arabia|Malaysia,"Bayuemas Oval, Kuala Lumpur",Malaysia,365,351,14,182,183
+2025-04-26,Singapore|Thailand,"Bayuemas Oval, Kuala Lumpur",Singapore,240,232,8,120,120
+2025-04-27,Botswana|Mozambique,"Botswana Cricket Association Oval 1, Gaborone",Botswana,194,145,49,97,97
+2025-04-27,Canada|United States of America,"Jimmy Powell Oval, Cayman Islands",United States of America,337,316,21,168,169
+2025-04-27,Delhi Capitals|Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,327,319,8,163,164
+2025-04-27,Durham|The Blaze,"Riverside Ground, Chester-le-Street",The Blaze,401,382,19,200,201
+2025-04-27,Hampshire|Surrey,"The Rose Bowl, Southampton",Hampshire,468,417,51,234,234
+2025-04-27,Mozambique|Eswatini,"Botswana Cricket Association Oval 2, Gaborone",Mozambique,132,86,46,66,66
+2025-04-27,Mumbai Indians|Lucknow Super Giants,"Wankhede Stadium, Mumbai",Mumbai Indians,376,363,13,188,188
+2025-04-27,Quetta Gladiators|Peshawar Zalmi,"Gaddafi Stadium, Lahore",Quetta Gladiators,292,275,17,146,146
+2025-04-27,Sierra Leone|Botswana,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,154,134,20,77,77
+2025-04-27,Sierra Leone|Eswatini,"Botswana Cricket Association Oval 2, Gaborone",Sierra Leone,208,176,32,104,104
+2025-04-27,Somerset|Lancashire,"The Cooper Associates County Ground, Taunton",Lancashire,412,378,34,206,206
+2025-04-27,Sri Lanka|India,"R Premadasa Stadium, Colombo",India,296,274,22,148,148
+2025-04-27,Warwickshire|Essex,"County Ground, Chelmsford",Warwickshire,470,420,50,235,235
+2025-04-27,Zimbabwe|United States of America,"Grand Prairie Stadium, Dallas",Zimbabwe,271,256,15,135,136
+2025-04-28,Gujarat Titans|Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,421,407,14,210,211
+2025-04-28,Saudi Arabia|Thailand,"Bayuemas Oval, Kuala Lumpur",Saudi Arabia,301,293,8,150,151
+2025-04-28,Zimbabwe|Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,782,753,29,391,391
+2025-04-29,Botswana|Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,133,115,18,66,67
+2025-04-29,Eswatini|Botswana,"Botswana Cricket Association Oval 2, Gaborone",Botswana,91,61,30,45,46
+2025-04-29,India|South Africa,"R Premadasa Stadium, Colombo",India,537,517,20,268,269
+2025-04-29,Kolkata Knight Riders|Delhi Capitals,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,394,369,25,197,197
+2025-04-29,Malaysia|Thailand,"Bayuemas Oval, Kuala Lumpur",Malaysia,250,235,15,125,125
+2025-04-29,Mozambique|Eswatini,"Botswana Cricket Association Oval 2, Gaborone",Mozambique,154,99,55,77,77
+2025-04-29,Mozambique|Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,89,73,16,44,45
+2025-04-29,Multan Sultans|Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,179,170,9,89,90
+2025-04-29,Singapore|Saudi Arabia,"Bayuemas Oval, Kuala Lumpur",Saudi Arabia,227,209,18,113,114
+2025-04-29,Zimbabwe|United States of America,"Grand Prairie Stadium, Dallas",United States of America,221,214,7,110,111
+2025-04-30,Chennai Super Kings|Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,384,362,22,192,192
+2025-04-30,Lahore Qalandars|Islamabad United,"Gaddafi Stadium, Lahore",Lahore Qalandars,330,315,15,165,165
+2025-04-30,Lancashire|Hampshire,"Trafalgar Road Ground, Southport",Hampshire,587,546,41,293,294
+2025-04-30,Malaysia|Saudi Arabia,"Bayuemas Oval, Kuala Lumpur",Saudi Arabia,321,314,7,160,161
+2025-04-30,Mozambique|Eswatini,"Botswana Cricket Association Oval 1, Gaborone",Mozambique,182,128,54,91,91
+2025-04-30,Sierra Leone|Botswana,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,175,160,15,87,88
+2025-04-30,Surrey|Durham,"Kent County Cricket Ground, Beckenham",Surrey,592,561,31,296,296
+2025-04-30,The Blaze|Warwickshire,"Edgbaston, Birmingham",The Blaze,463,428,35,231,232
+2025-05-01,Essex|Somerset,"Taunton Vale Sports Club Ground, Taunton",Somerset,369,332,37,184,185
+2025-05-01,Karachi Kings|Multan Sultans,"Gaddafi Stadium, Lahore",Karachi Kings,321,298,23,160,161
+2025-05-01,Mumbai Indians|Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,334,312,22,167,167
+2025-05-01,Zimbabwe|United States of America,"Grand Prairie Stadium, Dallas",United States of America,325,304,21,162,163
+2025-05-02,Bahrain|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,177,147,30,88,89
+2025-05-02,Cyprus|Czech Republic,"Scott Page Field, Vinor",Cyprus,523,355,168,261,262
+2025-05-02,Essex|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,935,843,92,467,468
+2025-05-02,Gujarat Titans|Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,410,394,16,205,205
+2025-05-02,Islamabad United|Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,290,269,21,145,145
+2025-05-02,Kent|Middlesex,"Lord's, London",Middlesex,1206,1135,71,603,603
+2025-05-02,Leicestershire|Northamptonshire,"Grace Road, Leicester",Leicestershire,826,738,88,413,413
+2025-05-02,Malaysia|Saudi Arabia,"Bayuemas Oval, Kuala Lumpur",Malaysia,252,241,11,126,126
+2025-05-02,Singapore|Thailand,"Bayuemas Oval, Kuala Lumpur",Singapore,190,171,19,95,95
+2025-05-02,South Africa|Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,472,456,16,236,236
+2025-05-02,Yorkshire|Warwickshire,"Headingley, Leeds",Warwickshire,876,800,76,438,438
+2025-05-03,Czech Republic|Cyprus,"Scott Page Field, Vinor",Cyprus,253,172,81,126,127
+2025-05-03,Islamabad United|Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,316,304,12,158,158
+2025-05-03,Kuwait|Thailand,"Terdthai Cricket Ground, Bangkok",Thailand,117,98,19,58,59
+2025-05-03,Oman|Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,267,226,41,133,134
+2025-05-03,Royal Challengers Bengaluru|Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,424,417,7,212,212
+2025-05-03,United Arab Emirates|Hong Kong,"Terdthai Cricket Ground, Bangkok",United Arab Emirates,182,168,14,91,91
+2025-05-03,Zimbabwe|United States of America,"Grand Prairie Stadium, Dallas",Zimbabwe,412,376,36,206,206
+2025-05-04,Czech Republic|Cyprus,"Scott Page Field, Vinor",Cyprus,133,84,49,66,67
+2025-05-04,Durham|Somerset,"Riverside Ground, Chester-le-Street",Somerset,431,401,30,215,216
+2025-05-04,Hampshire|The Blaze,"Trent Bridge, Nottingham",The Blaze,381,355,26,190,191
+2025-05-04,India|Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,553,532,21,276,277
+2025-05-04,Kolkata Knight Riders|Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata Knight Riders,411,395,16,205,206
+2025-05-04,Lahore Qalandars|Karachi Kings,"Gaddafi Stadium, Lahore",Karachi Kings,328,311,17,164,164
+2025-05-04,Lancashire|Essex,"County Ground, Chelmsford",Essex,461,427,34,230,231
+2025-05-04,Punjab Kings|Lucknow Super Giants,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,435,418,17,217,218
+2025-05-04,Surrey|Warwickshire,"Kent County Cricket Ground, Beckenham",Warwickshire,627,571,56,313,314
+2025-05-04,Thailand|Hong Kong,"Terdthai Cricket Ground, Bangkok",Thailand,222,195,27,111,111
+2025-05-04,United Arab Emirates|Kuwait,"Terdthai Cricket Ground, Bangkok",United Arab Emirates,227,214,13,113,114
+2025-05-04,United Arab Emirates|Scotland,"VRA Ground, Amstelveen",Scotland,451,429,22,225,226
+2025-05-05,Bahrain|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,187,165,22,93,94
+2025-05-05,Croatia|Malta,Marsa Sports Club,Malta,416,306,110,208,208
+2025-05-05,Multan Sultans|Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,218,205,13,109,109
+2025-05-06,Essex|The Blaze,"Haslegrave Ground, Loughborough",The Blaze,466,443,23,233,233
+2025-05-06,Hong Kong|Kuwait,"Terdthai Cricket Ground, Bangkok",Hong Kong,245,229,16,122,123
+2025-05-06,Malta|Estonia,Marsa Sports Club,Estonia,405,380,25,202,203
+2025-05-06,Malta|Estonia,Marsa Sports Club,Malta,372,352,20,186,186
+2025-05-06,Mumbai Indians|Gujarat Titans,"Wankhede Stadium, Mumbai",Gujarat Titans,302,286,16,151,151
+2025-05-06,Netherlands|United Arab Emirates,"VRA Ground, Amstelveen",Netherlands,431,407,24,215,216
+2025-05-06,Thailand|United Arab Emirates,"Terdthai Cricket Ground, Bangkok",Thailand,218,211,7,109,109
+2025-05-07,Durham|Hampshire,Arundel Castle Cricket Club Ground,Hampshire,383,349,34,191,192
+2025-05-07,India|South Africa,"R Premadasa Stadium, Colombo",India,651,630,21,325,326
+2025-05-07,Kolkata Knight Riders|Chennai Super Kings,"Eden Gardens, Kolkata",Chennai Super Kings,362,351,11,181,181
+2025-05-07,Leinster Lightning|Munster Reds,Oak Hill Cricket Club,Leinster Lightning,608,580,28,304,304
+2025-05-07,Malta|Estonia,Marsa Sports Club,Malta,357,332,25,178,179
+2025-05-07,North-West Warriors|Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",Northern Knights,569,539,30,284,285
+2025-05-07,Quetta Gladiators|Islamabad United,Rawalpindi Cricket Stadium,Quetta Gladiators,417,393,24,208,209
+2025-05-07,Somerset|Warwickshire,"Edgbaston, Birmingham",Somerset,546,501,45,273,273
+2025-05-07,Surrey|Lancashire,"Trafalgar Road Ground, Southport",Lancashire,595,557,38,297,298
+2025-05-07,Thailand|Cook Islands,Sano International Cricket Ground,Cook Islands,249,233,16,124,125
+2025-05-08,Japan|Thailand,Sano International Cricket Ground,Japan,159,149,10,79,80
+2025-05-08,United Arab Emirates|Scotland,"VRA Ground, Amstelveen",United Arab Emirates,495,465,30,247,248
+2025-05-09,Cook Islands|Thailand,Sano International Cricket Ground,Thailand,148,125,23,74,74
+2025-05-09,Glamorgan|Kent,"St Lawrence Ground, Canterbury",Glamorgan,937,882,55,468,469
+2025-05-09,Japan|Cook Islands,Sano International Cricket Ground,Japan,176,165,11,88,88
+2025-05-09,Kuwait|Thailand,"Terdthai Cricket Ground, Bangkok",Thailand,113,106,7,56,57
+2025-05-09,Malaysia|United Arab Emirates,"Asian Institute of Technology Ground, Bangkok",United Arab Emirates,63,60,3,31,32
+2025-05-09,Northamptonshire|Lancashire,"County Ground, Northampton",Northamptonshire,952,860,92,476,476
+2025-05-09,Nottinghamshire|Hampshire,"Trent Bridge, Nottingham",Nottinghamshire,990,942,48,495,495
+2025-05-09,South Africa|Sri Lanka,"R Premadasa Stadium, Colombo",South Africa,554,534,20,277,277
+2025-05-09,Sussex|Worcestershire,"County Ground, Hove",Sussex,1033,980,53,516,517
+2025-05-10,Bahrain|Nepal,"Terdthai Cricket Ground, Bangkok",Nepal,83,77,6,41,42
+2025-05-10,Germany|Greece,"Marina Ground, Corfu",Germany,467,371,96,233,234
+2025-05-10,Netherlands|Scotland,"VRA Ground, Amstelveen",Netherlands,545,531,14,272,273
+2025-05-10,United Arab Emirates|Qatar,"Terdthai Cricket Ground, Bangkok",United Arab Emirates,188,183,5,94,94
+2025-05-11,Germany|Greece,"Marina Ground, Corfu",Germany,265,208,57,132,133
+2025-05-11,Greece|Germany,"Marina Ground, Corfu",Germany,155,124,31,77,78
+2025-05-11,Hampshire|Essex,"The Rose Bowl, Southampton",Hampshire,529,503,26,264,265
+2025-05-11,India|Sri Lanka,"R Premadasa Stadium, Colombo",India,587,553,34,293,294
+2025-05-11,Japan|Thailand,Sano International Cricket Ground,Thailand,215,199,16,107,108
+2025-05-11,Surrey|Somerset,"The Cooper Associates County Ground, Taunton",Surrey,521,481,40,260,261
+2025-05-11,The Blaze|Lancashire,"Old Trafford, Manchester",Lancashire,448,403,45,224,224
+2025-05-11,Warwickshire|Durham,"Riverside Ground, Chester-le-Street",Durham,487,450,37,243,244
+2025-05-12,Kuwait|Bhutan,"Terdthai Cricket Ground, Bangkok",Kuwait,135,125,10,67,68
+2025-05-12,United Arab Emirates|Netherlands,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,409,374,35,204,205
+2025-05-13,Cook Islands|Japan,Sano International Cricket Ground,Japan,211,183,28,105,106
+2025-05-13,Hampshire|Somerset,"The Cooper Associates County Ground, Taunton",Hampshire,395,382,13,197,198
+2025-05-13,Nepal|Hong Kong,"Asian Institute of Technology Ground, Bangkok",Hong Kong,59,57,2,29,30
+2025-05-13,North-West Warriors|Munster Reds,"Mardyke, Cork",Munster Reds,493,462,31,246,247
+2025-05-13,Northern Knights|Leinster Lightning,Oak Hill Cricket Club,Leinster Lightning,414,386,28,207,207
+2025-05-14,Essex|Durham,"County Ground, Chelmsford",Durham,360,326,34,180,180
+2025-05-14,Japan|Cook Islands,Sano International Cricket Ground,Japan,236,219,17,118,118
+2025-05-14,Lancashire|Warwickshire,"Edgbaston, Birmingham",Lancashire,451,428,23,225,226
+2025-05-14,United Arab Emirates|Scotland,"Sportpark Maarschalkerweerd, Utrecht",Scotland,323,309,14,161,162
+2025-05-15,Bahrain|Nepal,"Terdthai Cricket Ground, Bangkok",Nepal,132,111,21,66,66
+2025-05-15,Bulgaria|Estonia,Estonian National Cricket and Rugby Field,Estonia,326,175,151,163,163
+2025-05-15,Leinster Lightning|North-West Warriors,Oak Hill Cricket Club,Leinster Lightning,506,480,26,253,253
+2025-05-15,Northern Knights|Munster Reds,"Civil Service Cricket Club, Stormont, Belfast",Munster Reds,552,511,41,276,276
+2025-05-15,Thailand|Bhutan,"Terdthai Cricket Ground, Bangkok",Thailand,131,118,13,65,66
+2025-05-16,Ace Capital Cricket Club|Colombo Cricket Club,"P Sara Oval, Colombo",Colombo Cricket Club,200,193,7,100,100
+2025-05-16,Burgher Recreation Club|Police Sports Club,"Colts Cricket Club Ground, Colombo",Burgher Recreation Club,254,243,11,127,127
+2025-05-16,Hampshire|Warwickshire,"Edgbaston, Birmingham",Hampshire,917,876,41,458,459
+2025-05-16,Kent|Gloucestershire,"County Ground, Bristol",Gloucestershire,1355,1263,92,677,678
+2025-05-16,Kurunegala Youth Cricket Club|Nondescripts Cricket Club,Colombo Cricket Club Ground,Nondescripts Cricket Club,273,258,15,136,137
+2025-05-16,Kuwait|Bhutan,"Terdthai Cricket Ground, Bangkok",Bhutan,188,168,20,94,94
+2025-05-16,Middlesex|Leicestershire,"Lord's, London",Leicestershire,751,699,52,375,376
+2025-05-16,Northamptonshire|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,979,880,99,489,490
+2025-05-16,Nottinghamshire|Durham,"Riverside Ground, Chester-le-Street",Durham,1510,1410,100,755,755
+2025-05-16,Nugegoda Sports Welfare Club|Bloomfield Cricket and Athletic Club,"Colts Cricket Club Ground, Colombo",Bloomfield Cricket and Athletic Club,120,93,27,60,60
+2025-05-16,Panadura Sports Club|Moors Sports Club,"P Sara Oval, Colombo",Moors Sports Club,261,245,16,130,131
+2025-05-16,Qatar|Malaysia,"Terdthai Cricket Ground, Bangkok",Malaysia,80,61,19,40,40
+2025-05-16,Scotland|Netherlands,"Sportpark Maarschalkerweerd, Utrecht",Scotland,615,588,27,307,308
+2025-05-16,Somerset|Sussex,"The Cooper Associates County Ground, Taunton",Somerset,975,899,76,487,488
+2025-05-16,Tamil Union Cricket and Athletic Club|Colts Cricket Club,Colombo Cricket Club Ground,Colts Cricket Club,331,312,19,165,166
+2025-05-16,Worcestershire|Essex,"County Ground, New Road, Worcester",Worcestershire,759,708,51,379,380
+2025-05-16,Yorkshire|Surrey,"Kennington Oval, London",Surrey,996,918,78,498,498
+2025-05-17,Austria|Slovenia,"Velden Cricket Ground, Latschach",Austria,235,201,34,117,118
+2025-05-17,Bangladesh|United Arab Emirates,Sharjah Cricket Stadium,Bangladesh,355,324,31,177,178
+2025-05-17,Karachi Kings|Peshawar Zalmi,Rawalpindi Cricket Stadium,Karachi Kings,451,437,14,225,226
+2025-05-17,United States of America|Canada,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",United States of America,553,532,21,276,277
+2025-05-18,Austria|Slovenia,"Ballpark Ground, Graz",Austria,320,293,27,160,160
+2025-05-18,Delhi Capitals|Gujarat Titans,"Arun Jaitley Stadium, Delhi",Gujarat Titans,404,394,10,202,202
+2025-05-18,Lahore Qalandars|Peshawar Zalmi,Rawalpindi Cricket Stadium,Lahore Qalandars,272,243,29,136,136
+2025-05-18,Multan Sultans|Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,375,360,15,187,188
+2025-05-18,Punjab Kings|Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,428,412,16,214,214
+2025-05-18,Slovenia|Austria,"Ballpark Ground, Graz",Austria,184,170,14,92,92
+2025-05-18,Thailand|United Arab Emirates,"Terdthai Cricket Ground, Bangkok",Thailand,234,226,8,117,117
+2025-05-19,Bangladesh|United Arab Emirates,Sharjah Cricket Stadium,United Arab Emirates,411,393,18,205,206
+2025-05-19,Islamabad United|Karachi Kings,Rawalpindi Cricket Stadium,Islamabad United,423,404,19,211,212
+2025-05-19,Lancashire|Durham,"Stanley Park, Blackpool",Lancashire,443,406,37,221,222
+2025-05-19,Lucknow Super Giants|Sunrisers Hyderabad,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,411,390,21,205,206
+2025-05-19,Oman|Canada,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Oman,419,396,23,209,210
+2025-05-19,Surrey|Essex,"County Ground, Chelmsford",Surrey,504,468,36,252,252
+2025-05-19,United Arab Emirates|Nepal,"Terdthai Cricket Ground, Bangkok",Nepal,229,212,17,114,115
+2025-05-19,Warwickshire|Hampshire,Arundel Castle Cricket Club Ground,Hampshire,489,457,32,244,245
+2025-05-20,Chennai Super Kings|Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,375,351,24,187,188
+2025-05-20,Somerset|The Blaze,"Haslegrave Ground, Loughborough",The Blaze,609,560,49,304,305
+2025-05-20,Thailand|Nepal,"Terdthai Cricket Ground, Bangkok",Thailand,238,220,18,119,119
+2025-05-21,Bangladesh|United Arab Emirates,Sharjah Cricket Stadium,United Arab Emirates,328,314,14,164,164
+2025-05-21,Ireland|West Indies,"Castle Avenue, Dublin",Ireland,482,445,37,241,241
+2025-05-21,Mumbai Indians|Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai Indians,301,298,3,150,151
+2025-05-21,Quetta Gladiators|Islamabad United,"Gaddafi Stadium, Lahore",Quetta Gladiators,388,369,19,194,194
+2025-05-21,West Indies|England,"St Lawrence Ground, Canterbury",England,296,281,15,148,148
+2025-05-22,England|Zimbabwe,"Trent Bridge, Nottingham",England,1085,1041,44,542,543
+2025-05-22,Karachi Kings|Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,381,351,30,190,191
+2025-05-22,Lucknow Super Giants|Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,437,419,18,218,219
+2025-05-23,Canada|Oman,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Oman,320,307,13,160,160
+2025-05-23,Derbyshire|Kent,"County Ground, Derby",Derbyshire,1160,1079,81,580,580
+2025-05-23,Durham|Somerset,"Riverside Ground, Chester-le-Street",Somerset,875,833,42,437,438
+2025-05-23,Glamorgan|Middlesex,"Sophia Gardens, Cardiff",Glamorgan,781,752,29,390,391
+2025-05-23,Hampshire|Sussex,"The Rose Bowl, Southampton",Sussex,639,596,43,319,320
+2025-05-23,Lahore Qalandars|Islamabad United,"Gaddafi Stadium, Lahore",Lahore Qalandars,309,286,23,154,155
+2025-05-23,Lancashire|Leicestershire,"Grace Road, Leicester",Leicestershire,911,825,86,455,456
+2025-05-23,Nottinghamshire|Yorkshire,"Headingley, Leeds",Nottinghamshire,1079,1010,69,539,540
+2025-05-23,Sunrisers Hyderabad|Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,420,397,23,210,210
+2025-05-23,West Indies|England,"County Ground, Hove",England,163,154,9,81,82
+2025-05-24,Punjab Kings|Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,414,398,16,207,207
+2025-05-25,Burgher Recreation Club|Colts Cricket Club,"Sinhalese Sports Club Ground, Colombo",Colts Cricket Club,147,141,6,73,74
+2025-05-25,Chennai Super Kings|Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,377,353,24,188,189
+2025-05-25,Chilaw Marians Cricket Club|Bloomfield Cricket and Athletic Club,Colombo Cricket Club Ground,Bloomfield Cricket and Athletic Club,138,121,17,69,69
+2025-05-25,Germany|Spain,"Simar Cricket Ground, Rome",Germany,250,216,34,125,125
+2025-05-25,Isle of Man|Italy,Roma Cricket Ground,Italy,177,153,24,88,89
+2025-05-25,Jersey|Italy,Roma Cricket Ground,Italy,325,288,37,162,163
+2025-05-25,Kurunegala Youth Cricket Club|Panadura Sports Club,Colombo Cricket Club Ground,Panadura Sports Club,322,299,23,161,161
+2025-05-25,Moors Sports Club|Colombo Cricket Club,"Sinhalese Sports Club Ground, Colombo",Moors Sports Club,211,193,18,105,106
+2025-05-25,Nugegoda Sports Welfare Club|Police Sports Club,"Colts Cricket Club Ground, Colombo",Police Sports Club,177,169,8,88,89
+2025-05-25,Quetta Gladiators|Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,405,391,14,202,203
+2025-05-25,Sunrisers Hyderabad|Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,446,416,30,223,223
+2025-05-25,Sweden|Spain,"Simar Cricket Ground, Rome",Sweden,195,156,39,97,98
+2025-05-25,United States of America|Canada,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",United States of America,484,468,16,242,242
+2025-05-25,West Indies|Ireland,"Castle Avenue, Dublin",West Indies,550,515,35,275,275
+2025-05-26,Ace Capital Cricket Club|Panadura Sports Club,"Colts Cricket Club Ground, Colombo",Panadura Sports Club,201,187,14,100,101
+2025-05-26,England|West Indies,"County Ground, Chelmsford",England,271,258,13,135,136
+2025-05-26,Germany|Jersey,Roma Cricket Ground,Germany,205,173,32,102,103
+2025-05-26,Mumbai Indians|Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,371,349,22,185,186
+2025-05-26,Spain|Jersey,Roma Cricket Ground,Jersey,189,177,12,94,95
+2025-05-26,Sweden|Isle of Man,"Simar Cricket Ground, Rome",Isle of Man,247,204,43,123,124
+2025-05-26,Sweden|Italy,"Simar Cricket Ground, Rome",Italy,238,207,31,119,119
+2025-05-26,Tamil Union Cricket and Athletic Club|Police Sports Club,"Colts Cricket Club Ground, Colombo",Tamil Union Cricket and Athletic Club,209,194,15,104,105
+2025-05-27,Lucknow Super Giants|Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,457,437,20,228,229
+2025-05-27,United States of America|Oman,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",United States of America,577,561,16,288,289
+2025-05-28,Belgium|Switzerland,"Stars Arena Hofstade, Zemst",Switzerland,462,324,138,231,231
+2025-05-28,Germany|Sweden,Roma Cricket Ground,Germany,237,188,49,118,119
+2025-05-28,Isle of Man|Spain,"Simar Cricket Ground, Rome",Spain,173,155,18,86,87
+2025-05-28,Italy|Germany,Roma Cricket Ground,Italy,262,234,28,131,131
+2025-05-28,Jersey|Isle of Man,"Simar Cricket Ground, Rome",Jersey,231,201,30,115,116
+2025-05-28,Nugegoda Sports Welfare Club|Chilaw Marians Cricket Club,"P Sara Oval, Colombo",Nugegoda Sports Welfare Club,207,193,14,103,104
+2025-05-28,Pakistan|Bangladesh,"Gaddafi Stadium, Lahore",Pakistan,365,358,7,182,183
+2025-05-29,Belgium|Switzerland,"Stars Arena Hofstade, Zemst",Switzerland,113,80,33,56,57
+2025-05-29,England|West Indies,"Edgbaston, Birmingham",England,562,528,34,281,281
+2025-05-29,Isle of Man|Germany,Roma Cricket Ground,Germany,279,259,20,139,140
+2025-05-29,Italy|Spain,Roma Cricket Ground,Italy,213,177,36,106,107
+2025-05-29,Lancashire|Worcestershire,"Old Trafford, Manchester",Lancashire,345,337,8,172,173
+2025-05-29,Punjab Kings|Royal Challengers Bengaluru,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bengaluru,207,192,15,103,104
+2025-05-29,Sussex|Middlesex,"Lord's, London",Sussex,388,370,18,194,194
+2025-05-29,Sweden|Jersey,"Simar Cricket Ground, Rome",Sweden,238,193,45,119,119
+2025-05-29,Switzerland|Belgium,"Stars Arena Hofstade, Zemst",Switzerland,256,166,90,128,128
+2025-05-30,Austria|Switzerland,"Velden Cricket Ground, Latschach",Austria,297,267,30,148,149
+2025-05-30,Belgium|Portugal,"Stars Arena Hofstade, Zemst",Portugal,326,303,23,163,163
+2025-05-30,Birmingham Bears|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,455,432,23,227,228
+2025-05-30,Derbyshire|Leicestershire,"Grace Road, Leicester",Leicestershire,341,316,25,170,171
+2025-05-30,England|West Indies,"County Ground, Derby",England,582,550,32,291,291
+2025-05-30,Hampshire|Essex,"The Rose Bowl, Southampton",Hampshire,759,735,24,379,380
+2025-05-30,Kent|Gloucestershire,"County Ground, Bristol",Kent,412,402,10,206,206
+2025-05-30,Malta|Belgium,"Stars Arena Hofstade, Zemst",Belgium,218,203,15,109,109
+2025-05-30,Malta|Portugal,"Stars Arena Hofstade, Zemst",Portugal,241,226,15,120,121
+2025-05-30,Mumbai Indians|Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Mumbai Indians,436,419,17,218,218
+2025-05-30,Northamptonshire|Yorkshire,"Headingley, Leeds",Northamptonshire,461,438,23,230,231
+2025-05-30,Pakistan|Bangladesh,"Gaddafi Stadium, Lahore",Pakistan,345,338,7,172,173
+2025-05-30,Somerset|Surrey,"The Cooper Associates County Ground, Taunton",Surrey,266,249,17,133,133
+2025-05-30,Surrey|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,293,279,14,146,147
+2025-05-31,Austria|Switzerland,"Velden Cricket Ground, Latschach",Austria,305,286,19,152,153
+2025-05-31,Austria|Switzerland,"Velden Cricket Ground, Latschach",Switzerland,302,281,21,151,151
+2025-05-31,Belgium|Malta,"Stars Arena Hofstade, Zemst",Belgium,251,233,18,125,126
+2025-05-31,Belgium|Portugal,"Stars Arena Hofstade, Zemst",Portugal,207,193,14,103,104
+2025-05-31,Birmingham Bears|Durham,"Edgbaston, Birmingham",Durham,290,276,14,145,145
+2025-05-31,Lancashire|Nottinghamshire,"Old Trafford, Manchester",Lancashire,385,373,12,192,193
+2025-05-31,Lancashire|The Blaze,"Old Trafford, Manchester",The Blaze,339,314,25,169,170
+2025-05-31,Malta|Portugal,"Stars Arena Hofstade, Zemst",Portugal,269,249,20,134,135
+2025-05-31,Warwickshire|Durham,"Edgbaston, Birmingham",Warwickshire,344,334,10,172,172
+2025-06-01,Austria|Switzerland,"Velden Cricket Ground, Latschach",Austria,363,343,20,181,182
+2025-06-01,Bangladesh|Pakistan,"Gaddafi Stadium, Lahore",Pakistan,393,381,12,196,197
+2025-06-01,Belgium|Portugal,"Stars Arena Hofstade, Zemst",Belgium,308,285,23,154,154
+2025-06-01,Durham|Lancashire,"Riverside Ground, Chester-le-Street",Lancashire,301,294,7,150,151
+2025-06-01,Essex|Somerset,"County Ground, Chelmsford",Essex,233,224,9,116,117
+2025-06-01,Essex|Somerset,"County Ground, Chelmsford",Somerset,297,286,11,148,149
+2025-06-01,Lancashire|Durham,"Riverside Ground, Chester-le-Street",Lancashire,262,256,6,131,131
+2025-06-01,Leicestershire|Northamptonshire,"County Ground, Northampton",Northamptonshire,245,232,13,122,123
+2025-06-01,Middlesex|Glamorgan,"Merchant Taylors' School Ground, Northwood",Glamorgan,252,243,9,126,126
+2025-06-01,Mumbai Indians|Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,410,397,13,205,205
+2025-06-01,Sussex|Gloucestershire,"County Ground, Hove",Sussex,266,255,11,133,133
+2025-06-01,West Indies|England,"Sophia Gardens, Cardiff",England,620,586,34,310,310
+2025-06-01,Worcestershire|Yorkshire,"County Ground, New Road, Worcester",Worcestershire,336,317,19,168,168
+2025-06-02,Scotland|Nepal,"Forthill, Dundee",Nepal,593,556,37,296,297
+2025-06-03,Malawi|Brazil,"Gahanga B Ground, Rwanda",Brazil,203,178,25,101,102
+2025-06-03,Royal Challengers Bengaluru|Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,374,354,20,187,187
+2025-06-03,Rwanda|Cameroon,"Gahanga International Cricket Stadium, Rwanda",Rwanda,199,160,39,99,100
+2025-06-03,Surrey|Glamorgan,"Sophia Gardens, Cardiff",Surrey,291,276,15,145,146
+2025-06-03,Tanzania|Sierra Leone,"Gahanga International Cricket Stadium, Rwanda",Tanzania,199,176,23,99,100
+2025-06-03,West Indies|England,"Kennington Oval, London",England,497,475,22,248,249
+2025-06-04,Cameroon|Uganda,"Gahanga B Ground, Rwanda",Uganda,85,74,11,42,43
+2025-06-04,England|West Indies,"Grace Road, Leicester",England,589,571,18,294,295
+2025-06-04,Essex|Warwickshire,"County Ground, Chelmsford",Essex,293,283,10,146,147
+2025-06-04,Hong Kong|Japan,Sano International Cricket Ground,Hong Kong,153,136,17,76,77
+2025-06-04,Lancashire|Hampshire,"Old Trafford, Manchester",Hampshire,247,237,10,123,124
+2025-06-04,Lancashire|Leicestershire,"Old Trafford, Manchester",Leicestershire,294,284,10,147,147
+2025-06-04,Netherlands|Nepal,"Forthill, Dundee",Nepal,451,408,43,225,226
+2025-06-04,Nigeria|Brazil,"Gahanga International Cricket Stadium, Rwanda",Brazil,151,133,18,75,76
+2025-06-04,Northamptonshire|Derbyshire,"County Ground, Derby",Northamptonshire,382,358,24,191,191
+2025-06-04,Philippines|China,Sano International Cricket Ground,China,101,73,28,50,51
+2025-06-04,Rwanda|Sierra Leone,"Gahanga International Cricket Stadium, Rwanda",Rwanda,215,188,27,107,108
+2025-06-04,Tanzania|Malawi,"Gahanga B Ground, Rwanda",Tanzania,178,159,19,89,89
+2025-06-05,Bloomfield Cricket and Athletic Club|Burgher Recreation Club,Colombo Cricket Club Ground,Burgher Recreation Club,195,183,12,97,98
+2025-06-05,Cameroon|Sierra Leone,"Gahanga B Ground, Rwanda",Cameroon,191,166,25,95,96
+2025-06-05,Chilaw Marians Cricket Club|Police Sports Club,"P Sara Oval, Colombo",Chilaw Marians Cricket Club,316,294,22,158,158
+2025-06-05,Kurunegala Youth Cricket Club|Ace Capital Cricket Club,Colombo Cricket Club Ground,Ace Capital Cricket Club,163,151,12,81,82
+2025-06-05,Mongolia|China,Sano International Cricket Ground,China,65,40,25,32,33
+2025-06-05,Moors Sports Club|Nondescripts Cricket Club,"P Sara Oval, Colombo",Nondescripts Cricket Club,232,229,3,116,116
+2025-06-05,Panadura Sports Club|Badureliya Sports Club,"Colts Cricket Club Ground, Colombo",Panadura Sports Club,294,277,17,147,147
+2025-06-05,Rwanda|Malawi,"Gahanga International Cricket Stadium, Rwanda",Rwanda,169,138,31,84,85
+2025-06-05,Surrey|Hampshire,"Kennington Oval, London",Hampshire,204,200,4,102,102
+2025-06-05,Surrey|Hampshire,"Kennington Oval, London",Surrey,394,383,11,197,197
+2025-06-05,Tamil Union Cricket and Athletic Club|Nugegoda Sports Welfare Club,"Colts Cricket Club Ground, Colombo",Nugegoda Sports Welfare Club,281,263,18,140,141
+2025-06-05,Tanzania|Nigeria,"Gahanga B Ground, Rwanda",Nigeria,165,152,13,82,83
+2025-06-06,Badureliya Sports Club|Ace Capital Cricket Club,"Colts Cricket Club Ground, Colombo",Ace Capital Cricket Club,346,336,10,173,173
+2025-06-06,Cameroon|Malawi,"Gahanga International Cricket Stadium, Rwanda",Malawi,145,129,16,72,73
+2025-06-06,Colombo Cricket Club|Kurunegala Youth Cricket Club,"Sinhalese Sports Club Ground, Colombo",Colombo Cricket Club,256,251,5,128,128
+2025-06-06,Derbyshire|Nottinghamshire,"County Ground, Derby",Nottinghamshire,282,269,13,141,141
+2025-06-06,England|West Indies,"Riverside Ground, Chester-le-Street",England,355,325,30,177,178
+2025-06-06,Essex|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,368,353,15,184,184
+2025-06-06,Essex|The Blaze,"County Ground, Derby",The Blaze,210,185,25,105,105
+2025-06-06,Gloucestershire|Hampshire,"The Rose Bowl, Southampton",Hampshire,240,228,12,120,120
+2025-06-06,Japan|China,Sano International Cricket Ground,Japan,164,141,23,82,82
+2025-06-06,Jersey|Guernsey,"Grainville, St Saviour",Guernsey,181,170,11,90,91
+2025-06-06,Leicestershire|Durham,"Grace Road, Leicester",Leicestershire,380,359,21,190,190
+2025-06-06,Nondescripts Cricket Club|Panadura Sports Club,Colombo Cricket Club Ground,Nondescripts Cricket Club,317,299,18,158,159
+2025-06-06,Northamptonshire|Worcestershire,"County Ground, New Road, Worcester",Northamptonshire,349,328,21,174,175
+2025-06-06,Nugegoda Sports Welfare Club|Colts Cricket Club,Colombo Cricket Club Ground,Nugegoda Sports Welfare Club,283,258,25,141,142
+2025-06-06,Philippines|Mongolia,Sano International Cricket Ground,Philippines,216,154,62,108,108
+2025-06-06,Police Sports Club|Bloomfield Cricket and Athletic Club,"Colts Cricket Club Ground, Colombo",Bloomfield Cricket and Athletic Club,292,275,17,146,146
+2025-06-06,Rwanda|Nigeria,"Gahanga B Ground, Rwanda",Rwanda,188,176,12,94,94
+2025-06-06,Scotland|Netherlands,"Forthill, Dundee",Scotland,480,462,18,240,240
+2025-06-06,Sierra Leone|Uganda,"Gahanga B Ground, Rwanda",Uganda,65,54,11,32,33
+2025-06-06,Surrey|Kent,"St Lawrence Ground, Canterbury",Surrey,344,328,16,172,172
+2025-06-06,Sussex|Somerset,"County Ground, Hove",Somerset,335,306,29,167,168
+2025-06-06,Tamil Union Cricket and Athletic Club|Chilaw Marians Cricket Club,"Sinhalese Sports Club Ground, Colombo",Tamil Union Cricket and Athletic Club,256,246,10,128,128
+2025-06-06,Warwickshire|Somerset,"Edgbaston, Birmingham",Warwickshire,275,260,15,137,138
+2025-06-06,Yorkshire|Birmingham Bears,"Edgbaston, Birmingham",Birmingham Bears,332,314,18,166,166
+2025-06-07,Brazil|Uganda,"Gahanga International Cricket Stadium, Rwanda",Uganda,161,133,28,80,81
+2025-06-07,Durham|Hampshire,Arundel Castle Cricket Club Ground,Durham,152,142,10,76,76
+2025-06-07,Guernsey|Jersey,"Grainville, St Saviour",Jersey,223,217,6,111,112
+2025-06-07,Japan|Philippines,Sano International Cricket Ground,Japan,107,75,32,53,54
+2025-06-07,Jersey|Guernsey,"Grainville, St Saviour",Jersey,257,239,18,128,129
+2025-06-07,Lancashire|Surrey,"Old Trafford, Manchester",Surrey,147,140,7,73,74
+2025-06-07,Malawi|Sierra Leone,"Gahanga B Ground, Rwanda",Sierra Leone,151,125,26,75,76
+2025-06-07,Mongolia|Hong Kong,Sano International Cricket Ground,Hong Kong,149,106,43,74,75
+2025-06-07,Nigeria|Cameroon,"Gahanga B Ground, Rwanda",Nigeria,176,156,20,88,88
+2025-06-07,Slovenia|Serbia,Lisicji Jarak Cricket Ground,Serbia,399,359,40,199,200
+2025-06-07,West Indies|England,"The Cooper Associates County Ground, Taunton",England,215,204,11,107,108
+2025-06-07,Worcestershire|Nottinghamshire,"Trent Bridge, Nottingham",Worcestershire,387,374,13,193,194
+2025-06-08,Badureliya Sports Club|Moors Sports Club,"Colts Cricket Club Ground, Colombo",Moors Sports Club,251,242,9,125,126
+2025-06-08,Birmingham Bears|Derbyshire,"Edgbaston, Birmingham",Birmingham Bears,340,329,11,170,170
+2025-06-08,Bloomfield Cricket and Athletic Club|Tamil Union Cricket and Athletic Club,Colombo Cricket Club Ground,Tamil Union Cricket and Athletic Club,239,217,22,119,120
+2025-06-08,Brazil|Tanzania,"Gahanga B Ground, Rwanda",Tanzania,151,127,24,75,76
+2025-06-08,Chilaw Marians Cricket Club|Burgher Recreation Club,Colombo Cricket Club Ground,Burgher Recreation Club,248,243,5,124,124
+2025-06-08,Colts Cricket Club|Police Sports Club,"P Sara Oval, Colombo",Colts Cricket Club,273,262,11,136,137
+2025-06-08,Czech Republic|Austria,"Scott Page Field, Vinor",Austria,230,209,21,115,115
+2025-06-08,Durham|Surrey,"Kennington Oval, London",Surrey,284,268,16,142,142
+2025-06-08,Essex|Middlesex,"County Ground, Chelmsford",Middlesex,315,307,8,157,158
+2025-06-08,Hampshire|Kent,"St Lawrence Ground, Canterbury",Kent,358,342,16,179,179
+2025-06-08,Japan|Hong Kong,Sano International Cricket Ground,Japan,176,161,15,88,88
+2025-06-08,Lancashire|Warwickshire,"Edgbaston, Birmingham",Lancashire,319,294,25,159,160
+2025-06-08,Mongolia|Philippines,Sano International Cricket Ground 2,Philippines,181,115,66,90,91
+2025-06-08,Nigeria|Sierra Leone,"Gahanga International Cricket Stadium, Rwanda",Nigeria,172,151,21,86,86
+2025-06-08,Nondescripts Cricket Club|Ace Capital Cricket Club,"Colts Cricket Club Ground, Colombo",Nondescripts Cricket Club,233,207,26,116,117
+2025-06-08,Northamptonshire|Lancashire,"Old Trafford, Manchester",Northamptonshire,336,311,25,168,168
+2025-06-08,Norway|Czech Republic,"Scott Page Field, Vinor",Norway,241,215,26,120,121
+2025-06-08,Panadura Sports Club|Colombo Cricket Club,"P Sara Oval, Colombo",Panadura Sports Club,245,228,17,122,123
+2025-06-08,Philippines|China,Sano International Cricket Ground,China,169,132,37,84,85
+2025-06-08,Scotland|Nepal,"Forthill, Dundee",Scotland,644,606,38,322,322
+2025-06-08,Serbia|Slovenia,Lisicji Jarak Cricket Ground,Serbia,428,387,41,214,214
+2025-06-08,Sussex|Glamorgan,"County Ground, Hove",Sussex,312,303,9,156,156
+2025-06-08,Uganda|Malawi,"Gahanga International Cricket Stadium, Rwanda",Uganda,156,142,14,78,78
+2025-06-08,West Indies|England,"County Ground, Bristol",England,395,374,21,197,198
+2025-06-08,Yorkshire|Leicestershire,"Headingley, Leeds",Yorkshire,320,305,15,160,160
+2025-06-09,Austria|Czech Republic,"Scott Page Field, Vinor",Austria,287,268,19,143,144
+2025-06-09,Netherlands|United States of America,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,158,149,9,79,79
+2025-06-09,Norway|Austria,"Scott Page Field, Vinor",Norway,296,269,27,148,148
+2025-06-10,England|West Indies,"The Rose Bowl, Southampton",England,459,433,26,229,230
+2025-06-10,Nepal|Netherlands,"Forthill, Dundee",Nepal,446,417,29,223,223
+2025-06-10,Norway|Austria,"Scott Page Field, Vinor",Austria,304,283,21,152,152
+2025-06-10,Norway|Czech Republic,"Scott Page Field, Vinor",Norway,307,278,29,153,154
+2025-06-10,Rwanda|Brazil,"Gahanga B Ground, Rwanda",Rwanda,184,163,21,92,92
+2025-06-10,Uganda|Tanzania,"Gahanga International Cricket Stadium, Rwanda",Uganda,178,162,16,89,89
+2025-06-11,Australia|South Africa,"Lord's, London",South Africa,839,774,65,419,420
+2025-06-11,Brazil|Cameroon,"Gahanga International Cricket Stadium, Rwanda",Brazil,200,178,22,100,100
+2025-06-11,Colombo Cricket Club|Burgher Recreation Club,"P Sara Oval, Colombo",Colombo Cricket Club,218,201,17,109,109
+2025-06-11,Durham|Derbyshire,"Riverside Ground, Chester-le-Street",Durham,320,301,19,160,160
+2025-06-11,Durham|Warwickshire,"Riverside Ground, Chester-le-Street",Warwickshire,327,313,14,163,164
+2025-06-11,Indonesia|Cambodia,Udayana Cricket Ground,Cambodia,251,222,29,125,126
+2025-06-11,Netherlands|United States of America,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,203,188,15,101,102
+2025-06-11,Nigeria|Uganda,"Gahanga International Cricket Stadium, Rwanda",Nigeria,142,130,12,71,71
+2025-06-11,Northamptonshire|Birmingham Bears,"County Ground, Northampton",Northamptonshire,358,331,27,179,179
+2025-06-11,Rwanda|Tanzania,"Gahanga B Ground, Rwanda",Tanzania,152,133,19,76,76
+2025-06-11,South Africa|West Indies,"Three Ws Oval, Cave Hill, Barbados",West Indies,412,384,28,206,206
+2025-06-11,Tamil Union Cricket and Athletic Club|Nondescripts Cricket Club,Colombo Cricket Club Ground,Nondescripts Cricket Club,222,210,12,111,111
+2025-06-11,The Blaze|Surrey,"Kennington Oval, London",The Blaze,321,302,19,160,161
+2025-06-11,Yorkshire|Nottinghamshire,"Trent Bridge, Nottingham",Yorkshire,341,321,20,170,171
+2025-06-12,Austria|Gibraltar,"Scott Page Field, Vinor",Austria,251,212,39,125,126
+2025-06-12,Bermuda|Cayman Islands,"Maple Leaf North-East Ground, King City",Bermuda,314,302,12,157,157
+2025-06-12,Canada|Bahamas,"Maple Leaf North-East Ground, King City",Canada,331,317,14,165,166
+2025-06-12,Glamorgan|Essex,"County Ground, Chelmsford",Glamorgan,400,379,21,200,200
+2025-06-12,Hampshire|Essex,"County Ground, Chelmsford",Hampshire,348,327,21,174,174
+2025-06-12,Indonesia|Cambodia,Udayana Cricket Ground,Cambodia,559,509,50,279,280
+2025-06-12,Kent|Surrey,"Kennington Oval, London",Surrey,344,331,13,172,172
+2025-06-12,Middlesex|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,464,446,18,232,232
+2025-06-12,Moors Sports Club|Bloomfield Cricket and Athletic Club,"P Sara Oval, Colombo",Moors Sports Club,271,243,28,135,136
+2025-06-12,Netherlands|United States of America,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,276,260,16,138,138
+2025-06-12,Panadura Sports Club|Colts Cricket Club,Colombo Cricket Club Ground,Panadura Sports Club,232,217,15,116,116
+2025-06-12,San Francisco Unicorns|Washington Freedom,"Oakland Coliseum,Oakland",San Francisco Unicorns,415,399,16,207,208
+2025-06-12,Scotland|Netherlands,"Forthill, Dundee",Netherlands,743,706,37,371,372
+2025-06-12,Sierra Leone|Brazil,"Gahanga B Ground, Rwanda",Brazil,172,164,8,86,86
+2025-06-12,Tanzania|Cameroon,"Gahanga International Cricket Stadium, Rwanda",Tanzania,225,188,37,112,113
+2025-06-12,Uganda|Rwanda,"Gahanga B Ground, Rwanda",Rwanda,239,228,11,119,120
+2025-06-13,Bermuda|Bahamas,"Maple Leaf North-East Ground, King City",Bermuda,308,292,16,154,154
+2025-06-13,Birmingham Bears|Yorkshire,"Headingley, Leeds",Birmingham Bears,378,355,23,189,189
+2025-06-13,Canada|Cayman Islands,"Maple Leaf North-East Ground, King City",Canada,346,321,25,173,173
+2025-06-13,Czech Republic|Austria,"Scott Page Field, Vinor",Austria,101,60,41,50,51
+2025-06-13,Denmark|Finland,"Ishoj Cricket Club, Vejledalen",Denmark,275,252,23,137,138
+2025-06-13,Derbyshire|Nottinghamshire,"Trent Bridge, Nottingham",Derbyshire,352,342,10,176,176
+2025-06-13,Durham|Northamptonshire,"County Ground, Northampton",Durham,299,284,15,149,150
+2025-06-13,Durham|The Blaze,"Riverside Ground, Chester-le-Street",The Blaze,378,354,24,189,189
+2025-06-13,Gibraltar|Czech Republic,"Scott Page Field, Vinor",Gibraltar,245,157,88,122,123
+2025-06-13,Gloucestershire|Somerset,"County Ground, Bristol",Somerset,272,264,8,136,136
+2025-06-13,Moors Sports Club|Colombo Cricket Club,Colombo Cricket Club Ground,Colombo Cricket Club,175,167,8,87,88
+2025-06-13,Netherlands|United States of America,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,223,207,16,111,112
+2025-06-13,Panadura Sports Club|Nondescripts Cricket Club,Colombo Cricket Club Ground,Panadura Sports Club,239,214,25,119,120
+2025-06-13,Somerset|Lancashire,"The Cooper Associates County Ground, Taunton",Lancashire,265,254,11,132,133
+2025-06-13,Tanzania|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Tanzania,102,88,14,51,51
+2025-06-13,Texas Super Kings|MI New York,"Oakland Coliseum,Oakland",Texas Super Kings,367,344,23,183,184
+2025-06-13,Worcestershire|Lancashire,"County Ground, New Road, Worcester",Lancashire,289,274,15,144,145
+2025-06-14,Birmingham Bears|Nottinghamshire,"Edgbaston, Birmingham",Nottinghamshire,418,404,14,209,209
+2025-06-14,Cambodia|Indonesia,Udayana Cricket Ground,Indonesia,126,123,3,63,63
+2025-06-14,Denmark|Norway,Koge Cricket Club,Norway,361,342,19,180,181
+2025-06-14,Denmark|Sweden,Koge Cricket Club,Denmark,314,299,15,157,157
+2025-06-14,Finland|Norway,"Ishoj Cricket Club, Vejledalen",Finland,189,179,10,94,95
+2025-06-14,Leicestershire|Derbyshire,"Edgbaston, Birmingham",Derbyshire,393,381,12,196,197
+2025-06-14,San Francisco Unicorns|Los Angeles Knight Riders,"Oakland Coliseum,Oakland",San Francisco Unicorns,406,389,17,203,203
+2025-06-14,Seattle Orcas|Washington Freedom,"Oakland Coliseum,Oakland",Washington Freedom,294,273,21,147,147
+2025-06-14,South Africa|West Indies,"Three Ws Oval, Cave Hill, Barbados",South Africa,578,552,26,289,289
+2025-06-14,Sussex|Glamorgan,"Sophia Gardens, Cardiff",Sussex,371,355,16,185,186
+2025-06-14,Sweden|Finland,"Ishoj Cricket Club, Vejledalen",Sweden,251,232,19,125,126
+2025-06-14,Uganda|Rwanda,"Gahanga B Ground, Rwanda",Uganda,194,183,11,97,97
+2025-06-15,Canada|Bermuda,"Maple Leaf North-West Ground, King City",Canada,300,278,22,150,150
+2025-06-15,Cayman Islands|Bahamas,"Maple Leaf North-West Ground, King City",Cayman Islands,328,320,8,164,164
+2025-06-15,Essex|Surrey,"County Ground, Chelmsford",Surrey,298,279,19,149,149
+2025-06-15,Finland|Norway,"Ishoj Cricket Club, Vejledalen",Finland,314,277,37,157,157
+2025-06-15,Glamorgan|Gloucestershire,"County Ground, Bristol",Glamorgan,338,324,14,169,169
+2025-06-15,Indonesia|Cambodia,Udayana Cricket Ground,Cambodia,464,434,30,232,232
+2025-06-15,Kent|Somerset,"The Cooper Associates County Ground, Taunton",Kent,452,434,18,226,226
+2025-06-15,MI New York|San Francisco Unicorns,"Oakland Coliseum,Oakland",San Francisco Unicorns,370,350,20,185,185
+2025-06-15,Panadura Sports Club|Colombo Cricket Club,Colombo Cricket Club Ground,Colombo Cricket Club,346,330,16,173,173
+2025-06-15,Scotland|Netherlands,"Titwood, Glasgow",Scotland,281,267,14,140,141
+2025-06-15,Somerset|Durham,"The Cooper Associates County Ground, Taunton",Durham,277,268,9,138,139
+2025-06-15,Sweden|Norway,"Ishoj Cricket Club, Vejledalen",Norway,301,263,38,150,151
+2025-06-15,Texas Super Kings|Los Angeles Knight Riders,"Oakland Coliseum,Oakland",Texas Super Kings,305,283,22,152,153
+2025-06-15,Warwickshire|Hampshire,"Edgbaston, Birmingham",Warwickshire,343,326,17,171,172
+2025-06-15,West Indies|Ireland,"Bready Cricket Club, Magheramason, Bready",West Indies,450,416,34,225,225
+2025-06-15,Worcestershire|Leicestershire,"Grace Road, Leicester",Leicestershire,303,291,12,151,152
+2025-06-15,Yorkshire|Durham,York Cricket Club,Durham,259,245,14,129,130
+2025-06-16,Bahamas|Bermuda,"Maple Leaf North-West Ground, King City",Bermuda,181,162,19,90,91
+2025-06-16,Cambodia|Indonesia,Udayana Cricket Ground,Indonesia,306,277,29,153,153
+2025-06-16,Canada|Cayman Islands,"Maple Leaf North-West Ground, King City",Canada,265,238,27,132,133
+2025-06-16,Papua New Guinea|Vanuatu,"Amini Park, Port Moresby",Papua New Guinea,161,135,26,80,81
+2025-06-16,Texas Super Kings|Seattle Orcas,"Oakland Coliseum,Oakland",Texas Super Kings,213,199,14,106,107
+2025-06-17,Hampshire|Surrey,"The Rose Bowl, Southampton",Surrey,311,300,11,155,156
+2025-06-17,Leinster Lightning|Northern Knights,"Mardyke, Cork",Northern Knights,309,295,14,154,155
+2025-06-17,North-West Warriors|Munster Reds,"Mardyke, Cork",North-West Warriors,353,333,20,176,177
+2025-06-17,Samoa|Papua New Guinea,"Amini Park, Port Moresby",Papua New Guinea,129,100,29,64,65
+2025-06-17,Scotland|Nepal,"Titwood, Glasgow",Nepal,195,186,9,97,98
+2025-06-17,South Africa|West Indies,"Three Ws Oval, Cave Hill, Barbados",South Africa,399,365,34,199,200
+2025-06-17,Surrey|Hampshire,"The Rose Bowl, Southampton",Surrey,317,309,8,158,159
+2025-06-17,Washington Freedom|Los Angeles Knight Riders,"Oakland Coliseum,Oakland",Washington Freedom,303,290,13,151,152
+2025-06-18,Bahamas|Canada,"Maple Leaf North-West Ground, King City",Canada,106,96,10,53,53
+2025-06-18,Cayman Islands|Bermuda,"Maple Leaf North-West Ground, King City",Bermuda,247,221,26,123,124
+2025-06-18,Durham|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,311,286,25,155,156
+2025-06-18,Essex|Warwickshire,"Edgbaston, Birmingham",Warwickshire,304,278,26,152,152
+2025-06-18,Kent|Gloucestershire,"St Lawrence Ground, Canterbury",Gloucestershire,317,299,18,158,159
+2025-06-18,Munster Reds|Northern Knights,"Mardyke, Cork",Munster Reds,383,376,7,191,192
+2025-06-18,Netherlands|Scotland,"Titwood, Glasgow",Netherlands,379,362,17,189,190
+2025-06-18,North-West Warriors|Leinster Lightning,"Mardyke, Cork",Leinster Lightning,264,239,25,132,132
+2025-06-18,Seattle Orcas|MI New York,"Oakland Coliseum,Oakland",MI New York,403,383,20,201,202
+2025-06-18,Surrey|Lancashire,"Kennington Oval, London",Surrey,289,284,5,144,145
+2025-06-18,Surrey|Sussex,"Kennington Oval, London",Surrey,372,352,20,186,186
+2025-06-19,Bermuda|Bahamas,"Maple Leaf North-West Ground, King City",Bermuda,202,183,19,101,101
+2025-06-19,Canada|Cayman Islands,"Maple Leaf North-West Ground, King City",Canada,120,117,3,60,60
+2025-06-19,Hampshire|Somerset,"The Cooper Associates County Ground, Taunton",Hampshire,333,320,13,166,167
+2025-06-19,Lancashire|The Blaze,"Grace Road, Leicester",The Blaze,303,286,17,151,152
+2025-06-19,Middlesex|Essex,"Lord's, London",Middlesex,321,299,22,160,161
+2025-06-19,Munster Reds|Leinster Lightning,"Mardyke, Cork",Leinster Lightning,335,319,16,167,168
+2025-06-19,Netherlands|Nepal,"Titwood, Glasgow",Nepal,354,338,16,177,177
+2025-06-19,Northern Knights|North-West Warriors,"Mardyke, Cork",Northern Knights,241,220,21,120,121
+2025-06-19,Nottinghamshire|Leicestershire,"Grace Road, Leicester",Leicestershire,316,305,11,158,158
+2025-06-19,Somerset|Hampshire,"The Cooper Associates County Ground, Taunton",Somerset,401,388,13,200,201
+2025-06-19,Vanuatu|Samoa,"Amini Park, Port Moresby",Vanuatu,195,166,29,97,98
+2025-06-20,Durham|Essex,"Riverside Ground, Chester-le-Street",Essex,206,186,20,103,103
+2025-06-20,Durham|Yorkshire,"Riverside Ground, Chester-le-Street",Durham,323,309,14,161,162
+2025-06-20,Glamorgan|Somerset,"Sophia Gardens, Cardiff",Somerset,261,254,7,130,131
+2025-06-20,Hampshire|Gloucestershire,"County Ground, Bristol",Gloucestershire,254,240,14,127,127
+2025-06-20,India|England,"Headingley, Leeds",England,1673,1569,104,836,837
+2025-06-20,Kent|Essex,"County Ground, Chelmsford",Kent,391,375,16,195,196
+2025-06-20,Lancashire|Derbyshire,"County Ground, Derby",Lancashire,406,393,13,203,203
+2025-06-20,Nottinghamshire|Northamptonshire,"County Ground, Northampton",Nottinghamshire,304,289,15,152,152
+2025-06-20,Papua New Guinea|Vanuatu,"Amini Park, Port Moresby",Papua New Guinea,165,132,33,82,83
+2025-06-20,Scotland|Nepal,"Titwood, Glasgow",Scotland,352,332,20,176,176
+2025-06-20,South Africa|West Indies,"Three Ws Oval, Cave Hill, Barbados",South Africa,316,289,27,158,158
+2025-06-20,Surrey|Middlesex,"Kennington Oval, London",Surrey,313,299,14,156,157
+2025-06-20,Texas Super Kings|San Francisco Unicorns,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,400,380,20,200,200
+2025-06-20,Warwickshire|The Blaze,"Edgbaston, Birmingham",Warwickshire,319,301,18,159,160
+2025-06-20,Worcestershire|Birmingham Bears,"Edgbaston, Birmingham",Birmingham Bears,269,257,12,134,135
+2025-06-21,Bahamas|Canada,"Maple Leaf North-West Ground, King City",Canada,118,104,14,59,59
+2025-06-21,Bermuda|Cayman Islands,"Maple Leaf North-West Ground, King City",Cayman Islands,281,265,16,140,141
+2025-06-21,Hungary|Slovenia,"GB Oval, Szodliget",Hungary,688,599,89,344,344
+2025-06-21,MI New York|Washington Freedom,"Grand Prairie Stadium, Dallas",Washington Freedom,377,358,19,188,189
+2025-06-21,Papua New Guinea|Samoa,"Amini Park, Port Moresby",Papua New Guinea,182,152,30,91,91
+2025-06-21,Switzerland|Luxembourg,Pierre Werner Cricket Ground,Switzerland,594,537,57,297,297
+2025-06-22,Cayman Islands|Bahamas,"Maple Leaf North-West Ground, King City",Cayman Islands,285,272,13,142,143
+2025-06-22,Middlesex|Northamptonshire,"County Ground, Northampton",Northamptonshire,1493,1421,72,746,747
+2025-06-22,Seattle Orcas|Los Angeles Knight Riders,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,355,325,30,177,178
+2025-06-22,Slovenia|Hungary,"GB Oval, Szodliget",Hungary,300,280,20,150,150
+2025-06-22,South Africa|West Indies,"Three Ws Oval, Cave Hill, Barbados",West Indies,229,210,19,114,115
+2025-06-22,Switzerland|Luxembourg,Pierre Werner Cricket Ground,Luxembourg,279,272,7,139,140
+2025-06-22,Texas Super Kings|Washington Freedom,"Grand Prairie Stadium, Dallas",Washington Freedom,443,424,19,221,222
+2025-06-22,Worcestershire|Surrey,"County Ground, New Road, Worcester",Surrey,678,642,36,339,339
+2025-06-23,San Francisco Unicorns|MI New York,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,445,423,22,222,223
+2025-06-23,South Africa|West Indies,"Three Ws Oval, Cave Hill, Barbados",West Indies,295,278,17,147,148
+2025-06-24,Munster Reds|Leinster Lightning,"Civil Service Cricket Club, Stormont, Belfast",Leinster Lightning,245,238,7,122,123
+2025-06-24,North-West Warriors|Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",North-West Warriors,223,203,20,111,112
+2025-06-24,Texas Super Kings|Los Angeles Knight Riders,"Grand Prairie Stadium, Dallas",Texas Super Kings,340,314,26,170,170
+2025-06-25,Australia|West Indies,"Kensington Oval, Bridgetown, Barbados",Australia,821,785,36,410,411
+2025-06-25,Bangladesh|Sri Lanka,"Sinhalese Sports Club Ground, Colombo",Sri Lanka,838,822,16,419,419
+2025-06-25,North-West Warriors|Leinster Lightning,"Civil Service Cricket Club, Stormont, Belfast",Leinster Lightning,290,266,24,145,145
+2025-06-25,Northern Knights|Munster Reds,"Civil Service Cricket Club, Stormont, Belfast",Northern Knights,329,322,7,164,165
+2025-06-25,San Francisco Unicorns|Seattle Orcas,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,320,307,13,160,160
+2025-06-26,Belgium|Malta,"Moara Vlasiei Cricket Ground, Ilfov County",Belgium,333,304,29,166,167
+2025-06-26,France|Malta,"Moara Vlasiei Cricket Ground, Ilfov County",Malta,211,182,29,105,106
+2025-06-26,Leinster Lightning|Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",Leinster Lightning,268,247,21,134,134
+2025-06-26,Los Angeles Knight Riders|Washington Freedom,"Grand Prairie Stadium, Dallas",Washington Freedom,427,405,22,213,214
+2025-06-26,North-West Warriors|Munster Reds,"Civil Service Cricket Club, Stormont, Belfast",Munster Reds,280,269,11,140,140
+2025-06-27,Ace Capital Cricket Club|Tamil Union Cricket and Athletic Club,"P Sara Oval, Colombo",Tamil Union Cricket and Athletic Club,392,374,18,196,196
+2025-06-27,Belgium|France,"Moara Vlasiei Cricket Ground, Ilfov County",Belgium,340,311,29,170,170
+2025-06-27,Chilaw Marians Cricket Club|Badureliya Sports Club,"Nondescripts Cricket Club Ground, Colombo",Chilaw Marians Cricket Club,414,394,20,207,207
+2025-06-27,Colts Cricket Club|Colombo Cricket Club,"Colts Cricket Club Ground, Colombo",Colombo Cricket Club,207,189,18,103,104
+2025-06-27,Hungary|Austria,"Moara Vlasiei Cricket Ground, Ilfov County",Austria,376,341,35,188,188
+2025-06-27,Hungary|Romania,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,300,282,18,150,150
+2025-06-27,MI New York|Seattle Orcas,"Grand Prairie Stadium, Dallas",Seattle Orcas,475,456,19,237,238
+2025-06-27,Moors Sports Club|Bloomfield Cricket and Athletic Club,"Moors Sports Club Ground, Colombo",Moors Sports Club,448,423,25,224,224
+2025-06-27,Nondescripts Cricket Club|Police Sports Club,"Police Park Ground, Colombo",Police Sports Club,287,276,11,143,144
+2025-06-27,Nugegoda Sports Welfare Club|Burgher Recreation Club,"Burgher Recreation Club Ground, Colombo",Nugegoda Sports Welfare Club,443,408,35,221,222
+2025-06-28,Belgium|Austria,"Moara Vlasiei Cricket Ground, Ilfov County",Austria,287,259,28,143,144
+2025-06-28,India|England,"Trent Bridge, Nottingham",India,323,303,20,161,162
+2025-06-28,Los Angeles Knight Riders|Seattle Orcas,"Grand Prairie Stadium, Dallas",Seattle Orcas,408,389,19,204,204
+2025-06-28,Malta|Romania,"Moara Vlasiei Cricket Ground, Ilfov County",Malta,216,190,26,108,108
+2025-06-28,South Africa|Zimbabwe,"Queens Sports Club, Bulawayo",South Africa,1246,1195,51,623,623
+2025-06-28,Washington Freedom|San Francisco Unicorns,"Grand Prairie Stadium, Dallas",Washington Freedom,326,318,8,163,163
+2025-06-29,Essex|Yorkshire,York Cricket Club,Yorkshire,999,950,49,499,500
+2025-06-29,Hungary|France,"Moara Vlasiei Cricket Ground, Ilfov County",Hungary,246,217,29,123,123
+2025-06-29,Lancashire|Derbyshire,"Queen's Park, Chesterfield",Lancashire,1285,1232,53,642,643
+2025-06-29,Middlesex|Leicestershire,"Grace Road, Leicester",Middlesex,941,874,67,470,471
+2025-06-29,Texas Super Kings|MI New York,"Grand Prairie Stadium, Dallas",Texas Super Kings,407,386,21,203,204
+2025-07-01,Badureliya Sports Club|Ace Capital Cricket Club,"Surrey Village, Maggona",Badureliya Sports Club,504,471,33,252,252
+2025-07-01,Bloomfield Cricket and Athletic Club|Kurunegala Youth Cricket Club,"Colts Cricket Club Ground, Colombo",Bloomfield Cricket and Athletic Club,423,380,43,211,212
+2025-07-01,Burgher Recreation Club|Colombo Cricket Club,"Burgher Recreation Club Ground, Colombo",Colombo Cricket Club,272,249,23,136,136
+2025-07-01,India|England,"County Ground, Bristol",India,338,328,10,169,169
+2025-07-01,Moors Sports Club|Colts Cricket Club,"Moors Sports Club Ground, Colombo",Colts Cricket Club,499,467,32,249,250
+2025-07-01,North-West Warriors|Munster Reds,"Bready Cricket Club, Magheramason, Bready",North-West Warriors,315,300,15,157,158
+2025-07-01,Northern Knights|Leinster Lightning,"Bready Cricket Club, Magheramason, Bready",Leinster Lightning,250,236,14,125,125
+2025-07-01,Police Sports Club|Panadura Sports Club,"Police Park Ground, Colombo",Police Sports Club,478,454,24,239,239
+2025-07-01,San Francisco Unicorns|Seattle Orcas,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Seattle Orcas,337,313,24,168,169
+2025-07-01,Tamil Union Cricket and Athletic Club|Nondescripts Cricket Club,"P Sara Oval, Colombo",Nondescripts Cricket Club,397,374,23,198,199
+2025-07-02,India|England,"Edgbaston, Birmingham",India,1692,1628,64,846,846
+2025-07-02,Leinster Lightning|North-West Warriors,"Bready Cricket Club, Magheramason, Bready",Leinster Lightning,307,281,26,153,154
+2025-07-02,Munster Reds|Northern Knights,"Bready Cricket Club, Magheramason, Bready",Northern Knights,322,307,15,161,161
+2025-07-02,Sri Lanka|Bangladesh,"R Premadasa Stadium, Colombo",Sri Lanka,411,392,19,205,206
+2025-07-02,Texas Super Kings|Washington Freedom,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Texas Super Kings,131,126,5,65,66
+2025-07-03,Australia|West Indies,"National Cricket Stadium, St George's, Grenada",Australia,925,863,62,462,463
+2025-07-03,Los Angeles Knight Riders|MI New York,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",MI New York,309,290,19,154,155
+2025-07-03,Singapore|Indonesia,Singapore National Cricket Ground,Indonesia,97,82,15,48,49
+2025-07-04,Durham|Nottinghamshire,"Riverside Ground, Chester-le-Street",Durham,413,391,22,206,207
+2025-07-04,Durham|Somerset,"Riverside Ground, Chester-le-Street",Durham,302,284,18,151,151
+2025-07-04,England|India,"Kennington Oval, London",England,337,326,11,168,169
+2025-07-04,Glamorgan|Somerset,"The Cooper Associates County Ground, Taunton",Glamorgan,350,335,15,175,175
+2025-07-04,Gloucestershire|Essex,"County Ground, Chelmsford",Gloucestershire,355,339,16,177,178
+2025-07-04,Leicestershire|Birmingham Bears,"Grace Road, Leicester",Birmingham Bears,312,297,15,156,156
+2025-07-04,Northamptonshire|Lancashire,"County Ground, Northampton",Lancashire,358,340,18,179,179
+2025-07-04,San Francisco Unicorns|Texas Super Kings,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",San Francisco Unicorns,295,283,12,147,148
+2025-07-04,Seattle Orcas|Washington Freedom,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Washington Freedom,168,161,7,84,84
+2025-07-04,Sussex|Kent,"St Lawrence Ground, Canterbury",Sussex,356,325,31,178,178
+2025-07-04,The Blaze|Hampshire,"Queen's Park, Chesterfield",The Blaze,339,316,23,169,170
+2025-07-04,Yorkshire|Worcestershire,"Headingley, Leeds",Yorkshire,425,398,27,212,213
+2025-07-05,Ace Capital Cricket Club|Nondescripts Cricket Club,"Nondescripts Cricket Club Ground, Colombo",Nondescripts Cricket Club,427,407,20,213,214
+2025-07-05,Bangladesh|Sri Lanka,"R Premadasa Stadium, Colombo",Bangladesh,480,458,22,240,240
+2025-07-05,Colombo Cricket Club|Moors Sports Club,Colombo Cricket Club Ground,Moors Sports Club,633,590,43,316,317
+2025-07-05,Colts Cricket Club|Kurunegala Youth Cricket Club,"Colts Cricket Club Ground, Colombo",Colts Cricket Club,383,355,28,191,192
+2025-07-05,Essex|Lancashire,"Old Trafford, Manchester",Lancashire,102,89,13,51,51
+2025-07-05,Guernsey|Italy,"Sportpark Westvliet, Voorburg",Italy,249,238,11,124,125
+2025-07-05,Hampshire|Sussex,"County Ground, Hove",Hampshire,330,306,24,165,165
+2025-07-05,Indonesia|Singapore,Singapore National Cricket Ground,Indonesia,95,77,18,47,48
+2025-07-05,Jersey|Netherlands,"Sportpark Westvliet, Voorburg",Netherlands,321,309,12,160,161
+2025-07-05,Lancashire|Derbyshire,"Old Trafford, Manchester",Lancashire,314,298,16,157,157
+2025-07-05,MI New York|Los Angeles Knight Riders,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",MI New York,278,263,15,139,139
+2025-07-05,Malawi|Germany,"TCA Oval, Blantyre",Germany,289,270,19,144,145
+2025-07-05,Panadura Sports Club|Tamil Union Cricket and Athletic Club,"P Sara Oval, Colombo",Tamil Union Cricket and Athletic Club,344,333,11,172,172
+2025-07-05,Police Sports Club|Chilaw Marians Cricket Club,"De Zoysa Stadium, Moratuwa",Police Sports Club,493,482,11,246,247
+2025-07-05,Texas Super Kings|Seattle Orcas,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Texas Super Kings,325,310,15,162,163
+2025-07-06,Bahrain|Germany,"TCA Oval, Blantyre",Bahrain,368,361,7,184,184
+2025-07-06,Durham|Birmingham Bears,"Riverside Ground, Chester-le-Street",Durham,356,347,9,178,178
+2025-07-06,Gloucestershire|Middlesex,"County Ground, Bristol",Gloucestershire,399,385,14,199,200
+2025-07-06,Hampshire|Somerset,"The Rose Bowl, Southampton",Somerset,357,343,14,178,179
+2025-07-06,Kent|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,240,224,16,120,120
+2025-07-06,Leicestershire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,377,360,17,188,189
+2025-07-06,Los Angeles Knight Riders|San Francisco Unicorns,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Los Angeles Knight Riders,476,445,31,238,238
+2025-07-06,MI New York|Washington Freedom,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Washington Freedom,225,219,6,112,113
+2025-07-06,Northamptonshire|Worcestershire,"County Ground, Northampton",Worcestershire,305,276,29,152,153
+2025-07-06,Philippines|Indonesia,Udayana Cricket Ground,Philippines,313,300,13,156,157
+2025-07-06,Somerset|Hampshire,"The Rose Bowl, Southampton",Hampshire,307,283,24,153,154
+2025-07-06,South Africa|Zimbabwe,"Queens Sports Club, Bulawayo",South Africa,1016,989,27,508,508
+2025-07-06,Surrey|Essex,"Kennington Oval, London",Essex,286,268,18,143,143
+2025-07-06,Warwickshire|Lancashire,"Old Trafford, Manchester",Lancashire,247,233,14,123,124
+2025-07-06,Yorkshire|Derbyshire,"Queen's Park, Chesterfield",Derbyshire,401,370,31,200,201
+2025-07-07,Bulgaria|Serbia,"Vassil Levski National Sports Academy, Sofia",Serbia,227,169,58,113,114
+2025-07-07,Indonesia|Philippines,Udayana Cricket Ground,Indonesia,275,266,9,137,138
+2025-07-07,Malawi|Bahrain,"TCA Oval, Blantyre",Bahrain,220,206,14,110,110
+2025-07-07,South Korea|Philippines,Udayana Cricket Ground,Philippines,161,149,12,80,81
+2025-07-07,Tanzania|Germany,"TCA Oval, Blantyre",Germany,272,252,20,136,136
+2025-07-07,Turkey|Greece,"Vassil Levski National Sports Academy, Sofia",Turkey,234,191,43,117,117
+2025-07-07,Turkey|Serbia,"Vassil Levski National Sports Academy, Sofia",Turkey,297,223,74,148,149
+2025-07-08,Bahrain|Tanzania,"TCA Oval, Blantyre",Tanzania,424,414,10,212,212
+2025-07-08,Essex|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,311,283,28,155,156
+2025-07-08,Greece|Bulgaria,"Vassil Levski National Sports Academy, Sofia",Greece,308,262,46,154,154
+2025-07-08,Indonesia|South Korea,Udayana Cricket Ground,Indonesia,284,254,30,142,142
+2025-07-08,Jersey|Guernsey,"Sportpark Westvliet, Voorburg",Jersey,298,286,12,149,149
+2025-07-08,Munster Reds|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,319,296,23,159,160
+2025-07-08,Northern Knights|North-West Warriors,"Pembroke Cricket Club, Sandymount, Dublin",North-West Warriors,350,340,10,175,175
+2025-07-08,Panadura Sports Club|Nondescripts Cricket Club,Panadura Esplanade,Panadura Sports Club,419,386,33,209,210
+2025-07-08,Scotland|Netherlands,"Sportpark Westvliet, Voorburg",Scotland,290,280,10,145,145
+2025-07-08,Serbia|Greece,"Vassil Levski National Sports Academy, Sofia",Greece,245,193,52,122,123
+2025-07-08,Somerset|Essex,"The Cooper Associates County Ground, Taunton",Somerset,355,346,9,177,178
+2025-07-08,Sri Lanka|Bangladesh,Pallekele International Cricket Stadium,Sri Lanka,471,457,14,235,236
+2025-07-08,Turkey|Bulgaria,"Vassil Levski National Sports Academy, Sofia",Turkey,276,221,55,138,138
+2025-07-09,Badureliya Sports Club|Police Sports Club,"Surrey Village, Maggona",Police Sports Club,179,159,20,89,90
+2025-07-09,Birmingham Bears|Lancashire,"Edgbaston, Birmingham",Birmingham Bears,370,354,16,185,185
+2025-07-09,Bloomfield Cricket and Athletic Club|Burgher Recreation Club,"Bloomfield Cricket and Athletic Club Ground, Colombo",Bloomfield Cricket and Athletic Club,615,583,32,307,308
+2025-07-09,Bulgaria|Serbia,"Vassil Levski National Sports Academy, Sofia",Serbia,147,95,52,73,74
+2025-07-09,Chilaw Marians Cricket Club|Tamil Union Cricket and Athletic Club,"Nondescripts Cricket Club Ground, Colombo",Chilaw Marians Cricket Club,527,501,26,263,264
+2025-07-09,Colts Cricket Club|Nugegoda Sports Welfare Club,"Colts Cricket Club Ground, Colombo",Colts Cricket Club,466,452,14,233,233
+2025-07-09,England|India,"Old Trafford, Manchester",India,253,243,10,126,127
+2025-07-09,Hampshire|Lancashire,"Enborne Lodge, Newbury",Lancashire,349,321,28,174,175
+2025-07-09,Italy|Scotland,"Sportpark Westvliet, Voorburg",Italy,322,307,15,161,161
+2025-07-09,Kurunegala Youth Cricket Club|Moors Sports Club,"Welagedara Stadium, Kurunegala",Moors Sports Club,395,366,29,197,198
+2025-07-09,Middlesex|Hampshire,"Merchant Taylors' School Ground, Northwood",Hampshire,375,358,17,187,188
+2025-07-09,Munster Reds|Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",Munster Reds,346,323,23,173,173
+2025-07-09,Netherlands|Guernsey,"Sportpark Westvliet, Voorburg",Netherlands,271,257,14,135,136
+2025-07-09,North-West Warriors|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,400,387,13,200,200
+2025-07-09,San Francisco Unicorns|MI New York,"Grand Prairie Stadium, Dallas",MI New York,263,249,14,131,132
+2025-07-09,South Korea|Indonesia,Udayana Cricket Ground,Indonesia,105,95,10,52,53
+2025-07-09,South Korea|Philippines,Udayana Cricket Ground,South Korea,331,312,19,165,166
+2025-07-09,Surrey|Gloucestershire,"County Ground, Bristol",Surrey,358,336,22,179,179
+2025-07-09,Sussex|Kent,"County Ground, Hove",Kent,299,286,13,149,150
+2025-07-09,Turkey|Greece,"Vassil Levski National Sports Academy, Sofia",Turkey,248,177,71,124,124
+2025-07-09,Warwickshire|Surrey,"Edgbaston, Birmingham",Surrey,279,265,14,139,140
+2025-07-10,Bangladesh|Sri Lanka,Pallekele International Cricket Stadium,Sri Lanka,313,303,10,156,157
+2025-07-10,Bulgaria|Gibraltar,"Vassil Levski National Sports Academy, Sofia",Gibraltar,439,412,27,219,220
+2025-07-10,England|India,"Lord's, London",England,1136,1043,93,568,568
+2025-07-10,Hampshire|Glamorgan,"The Rose Bowl, Southampton",Hampshire,321,306,15,160,161
+2025-07-10,Indonesia|Philippines,Udayana Cricket Ground,Philippines,348,327,21,174,174
+2025-07-10,Malawi|Germany,"TCA Oval, Blantyre",Malawi,324,309,15,162,162
+2025-07-10,Munster Reds|North-West Warriors,"Pembroke Cricket Club, Sandymount, Dublin",Munster Reds,276,266,10,138,138
+2025-07-10,Northamptonshire|Leicestershire,"Grace Road, Leicester",Leicestershire,344,307,37,172,172
+2025-07-10,Northern Knights|Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",Leinster Lightning,375,357,18,187,188
+2025-07-10,Philippines|South Korea,Udayana Cricket Ground,Philippines,380,341,39,190,190
+2025-07-10,Tanzania|Bahrain,"TCA Oval, Blantyre",Bahrain,311,298,13,155,156
+2025-07-10,Turkey|Bulgaria,"Vassil Levski National Sports Academy, Sofia",Bulgaria,395,372,23,197,198
+2025-07-10,Worcestershire|Derbyshire,"County Ground, Derby",Worcestershire,336,321,15,168,168
+2025-07-11,Birmingham Bears|Worcestershire,"County Ground, New Road, Worcester",Birmingham Bears,329,309,20,164,165
+2025-07-11,Durham|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,315,295,20,157,158
+2025-07-11,Gibraltar|Bulgaria,"Vassil Levski National Sports Academy, Sofia",Bulgaria,487,465,22,243,244
+2025-07-11,Glamorgan|Surrey,"Kennington Oval, London",Surrey,446,416,30,223,223
+2025-07-11,Hampshire|Durham,"Riverside Ground, Chester-le-Street",Durham,207,194,13,103,104
+2025-07-11,Italy|Netherlands,"Sportpark Westvliet, Voorburg",Netherlands,269,243,26,134,135
+2025-07-11,Kent|Somerset,"St Lawrence Ground, Canterbury",Somerset,275,266,9,137,138
+2025-07-11,Middlesex|Gloucestershire,"Merchant Taylors' School Ground, Northwood",Middlesex,355,341,14,177,178
+2025-07-11,Northamptonshire|Derbyshire,"County Ground, Northampton",Northamptonshire,461,439,22,230,231
+2025-07-11,Scotland|Jersey,"Sportpark Westvliet, Voorburg",Jersey,267,256,11,133,134
+2025-07-11,Surrey|The Blaze,"Trent Bridge, Nottingham",Surrey,254,238,16,127,127
+2025-07-11,Sussex|Essex,"County Ground, Chelmsford",Essex,293,284,9,146,147
+2025-07-11,Texas Super Kings|MI New York,"Grand Prairie Stadium, Dallas",MI New York,338,325,13,169,169
+2025-07-11,Turkey|Gibraltar,"Vassil Levski National Sports Academy, Sofia",Gibraltar,302,278,24,151,151
+2025-07-11,Warwickshire|Somerset,"The Cooper Associates County Ground, Taunton",Warwickshire,276,266,10,138,138
+2025-07-11,Yorkshire|Lancashire,"Old Trafford, Manchester",Yorkshire,453,435,18,226,227
+2025-07-12,Australia|West Indies,"Sabina Park, Kingston, Jamaica",Australia,516,474,42,258,258
+2025-07-12,Germany|Tanzania,"TCA Oval, Blantyre",Tanzania,286,263,23,143,143
+2025-07-12,India|England,"Edgbaston, Birmingham",England,335,321,14,167,168
+2025-07-12,Indonesia|South Korea,Udayana Cricket Ground,South Korea,327,295,32,163,164
+2025-07-12,Malawi|Bahrain,"TCA Oval, Blantyre",Bahrain,148,140,8,74,74
+2025-07-12,Philippines|South Korea,Udayana Cricket Ground,Philippines,283,264,19,141,142
+2025-07-12,Turkey|Bulgaria,"Vassil Levski National Sports Academy, Sofia",Turkey,415,398,17,207,208
+2025-07-12,Turkey|Gibraltar,"Vassil Levski National Sports Academy, Sofia",Gibraltar,391,373,18,195,196
+2025-07-13,Ace Capital Cricket Club|Panadura Sports Club,Panadura Esplanade,Ace Capital Cricket Club,614,587,27,307,307
+2025-07-13,Bahrain|Tanzania,"TCA Oval, Blantyre",Tanzania,179,164,15,89,90
+2025-07-13,Bangladesh|Sri Lanka,Rangiri Dambulla International Stadium,Bangladesh,271,257,14,135,136
+2025-07-13,Colts Cricket Club|Burgher Recreation Club,"Burgher Recreation Club Ground, Colombo",Colts Cricket Club,361,347,14,180,181
+2025-07-13,Durham|Lancashire,"Old Trafford, Manchester",Lancashire,311,295,16,155,156
+2025-07-13,Germany|Malawi,"TCA Oval, Blantyre",Germany,401,374,27,200,201
+2025-07-13,Gibraltar|Bulgaria,"Vassil Levski National Sports Academy, Sofia",Bulgaria,394,384,10,197,197
+2025-07-13,Gloucestershire|Glamorgan,"Sophia Gardens, Cardiff",Gloucestershire,310,297,13,155,155
+2025-07-13,Indonesia|Philippines,Udayana Cricket Ground,Philippines,283,260,23,141,142
+2025-07-13,Kurunegala Youth Cricket Club|Colombo Cricket Club,Colombo Cricket Club Ground,Colombo Cricket Club,384,349,35,192,192
+2025-07-13,Lancashire|Durham,"Old Trafford, Manchester",Durham,297,278,19,148,149
+2025-07-13,Leicestershire|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,349,333,16,174,175
+2025-07-13,MI New York|Washington Freedom,"Grand Prairie Stadium, Dallas",MI New York,355,339,16,177,178
+2025-07-13,Middlesex|Kent,"St Lawrence Ground, Canterbury",Kent,325,316,9,162,163
+2025-07-13,Nondescripts Cricket Club|Chilaw Marians Cricket Club,"Nondescripts Cricket Club Ground, Colombo",Nondescripts Cricket Club,430,388,42,215,215
+2025-07-13,Northamptonshire|Birmingham Bears,"Edgbaston, Birmingham",Northamptonshire,416,405,11,208,208
+2025-07-13,Nugegoda Sports Welfare Club|Moors Sports Club,"Moors Sports Club Ground, Colombo",Moors Sports Club,267,252,15,133,134
+2025-07-13,South Korea|Indonesia,Udayana Cricket Ground,Indonesia,231,214,17,115,116
+2025-07-13,Surrey|Somerset,"Kennington Oval, London",Surrey,617,580,37,308,309
+2025-07-13,Sussex|Hampshire,"The Rose Bowl, Southampton",Hampshire,338,326,12,169,169
+2025-07-13,Tamil Union Cricket and Athletic Club|Badureliya Sports Club,"P Sara Oval, Colombo",Tamil Union Cricket and Athletic Club,343,326,17,171,172
+2025-07-13,The Blaze|Essex,"County Ground, Chelmsford",The Blaze,243,237,6,121,122
+2025-07-13,Warwickshire|Hampshire,"The Rose Bowl, Southampton",Warwickshire,314,292,22,157,157
+2025-07-13,Yorkshire|Derbyshire,"Headingley, Leeds",Derbyshire,308,288,20,154,154
+2025-07-14,Zimbabwe|South Africa,Harare Sports Club,South Africa,283,271,12,141,142
+2025-07-16,England|India,"The Rose Bowl, Southampton",India,520,493,27,260,260
+2025-07-16,Essex|Lancashire,"County Ground, Chelmsford",Lancashire,215,203,12,107,108
+2025-07-16,New Zealand|South Africa,Harare Sports Club,New Zealand,325,304,21,162,163
+2025-07-16,Sri Lanka|Bangladesh,"R Premadasa Stadium, Colombo",Bangladesh,265,260,5,132,133
+2025-07-16,Surrey|Middlesex,"Lord's, London",Surrey,370,358,12,185,185
+2025-07-17,Ace Capital Cricket Club|Police Sports Club,"Police Park Ground, Colombo",Police Sports Club,423,397,26,211,212
+2025-07-17,Burgher Recreation Club|Moors Sports Club,"Burgher Recreation Club Ground, Colombo",Moors Sports Club,256,248,8,128,128
+2025-07-17,Chilaw Marians Cricket Club|Panadura Sports Club,Panadura Esplanade,Panadura Sports Club,348,316,32,174,174
+2025-07-17,Colombo Cricket Club|Bloomfield Cricket and Athletic Club,Colombo Cricket Club Ground,Colombo Cricket Club,546,525,21,273,273
+2025-07-17,Gloucestershire|Sussex,"College Ground, Cheltenham",Sussex,374,361,13,187,187
+2025-07-17,Hampshire|Essex,"County Ground, Chelmsford",Essex,442,429,13,221,221
+2025-07-17,Kenya|Nigeria,Entebbe Cricket Oval,Kenya,196,185,11,98,98
+2025-07-17,Kurunegala Youth Cricket Club|Nugegoda Sports Welfare Club,"Welagedara Stadium, Kurunegala",Kurunegala Youth Cricket Club,304,282,22,152,152
+2025-07-17,Lancashire|Yorkshire,"Headingley, Leeds",Lancashire,327,323,4,163,164
+2025-07-17,Nondescripts Cricket Club|Badureliya Sports Club,"Nondescripts Cricket Club Ground, Colombo",Nondescripts Cricket Club,550,532,18,275,275
+2025-07-17,Worcestershire|Nottinghamshire,"County Ground, New Road, Worcester",Worcestershire,367,352,15,183,184
+2025-07-18,Birmingham Bears|Derbyshire,"County Ground, Derby",Birmingham Bears,339,328,11,169,170
+2025-07-18,Essex|Durham,"County Ground, Chelmsford",Essex,319,294,25,159,160
+2025-07-18,Essex|Kent,"St Lawrence Ground, Canterbury",Kent,345,333,12,172,173
+2025-07-18,Glamorgan|Middlesex,"Sophia Gardens, Cardiff",Glamorgan,316,307,9,158,158
+2025-07-18,Hong Kong|Malaysia,Singapore National Cricket Ground,Malaysia,303,286,17,151,152
+2025-07-18,Lancashire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,253,251,2,126,127
+2025-07-18,Leicestershire|Yorkshire,"Grace Road, Leicester",Yorkshire,373,359,14,186,187
+2025-07-18,Northamptonshire|Durham,"Riverside Ground, Chester-le-Street",Durham,407,384,23,203,204
+2025-07-18,Rwanda|Bahrain,"Gahanga International Cricket Stadium, Rwanda",Bahrain,207,184,23,103,104
+2025-07-18,Singapore|Samoa,Singapore National Cricket Ground,Singapore,220,196,24,110,110
+2025-07-18,Somerset|Gloucestershire,"The Cooper Associates County Ground, Taunton",Somerset,312,303,9,156,156
+2025-07-18,Surrey|Sussex,"County Ground, Hove",Surrey,401,386,15,200,201
+2025-07-18,Surrey|Warwickshire,"Kennington Oval, London",Surrey,383,358,25,191,192
+2025-07-18,The Blaze|Hampshire,"The Rose Bowl, Southampton",The Blaze,301,288,13,150,151
+2025-07-18,Uganda|Nigeria,Entebbe Cricket Oval,Uganda,265,251,14,132,133
+2025-07-18,Zimbabwe|New Zealand,Harare Sports Club,New Zealand,242,233,9,121,121
+2025-07-19,Estonia|Finland,Kerava National Cricket Ground,Finland,236,163,73,118,118
+2025-07-19,Finland|Switzerland,Kerava National Cricket Ground,Switzerland,191,146,45,95,96
+2025-07-19,Hong Kong|Samoa,Singapore National Cricket Ground,Hong Kong,290,258,32,145,145
+2025-07-19,India|England,"Lord's, London",England,259,237,22,129,130
+2025-07-19,Malawi|Bahrain,"Gahanga International Cricket Stadium, Rwanda",Bahrain,228,207,21,114,114
+2025-07-19,Malawi|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Rwanda,227,209,18,113,114
+2025-07-19,Qatar|Saudi Arabia,"West End Park International Cricket Stadium, Doha",Saudi Arabia,382,356,26,191,191
+2025-07-19,Singapore|Malaysia,Singapore National Cricket Ground,Malaysia,212,191,21,106,106
+2025-07-19,Switzerland|Estonia,Kerava National Cricket Ground,Switzerland,228,181,47,114,114
+2025-07-19,Uganda|United Arab Emirates,Entebbe Cricket Oval,Uganda,246,232,14,123,123
+2025-07-20,Botswana|Eswatini,"Botswana Cricket Association Oval 2, Gaborone",Botswana,229,185,44,114,115
+2025-07-20,Estonia|Finland,Kerava National Cricket Ground,Estonia,175,115,60,87,88
+2025-07-20,Finland|Switzerland,Kerava National Cricket Ground,Switzerland,109,78,31,54,55
+2025-07-20,Hong Kong|Singapore,Singapore National Cricket Ground,Hong Kong,374,347,27,187,187
+2025-07-20,Lesotho|Rwanda,"Botswana Cricket Association Oval 1, Gaborone",Rwanda,47,39,8,23,24
+2025-07-20,Malawi|Bahrain,"Gahanga International Cricket Stadium, Rwanda",Bahrain,279,253,26,139,140
+2025-07-20,Malawi|Cameroon,"Botswana Cricket Association Oval 1, Gaborone",Malawi,184,149,35,92,92
+2025-07-20,Pakistan|Bangladesh,"Shere Bangla National Stadium, Mirpur",Bangladesh,222,213,9,111,111
+2025-07-20,Rwanda|Bahrain,"Gahanga International Cricket Stadium, Rwanda",Bahrain,251,243,8,125,126
+2025-07-20,Samoa|Malaysia,Singapore National Cricket Ground,Malaysia,222,203,19,111,111
+2025-07-20,Sierra Leone|Mozambique,"Botswana Cricket Association Oval 2, Gaborone",Sierra Leone,205,193,12,102,103
+2025-07-20,West Indies|Australia,"Sabina Park, Kingston, Jamaica",Australia,379,362,17,189,190
+2025-07-20,Zimbabwe|Ireland,"Pembroke Cricket Club, Sandymount, Dublin",Ireland,235,209,26,117,118
+2025-07-20,Zimbabwe|South Africa,Harare Sports Club,South Africa,289,274,15,144,145
+2025-07-21,Ace Capital Cricket Club|Chilaw Marians Cricket Club,Panadura Esplanade,Ace Capital Cricket Club,492,444,48,246,246
+2025-07-21,Badureliya Sports Club|Panadura Sports Club,"Surrey Village, Maggona",Badureliya Sports Club,426,395,31,213,213
+2025-07-21,Burgher Recreation Club|Kurunegala Youth Cricket Club,"Welagedara Stadium, Kurunegala",Burgher Recreation Club,268,259,9,134,134
+2025-07-21,Cameroon|Lesotho,"Botswana Cricket Association Oval 2, Gaborone",Cameroon,155,118,37,77,78
+2025-07-21,Colts Cricket Club|Bloomfield Cricket and Athletic Club,"Colts Cricket Club Ground, Colombo",Colts Cricket Club,422,397,25,211,211
+2025-07-21,Mozambique|Botswana,"Botswana Cricket Association Oval 1, Gaborone",Botswana,107,78,29,53,54
+2025-07-21,Nigeria|United Arab Emirates,Entebbe Cricket Oval,United Arab Emirates,117,106,11,58,59
+2025-07-21,Nugegoda Sports Welfare Club|Colombo Cricket Club,Colombo Cricket Club Ground,Colombo Cricket Club,468,456,12,234,234
+2025-07-21,Police Sports Club|Tamil Union Cricket and Athletic Club,"Police Park Ground, Colombo",Tamil Union Cricket and Athletic Club,291,283,8,145,146
+2025-07-21,Rwanda|Malawi,"Botswana Cricket Association Oval 2, Gaborone",Rwanda,209,170,39,104,105
+2025-07-21,Saudi Arabia|Qatar,"West End Park International Cricket Stadium, Doha",Qatar,342,314,28,171,171
+2025-07-21,Sierra Leone|Eswatini,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,231,192,39,115,116
+2025-07-21,Uganda|Kenya,Entebbe Cricket Oval,Uganda,286,265,21,143,143
+2025-07-22,Bahrain|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Bahrain,310,292,18,155,155
+2025-07-22,Bangladesh|Pakistan,"Shere Bangla National Stadium, Mirpur",Bangladesh,258,247,11,129,129
+2025-07-22,Durham|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,674,649,25,337,337
+2025-07-22,Hong Kong|Malaysia,Singapore National Cricket Ground,Malaysia,284,267,17,142,142
+2025-07-22,India|England,"Riverside Ground, Chester-le-Street",India,623,601,22,311,312
+2025-07-22,Ireland|Zimbabwe,"Pembroke Cricket Club, Sandymount, Dublin",Ireland,287,273,14,143,144
+2025-07-22,Kent|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,1031,960,71,515,516
+2025-07-22,Lancashire|Gloucestershire,"College Ground, Cheltenham",Lancashire,1334,1295,39,667,667
+2025-07-22,Leicestershire|Derbyshire,"County Ground, Derby",Leicestershire,1079,1025,54,539,540
+2025-07-22,Malawi|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Rwanda,273,253,20,136,137
+2025-07-22,Middlesex|Northamptonshire,"Merchant Taylors' School Ground, Northwood",Middlesex,1143,1047,96,571,572
+2025-07-22,Qatar|Saudi Arabia,"West End Park International Cricket Stadium, Doha",Qatar,322,309,13,161,161
+2025-07-22,Samoa|Singapore,Singapore National Cricket Ground,Singapore,265,232,33,132,133
+2025-07-22,South Africa|New Zealand,Harare Sports Club,New Zealand,269,246,23,134,135
+2025-07-22,Sussex|Essex,"County Ground, Hove",Essex,969,903,66,484,485
+2025-07-22,Uganda|Nigeria,Entebbe Cricket Oval,Uganda,256,230,26,128,128
+2025-07-22,West Indies|Australia,"Sabina Park, Kingston, Jamaica",Australia,345,326,19,172,173
+2025-07-22,Worcestershire|Warwickshire,"Edgbaston, Birmingham",Warwickshire,1156,1102,54,578,578
+2025-07-23,Bahrain|Malawi,"Gahanga International Cricket Stadium, Rwanda",Bahrain,307,289,18,153,154
+2025-07-23,Botswana|Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,179,166,13,89,90
+2025-07-23,Cameroon|Rwanda,"Botswana Cricket Association Oval 2, Gaborone",Rwanda,42,32,10,21,21
+2025-07-23,Ireland|Zimbabwe,"Pembroke Cricket Club, Sandymount, Dublin",Ireland,309,282,27,154,155
+2025-07-23,Kenya|United Arab Emirates,Entebbe Cricket Oval,United Arab Emirates,199,190,9,99,100
+2025-07-23,Malawi|Lesotho,"Botswana Cricket Association Oval 1, Gaborone",Malawi,218,184,34,109,109
+2025-07-23,Malaysia|Singapore,Singapore National Cricket Ground,Malaysia,353,337,16,176,177
+2025-07-23,Mozambique|Eswatini,"Botswana Cricket Association Oval 2, Gaborone",Mozambique,242,177,65,121,121
+2025-07-23,Rwanda|Malawi,"Gahanga International Cricket Stadium, Rwanda",Malawi,226,215,11,113,113
+2025-07-23,Samoa|Hong Kong,Singapore National Cricket Ground,Hong Kong,321,312,9,160,161
+2025-07-24,Cameroon|Eswatini,"Botswana Cricket Association Oval 2, Gaborone",Cameroon,214,171,43,107,107
+2025-07-24,Durham|Lancashire,"Riverside Ground, Chester-le-Street",Durham,425,400,25,212,213
+2025-07-24,Hampshire|Surrey,"Guildford Bason, Merrow Down",Surrey,495,466,29,247,248
+2025-07-24,Hong Kong|Singapore,Singapore National Cricket Ground,Hong Kong,334,316,18,167,167
+2025-07-24,Lesotho|Mozambique,"Botswana Cricket Association Oval 2, Gaborone",Mozambique,201,140,61,100,101
+2025-07-24,Malawi|Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",Sierra Leone,201,189,12,100,101
+2025-07-24,New Zealand|Zimbabwe,Harare Sports Club,New Zealand,320,300,20,160,160
+2025-07-24,Pakistan|Bangladesh,"Shere Bangla National Stadium, Mirpur",Pakistan,282,263,19,141,141
+2025-07-24,Rwanda|Botswana,"Botswana Cricket Association Oval 1, Gaborone",Rwanda,163,140,23,81,82
+2025-07-24,Samoa|Malaysia,Singapore National Cricket Ground,Malaysia,378,364,14,189,189
+2025-07-24,The Blaze|Warwickshire,"Lindum Sports Club Ground, Lincoln",The Blaze,389,368,21,194,195
+2025-07-25,Bahrain|Rwanda,"Gahanga International Cricket Stadium, Rwanda",Bahrain,212,192,20,106,106
+2025-07-25,Colts Cricket Club|Police Sports Club,Colombo Cricket Club Ground,Police Sports Club,287,273,14,143,144
+2025-07-25,Hungary|Luxembourg,"GB Oval, Szodliget",Hungary,226,204,22,113,113
+2025-07-25,Hungary|Romania,"GB Oval, Szodliget",Romania,187,174,13,93,94
+2025-07-25,Kenya|Uganda,Entebbe Cricket Oval,Uganda,249,234,15,124,125
+2025-07-25,Malawi|Bahrain,"Gahanga International Cricket Stadium, Rwanda",Bahrain,227,208,19,113,114
+2025-07-25,Romania|Austria,"GB Oval, Szodliget",Austria,257,241,16,128,129
+2025-07-25,West Indies|Australia,"Warner Park, Basseterre, St Kitts",Australia,429,409,20,214,215
+2025-07-26,Austria|Luxembourg,"GB Oval, Szodliget",Austria,424,400,24,212,212
+2025-07-26,Botswana|Malawi,"Botswana Cricket Association Oval 1, Gaborone",Botswana,221,171,50,110,111
+2025-07-26,Finland|Estonia,Estonian National Cricket and Rugby Field,Estonia,171,153,18,85,86
+2025-07-26,Hong Kong|Malaysia,Singapore National Cricket Ground,Malaysia,107,106,1,53,54
+2025-07-26,Hungary|Austria,"GB Oval, Szodliget",Austria,337,303,34,168,169
+2025-07-26,Ireland|Zimbabwe,"Civil Service Cricket Club, Stormont, Belfast",Ireland,479,426,53,239,240
+2025-07-26,Lesotho|Eswatini,"Botswana Cricket Association Oval 2, Gaborone",Lesotho,128,84,44,64,64
+2025-07-26,Mozambique|Cameroon,"Botswana Cricket Association Oval 2, Gaborone",Cameroon,175,141,34,87,88
+2025-07-26,New Zealand|South Africa,Harare Sports Club,New Zealand,357,322,35,178,179
+2025-07-26,Romania|Luxembourg,"GB Oval, Szodliget",Romania,311,283,28,155,156
+2025-07-26,Rwanda|Malawi,"Gahanga International Cricket Stadium, Rwanda",Malawi,315,285,30,157,158
+2025-07-26,Rwanda|Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",Rwanda,219,198,21,109,110
+2025-07-26,United Arab Emirates|Nigeria,Entebbe Cricket Oval,United Arab Emirates,229,223,6,114,115
+2025-07-26,West Indies|Australia,"Warner Park, Basseterre, St Kitts",Australia,411,379,32,205,206
+2025-07-27,Bahrain|Malawi,"Gahanga International Cricket Stadium, Rwanda",Bahrain,284,266,18,142,142
+2025-07-27,Colombo Cricket Club|Tamil Union Cricket and Athletic Club,Colombo Cricket Club Ground,Colombo Cricket Club,550,525,25,275,275
+2025-07-27,Estonia|Finland,Estonian National Cricket and Rugby Field,Finland,283,248,35,141,142
+2025-07-27,Hungary|Luxembourg,"GB Oval, Szodliget",Hungary,327,306,21,163,164
+2025-07-27,Nigeria|Kenya,Entebbe Cricket Oval,Kenya,229,208,21,114,115
+2025-07-27,Uganda|United Arab Emirates,Entebbe Cricket Oval,Uganda,332,319,13,166,166
+2025-07-27,Warwickshire|Surrey,"Kennington Oval, London",Surrey,307,295,12,153,154
+2025-07-27,Warwickshire|The Blaze,"Kennington Oval, London",Warwickshire,306,294,12,153,153
+2025-07-28,West Indies|Australia,"Warner Park, Basseterre, St Kitts",Australia,343,331,12,171,172
+2025-07-28,Zimbabwe|Ireland,"Civil Service Cricket Club, Stormont, Belfast",Ireland,360,314,46,180,180
+2025-07-29,Durham|Surrey,"Riverside Ground, Chester-le-Street",Surrey,995,950,45,497,498
+2025-07-29,Glamorgan|Lancashire,"Old Trafford, Manchester",Glamorgan,1064,998,66,532,532
+2025-07-29,Sussex|Yorkshire,"North Marine Road Ground, Scarborough",Yorkshire,962,926,36,481,481
+2025-07-30,Colombo Cricket Club|Police Sports Club,Colombo Cricket Club Ground,Colombo Cricket Club,587,561,26,293,294
+2025-07-30,Durham|Somerset,"The Cooper Associates County Ground, Taunton",Durham,525,492,33,262,263
+2025-07-30,Hampshire|The Blaze,"The Rose Bowl, Southampton",Hampshire,502,465,37,251,251
+2025-07-30,Lancashire|Essex,"The Cricket Field, Sedbergh School",Lancashire,474,438,36,237,237
+2025-07-30,Warwickshire|Surrey,"Mitchells and Butlers' Ground, Birmingham",Surrey,479,448,31,239,240
+2025-07-30,Zimbabwe|New Zealand,"Queens Sports Club, Bulawayo",New Zealand,629,604,25,314,315
+2025-07-31,India|England,"Kennington Oval, London",India,1234,1136,98,617,617
+2025-07-31,Pakistan|West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Pakistan,342,315,27,171,171
+2025-08-02,Pakistan|West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",West Indies,268,249,19,134,134
+2025-08-02,Switzerland|Estonia,Estonian National Cricket and Rugby Field,Switzerland,252,225,27,126,126
+2025-08-03,Pakistan|West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Pakistan,365,349,16,182,183
+2025-08-03,Switzerland|Estonia,Estonian National Cricket and Rugby Field,Switzerland,728,688,40,364,364
+2025-08-05,Durham|Sussex,"Roseworth Terrace, Gosforth",Durham,569,528,41,284,285
+2025-08-05,Gloucestershire|Derbyshire,"College Ground, Cheltenham",Gloucestershire,623,606,17,311,312
+2025-08-05,Hampshire|Glamorgan,"The Gnoll, Neath",Hampshire,576,549,27,288,288
+2025-08-05,London Spirit|Oval Invincibles,"Lord's, London",London Spirit,335,314,21,167,168
+2025-08-05,London Spirit|Oval Invincibles,"Lord's, London",Oval Invincibles,161,155,6,80,81
+2025-08-05,Nottinghamshire|Essex,"The John Fretwell Sporting Complex, Sookholme",Nottinghamshire,517,481,36,258,259
+2025-08-05,Warwickshire|Yorkshire,"North Marine Road Ground, Scarborough",Yorkshire,277,260,17,138,139
+2025-08-06,Ireland|Pakistan,"Clontarf Cricket Club Ground, Dublin",Ireland,273,255,18,136,137
+2025-08-06,Manchester Originals|Southern Brave,"Old Trafford, Manchester",Southern Brave,455,433,22,227,228
+2025-08-06,Middlesex|Somerset,"Radlett Cricket Club, Radlett",Somerset,582,550,32,291,291
+2025-08-06,Surrey|Leicestershire,"Woodbridge Road, Guildford",Leicestershire,353,339,14,176,177
+2025-08-07,Croatia|Cyprus,"Mladost Cricket Ground, Zagreb",Cyprus,268,231,37,134,134
+2025-08-07,Cyprus|Croatia,"Mladost Cricket Ground, Zagreb",Cyprus,368,313,55,184,184
+2025-08-07,Essex|Hampshire,"The Rose Bowl, Southampton",Hampshire,573,551,22,286,287
+2025-08-07,Kent|Sussex,Arundel Castle Cricket Club Ground,Sussex,575,542,33,287,288
+2025-08-07,Northern Superchargers|Welsh Fire,"Headingley, Leeds",Northern Superchargers,235,221,14,117,118
+2025-08-07,Welsh Fire|Northern Superchargers,"Headingley, Leeds",Northern Superchargers,290,277,13,145,145
+2025-08-07,Zimbabwe|New Zealand,"Queens Sports Club, Bulawayo",New Zealand,843,798,45,421,422
+2025-08-08,Birmingham Phoenix|Trent Rockets,"Edgbaston, Birmingham",Birmingham Phoenix,285,272,13,142,143
+2025-08-08,Birmingham Phoenix|Trent Rockets,"Edgbaston, Birmingham",Trent Rockets,245,223,22,122,123
+2025-08-08,Croatia|Cyprus,"Mladost Cricket Ground, Zagreb",Cyprus,271,236,35,135,136
+2025-08-08,Cyprus|Croatia,"Mladost Cricket Ground, Zagreb",Cyprus,334,307,27,167,167
+2025-08-08,Durham|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,513,476,37,256,257
+2025-08-08,Gloucestershire|Surrey,"Woodbridge Road, Guildford",Gloucestershire,501,484,17,250,251
+2025-08-08,Norway|France,"Botkyrka Cricket Center, Stockholm",Norway,254,235,19,127,127
+2025-08-08,Pakistan|Ireland,"Clontarf Cricket Club Ground, Dublin",Ireland,339,326,13,169,170
+2025-08-08,Sweden|Austria,"Botkyrka Cricket Center, Stockholm",Austria,275,244,31,137,138
+2025-08-08,West Indies|Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",Pakistan,564,517,47,282,282
+2025-08-08,Yorkshire|Northamptonshire,"County Ground, Northampton",Yorkshire,546,530,16,273,273
+2025-08-09,France|Austria,"Botkyrka Cricket Center, Stockholm",Austria,330,310,20,165,165
+2025-08-09,London Spirit|Welsh Fire,"Sophia Gardens, Cardiff",London Spirit,564,531,33,282,282
+2025-08-09,Manchester Originals|Oval Invincibles,"Kennington Oval, London",Manchester Originals,276,268,8,138,138
+2025-08-09,Manchester Originals|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,257,244,13,128,129
+2025-08-09,Norway|Sweden,"Botkyrka Cricket Center, Stockholm",Norway,335,306,29,167,168
+2025-08-10,Australia|South Africa,"Marrara Stadium, Darwin",Australia,339,317,22,169,170
+2025-08-10,Birmingham Phoenix|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,215,208,7,107,108
+2025-08-10,Derbyshire|Nottinghamshire,"County Ground, Derby",Derbyshire,555,532,23,277,278
+2025-08-10,Ireland|Pakistan,"Clontarf Cricket Club Ground, Dublin",Pakistan,311,301,10,155,156
+2025-08-10,Kent|Durham,"Kent County Cricket Ground, Beckenham",Durham,477,447,30,238,239
+2025-08-10,Leicestershire|Gloucestershire,"County Ground, Bristol",Gloucestershire,571,541,30,285,286
+2025-08-10,Northern Superchargers|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,252,246,6,126,126
+2025-08-10,Norway|Austria,"Botkyrka Cricket Center, Stockholm",Austria,211,193,18,105,106
+2025-08-10,Pakistan|West Indies,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,355,333,22,177,178
+2025-08-10,Somerset|Lancashire,"The Cooper Associates County Ground, Taunton",Lancashire,504,477,27,252,252
+2025-08-10,Southern Brave|Birmingham Phoenix,"The Rose Bowl, Southampton",Southern Brave,263,251,12,131,132
+2025-08-10,Sussex|Middlesex,"Lord's, London",Middlesex,511,484,27,255,256
+2025-08-10,Sweden|France,"Botkyrka Cricket Center, Stockholm",France,305,288,17,152,153
+2025-08-10,Trent Rockets|Northern Superchargers,"Trent Bridge, Nottingham",Northern Superchargers,257,240,17,128,129
+2025-08-10,Warwickshire|Northamptonshire,Rugby School Ground,Warwickshire,520,499,21,260,260
+2025-08-10,Worcestershire|Essex,"County Ground, Chelmsford",Worcestershire,620,595,25,310,310
+2025-08-11,Manchester Originals|London Spirit,"Old Trafford, Manchester",London Spirit,246,229,17,123,123
+2025-08-11,Manchester Originals|London Spirit,"Old Trafford, Manchester",Manchester Originals,316,288,28,158,158
+2025-08-12,Lancashire|Yorkshire,York Cricket Club,Yorkshire,589,563,26,294,295
+2025-08-12,Oval Invincibles|Birmingham Phoenix,"Edgbaston, Birmingham",Birmingham Phoenix,362,339,23,181,181
+2025-08-12,Oval Invincibles|Birmingham Phoenix,"Edgbaston, Birmingham",Oval Invincibles,326,307,19,163,163
+2025-08-12,South Africa|Australia,"Marrara Stadium, Darwin",South Africa,383,357,26,191,192
+2025-08-12,West Indies|Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,386,360,26,193,193
+2025-08-13,Durham|Middlesex,"Riverside Ground, Chester-le-Street",Middlesex,777,736,41,388,389
+2025-08-13,Glamorgan|Surrey,"Kennington Oval, London",Surrey,454,392,62,227,227
+2025-08-13,Hampshire|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,390,362,28,195,195
+2025-08-13,Leicestershire|Nottinghamshire,Kibworth Cricket Club Ground,Leicestershire,542,518,24,271,271
+2025-08-13,Munster Reds|Leinster Lightning,"Mardyke, Cork",Munster Reds,548,515,33,274,274
+2025-08-13,North-West Warriors|Northern Knights,"Bready Cricket Club, Magheramason, Bready",Northern Knights,559,518,41,279,280
+2025-08-13,Northern Superchargers|Southern Brave,"The Rose Bowl, Southampton",Southern Brave,205,194,11,102,103
+2025-08-13,Singapore|Cambodia,Singapore National Cricket Ground,Singapore,177,137,40,88,89
+2025-08-13,Southern Brave|Northern Superchargers,"The Rose Bowl, Southampton",Northern Superchargers,280,272,8,140,140
+2025-08-13,Warwickshire|Kent,Rugby School Ground,Warwickshire,487,458,29,243,244
+2025-08-13,Welsh Fire|Manchester Originals,"Sophia Gardens, Cardiff",Manchester Originals,149,141,8,74,75
+2025-08-13,Welsh Fire|Manchester Originals,"Sophia Gardens, Cardiff",Welsh Fire,249,235,14,124,125
+2025-08-14,Antigua and Barbuda Falcons|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,246,225,21,123,123
+2025-08-14,Guernsey|Papua New Guinea,"King George V Sports Ground, Castel",Papua New Guinea,333,314,19,166,167
+2025-08-14,London Spirit|Trent Rockets,"Lord's, London",London Spirit,303,290,13,151,152
+2025-08-14,Singapore|Cambodia,Singapore National Cricket Ground,Singapore,182,146,36,91,91
+2025-08-14,Trent Rockets|London Spirit,"Lord's, London",Trent Rockets,265,260,5,132,133
+2025-08-14,Yorkshire|Somerset,York Cricket Club,Somerset,499,487,12,249,250
+2025-08-15,Birmingham Phoenix|Northern Superchargers,"Headingley, Leeds",Northern Superchargers,233,223,10,116,117
+2025-08-15,Derbyshire|Worcestershire,"County Ground, Derby",Worcestershire,631,589,42,315,316
+2025-08-15,Essex|Surrey,"County Ground, Chelmsford",Essex,590,538,52,295,295
+2025-08-15,Glamorgan|Gloucestershire,"County Ground, Bristol",Gloucestershire,577,563,14,288,289
+2025-08-15,Lancashire|Sussex,"County Ground, Hove",Sussex,680,640,40,340,340
+2025-08-15,Leicestershire|Hampshire,"The Rose Bowl, Southampton",Hampshire,505,482,23,252,253
+2025-08-15,Middlesex|Warwickshire,Rugby School Ground,Middlesex,406,366,40,203,203
+2025-08-15,Northamptonshire|Durham,"Riverside Ground, Chester-le-Street",Northamptonshire,492,469,23,246,246
+2025-08-15,Northern Superchargers|Birmingham Phoenix,"Headingley, Leeds",Northern Superchargers,350,330,20,175,175
+2025-08-15,St Kitts and Nevis Patriots|Guyana Amazon Warriors,"Warner Park, Basseterre, St Kitts",Guyana Amazon Warriors,307,287,20,153,154
+2025-08-16,Barbados Royals|Antigua and Barbuda Falcons,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,303,282,21,151,152
+2025-08-16,Oval Invincibles|Welsh Fire,"Kennington Oval, London",Oval Invincibles,630,604,26,315,315
+2025-08-16,Singapore|Cambodia,Singapore National Cricket Ground,Singapore,240,185,55,120,120
+2025-08-16,South Africa|Australia,"Cazaly's Stadium, Cairns",Australia,345,331,14,172,173
+2025-08-16,Southern Brave|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,285,278,7,142,143
+2025-08-16,Trent Rockets|Southern Brave,"Trent Bridge, Nottingham",Southern Brave,215,211,4,107,108
+2025-08-17,Essex|Leicestershire,"Grace Road, Leicester",Essex,582,547,35,291,291
+2025-08-17,Glamorgan|Nottinghamshire,"Sophia Gardens, Cardiff",Nottinghamshire,560,541,19,280,280
+2025-08-17,Kent|Lancashire,"Kent County Cricket Ground, Beckenham",Kent,608,584,24,304,304
+2025-08-17,London Spirit|Birmingham Phoenix,"Edgbaston, Birmingham",Birmingham Phoenix,257,243,14,128,129
+2025-08-17,London Spirit|Birmingham Phoenix,"Edgbaston, Birmingham",London Spirit,240,235,5,120,120
+2025-08-17,Manchester Originals|Northern Superchargers,"Old Trafford, Manchester",Manchester Originals,514,484,30,257,257
+2025-08-17,Middlesex|Yorkshire,"Radlett Cricket Club, Radlett",Yorkshire,259,243,16,129,130
+2025-08-17,Northamptonshire|Sussex,"County Ground, Northampton",Sussex,592,562,30,296,296
+2025-08-17,Norway|Hungary,"Stubberudmyra Cricket Ground, Oslo",Norway,312,291,21,156,156
+2025-08-17,Somerset|Warwickshire,"The Cooper Associates County Ground, Taunton",Warwickshire,619,580,39,309,310
+2025-08-17,Sweden|Hungary,"Stubberudmyra Cricket Ground, Oslo",Sweden,329,314,15,164,165
+2025-08-17,Sweden|Norway,"Stubberudmyra Cricket Ground, Oslo",Norway,273,260,13,136,137
+2025-08-17,Trinbago Knight Riders|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,450,420,30,225,225
+2025-08-17,Worcestershire|Gloucestershire,"County Ground, New Road, Worcester",Gloucestershire,477,455,22,238,239
+2025-08-18,Southern Brave|Oval Invincibles,"The Rose Bowl, Southampton",Oval Invincibles,267,253,14,133,134
+2025-08-18,Southern Brave|Oval Invincibles,"The Rose Bowl, Southampton",Southern Brave,233,214,19,116,117
+2025-08-18,Surrey|Hampshire,"Kennington Oval, London",Hampshire,322,289,33,161,161
+2025-08-19,Kent|Middlesex,"Radlett Cricket Club, Radlett",Middlesex,562,531,31,281,281
+2025-08-19,Manchester Originals|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,199,177,22,99,100
+2025-08-19,South Africa|Australia,"Cazaly's Stadium, Cairns",South Africa,494,476,18,247,247
+2025-08-19,St Lucia Kings|St Kitts and Nevis Patriots,"Warner Park, Basseterre, St Kitts",St Lucia Kings,397,372,25,198,199
+2025-08-19,Trent Rockets|Manchester Originals,"Trent Bridge, Nottingham",Manchester Originals,224,217,7,112,112
+2025-08-20,Antigua and Barbuda Falcons|Trinbago Knight Riders,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,326,301,25,163,163
+2025-08-20,Essex|Glamorgan,"County Ground, Chelmsford",Essex,552,533,19,276,276
+2025-08-20,Germany|Ireland,"Hazelaarweg, Rotterdam",Ireland,125,114,11,62,63
+2025-08-20,Hampshire|Nottinghamshire,"The Rose Bowl, Southampton",Nottinghamshire,582,561,21,291,291
+2025-08-20,Lancashire|Durham,"Aigburth, Liverpool",Durham,641,613,28,320,321
+2025-08-20,London Spirit|Northern Superchargers,"Lord's, London",Northern Superchargers,456,428,28,228,228
+2025-08-20,Netherlands|Italy,"Hazelaarweg, Rotterdam",Netherlands,271,245,26,135,136
+2025-08-20,North-West Warriors|Munster Reds,"Woodvale Road, Eglinton",North-West Warriors,666,626,40,333,333
+2025-08-20,Northern Knights|Leinster Lightning,"Civil Service Cricket Club, Stormont, Belfast",Leinster Lightning,449,412,37,224,225
+2025-08-20,Southern Brave|Welsh Fire,"Sophia Gardens, Cardiff",Southern Brave,254,234,20,127,127
+2025-08-20,Welsh Fire|Southern Brave,"Sophia Gardens, Cardiff",Southern Brave,223,207,16,111,112
+2025-08-21,Czech Republic|Romania,"Moara Vlasiei Cricket Ground, Ilfov County",Czech Republic,280,244,36,140,140
+2025-08-21,Germany|Italy,"Hazelaarweg, Rotterdam",Italy,230,199,31,115,115
+2025-08-21,Kenya|Jersey,"Farmers Cricket Club Ground, St Martin",Jersey,231,210,21,115,116
+2025-08-21,Kuwait|Qatar,"Grainville, St Saviour",Kuwait,576,558,18,288,288
+2025-08-21,Netherlands|Ireland,"Hazelaarweg, Rotterdam",Ireland,278,249,29,139,139
+2025-08-21,Northamptonshire|Kent,"County Ground, Northampton",Kent,490,472,18,245,245
+2025-08-21,Oval Invincibles|Trent Rockets,"Kennington Oval, London",Trent Rockets,222,217,5,111,111
+2025-08-21,Romania|Czech Republic,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,334,299,35,167,167
+2025-08-21,Somerset|Sussex,"County Ground, Hove",Somerset,396,374,22,198,198
+2025-08-21,St Kitts and Nevis Patriots|Barbados Royals,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,336,324,12,168,168
+2025-08-21,Trent Rockets|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,344,318,26,172,172
+2025-08-22,Birmingham Phoenix|Welsh Fire,"Edgbaston, Birmingham",Welsh Fire,278,262,16,139,139
+2025-08-22,Denmark|Papua New Guinea,"Grainville, St Saviour",Denmark,428,413,15,214,214
+2025-08-22,Glamorgan|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,595,566,29,297,298
+2025-08-22,Gloucestershire|Nottinghamshire,"Trent Bridge, Nottingham",Gloucestershire,634,604,30,317,317
+2025-08-22,Guyana Amazon Warriors|Antigua and Barbuda Falcons,"Sir Vivian Richards Stadium, North Sound, Antigua",Guyana Amazon Warriors,339,316,23,169,170
+2025-08-22,Lancashire|Warwickshire,"Aigburth, Liverpool",Warwickshire,502,481,21,251,251
+2025-08-22,Romania|Czech Republic,"Moara Vlasiei Cricket Ground, Ilfov County",Czech Republic,316,283,33,158,158
+2025-08-22,Romania|Czech Republic,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,365,325,40,182,183
+2025-08-22,South Africa|Australia,"Great Barrier Reef Arena, Mackay",South Africa,470,457,13,235,235
+2025-08-22,Surrey|Derbyshire,"County Ground, Derby",Surrey,733,687,46,366,367
+2025-08-22,Welsh Fire|Birmingham Phoenix,"Edgbaston, Birmingham",Welsh Fire,264,245,19,132,132
+2025-08-22,Yorkshire|Durham,"North Marine Road Ground, Scarborough",Yorkshire,496,467,29,248,248
+2025-08-23,Austria|Belgium,"Velden Cricket Ground, Latschach",Austria,393,370,23,196,197
+2025-08-23,Belgium|Austria,"Velden Cricket Ground, Latschach",Austria,431,395,36,215,216
+2025-08-23,Ireland|Italy,"Hazelaarweg, Rotterdam",Ireland,269,244,25,134,135
+2025-08-23,London Spirit|Southern Brave,"Lord's, London",London Spirit,325,306,19,162,163
+2025-08-23,London Spirit|Southern Brave,"Lord's, London",Southern Brave,251,239,12,125,126
+2025-08-23,Netherlands|Germany,"Hazelaarweg, Rotterdam",Netherlands,308,256,52,154,154
+2025-08-23,Northern Superchargers|Oval Invincibles,"Headingley, Leeds",Northern Superchargers,380,360,20,190,190
+2025-08-23,Oval Invincibles|Northern Superchargers,"Headingley, Leeds",Northern Superchargers,252,232,20,126,126
+2025-08-23,Trinbago Knight Riders|St Lucia Kings,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Trinbago Knight Riders,348,335,13,174,174
+2025-08-24,Australia|South Africa,"Great Barrier Reef Arena, Mackay",Australia,586,558,28,293,293
+2025-08-24,Belgium|Austria,"Velden Cricket Ground, Latschach",Austria,599,546,53,299,300
+2025-08-24,Birmingham Phoenix|Manchester Originals,"Old Trafford, Manchester",Birmingham Phoenix,206,196,10,103,103
+2025-08-24,Derbyshire|Hampshire,"The Rose Bowl, Southampton",Hampshire,680,648,32,340,340
+2025-08-24,Durham|Warwickshire,"Riverside Ground, Chester-le-Street",Warwickshire,603,578,25,301,302
+2025-08-24,Essex|Gloucestershire,"County Ground, Chelmsford",Essex,448,433,15,224,224
+2025-08-24,Ireland|Germany,"Hazelaarweg, Rotterdam",Ireland,267,229,38,133,134
+2025-08-24,Italy|Netherlands,"Hazelaarweg, Rotterdam",Netherlands,176,161,15,88,88
+2025-08-24,Kent|Somerset,"St Lawrence Ground, Canterbury",Somerset,539,522,17,269,270
+2025-08-24,Kenya|Qatar,"Grainville, St Saviour",Qatar,485,450,35,242,243
+2025-08-24,Manchester Originals|Birmingham Phoenix,"Old Trafford, Manchester",Birmingham Phoenix,222,213,9,111,111
+2025-08-24,Northamptonshire|Middlesex,"County Ground, Northampton",Middlesex,381,362,19,190,191
+2025-08-24,Papua New Guinea|Kuwait,"Farmers Cricket Club Ground, St Martin",Kuwait,297,271,26,148,149
+2025-08-24,St Kitts and Nevis Patriots|Antigua and Barbuda Falcons,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,270,258,12,135,135
+2025-08-24,Surrey|Nottinghamshire,"Trent Bridge, Nottingham",Surrey,568,551,17,284,284
+2025-08-24,Sussex|Yorkshire,"County Ground, Hove",Yorkshire,570,552,18,285,285
+2025-08-24,Trent Rockets|Welsh Fire,"Sophia Gardens, Cardiff",Trent Rockets,267,247,20,133,134
+2025-08-24,Welsh Fire|Trent Rockets,"Sophia Gardens, Cardiff",Trent Rockets,302,269,33,151,151
+2025-08-24,Worcestershire|Leicestershire,"Grace Road, Leicester",Worcestershire,640,606,34,320,320
+2025-08-25,Jersey|Denmark,"Grainville, St Saviour",Jersey,607,564,43,303,304
+2025-08-25,London Spirit|Oval Invincibles,"Kennington Oval, London",Oval Invincibles,305,289,16,152,153
+2025-08-25,Oval Invincibles|London Spirit,"Kennington Oval, London",London Spirit,220,206,14,110,110
+2025-08-26,Essex|Derbyshire,"County Ground, Derby",Essex,688,664,24,344,344
+2025-08-26,Germany|Italy,"Hazelaarweg, Rotterdam",Italy,217,196,21,108,109
+2025-08-26,Gloucestershire|Hampshire,"County Ground, Bristol",Hampshire,628,600,28,314,314
+2025-08-26,Guyana Amazon Warriors|St Lucia Kings,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,405,375,30,202,203
+2025-08-26,Lancashire|Middlesex,"Old Trafford, Manchester",Middlesex,583,558,25,291,292
+2025-08-26,Leicestershire|Glamorgan,"Sophia Gardens, Cardiff",Glamorgan,552,532,20,276,276
+2025-08-26,Manchester Originals|Northern Superchargers,"Headingley, Leeds",Northern Superchargers,190,183,7,95,95
+2025-08-26,Netherlands|Ireland,"Hazelaarweg, Rotterdam",Ireland,221,200,21,110,111
+2025-08-26,Northamptonshire|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,478,462,16,239,239
+2025-08-26,Northern Superchargers|Manchester Originals,"Headingley, Leeds",Manchester Originals,279,264,15,139,140
+2025-08-26,Surrey|Worcestershire,"County Ground, New Road, Worcester",Worcestershire,535,508,27,267,268
+2025-08-26,Sussex|Warwickshire,"Edgbaston, Birmingham",Sussex,535,506,29,267,268
+2025-08-26,Yorkshire|Kent,"St Lawrence Ground, Canterbury",Yorkshire,526,504,22,263,263
+2025-08-27,Antigua and Barbuda Falcons|Trinbago Knight Riders,"Brian Lara Stadium, Tarouba, Trinidad",Trinbago Knight Riders,298,286,12,149,149
+2025-08-27,Birmingham Phoenix|Trent Rockets,"Trent Bridge, Nottingham",Trent Rockets,473,447,26,236,237
+2025-08-27,Canada|Namibia,"Maple Leaf North-West Ground, King City",Namibia,439,411,28,219,220
+2025-08-27,Ireland|Italy,"Hazelaarweg, Rotterdam",Ireland,317,289,28,158,159
+2025-08-27,Netherlands|Germany,"Hazelaarweg, Rotterdam",Netherlands,285,254,31,142,143
+2025-08-28,Denmark|Kuwait,"Grainville, St Saviour",Kuwait,328,311,17,164,164
+2025-08-28,Gloucestershire|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,304,287,17,152,152
+2025-08-28,Hampshire|Middlesex,"Brunton Memorial Ground, Radlett",Hampshire,416,395,21,208,208
+2025-08-28,Jersey|Papua New Guinea,"Farmers Cricket Club Ground, St Martin",Jersey,362,340,22,181,181
+2025-08-28,Southern Brave|Welsh Fire,"The Rose Bowl, Southampton",Southern Brave,513,491,22,256,257
+2025-08-28,St Kitts and Nevis Patriots|St Lucia Kings,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,357,338,19,178,179
+2025-08-29,Barbados Royals|Trinbago Knight Riders,"Brian Lara Stadium, Tarouba, Trinidad",Trinbago Knight Riders,357,347,10,178,179
+2025-08-29,Finland|Germany,"Ishoj Cricket Club, Vejledalen",Germany,205,169,36,102,103
+2025-08-29,Sri Lanka|Zimbabwe,Harare Sports Club,Sri Lanka,589,553,36,294,295
+2025-08-29,Sweden|Norway,Albertslund Cricket Club,Sweden,256,189,67,128,128
+2025-08-30,Finland|Denmark,Albertslund Cricket Club,Denmark,194,149,45,97,97
+2025-08-30,Finland|Norway,"Ishoj Cricket Club, Vejledalen",Norway,133,92,41,66,67
+2025-08-30,Germany|Norway,"Ishoj Cricket Club, Vejledalen",Germany,244,187,57,122,122
+2025-08-30,Guyana Amazon Warriors|Trinbago Knight Riders,"Brian Lara Stadium, Tarouba, Trinidad",Trinbago Knight Riders,332,317,15,166,166
+2025-08-30,Netherlands|Bangladesh,Sylhet International Cricket Stadium,Bangladesh,274,263,11,137,137
+2025-08-30,Northern Superchargers|London Spirit,"Kennington Oval, London",Northern Superchargers,386,363,23,193,193
+2025-08-30,Pakistan|United Arab Emirates,Sharjah Cricket Stadium,Pakistan,383,365,18,191,192
+2025-08-30,Sweden|Denmark,Albertslund Cricket Club,Sweden,181,133,48,90,91
+2025-08-31,Antigua and Barbuda Falcons|St Lucia Kings,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,410,392,18,205,205
+2025-08-31,Canada|Scotland,"Maple Leaf North-West Ground, King City",Scotland,371,339,32,185,186
+2025-08-31,Denmark|Kenya,"Farmers Cricket Club Ground, St Martin",Denmark,428,399,29,214,214
+2025-08-31,Germany|Denmark,"Ishoj Cricket Club, Vejledalen",Germany,198,160,38,99,99
+2025-08-31,Germany|Sweden,"Ishoj Cricket Club, Vejledalen",Germany,254,211,43,127,127
+2025-08-31,Hampshire|Yorkshire,"North Marine Road Ground, Scarborough",Hampshire,539,527,12,269,270
+2025-08-31,Isle of Man|Brazil,"New Farnley CC, Leeds",Brazil,77,58,19,38,39
+2025-08-31,Kenya|Rwanda,"High Performance Oval, Windhoek",Rwanda,209,193,16,104,105
+2025-08-31,Nigeria|Sierra Leone,"Namibia Cricket Ground, Windhoek",Nigeria,268,242,26,134,134
+2025-08-31,Norway|Denmark,Albertslund Cricket Club,Denmark,162,127,35,81,81
+2025-08-31,Oval Invincibles|Trent Rockets,"Lord's, London",Oval Invincibles,310,288,22,155,155
+2025-08-31,Qatar|Jersey,"Grainville, St Saviour",Jersey,268,256,12,134,134
+2025-08-31,Southern Brave|Northern Superchargers,"Lord's, London",Northern Superchargers,234,223,11,117,117
+2025-08-31,Sweden|Finland,Albertslund Cricket Club,Sweden,249,181,68,124,125
+2025-08-31,Tanzania|Uganda,"High Performance Oval, Windhoek",Tanzania,241,218,23,120,121
+2025-08-31,Worcestershire|Somerset,"County Ground, New Road, Worcester",Worcestershire,416,395,21,208,208
+2025-08-31,Zimbabwe|Namibia,"Namibia Cricket Ground, Windhoek",Zimbabwe,234,212,22,117,117
+2025-08-31,Zimbabwe|Sri Lanka,Harare Sports Club,Sri Lanka,555,522,33,277,278
+2025-09-01,Brazil|Isle of Man,"New Farnley CC, Leeds",Brazil,185,150,35,92,93
+2025-09-01,Netherlands|Bangladesh,Sylhet International Cricket Stadium,Bangladesh,207,191,16,103,104
+2025-09-01,Nigeria|Namibia,"Namibia Cricket Ground, Windhoek",Namibia,141,136,5,70,71
+2025-09-01,Rwanda|Uganda,"High Performance Oval, Windhoek",Uganda,230,225,5,115,115
+2025-09-01,Sierra Leone|Zimbabwe,"Namibia Cricket Ground, Windhoek",Zimbabwe,187,165,22,93,94
+2025-09-01,Tanzania|Kenya,"High Performance Oval, Windhoek",Tanzania,220,201,19,110,110
+2025-09-01,Trinbago Knight Riders|St Kitts and Nevis Patriots,"Brian Lara Stadium, Tarouba, Trinidad",Trinbago Knight Riders,346,331,15,173,173
+2025-09-02,England|South Africa,"Headingley, Leeds",South Africa,268,249,19,134,134
+2025-09-02,Jersey|Isle of Man,"New Farnley CC, Leeds",Isle of Man,231,194,37,115,116
+2025-09-02,Namibia|Canada,"Maple Leaf North-West Ground, King City",Namibia,498,455,43,249,249
+2025-09-03,Kenya|Uganda,"Namibia Cricket Ground, Windhoek",Uganda,215,203,12,107,108
+2025-09-03,Namibia|Sierra Leone,"High Performance Oval, Windhoek",Namibia,304,287,17,152,152
+2025-09-03,Nigeria|Zimbabwe,"High Performance Oval, Windhoek",Zimbabwe,183,161,22,91,92
+2025-09-03,Northamptonshire|Surrey,"Kennington Oval, London",Northamptonshire,301,292,9,150,151
+2025-09-03,Tanzania|Rwanda,"Namibia Cricket Ground, Windhoek",Tanzania,228,203,25,114,114
+2025-09-03,Trinbago Knight Riders|St Lucia Kings,"Brian Lara Stadium, Tarouba, Trinidad",St Lucia Kings,221,214,7,110,111
+2025-09-03,Zimbabwe|Sri Lanka,Harare Sports Club,Sri Lanka,352,326,26,176,176
+2025-09-04,Barbados Royals|Guyana Amazon Warriors,"Kensington Oval, Bridgetown, Barbados",Guyana Amazon Warriors,335,314,21,167,168
+2025-09-04,Hampshire|Essex,"County Ground, Chelmsford",Hampshire,198,186,12,99,99
+2025-09-04,Kenya|Nigeria,"High Performance Oval, Windhoek",Kenya,203,196,7,101,102
+2025-09-04,Lancashire|Somerset,"Old Trafford, Manchester",Somerset,336,304,32,168,168
+2025-09-04,Pakistan|United Arab Emirates,Sharjah Cricket Stadium,Pakistan,311,302,9,155,156
+2025-09-04,Rwanda|Sierra Leone,"High Performance Oval, Windhoek",Rwanda,274,247,27,137,137
+2025-09-04,Scotland|Namibia,"Maple Leaf North-West Ground, King City",Scotland,273,247,26,136,137
+2025-09-04,South Africa|England,"Lord's, London",South Africa,655,617,38,327,328
+2025-09-04,Tanzania|Namibia,"Namibia Cricket Ground, Windhoek",Namibia,152,145,7,76,76
+2025-09-04,Uganda|Zimbabwe,"Namibia Cricket Ground, Windhoek",Zimbabwe,239,221,18,119,120
+2025-09-05,Barbados Royals|Antigua and Barbuda Falcons,"Kensington Oval, Bridgetown, Barbados",Antigua and Barbuda Falcons,375,350,25,187,188
+2025-09-05,Hampshire|Durham,"Riverside Ground, Chester-le-Street",Hampshire,416,394,22,208,208
+2025-09-05,Japan|Fiji,"Albert Park 1, Suva",Japan,217,184,33,108,109
+2025-09-06,Birmingham Bears|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,381,370,11,190,191
+2025-09-06,Czech Republic|Estonia,Estonian National Cricket and Rugby Field,Estonia,215,134,81,107,108
+2025-09-06,Estonia|Czech Republic,Estonian National Cricket and Rugby Field,Estonia,191,99,92,95,96
+2025-09-06,Guyana Amazon Warriors|Trinbago Knight Riders,"Providence Stadium, Guyana",Guyana Amazon Warriors,252,236,16,126,126
+2025-09-06,Japan|Fiji,"Albert Park 1, Suva",Japan,206,169,37,103,103
+2025-09-06,Kent|Lancashire,"Old Trafford, Manchester",Lancashire,309,302,7,154,155
+2025-09-06,Namibia|Zimbabwe,"Namibia Cricket Ground, Windhoek",Zimbabwe,231,224,7,115,116
+2025-09-06,Nigeria|Sierra Leone,"High Performance Oval, Windhoek",Nigeria,233,214,19,116,117
+2025-09-06,Rwanda|Kenya,"High Performance Oval, Windhoek",Rwanda,238,227,11,119,119
+2025-09-06,Sri Lanka|Zimbabwe,Harare Sports Club,Zimbabwe,164,156,8,82,82
+2025-09-06,Tanzania|Uganda,"Namibia Cricket Ground, Windhoek",Tanzania,212,203,9,106,106
+2025-09-06,Trinbago Knight Riders|Guyana Amazon Warriors,"Providence Stadium, Guyana",Guyana Amazon Warriors,335,318,17,167,168
+2025-09-07,Barbados Royals|St Lucia Kings,"Kensington Oval, Bridgetown, Barbados",Barbados Royals,355,334,21,177,178
+2025-09-07,Czech Republic|Estonia,Estonian National Cricket and Rugby Field,Estonia,115,74,41,57,58
+2025-09-07,Durham|Hampshire,"Riverside Ground, Chester-le-Street",Hampshire,398,366,32,199,199
+2025-09-07,England|South Africa,"The Rose Bowl, Southampton",England,486,452,34,243,243
+2025-09-07,Essex|Warwickshire,"Mitchells and Butlers' Ground, Birmingham",Essex,439,391,48,219,220
+2025-09-07,Guyana Amazon Warriors|Barbados Royals,"Providence Stadium, Guyana",Barbados Royals,294,277,17,147,147
+2025-09-07,St Kitts and Nevis Patriots|Guyana Amazon Warriors,"Providence Stadium, Guyana",St Kitts and Nevis Patriots,293,274,19,146,147
+2025-09-07,Surrey|Lancashire,"Kent County Cricket Ground, Beckenham",Lancashire,452,439,13,226,226
+2025-09-07,The Blaze|Somerset,"Taunton Vale Sports Club Ground, Taunton",The Blaze,421,405,16,210,211
+2025-09-07,Zimbabwe|Sri Lanka,Harare Sports Club,Sri Lanka,384,361,23,192,192
+2025-09-08,Worcestershire|Nottinghamshire,"County Ground, New Road, Worcester",Nottinghamshire,685,656,29,342,343
+2025-09-09,Cook Islands|Fiji,"Albert Park 1, Suva",Fiji,229,203,26,114,115
+2025-09-09,Durham|The Blaze,"Trent Bridge, Nottingham",The Blaze,508,472,36,254,254
+2025-09-09,Papua New Guinea|Japan,"Albert Park 2, Suva",Papua New Guinea,232,216,16,116,116
+2025-09-09,Philippines|Samoa,"Albert Park 2, Suva",Samoa,85,64,21,42,43
+2025-09-09,Vanuatu|Indonesia,"Albert Park 1, Suva",Vanuatu,252,222,30,126,126
+2025-09-10,Barbados Royals|Trinbago Knight Riders,"Providence Stadium, Guyana",Barbados Royals,215,199,16,107,108
+2025-09-10,Cook Islands|Vanuatu,"Albert Park 2, Suva",Vanuatu,240,219,21,120,120
+2025-09-10,Guyana Amazon Warriors|Antigua and Barbuda Falcons,"Providence Stadium, Guyana",Antigua and Barbuda Falcons,202,198,4,101,101
+2025-09-10,Indonesia|Fiji,"Albert Park 2, Suva",Indonesia,244,208,36,122,122
+2025-09-10,Japan|Samoa,"Albert Park 1, Suva",Japan,195,174,21,97,98
+2025-09-10,Papua New Guinea|Philippines,"Albert Park 1, Suva",Papua New Guinea,280,260,20,140,140
+2025-09-10,South Africa|England,"Sophia Gardens, Cardiff",South Africa,151,140,11,75,76
+2025-09-10,United Arab Emirates|India,Dubai International Cricket Stadium,India,117,112,5,58,59
+2025-09-10,Warwickshire|Lancashire,"Rookwood, Sale",Lancashire,455,432,23,227,228
+2025-09-11,Hong Kong|Bangladesh,"Zayed Cricket Stadium, Abu Dhabi",Bangladesh,287,256,31,143,144
+2025-09-11,St Kitts and Nevis Patriots|Barbados Royals,"Kensington Oval, Bridgetown, Barbados",St Kitts and Nevis Patriots,299,286,13,149,150
+2025-09-12,England|South Africa,"Old Trafford, Manchester",England,462,445,17,231,231
+2025-09-12,Eswatini|Mozambique,Malkerns Country Club oval,Eswatini,614,564,50,307,307
+2025-09-12,Indonesia|Cook Islands,"Albert Park 1, Suva",Indonesia,220,179,41,110,110
+2025-09-12,Pakistan|Oman,Dubai International Cricket Stadium,Pakistan,227,220,7,113,114
+2025-09-12,Samoa|Papua New Guinea,"Albert Park 2, Suva",Samoa,227,202,25,113,114
+2025-09-12,Switzerland|Luxembourg,Pierre Werner Cricket Ground,Switzerland,240,172,68,120,120
+2025-09-12,Trinbago Knight Riders|Barbados Royals,"Kensington Oval, Bridgetown, Barbados",Barbados Royals,338,308,30,169,169
+2025-09-12,Vanuatu|Fiji,"Albert Park 1, Suva",Vanuatu,209,175,34,104,105
+2025-09-13,Austria|Switzerland,Pierre Werner Cricket Ground,Switzerland,291,214,77,145,146
+2025-09-13,Bangladesh|Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",Sri Lanka,279,247,32,139,140
+2025-09-13,Essex|The Blaze,"County Ground, Chelmsford",The Blaze,270,256,14,135,135
+2025-09-13,Eswatini|Mozambique,Malkerns Country Club oval,Eswatini,290,270,20,145,145
+2025-09-13,Hampshire|Somerset,"Edgbaston, Birmingham",Somerset,389,376,13,194,195
+2025-09-13,Indonesia|Papua New Guinea,"Albert Park 1, Suva",Papua New Guinea,270,257,13,135,135
+2025-09-13,Northamptonshire|Hampshire,"Edgbaston, Birmingham",Hampshire,313,293,20,156,157
+2025-09-13,Philippines|Fiji,"Albert Park 2, Suva",Fiji,137,91,46,68,69
+2025-09-13,Samoa|Cook Islands,"Albert Park 1, Suva",Samoa,286,247,39,143,143
+2025-09-13,Somerset|Lancashire,"Edgbaston, Birmingham",Somerset,341,326,15,170,171
+2025-09-13,St Lucia Kings|Guyana Amazon Warriors,"Providence Stadium, Guyana",Guyana Amazon Warriors,373,357,16,186,187
+2025-09-13,Surrey|Durham,"Riverside Ground, Chester-le-Street",Surrey,428,406,22,214,214
+2025-09-13,Trinbago Knight Riders|Guyana Amazon Warriors,"Providence Stadium, Guyana",Guyana Amazon Warriors,248,208,40,124,124
+2025-09-13,Vanuatu|Japan,"Albert Park 2, Suva",Vanuatu,290,269,21,145,145
+2025-09-13,Warwickshire|Somerset,"The Cooper Associates County Ground, Taunton",Somerset,351,325,26,175,176
+2025-09-14,Austria|Luxembourg,Pierre Werner Cricket Ground,Luxembourg,127,89,38,63,64
+2025-09-14,Barbados Royals|Guyana Amazon Warriors,"Providence Stadium, Guyana",Barbados Royals,261,245,16,130,131
+2025-09-14,Guyana Amazon Warriors|Barbados Royals,"Providence Stadium, Guyana",Guyana Amazon Warriors,314,291,23,157,157
+2025-09-14,India|Australia,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Australia,563,547,16,281,282
+2025-09-14,Luxembourg|Switzerland,Pierre Werner Cricket Ground,Switzerland,163,108,55,81,82
+2025-09-14,Pakistan|India,Dubai International Cricket Stadium,India,258,251,7,129,129
+2025-09-15,Cook Islands|Philippines,"Albert Park 2, Suva",Philippines,231,189,42,115,116
+2025-09-15,Hong Kong|Sri Lanka,Dubai International Cricket Stadium,Sri Lanka,302,287,15,151,151
+2025-09-15,Japan|Indonesia,"Albert Park 2, Suva",Indonesia,253,233,20,126,127
+2025-09-15,Northamptonshire|Gloucestershire,"County Ground, Bristol",Gloucestershire,797,747,50,398,399
+2025-09-15,Nottinghamshire|Surrey,"Kennington Oval, London",Nottinghamshire,954,866,88,477,477
+2025-09-15,Samoa|Fiji,"Albert Park 1, Suva",Fiji,149,123,26,74,75
+2025-09-15,United Arab Emirates|Oman,"Zayed Cricket Stadium, Abu Dhabi",United Arab Emirates,302,277,25,151,151
+2025-09-15,Vanuatu|Papua New Guinea,"Albert Park 1, Suva",Papua New Guinea,227,209,18,113,114
+2025-09-15,Zimbabwe|Namibia,"Queens Sports Club, Bulawayo",Zimbabwe,389,370,19,194,195
+2025-09-16,Antigua and Barbuda Falcons|Trinbago Knight Riders,"Providence Stadium, Guyana",Trinbago Knight Riders,334,316,18,167,167
+2025-09-16,Namibia|Zimbabwe,"Queens Sports Club, Bulawayo",Zimbabwe,339,323,16,169,170
+2025-09-16,New South Wales|Tasmania,"Cricket Central, Sydney",Tasmania,449,428,21,224,225
+2025-09-16,Pakistan|South Africa,"Gaddafi Stadium, Lahore",South Africa,514,494,20,257,257
+2025-09-16,Trinbago Knight Riders|Barbados Royals,"Providence Stadium, Guyana",Barbados Royals,297,279,18,148,149
+2025-09-17,Guyana Amazon Warriors|Barbados Royals,"Providence Stadium, Guyana",Barbados Royals,273,265,8,136,137
+2025-09-17,Guyana Amazon Warriors|St Lucia Kings,"Providence Stadium, Guyana",Guyana Amazon Warriors,300,284,16,150,150
+2025-09-17,India|Australia,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",India,482,452,30,241,241
+2025-09-17,Ireland|England,"The Village, Malahide, Dublin",England,393,374,19,196,197
+2025-09-17,Lancashire|The Blaze,"Trent Bridge, Nottingham",Lancashire,477,457,20,238,239
+2025-09-17,Pakistan|United Arab Emirates,Dubai International Cricket Stadium,Pakistan,251,227,24,125,126
+2025-09-17,Queensland|Victoria,"Allan Border Field, Brisbane",Queensland,565,529,36,282,283
+2025-09-17,Surrey|Hampshire,"The Rose Bowl, Southampton",Hampshire,577,535,42,288,289
+2025-09-18,Namibia|Zimbabwe,"Queens Sports Club, Bulawayo",Namibia,380,362,18,190,190
+2025-09-19,India|Oman,"Zayed Cricket Stadium, Abu Dhabi",India,355,335,20,177,178
+2025-09-19,South Africa|Pakistan,"Gaddafi Stadium, Lahore",South Africa,579,552,27,289,290
+2025-09-19,Tasmania|Victoria,"Allan Border Field, Brisbane",Tasmania,653,628,25,326,327
+2025-09-19,Trinbago Knight Riders|St Lucia Kings,"Providence Stadium, Guyana",Trinbago Knight Riders,332,313,19,166,166
+2025-09-20,Australia|India,"Arun Jaitley Stadium, Delhi",Australia,781,750,31,390,391
+2025-09-20,Hampshire|Worcestershire,"Trent Bridge, Nottingham",Worcestershire,425,400,25,212,213
+2025-09-20,New South Wales|South Australia,"Cricket Central, Sydney",New South Wales,445,422,23,222,223
+2025-09-20,Sri Lanka|Bangladesh,Dubai International Cricket Stadium,Bangladesh,337,331,6,168,169
+2025-09-21,Guyana Amazon Warriors|Trinbago Knight Riders,"Providence Stadium, Guyana",Trinbago Knight Riders,263,243,20,131,132
+2025-09-21,Hampshire|Lancashire,"The Rose Bowl, Southampton",Lancashire,577,554,23,288,289
+2025-09-21,Ireland|England,"The Village, Malahide, Dublin",England,309,293,16,154,155
+2025-09-21,Pakistan|India,Dubai International Cricket Stadium,India,345,333,12,172,173
+2025-09-21,Western Australia|Queensland,"Allan Border Field, Brisbane",Queensland,644,624,20,322,322
+2025-09-22,South Africa|Pakistan,"Gaddafi Stadium, Lahore",Pakistan,232,220,12,116,116
+2025-09-23,Sri Lanka|Pakistan,"Zayed Cricket Stadium, Abu Dhabi",Pakistan,271,257,14,135,136
+2025-09-24,Derbyshire|Kent,"St Lawrence Ground, Canterbury",Derbyshire,1167,1094,73,583,584
+2025-09-24,Durham|Yorkshire,"Headingley, Leeds",Yorkshire,906,879,27,453,453
+2025-09-24,Glamorgan|Lancashire,"Sophia Gardens, Cardiff",Lancashire,1014,965,49,507,507
+2025-09-24,India|Bangladesh,Dubai International Cricket Stadium,India,295,282,13,147,148
+2025-09-24,Leicestershire|Northamptonshire,"County Ground, Northampton",Leicestershire,1211,1155,56,605,606
+2025-09-24,Middlesex|Gloucestershire,"Lord's, London",Middlesex,1201,1128,73,600,601
+2025-09-24,Somerset|Essex,"County Ground, Chelmsford",Essex,1069,1006,63,534,535
+2025-09-24,Surrey|Hampshire,"The Rose Bowl, Southampton",Surrey,836,802,34,418,418
+2025-09-24,Warwickshire|Nottinghamshire,"Trent Bridge, Nottingham",Nottinghamshire,785,762,23,392,393
+2025-09-24,Western Australia|South Australia,"Karen Rolton Oval, Adelaide",Western Australia,530,498,32,265,265
+2025-09-24,Worcestershire|Sussex,"County Ground, New Road, Worcester",Sussex,823,784,39,411,412
+2025-09-25,Pakistan|Bangladesh,Dubai International Cricket Stadium,Pakistan,259,252,7,129,130
+2025-09-26,Botswana|Tanzania,"Takashinga Sports Club, Highfield, Harare",Tanzania,246,232,14,123,123
+2025-09-26,Malawi|Nigeria,"Takashinga Sports Club, Highfield, Harare",Nigeria,180,170,10,90,90
+2025-09-26,Namibia|Kenya,Harare Sports Club,Namibia,346,330,16,173,173
+2025-09-26,Uganda|Zimbabwe,Harare Sports Club,Zimbabwe,309,296,13,154,155
+2025-09-26,United Arab Emirates|Zimbabwe,"Queens Sports Club, Bulawayo",United Arab Emirates,408,365,43,204,204
+2025-09-27,Nepal|West Indies,Sharjah Cricket Stadium,Nepal,277,262,15,138,139
+2025-09-28,Malawi|Kenya,"Takashinga Sports Club, Highfield, Harare",Malawi,257,244,13,128,129
+2025-09-28,Namibia|Nigeria,Harare Sports Club,Namibia,353,338,15,176,177
+2025-09-28,Pakistan|India,Dubai International Cricket Stadium,India,296,287,9,148,148
+2025-09-28,Tanzania|Uganda,"Takashinga Sports Club, Highfield, Harare",Tanzania,247,234,13,123,124
+2025-09-28,United Arab Emirates|Zimbabwe,"Queens Sports Club, Bulawayo",Zimbabwe,321,286,35,160,161
+2025-09-28,Zimbabwe|Botswana,Harare Sports Club,Zimbabwe,348,332,16,174,174
+2025-09-29,Kuwait|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,285,265,20,142,143
+2025-09-29,Nepal|West Indies,Sharjah Cricket Stadium,Nepal,256,236,20,128,128
+2025-09-30,Botswana|Uganda,"Takashinga Sports Club, Highfield, Harare",Uganda,166,160,6,83,83
+2025-09-30,India|Sri Lanka,"Barsapara Cricket Stadium, Guwahati",India,480,451,29,240,240
+2025-09-30,Malawi|Namibia,Harare Sports Club,Namibia,143,137,6,71,72
+2025-09-30,Nepal|West Indies,Sharjah Cricket Stadium,West Indies,245,229,16,122,123
+2025-09-30,Nigeria|Kenya,"Takashinga Sports Club, Highfield, Harare",Kenya,295,268,27,147,148
+2025-09-30,Zimbabwe|Tanzania,Harare Sports Club,Zimbabwe,329,319,10,164,165
+2025-09-30,Zimbabwe|United Arab Emirates,"Queens Sports Club, Bulawayo",Zimbabwe,371,333,38,185,186
+2025-10-01,Australia|New Zealand,"Holkar Cricket Stadium, Indore",Australia,563,536,27,281,282
+2025-10-01,New Zealand|Australia,"Bay Oval, Mount Maunganui",Australia,366,349,17,183,183
+2025-10-02,Kenya|Zimbabwe,Harare Sports Club,Zimbabwe,245,236,9,122,123
+2025-10-02,Malaysia|Nepal,"Bayuemas Oval, Kuala Lumpur",Malaysia,205,184,21,102,103
+2025-10-02,Namibia|Tanzania,Harare Sports Club,Namibia,285,271,14,142,143
+2025-10-02,Nigeria|Botswana,"Takashinga Sports Club, Highfield, Harare",Nigeria,288,267,21,144,144
+2025-10-02,Pakistan|Bangladesh,"R Premadasa Stadium, Colombo",Bangladesh,260,233,27,130,130
+2025-10-02,Uganda|Malawi,"Takashinga Sports Club, Highfield, Harare",Uganda,267,245,22,133,134
+2025-10-02,United Arab Emirates|Zimbabwe,"Queens Sports Club, Bulawayo",United Arab Emirates,503,452,51,251,252
+2025-10-02,West Indies|India,"Narendra Modi Stadium, Ahmedabad",India,756,713,43,378,378
+2025-10-03,South Africa|England,"Barsapara Cricket Stadium, Guwahati",England,142,122,20,71,71
+2025-10-04,Kenya|Tanzania,Harare Sports Club,Kenya,233,215,18,116,117
+2025-10-04,Malawi|Botswana,"Takashinga Sports Club, Highfield, Harare",Malawi,246,234,12,123,123
+2025-10-04,Malaysia|Nepal,"Bayuemas Oval, Kuala Lumpur",Nepal,184,163,21,92,92
+2025-10-04,Namibia|Zimbabwe,Harare Sports Club,Zimbabwe,338,308,30,169,169
+2025-10-04,New South Wales|Western Australia,"Western Australia Cricket Association Ground, Perth",New South Wales,708,673,35,354,354
+2025-10-04,New Zealand|Australia,"Bay Oval, Mount Maunganui",Australia,316,293,23,158,158
+2025-10-04,South Australia|Victoria,Adelaide Oval,Victoria,1147,1076,71,573,574
+2025-10-04,Uganda|Nigeria,"Takashinga Sports Club, Highfield, Harare",Uganda,326,301,25,163,163
+2025-10-05,India|Pakistan,"R Premadasa Stadium, Colombo",India,406,391,15,203,203
+2025-10-05,Malaysia|Nepal,"Bayuemas Oval, Kuala Lumpur",Malaysia,227,215,12,113,114
+2025-10-05,United Arab Emirates|Zimbabwe,"Queens Sports Club, Bulawayo",United Arab Emirates,331,305,26,165,166
+2025-10-06,New Zealand|South Africa,"Holkar Cricket Stadium, Indore",South Africa,465,428,37,232,233
+2025-10-06,United Arab Emirates|Zimbabwe,"Queens Sports Club, Bulawayo",United Arab Emirates,252,240,12,126,126
+2025-10-07,Bangladesh|England,"Barsapara Cricket Stadium, Guwahati",England,360,334,26,180,180
+2025-10-07,Malaysia|Nepal,"Bayuemas Oval, Kuala Lumpur",Nepal,226,204,22,113,113
+2025-10-08,Australia|Pakistan,"R Premadasa Stadium, Colombo",Australia,335,308,27,167,168
+2025-10-08,Malaysia|Nepal,"Bayuemas Oval, Kuala Lumpur",Nepal,207,197,10,103,104
+2025-10-08,Nepal|Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,224,211,13,112,112
+2025-10-08,Qatar|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,237,226,11,118,119
+2025-10-08,Samoa|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,188,163,25,94,94
+2025-10-09,India|South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",South Africa,503,470,33,251,252
+2025-10-09,Kuwait|Japan,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Japan,355,327,28,177,178
+2025-10-09,Malaysia|Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Qatar,247,241,6,123,124
+2025-10-09,New South Wales|Western Australia,"Western Australia Cricket Association Ground, Perth",New South Wales,575,536,39,287,288
+2025-10-09,Papua New Guinea|Samoa,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Samoa,235,229,6,117,118
+2025-10-09,Queensland|Tasmania,"Allan Border Field, Brisbane",Tasmania,628,607,21,314,314
+2025-10-09,Romania|Austria,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,211,163,48,105,106
+2025-10-09,South Australia|Victoria,Adelaide Oval,South Australia,467,431,36,233,234
+2025-10-09,Turkey|Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",Turkey,230,155,75,115,115
+2025-10-10,Austria|Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",Austria,279,205,74,139,140
+2025-10-10,India|West Indies,"Arun Jaitley Stadium, Delhi",India,1280,1234,46,640,640
+2025-10-10,Japan|Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,263,246,17,131,132
+2025-10-10,Malaysia|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,328,316,12,164,164
+2025-10-10,New Zealand|Bangladesh,"Barsapara Cricket Stadium, Guwahati",New Zealand,354,318,36,177,177
+2025-10-10,Oman|Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,224,211,13,112,112
+2025-10-10,Romania|Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,281,198,83,140,141
+2025-10-10,Romania|Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",Turkey,144,98,46,72,72
+2025-10-11,Bulgaria|Austria,"Moara Vlasiei Cricket Ground, Ilfov County",Austria,169,114,55,84,85
+2025-10-11,England|Sri Lanka,"R Premadasa Stadium, Colombo",England,417,388,29,208,209
+2025-10-11,Norway|Romania,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,249,191,58,124,125
+2025-10-11,Norway|Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",Norway,239,164,75,119,120
+2025-10-11,South Africa|Namibia,"Namibia Cricket Ground, Windhoek",Namibia,272,250,22,136,136
+2025-10-12,Austria|Norway,"Moara Vlasiei Cricket Ground, Ilfov County",Norway,183,124,59,91,92
+2025-10-12,India|Australia,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Australia,661,628,33,330,331
+2025-10-12,Japan|Samoa,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Japan,320,306,14,160,160
+2025-10-12,Nepal|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,279,265,14,139,140
+2025-10-12,Norway|Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",Norway,222,132,90,111,111
+2025-10-12,Oman|Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,310,290,20,155,155
+2025-10-12,Pakistan|South Africa,"Gaddafi Stadium, Lahore",Pakistan,997,950,47,498,499
+2025-10-13,Bangladesh|South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",South Africa,467,446,21,233,234
+2025-10-13,Nepal|Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,289,278,11,144,145
+2025-10-13,Papua New Guinea|United Arab Emirates,"Amini Park, Port Moresby",United Arab Emirates,190,169,21,95,95
+2025-10-13,United Arab Emirates|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,225,217,8,112,113
+2025-10-15,Japan|Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Qatar,279,259,20,139,140
+2025-10-15,Nepal|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,264,255,9,132,132
+2025-10-15,South Australia|Queensland,Adelaide Oval,Queensland,1073,1036,37,536,537
+2025-10-15,Tasmania|Western Australia,"Bellerive Oval, Hobart",Tasmania,857,819,38,428,429
+2025-10-15,United Arab Emirates|Papua New Guinea,"Amini Park, Port Moresby",Papua New Guinea,289,251,38,144,145
+2025-10-15,United Arab Emirates|Samoa,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,373,362,11,186,187
+2025-10-15,Victoria|New South Wales,"Junction Oval, Melbourne",Victoria,796,759,37,398,398
+2025-10-16,Bangladesh|Australia,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Australia,400,367,33,200,200
+2025-10-16,Japan|United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,234,224,10,117,117
+2025-10-16,Samoa|Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Qatar,254,234,20,127,127
+2025-10-17,Japan|Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,210,202,8,105,105
+2025-10-17,Nepal|Samoa,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,298,293,5,149,149
+2025-10-17,Sri Lanka|South Africa,"R Premadasa Stadium, Colombo",South Africa,230,210,20,115,115
+2025-10-17,United Arab Emirates|Papua New Guinea,"Amini Park, Port Moresby",United Arab Emirates,226,206,20,113,113
+2025-10-18,Austria|Romania,"Moara Vlasiei Cricket Ground, Ilfov County",Romania,343,300,43,171,172
+2025-10-18,Bangladesh|West Indies,"Shere Bangla National Stadium, Mirpur",Bangladesh,340,325,15,170,170
+2025-10-18,Romania|Austria,"Moara Vlasiei Cricket Ground, Ilfov County",Austria,350,306,44,175,175
+2025-10-19,Austria|Romania,"Moara Vlasiei Cricket Ground, Ilfov County",Austria,372,350,22,186,186
+2025-10-19,England|India,"Holkar Cricket Stadium, Indore",England,572,549,23,286,286
+2025-10-19,India|Australia,Perth Stadium,Australia,267,248,19,133,134
+2025-10-19,Papua New Guinea|United Arab Emirates,"Amini Park, Port Moresby",Papua New Guinea,342,312,30,171,171
+2025-10-19,Romania|Austria,"Moara Vlasiei Cricket Ground, Ilfov County",Austria,320,300,20,160,160
+2025-10-20,Canada|Uganda,"Lugogo Cricket Oval, Kampala",Uganda,135,125,10,67,68
+2025-10-20,England|New Zealand,"Hagley Oval, Christchurch",England,407,383,24,203,204
+2025-10-20,Pakistan|South Africa,Rawalpindi Cricket Stadium,South Africa,948,915,33,474,474
+2025-10-20,Queensland|South Australia,"Karen Rolton Oval, Adelaide",South Australia,250,235,15,125,125
+2025-10-20,Sri Lanka|Bangladesh,"Dr DY Patil Sports Academy, Navi Mumbai",Sri Lanka,397,382,15,198,199
+2025-10-20,Victoria|New South Wales,"Junction Oval, Melbourne",Victoria,361,333,28,180,181
+2025-10-20,Western Australia|Tasmania,"Bellerive Oval, Hobart",Tasmania,500,470,30,250,250
+2025-10-21,Canada|Uganda,"Lugogo Cricket Oval, Kampala",Uganda,166,153,13,83,83
+2025-10-21,South Africa|Pakistan,"R Premadasa Stadium, Colombo",South Africa,395,364,31,197,198
+2025-10-22,England|Australia,"Holkar Cricket Stadium, Indore",Australia,492,473,19,246,246
+2025-10-23,Bangladesh|West Indies,"Shere Bangla National Stadium, Mirpur",Bangladesh,413,399,14,206,207
+2025-10-23,India|Australia,Adelaide Oval,Australia,529,511,18,264,265
+2025-10-23,India|New Zealand,"Dr DY Patil Sports Academy, Navi Mumbai",India,611,586,25,305,306
+2025-10-23,Uganda|Canada,"Lugogo Cricket Oval, Kampala",Uganda,182,167,15,91,91
+2025-10-24,Uganda|Canada,"Lugogo Cricket Oval, Kampala",Uganda,183,167,16,91,92
+2025-10-25,Australia|India,Sydney Cricket Ground,India,473,443,30,236,237
+2025-10-25,South Africa|Australia,"Holkar Cricket Stadium, Indore",Australia,195,191,4,97,98
+2025-10-26,England|New Zealand,"Bay Oval, Mount Maunganui",New Zealand,447,413,34,223,224
+2025-10-26,New Zealand|England,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",England,340,321,19,170,170
+2025-10-26,Uganda|Canada,"Lugogo Cricket Oval, Kampala",Uganda,191,186,5,95,96
+2025-10-26,United States of America|Nepal,Dubai International Cricket Stadium,United States of America,418,398,20,209,209
+2025-10-27,West Indies|Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",West Indies,314,299,15,157,157
